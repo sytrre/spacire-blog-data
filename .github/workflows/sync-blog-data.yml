@@ -41,7 +41,6 @@ jobs:
           
       - name: Create README with data summary
         run: |
-          # Create a summary README
           python -c "
           import json
           from datetime import datetime
