@@ -1,0 +1,93 @@
+{
+  "fetch_timestamp": "2025-09-15T18:29:59.506955Z",
+  "shop_domain": "tgaqpq-w2.myshopify.com",
+  "data": {
+    "blogs": {
+      "total_blogs": 1,
+      "total_articles": 5,
+      "blogs": [
+        {
+          "blog_id": "gid://shopify/Blog/119487070539",
+          "blog_title": "The Sleep Journal",
+          "blog_handle": "journal",
+          "blog_created_at": "2025-09-03T05:06:28Z",
+          "blog_updated_at": "2025-09-14T19:00:03Z",
+          "articles": [
+            {
+              "article_id": "gid://shopify/Article/998220726603",
+              "title": "How Does A Sleep Mask Help Improve Sleep?",
+              "handle": "how-does-a-sleep-mask-help-improve-sleep",
+              "summary": "<div>Learn how a sleep mask help improve your rest by blocking disruptive light and promoting better sleep patterns. Experience restful nights now!</div>\n<p> </p>",
+              "status": "PUBLISHED",
+              "created_at": "2025-09-05T06:15:04Z",
+              "updated_at": "2025-09-11T13:15:58Z",
+              "published_at": "2025-09-05T20:54:04Z",
+              "tags": [
+                "Sleep Masks"
+              ],
+              "is_published": true
+            },
+            {
+              "article_id": "gid://shopify/Article/998244057419",
+              "title": "Sleep Mask Vs Blackout Curtains",
+              "handle": "sleep-mask-vs-blackout-curtains",
+              "summary": "<p><meta content=\"uuidayaQm8xPINjJ\" name=\"uuid\"><span data-preserver-spaces=\"true\">Struggling with light that disrupts your rest? This guide compares sleep masks and</span><strong><span data-preserver-spaces=\"true\"> blackout curtains</span></strong><span data-preserver-spaces=\"true\">, comparing portability, cost, coverage, energy efficiency, and comfort. Learn how each option supports melatonin, circadian rhythm balance, and deeper sleep. Whether you're a traveller needing instant darkness or a homeowner seeking long-term room-wide light control, this article helps you choose the right sleep solution for your lifestyle.</span></p>",
+              "status": "PUBLISHED",
+              "created_at": "2025-09-08T08:14:05Z",
+              "updated_at": "2025-09-11T13:12:48Z",
+              "published_at": "2025-09-08T11:38:23Z",
+              "tags": [
+                "Blackout curtains",
+                "Sleep Masks"
+              ],
+              "is_published": true
+            },
+            {
+              "article_id": "gid://shopify/Article/998297600331",
+              "title": "The Ultimate Guide to Choosing the Perfect Sleep Mask for Your Needs",
+              "handle": "the-ultimate-guide-to-choosing-the-perfect-sleep-mask-for-your-needs",
+              "summary": "<p><meta charset=\"UTF-8\"><span>Discover how to </span><b>choose the perfect sleep mask</b><span> for your needs. Our ultimate guide compares silk, weighted, and contoured masks to help you find total darkness and deeper sleep.</span></p>",
+              "status": "PUBLISHED",
+              "created_at": "2025-09-12T20:20:42Z",
+              "updated_at": "2025-09-13T07:03:52Z",
+              "published_at": "2025-09-12T20:20:34Z",
+              "tags": [
+                "Sleep Masks"
+              ],
+              "is_published": true
+            },
+            {
+              "article_id": "gid://shopify/Article/998300025163",
+              "title": "3D vs Contoured Sleep Masks: The Complete Design Comparison Guide",
+              "handle": "3d-vs-contoured-sleep-masks-the-complete-design-comparison-guide",
+              "summary": "<p><meta charset=\"UTF-8\"><span>Discover the key differences between 3D and contoured sleep masks. This guide explains how each design affects comfort, light blocking, and fit—helping you choose the perfect mask for your sleep needs.</span></p>",
+              "status": "PUBLISHED",
+              "created_at": "2025-09-13T06:59:19Z",
+              "updated_at": "2025-09-13T12:00:02Z",
+              "published_at": "2025-09-13T12:00:02Z",
+              "tags": [
+                "Sleep Masks"
+              ],
+              "is_published": true
+            },
+            {
+              "article_id": "gid://shopify/Article/998304481611",
+              "title": "Silk Sleep Masks Benefits and Care: The Ultimate Guide to Luxurious Beauty Sleep",
+              "handle": "silk-sleep-masks-benefits-and-care-the-ultimate-guide-to-luxurious-beauty-sleep",
+              "summary": "<p><span>Transform your bedtime into a spa-like ritual with a silk sleep mask. This guide explains the proven benefits for skin and hair, plus simple care tips to keep your mask soft, smooth, and luxurious night after night.</span></p>",
+              "status": "PUBLISHED",
+              "created_at": "2025-09-13T19:07:15Z",
+              "updated_at": "2025-09-14T19:00:03Z",
+              "published_at": "2025-09-14T19:00:03Z",
+              "tags": [
+                "Sleep Masks"
+              ],
+              "is_published": true
+            }
+          ],
+          "article_count": 5
+        }
+      ]
+    }
+  }
+}
