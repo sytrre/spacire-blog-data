@@ -39,63 +39,22 @@ jobs:
         run: |
           python fetch_blog_data.py > /dev/null
           
-      - name: Create README with data summary
+      - name: Create simple README
         run: |
-          python -c "
-          import json
-          from datetime import datetime
-
-          with open('blog_data.json', 'r') as f:
-              data = json.load(f)
-          
-          readme_content = f'''# Spacire Blog Data
-
-**Last Updated:** {data['fetch_timestamp']}  
-**Shop:** {data['shop_domain']}  
-**Total Blogs:** {data['total_blogs']}  
-**Total Articles:** {data['total_articles']}
-
-## 📁 Files
-
-- **[blog_data.json](./blog_data.json)** - Complete blog metadata in JSON format
-- Click the JSON file above to view all your blog data in the browser
-
-## 📊 Blog Summary
-
-'''
-          
-          for blog in data['blogs']:
-              published = sum(1 for article in blog['articles'] if article.get('is_published', False))
-              drafts = blog['article_count'] - published
-              
-              readme_content += f'''### {blog['blog_title']} ({blog['blog_handle']})
-- **Total Articles:** {blog['article_count']}
-- **Published:** {published}
-- **Drafts:** {drafts}
-- **Created:** {blog['blog_created_at'][:10]}
-
-'''
-          
-          readme_content += '''
-## 🔄 Automatic Updates
-
-This data syncs automatically every 30 minutes via GitHub Actions.
-
-## 📋 Data Structure
-
-Each article includes:
-- ID, title, handle
-- Creation/update timestamps  
-- Publication status and date
-- Tags and summary
-- Blog association
-
-**View the complete data:** [blog_data.json](./blog_data.json)
-'''
-
-          with open('README.md', 'w') as f:
-              f.write(readme_content)
-          "
+          echo "# Spacire Blog Data" > README.md
+          echo "" >> README.md
+          echo "**Automated Shopify blog data sync - updates every 30 minutes**" >> README.md
+          echo "" >> README.md
+          echo "## 📁 Files" >> README.md
+          echo "" >> README.md
+          echo "- **[blog_data.json](./blog_data.json)** - Complete blog metadata in JSON format" >> README.md
+          echo "- Click the JSON file above to view all your blog data in GitHub's interface" >> README.md
+          echo "" >> README.md
+          echo "## 🔄 Automatic Updates" >> README.md
+          echo "" >> README.md
+          echo "This repository automatically fetches and updates blog data every 30 minutes." >> README.md
+          echo "" >> README.md
+          echo "Last updated: $(date)" >> README.md
           
       - name: Commit changes
         run: |
@@ -107,4 +66,4 @@ Each article includes:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}}
