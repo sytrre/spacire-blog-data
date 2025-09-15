@@ -58,7 +58,8 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add blog_data.json README.md
-          git diff --staged --quiet && echo "No changes to commit" || (git commit -m "Update blog data - $(date)" && git push origin main)}
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Update blog data" || echo "No changes to commit"
+          git push || echo "Nothing to push"}
