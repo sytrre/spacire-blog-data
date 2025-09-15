@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-Spacire Shopify Data Fetcher
-Fetches blog, collection, and product data from Shopify using GraphQL API
-Creates separate JSON files for each data type
+Spacire Shopify Data Fetcher - Debug Version
+Tests each query separately with detailed error reporting
 """
 
 import os
@@ -21,36 +20,28 @@ class ShopifyDataFetcher:
             "Content-Type": "application/json"
         }
     
-    def fetch_all_data(self):
-        """Fetch all data and create separate files"""
+    def test_api_connection(self):
+        """Test basic API connection"""
+        query = """
+        {
+          shop {
+            name
+            myshopifyDomain
+          }
+        }
+        """
         
-        timestamp = datetime.utcnow().isoformat() + "Z"
-        
-        print("Fetching blog data...", file=sys.stderr)
-        blogs_data = self.fetch_blogs_and_articles()
-        if blogs_data:
-            blog_result = self.process_blog_data(blogs_data, timestamp)
-            self.save_json_file("blog_data.json", blog_result)
-        
-        print("Fetching collections data...", file=sys.stderr) 
-        collections_data = self.fetch_collections()
-        if collections_data:
-            collections_result = self.process_collections_list(collections_data, timestamp)
-            self.save_json_file("collections.json", collections_result)
-            
-            collections_with_products = self.process_collections_with_products(collections_data, timestamp)
-            self.save_json_file("collections_with_products.json", collections_with_products)
-        
-        print("Fetching products data...", file=sys.stderr)
-        products_data = self.fetch_active_products()
-        if products_data:
-            products_result = self.process_products_data(products_data, timestamp)
-            self.save_json_file("products.json", products_result)
-        
-        return True
+        print("Testing API connection...", file=sys.stderr)
+        result = self.execute_query(query, "shop_info")
+        if result:
+            shop_name = result.get("data", {}).get("shop", {}).get("name", "Unknown")
+            print(f"Connected to shop: {shop_name}", file=sys.stderr)
+            return True
+        return False
     
-    def fetch_blogs_and_articles(self):
-        """Fetch all blogs and their articles"""
+    def fetch_and_save_blogs(self):
+        """Fetch and save blog data"""
+        print("Fetching blogs...", file=sys.stderr)
         
         query = """
         {
@@ -82,54 +73,95 @@ class ShopifyDataFetcher:
         }
         """
         
-        return self.execute_query(query, "blogs")
+        data = self.execute_query(query, "blogs")
+        if data:
+            result = self.process_blog_data(data)
+            self.save_json_file("blog_data.json", result)
+            return True
+        return False
     
-    def fetch_collections(self):
-        """Fetch all collections (simplified to avoid field errors)"""
+    def fetch_and_save_collections_simple(self):
+        """Fetch collections with minimal fields first"""
+        print("Fetching collections (simple)...", file=sys.stderr)
         
         query = """
         {
-          collections(first: 250) {
+          collections(first: 50) {
             edges {
               node {
                 id
                 title
                 handle
-                description
                 createdAt
                 updatedAt
-                productsCount
-                products(first: 250) {
+              }
+            }
+          }
+        }
+        """
+        
+        data = self.execute_query(query, "collections_simple")
+        if data:
+            result = self.process_simple_collections(data)
+            self.save_json_file("collections.json", result)
+            return True
+        return False
+    
+    def fetch_and_save_products_simple(self):
+        """Fetch products with minimal fields first"""
+        print("Fetching products (simple)...", file=sys.stderr)
+        
+        query = """
+        {
+          products(first: 50) {
+            edges {
+              node {
+                id
+                title
+                handle
+                createdAt
+                updatedAt
+                productType
+                vendor
+                tags
+              }
+            }
+          }
+        }
+        """
+        
+        data = self.execute_query(query, "products_simple")
+        if data:
+            result = self.process_simple_products(data)
+            self.save_json_file("products.json", result)
+            return True
+        return False
+    
+    def fetch_and_save_collections_with_products(self):
+        """Fetch collections with products"""
+        print("Fetching collections with products...", file=sys.stderr)
+        
+        query = """
+        {
+          collections(first: 20) {
+            edges {
+              node {
+                id
+                title
+                handle
+                createdAt
+                updatedAt
+                products(first: 50) {
                   edges {
                     node {
                       id
                       title
                       handle
-                      description
                       productType
                       vendor
                       createdAt
                       updatedAt
-                      publishedAt
                       tags
-                      featuredImage {
-                        url
-                        altText
-                      }
-                      variants(first: 10) {
-                        edges {
-                          node {
-                            id
-                            title
-                            sku
-                            availableForSale
-                            price
-                            compareAtPrice
-                            createdAt
-                            updatedAt
-                          }
-                        }
-                      }
                     }
                   }
                 }
@@ -139,97 +171,65 @@ class ShopifyDataFetcher:
         }
         """
         
-        return self.execute_query(query, "collections")
-    
-    def fetch_active_products(self):
-        """Fetch all active products (simplified to avoid field errors)"""
-        
-        query = """
-        {
-          products(first: 250, query: "status:active") {
-            edges {
-              node {
-                id
-                title
-                handle
-                description
-                productType
-                vendor
-                createdAt
-                updatedAt
-                publishedAt
-                tags
-                featuredImage {
-                  url
-                  altText
-                }
-                images(first: 10) {
-                  edges {
-                    node {
-                      url
-                      altText
-                    }
-                  }
-                }
-                variants(first: 100) {
-                  edges {
-                    node {
-                      id
-                      title
-                      sku
-                      availableForSale
-                      price
-                      compareAtPrice
-                      weight
-                      weightUnit
-                      createdAt
-                      updatedAt
-                      selectedOptions {
-                        name
-                        value
-                      }
-                    }
-                  }
-                }
-                options {
-                  name
-                  values
-                }
-              }
-            }
-          }
-        }
-        """
-        
-        return self.execute_query(query, "products")
+        data = self.execute_query(query, "collections_with_products")
+        if data:
+            result = self.process_collections_with_products(data)
+            self.save_json_file("collections_with_products.json", result)
+            return True
+        return False
     
     def execute_query(self, query, query_type):
-        """Execute GraphQL query and handle errors"""
+        """Execute GraphQL query with detailed error reporting"""
         
         try:
+            print(f"Executing {query_type} query...", file=sys.stderr)
+            
             response = requests.post(
                 self.api_url,
                 headers=self.headers,
-                json={"query": query}
+                json={"query": query},
+                timeout=30
             )
             
+            print(f"Response status for {query_type}: {response.status_code}", file=sys.stderr)
+            
             if response.status_code != 200:
-                raise Exception(f"API request failed with status {response.status_code}: {response.text}")
+                print(f"HTTP Error for {query_type}: {response.status_code}", file=sys.stderr)
+                print(f"Response text: {response.text[:500]}", file=sys.stderr)
+                return None
             
             data = response.json()
             
             if "errors" in data:
-                print(f"GraphQL errors for {query_type}: {data['errors']}", file=sys.stderr)
+                print(f"GraphQL errors for {query_type}:", file=sys.stderr)
+                for error in data["errors"]:
+                    print(f"  - {error}", file=sys.stderr)
                 return None
             
+            if "data" not in data:
+                print(f"No data field in response for {query_type}", file=sys.stderr)
+                print(f"Response: {json.dumps(data, indent=2)[:500]}", file=sys.stderr)
+                return None
+                
+            print(f"Successfully fetched {query_type}", file=sys.stderr)
             return data
             
+        except requests.exceptions.Timeout:
+            print(f"Timeout error for {query_type}", file=sys.stderr)
+            return None
+        except requests.exceptions.RequestException as e:
+            print(f"Request error for {query_type}: {str(e)}", file=sys.stderr)
+            return None
+        except json.JSONDecodeError as e:
+            print(f"JSON decode error for {query_type}: {str(e)}", file=sys.stderr)
+            return None
         except Exception as e:
-            print(f"Error fetching {query_type}: {str(e)}", file=sys.stderr)
+            print(f"Unexpected error for {query_type}: {str(e)}", file=sys.stderr)
             return None
     
-    def process_blog_data(self, raw_data, timestamp):
+    def process_blog_data(self, raw_data):
         """Process blog data"""
+        timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
@@ -261,14 +261,13 @@ class ShopifyDataFetcher:
                 article = article_edge["node"]
                 
                 is_published = article.get("publishedAt") is not None
-                status = "PUBLISHED" if is_published else "DRAFT"
                 
                 article_info = {
                     "article_id": article["id"],
                     "title": article["title"],
                     "handle": article["handle"],
                     "summary": article.get("summary"),
-                    "status": status,
+                    "status": "PUBLISHED" if is_published else "DRAFT",
                     "created_at": article["createdAt"],
                     "updated_at": article["updatedAt"],
                     "published_at": article.get("publishedAt"),
@@ -284,13 +283,14 @@ class ShopifyDataFetcher:
         
         return processed_data
     
-    def process_collections_list(self, raw_data, timestamp):
-        """Process collections list only (no products)"""
+    def process_simple_collections(self, raw_data):
+        """Process simple collections data"""
+        timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
             "shop_domain": self.shop_domain,
-            "data_type": "collections_list",
+            "data_type": "collections",
             "total_collections": 0,
             "collections": []
         }
@@ -305,18 +305,50 @@ class ShopifyDataFetcher:
                 "collection_id": collection["id"],
                 "title": collection["title"],
                 "handle": collection["handle"],
-                "description": collection.get("description"),
                 "created_at": collection["createdAt"],
-                "updated_at": collection["updatedAt"],
-                "products_count": collection.get("productsCount", 0)
+                "updated_at": collection["updatedAt"]
             }
             
             processed_data["collections"].append(collection_info)
         
         return processed_data
     
-    def process_collections_with_products(self, raw_data, timestamp):
-        """Process collections with their products"""
+    def process_simple_products(self, raw_data):
+        """Process simple products data"""
+        timestamp = datetime.utcnow().isoformat() + "Z"
+        
+        processed_data = {
+            "fetch_timestamp": timestamp,
+            "shop_domain": self.shop_domain,
+            "data_type": "products",
+            "total_products": 0,
+            "products": []
+        }
+        
+        products_data = raw_data.get("data", {}).get("products", {}).get("edges", [])
+        processed_data["total_products"] = len(products_data)
+        
+        for product_edge in products_data:
+            product = product_edge["node"]
+            
+            product_info = {
+                "product_id": product["id"],
+                "title": product["title"],
+                "handle": product["handle"],
+                "product_type": product.get("productType"),
+                "vendor": product.get("vendor"),
+                "created_at": product["createdAt"],
+                "updated_at": product["updatedAt"],
+                "tags": product.get("tags", [])
+            }
+            
+            processed_data["products"].append(product_info)
+        
+        return processed_data
+    
+    def process_collections_with_products(self, raw_data):
+        """Process collections with products"""
+        timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
@@ -336,10 +368,8 @@ class ShopifyDataFetcher:
                 "collection_id": collection["id"],
                 "title": collection["title"],
                 "handle": collection["handle"],
-                "description": collection.get("description"),
                 "created_at": collection["createdAt"],
                 "updated_at": collection["updatedAt"],
-                "products_count": collection.get("productsCount", 0),
                 "products": []
             }
             
@@ -348,133 +378,21 @@ class ShopifyDataFetcher:
             for product_edge in products_data:
                 product = product_edge["node"]
                 
-                # Process variants
-                variants = []
-                variants_data = product.get("variants", {}).get("edges", [])
-                for variant_edge in variants_data:
-                    variant = variant_edge["node"]
-                    variants.append({
-                        "variant_id": variant["id"],
-                        "title": variant["title"],
-                        "sku": variant.get("sku"),
-                        "available_for_sale": variant["availableForSale"],
-                        "price": variant.get("price"),
-                        "compare_at_price": variant.get("compareAtPrice"),
-                        "created_at": variant["createdAt"],
-                        "updated_at": variant["updatedAt"]
-                    })
-                
                 product_info = {
                     "product_id": product["id"],
                     "title": product["title"],
                     "handle": product["handle"],
-                    "description": product.get("description"),
                     "product_type": product.get("productType"),
                     "vendor": product.get("vendor"),
                     "created_at": product["createdAt"],
                     "updated_at": product["updatedAt"],
-                    "published_at": product.get("publishedAt"),
-                    "tags": product.get("tags", []),
-                    "featured_image": {
-                        "url": product.get("featuredImage", {}).get("url"),
-                        "alt_text": product.get("featuredImage", {}).get("altText")
-                    } if product.get("featuredImage") else None,
-                    "variants": variants,
-                    "variants_count": len(variants)
+                    "tags": product.get("tags", [])
                 }
                 
                 collection_info["products"].append(product_info)
             
+            collection_info["products_count"] = len(collection_info["products"])
             processed_data["collections"].append(collection_info)
-        
-        return processed_data
-    
-    def process_products_data(self, raw_data, timestamp):
-        """Process all active products"""
-        
-        processed_data = {
-            "fetch_timestamp": timestamp,
-            "shop_domain": self.shop_domain,
-            "data_type": "active_products",
-            "total_products": 0,
-            "products": []
-        }
-        
-        products_data = raw_data.get("data", {}).get("products", {}).get("edges", [])
-        processed_data["total_products"] = len(products_data)
-        
-        for product_edge in products_data:
-            product = product_edge["node"]
-            
-            # Process images
-            images = []
-            images_data = product.get("images", {}).get("edges", [])
-            for image_edge in images_data:
-                image = image_edge["node"]
-                images.append({
-                    "url": image.get("url"),
-                    "alt_text": image.get("altText")
-                })
-            
-            # Process variants
-            variants = []
-            variants_data = product.get("variants", {}).get("edges", [])
-            for variant_edge in variants_data:
-                variant = variant_edge["node"]
-                
-                # Process selected options
-                selected_options = []
-                for option in variant.get("selectedOptions", []):
-                    selected_options.append({
-                        "name": option.get("name"),
-                        "value": option.get("value")
-                    })
-                
-                variants.append({
-                    "variant_id": variant["id"],
-                    "title": variant["title"],
-                    "sku": variant.get("sku"),
-                    "available_for_sale": variant["availableForSale"],
-                    "price": variant.get("price"),
-                    "compare_at_price": variant.get("compareAtPrice"),
-                    "weight": variant.get("weight"),
-                    "weight_unit": variant.get("weightUnit"),
-                    "created_at": variant["createdAt"],
-                    "updated_at": variant["updatedAt"],
-                    "selected_options": selected_options
-                })
-            
-            # Process product options
-            options = []
-            for option in product.get("options", []):
-                options.append({
-                    "name": option.get("name"),
-                    "values": option.get("values", [])
-                })
-            
-            product_info = {
-                "product_id": product["id"],
-                "title": product["title"],
-                "handle": product["handle"],
-                "description": product.get("description"),
-                "product_type": product.get("productType"),
-                "vendor": product.get("vendor"),
-                "created_at": product["createdAt"],
-                "updated_at": product["updatedAt"],
-                "published_at": product.get("publishedAt"),
-                "tags": product.get("tags", []),
-                "featured_image": {
-                    "url": product.get("featuredImage", {}).get("url"),
-                    "alt_text": product.get("featuredImage", {}).get("altText")
-                } if product.get("featuredImage") else None,
-                "images": images,
-                "images_count": len(images),
-                "variants": variants,
-                "variants_count": len(variants),
-                "options": options
-            }
-            
-            processed_data["products"].append(product_info)
         
         return processed_data
     
@@ -483,7 +401,7 @@ class ShopifyDataFetcher:
         try:
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"Saved {filename}", file=sys.stderr)
+            print(f"Successfully saved {filename} with {len(json.dumps(data))} characters", file=sys.stderr)
         except Exception as e:
             print(f"Error saving {filename}: {str(e)}", file=sys.stderr)
 
@@ -497,17 +415,36 @@ def main():
         print("Please set SHOPIFY_SHOP_DOMAIN and SHOPIFY_ACCESS_TOKEN", file=sys.stderr)
         sys.exit(1)
     
+    print(f"Starting data fetch for {shop_domain}", file=sys.stderr)
+    
     # Initialize fetcher
     fetcher = ShopifyDataFetcher(shop_domain, access_token)
     
-    # Fetch all data and create separate files
-    success = fetcher.fetch_all_data()
-    
-    if not success:
-        print("Failed to fetch data", file=sys.stderr)
+    # Test API connection first
+    if not fetcher.test_api_connection():
+        print("Failed to connect to API", file=sys.stderr)
         sys.exit(1)
     
-    print("All data files created successfully!", file=sys.stderr)
+    # Fetch each data type separately
+    success_count = 0
+    
+    if fetcher.fetch_and_save_blogs():
+        success_count += 1
+    
+    if fetcher.fetch_and_save_collections_simple():
+        success_count += 1
+    
+    if fetcher.fetch_and_save_products_simple():
+        success_count += 1
+    
+    if fetcher.fetch_and_save_collections_with_products():
+        success_count += 1
+    
+    print(f"Successfully created {success_count} out of 4 data files", file=sys.stderr)
+    
+    if success_count == 0:
+        print("No data files were created - check API permissions", file=sys.stderr)
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
