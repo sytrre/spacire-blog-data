@@ -45,36 +45,48 @@ jobs:
           echo "" >> README.md
           echo "**Comprehensive Shopify data sync - updates every 30 minutes**" >> README.md
           echo "" >> README.md
-          echo "## 📁 Files" >> README.md
+          echo "## 📁 Data Files" >> README.md
           echo "" >> README.md
-          echo "- **[shopify_data.json](./shopify_data.json)** - Complete Shopify data in JSON format" >> README.md
-          echo "- Click the JSON file above to view all your data in GitHub's interface" >> README.md
+          echo "### Blogs & Articles" >> README.md
+          echo "- **[blog_data.json](./blog_data.json)** - All blog posts and articles" >> README.md
+          echo "" >> README.md
+          echo "### Collections" >> README.md
+          echo "- **[collections.json](./collections.json)** - Collections list only" >> README.md
+          echo "- **[collections_with_products.json](./collections_with_products.json)** - Collections with their products" >> README.md
+          echo "" >> README.md
+          echo "### Products" >> README.md
+          echo "- **[products.json](./products.json)** - All active products with complete details" >> README.md
+          echo "" >> README.md
+          echo "## 🔗 Raw Data URLs" >> README.md
+          echo "" >> README.md
+          echo "For direct API access:" >> README.md
+          echo "- **Blogs:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json" >> README.md
+          echo "- **Collections List:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json" >> README.md
+          echo "- **Collections with Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json" >> README.md
+          echo "- **Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json" >> README.md
           echo "" >> README.md
           echo "## 📊 Data Includes" >> README.md
           echo "" >> README.md
-          echo "### Blogs & Articles" >> README.md
-          echo "- All blog metadata and article information" >> README.md
+          echo "### Blog Data" >> README.md
+          echo "- Blog titles, handles, creation dates" >> README.md
+          echo "- Article metadata, summaries, tags" >> README.md
           echo "- Published and draft status" >> README.md
           echo "" >> README.md
-          echo "### Collections" >> README.md
-          echo "- All collections with descriptions" >> README.md
-          echo "- Products within each collection" >> README.md
-          echo "- Product pricing and variant information" >> README.md
+          echo "### Collection Data" >> README.md
+          echo "- Collection titles, descriptions, handles" >> README.md
+          echo "- Product count and organization" >> README.md
+          echo "- Products within collections (separate file)" >> README.md
           echo "" >> README.md
-          echo "### Active Products" >> README.md
-          echo "- All active products in your store" >> README.md
-          echo "- Complete product information including:" >> README.md
-          echo "  - Pricing and compare-at pricing" >> README.md
-          echo "  - Product images and variants" >> README.md
-          echo "  - SKUs and availability" >> README.md
-          echo "  - Product options and descriptions" >> README.md
-          echo "  - Tags and metadata" >> README.md
+          echo "### Product Data" >> README.md
+          echo "- Complete product catalog" >> README.md
+          echo "- Pricing, variants, SKUs" >> README.md
+          echo "- Images, descriptions, tags" >> README.md
+          echo "- Product options and availability" >> README.md
+          echo "- Vendor and product type information" >> README.md
           echo "" >> README.md
           echo "## 🔄 Automatic Updates" >> README.md
           echo "" >> README.md
-          echo "This repository automatically fetches and updates all Shopify data every 30 minutes." >> README.md
-          echo "" >> README.md
-          echo "**Raw Data URL:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/shopify_data.json" >> README.md
+          echo "All data files sync automatically every 30 minutes." >> README.md
           echo "" >> README.md
           echo "Last updated: $(date)" >> README.md
           
