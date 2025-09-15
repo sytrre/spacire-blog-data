@@ -56,17 +56,9 @@ jobs:
           echo "" >> README.md
           echo "Last updated: $(date)" >> README.md
           
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add blog_data.json README.md
-          
-      - name: Check for changes and push
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update blog data - $(date)"
-            git push origin main
-          else
-            echo "No changes to commit"
-          fi}
+          git diff --staged --quiet && echo "No changes to commit" || (git commit -m "Update blog data - $(date)" && git push origin main)}
