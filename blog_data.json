@@ -1,16 +1,16 @@
 {
-  "fetch_timestamp": "2025-09-15T21:41:33.193656Z",
+  "fetch_timestamp": "2025-09-15T22:33:30.043402Z",
   "shop_domain": "tgaqpq-w2.myshopify.com",
   "data_type": "blogs",
   "total_blogs": 1,
-  "total_articles": 5,
+  "total_articles": 6,
   "blogs": [
     {
       "blog_id": "gid://shopify/Blog/119487070539",
       "blog_title": "The Sleep Journal",
       "blog_handle": "journal",
       "blog_created_at": "2025-09-03T05:06:28Z",
-      "blog_updated_at": "2025-09-14T19:00:03Z",
+      "blog_updated_at": "2025-09-15T22:13:46Z",
       "articles": [
         {
           "article_id": "gid://shopify/Article/998220726603",
@@ -82,9 +82,23 @@
             "Sleep Masks"
           ],
           "is_published": true
+        },
+        {
+          "article_id": "gid://shopify/Article/998328467787",
+          "title": "Weighted Sleep Masks for Anxiety: Science-Backed Benefits",
+          "handle": "weighted-sleep-masks-for-anxiety-science-backed-benefits",
+          "summary": "<p><span>Struggling with anxiety and restless nights? Explore the science behind weighted sleep masks and their potential benefits. Learn how deep pressure stimulation can promote relaxation, reduce stress, and improve sleep quality for a calmer you.</span></p>",
+          "status": "PUBLISHED",
+          "created_at": "2025-09-15T22:13:44Z",
+          "updated_at": "2025-09-15T22:13:46Z",
+          "published_at": "2025-09-15T22:13:25Z",
+          "tags": [
+            "Sleep Masks"
+          ],
+          "is_published": true
         }
       ],
-      "article_count": 5
+      "article_count": 6
     }
   ]
 }
