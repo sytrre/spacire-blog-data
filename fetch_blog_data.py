@@ -92,8 +92,7 @@ class ShopifyDataFetcher:
                 id
                 title
                 handle
-                createdAt
-                updatedAt
+                description
               }
             }
           }
@@ -149,8 +148,7 @@ class ShopifyDataFetcher:
                 id
                 title
                 handle
-                createdAt
-                updatedAt
+                description
                 products(first: 50) {
                   edges {
                     node {
@@ -305,8 +303,7 @@ class ShopifyDataFetcher:
                 "collection_id": collection["id"],
                 "title": collection["title"],
                 "handle": collection["handle"],
-                "created_at": collection["createdAt"],
-                "updated_at": collection["updatedAt"]
+                "description": collection.get("description")
             }
             
             processed_data["collections"].append(collection_info)
@@ -368,8 +365,7 @@ class ShopifyDataFetcher:
                 "collection_id": collection["id"],
                 "title": collection["title"],
                 "handle": collection["handle"],
-                "created_at": collection["createdAt"],
-                "updated_at": collection["updatedAt"],
+                "description": collection.get("description"),
                 "products": []
             }
             
