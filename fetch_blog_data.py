@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Spacire Shopify Data Fetcher - Debug Version
-Tests each query separately with detailed error reporting
+Spacire Shopify Data Fetcher - Complete Version with Pagination
+Fetches blog, collection, and product data from Shopify using GraphQL API
+Creates separate JSON files for each data type
 """
 
 import os
@@ -128,37 +129,102 @@ class ShopifyDataFetcher:
             print(f"Fetched {len(edges)} collections, total so far: {len(all_collections)}", file=sys.stderr)
         
         if all_collections:
-            result = self.process_simple_collections_from_list(all_collections)
+            result = self.process_collections_from_list(all_collections)
             self.save_json_file("collections.json", result)
             return True
         return False
     
     def fetch_and_save_products_simple(self):
-        """Fetch products with minimal fields first"""
-        print("Fetching products (simple)...", file=sys.stderr)
+        """Fetch ALL products with pagination"""
+        print("Fetching products (simple) with pagination...", file=sys.stderr)
         
-        query = """
-        {
-          products(first: 50) {
-            edges {
-              node {
-                id
-                title
-                handle
-                createdAt
-                updatedAt
-                productType
-                vendor
-                tags
-              }
-            }
-          }
-        }
-        """
+        all_products = []
+        has_next_page = True
+        cursor = None
         
-        data = self.execute_query(query, "products_simple")
-        if data:
-            result = self.process_simple_products(data)
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            query = f"""
+            {{
+              products(first: 250{cursor_param}) {{
+                edges {{
+                  node {{
+                    id
+                    title
+                    handle
+                    description
+                    productType
+                    vendor
+                    createdAt
+                    updatedAt
+                    publishedAt
+                    tags
+                    featuredImage {{
+                      url
+                      altText
+                    }}
+                    images(first: 10) {{
+                      edges {{
+                        node {{
+                          url
+                          altText
+                        }}
+                      }}
+                    }}
+                    variants(first: 100) {{
+                      edges {{
+                        node {{
+                          id
+                          title
+                          sku
+                          availableForSale
+                          price
+                          compareAtPrice
+                          weight
+                          weightUnit
+                          createdAt
+                          updatedAt
+                          selectedOptions {{
+                            name
+                            value
+                          }}
+                        }}
+                      }}
+                    }}
+                    options {{
+                      name
+                      values
+                    }}
+                  }}
+                  cursor
+                }}
+                pageInfo {{
+                  hasNextPage
+                  endCursor
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"products_simple_page_{len(all_products)//250 + 1}")
+            if not data:
+                break
+                
+            products_data = data.get("data", {}).get("products", {})
+            edges = products_data.get("edges", [])
+            
+            for edge in edges:
+                all_products.append(edge["node"])
+                
+            page_info = products_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+            
+            print(f"Fetched {len(edges)} products, total so far: {len(all_products)}", file=sys.stderr)
+        
+        if all_products:
+            result = self.process_products_from_list(all_products)
             self.save_json_file("products.json", result)
             return True
         return False
@@ -354,7 +420,7 @@ class ShopifyDataFetcher:
         
         return processed_data
     
-    def process_simple_collections_from_list(self, collections_list):
+    def process_collections_from_list(self, collections_list):
         """Process collections from a list"""
         timestamp = datetime.utcnow().isoformat() + "Z"
         
@@ -378,7 +444,7 @@ class ShopifyDataFetcher:
         
         return processed_data
     
-    def process_simple_products_from_list(self, products_list):
+    def process_products_from_list(self, products_list):
         """Process products from a list"""
         timestamp = datetime.utcnow().isoformat() + "Z"
         
