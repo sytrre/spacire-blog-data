@@ -33,4 +33,4 @@ This repository automatically fetches and updates all Shopify data every 30 minu
 
 **Raw Data URL:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/shopify_data.json
 
-Last updated: Mon Sep 15 18:30:30 UTC 2025
+Last updated: Mon Sep 15 18:31:51 UTC 2025
