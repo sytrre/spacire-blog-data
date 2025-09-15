@@ -40,21 +40,11 @@ class ShopifyBlogFetcher:
                       id
                       title
                       handle
-                      excerpt
+                      summary
                       createdAt
                       updatedAt
                       publishedAt
-                      status
                       tags
-                      summary
-                      seo {
-                        title
-                        description
-                      }
-                      author {
-                        displayName
-                        email
-                      }
                     }
                   }
                 }
@@ -116,25 +106,21 @@ class ShopifyBlogFetcher:
             for article_edge in articles_data:
                 article = article_edge["node"]
                 
+                # Determine status based on publishedAt field
+                is_published = article.get("publishedAt") is not None
+                status = "PUBLISHED" if is_published else "DRAFT"
+                
                 article_info = {
                     "article_id": article["id"],
                     "title": article["title"],
                     "handle": article["handle"],
-                    "excerpt": article.get("excerpt"),
                     "summary": article.get("summary"),
-                    "status": article["status"],  # PUBLISHED, DRAFT, etc.
+                    "status": status,
                     "created_at": article["createdAt"],
                     "updated_at": article["updatedAt"],
                     "published_at": article.get("publishedAt"),
                     "tags": article.get("tags", []),
-                    "seo": {
-                        "title": article.get("seo", {}).get("title"),
-                        "description": article.get("seo", {}).get("description")
-                    },
-                    "author": {
-                        "name": article.get("author", {}).get("displayName"),
-                        "email": article.get("author", {}).get("email")
-                    }
+                    "is_published": is_published
                 }
                 
                 blog_info["articles"].append(article_info)
