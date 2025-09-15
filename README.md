@@ -2,35 +2,47 @@
 
 **Comprehensive Shopify data sync - updates every 30 minutes**
 
-## 📁 Files
+## 📁 Data Files
 
-- **[shopify_data.json](./shopify_data.json)** - Complete Shopify data in JSON format
-- Click the JSON file above to view all your data in GitHub's interface
+### Blogs & Articles
+- **[blog_data.json](./blog_data.json)** - All blog posts and articles
+
+### Collections
+- **[collections.json](./collections.json)** - Collections list only
+- **[collections_with_products.json](./collections_with_products.json)** - Collections with their products
+
+### Products
+- **[products.json](./products.json)** - All active products with complete details
+
+## 🔗 Raw Data URLs
+
+For direct API access:
+- **Blogs:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json
+- **Collections List:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json
+- **Collections with Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json
+- **Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
 
 ## 📊 Data Includes
 
-### Blogs & Articles
-- All blog metadata and article information
+### Blog Data
+- Blog titles, handles, creation dates
+- Article metadata, summaries, tags
 - Published and draft status
 
-### Collections
-- All collections with descriptions
-- Products within each collection
-- Product pricing and variant information
+### Collection Data
+- Collection titles, descriptions, handles
+- Product count and organization
+- Products within collections (separate file)
 
-### Active Products
-- All active products in your store
-- Complete product information including:
-  - Pricing and compare-at pricing
-  - Product images and variants
-  - SKUs and availability
-  - Product options and descriptions
-  - Tags and metadata
+### Product Data
+- Complete product catalog
+- Pricing, variants, SKUs
+- Images, descriptions, tags
+- Product options and availability
+- Vendor and product type information
 
 ## 🔄 Automatic Updates
 
-This repository automatically fetches and updates all Shopify data every 30 minutes.
+All data files sync automatically every 30 minutes.
 
-**Raw Data URL:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/shopify_data.json
-
-Last updated: Mon Sep 15 18:43:19 UTC 2025
+Last updated: Mon Sep 15 18:43:58 UTC 2025
