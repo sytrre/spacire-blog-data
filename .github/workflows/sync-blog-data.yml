@@ -41,18 +41,40 @@ jobs:
           
       - name: Create simple README
         run: |
-          echo "# Spacire Blog Data" > README.md
+          echo "# Spacire Shopify Data" > README.md
           echo "" >> README.md
-          echo "**Automated Shopify blog data sync - updates every 30 minutes**" >> README.md
+          echo "**Comprehensive Shopify data sync - updates every 30 minutes**" >> README.md
           echo "" >> README.md
           echo "## 📁 Files" >> README.md
           echo "" >> README.md
-          echo "- **[blog_data.json](./blog_data.json)** - Complete blog metadata in JSON format" >> README.md
-          echo "- Click the JSON file above to view all your blog data in GitHub's interface" >> README.md
+          echo "- **[shopify_data.json](./shopify_data.json)** - Complete Shopify data in JSON format" >> README.md
+          echo "- Click the JSON file above to view all your data in GitHub's interface" >> README.md
+          echo "" >> README.md
+          echo "## 📊 Data Includes" >> README.md
+          echo "" >> README.md
+          echo "### Blogs & Articles" >> README.md
+          echo "- All blog metadata and article information" >> README.md
+          echo "- Published and draft status" >> README.md
+          echo "" >> README.md
+          echo "### Collections" >> README.md
+          echo "- All collections with descriptions" >> README.md
+          echo "- Products within each collection" >> README.md
+          echo "- Product pricing and variant information" >> README.md
+          echo "" >> README.md
+          echo "### Active Products" >> README.md
+          echo "- All active products in your store" >> README.md
+          echo "- Complete product information including:" >> README.md
+          echo "  - Pricing and compare-at pricing" >> README.md
+          echo "  - Product images and variants" >> README.md
+          echo "  - SKUs and availability" >> README.md
+          echo "  - Product options and descriptions" >> README.md
+          echo "  - Tags and metadata" >> README.md
           echo "" >> README.md
           echo "## 🔄 Automatic Updates" >> README.md
           echo "" >> README.md
-          echo "This repository automatically fetches and updates blog data every 30 minutes." >> README.md
+          echo "This repository automatically fetches and updates all Shopify data every 30 minutes." >> README.md
+          echo "" >> README.md
+          echo "**Raw Data URL:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/shopify_data.json" >> README.md
           echo "" >> README.md
           echo "Last updated: $(date)" >> README.md
           
@@ -61,5 +83,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add .
-          git commit -m "Update blog data" || echo "No changes to commit"
+          git commit -m "Update Shopify data" || echo "No changes to commit"
           git push || echo "Nothing to push"}
