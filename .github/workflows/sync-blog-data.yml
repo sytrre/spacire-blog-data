@@ -61,8 +61,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add blog_data.json README.md
-          git diff --staged --quiet || git commit -m "Update blog data - $(date)"
           
-      - name: Push changes
+      - name: Check for changes and push
         run: |
-          git push}
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update blog data - $(date)"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi}
