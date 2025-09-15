@@ -81,27 +81,54 @@ class ShopifyDataFetcher:
         return False
     
     def fetch_and_save_collections_simple(self):
-        """Fetch collections with minimal fields first"""
-        print("Fetching collections (simple)...", file=sys.stderr)
+        """Fetch ALL collections with pagination"""
+        print("Fetching collections (simple) with pagination...", file=sys.stderr)
         
-        query = """
-        {
-          collections(first: 50) {
-            edges {
-              node {
-                id
-                title
-                handle
-                description
-              }
-            }
-          }
-        }
-        """
+        all_collections = []
+        has_next_page = True
+        cursor = None
         
-        data = self.execute_query(query, "collections_simple")
-        if data:
-            result = self.process_simple_collections(data)
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            query = f"""
+            {{
+              collections(first: 250{cursor_param}) {{
+                edges {{
+                  node {{
+                    id
+                    title
+                    handle
+                    description
+                  }}
+                  cursor
+                }}
+                pageInfo {{
+                  hasNextPage
+                  endCursor
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"collections_simple_page_{len(all_collections)//250 + 1}")
+            if not data:
+                break
+                
+            collections_data = data.get("data", {}).get("collections", {})
+            edges = collections_data.get("edges", [])
+            
+            for edge in edges:
+                all_collections.append(edge["node"])
+                
+            page_info = collections_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+            
+            print(f"Fetched {len(edges)} collections, total so far: {len(all_collections)}", file=sys.stderr)
+        
+        if all_collections:
+            result = self.process_simple_collections_from_list(all_collections)
             self.save_json_file("collections.json", result)
             return True
         return False
@@ -137,41 +164,87 @@ class ShopifyDataFetcher:
         return False
     
     def fetch_and_save_collections_with_products(self):
-        """Fetch collections with products"""
-        print("Fetching collections with products...", file=sys.stderr)
+        """Fetch ALL collections with their products using pagination"""
+        print("Fetching collections with products using pagination...", file=sys.stderr)
         
-        query = """
-        {
-          collections(first: 20) {
-            edges {
-              node {
-                id
-                title
-                handle
-                description
-                products(first: 50) {
-                  edges {
-                    node {
-                      id
-                      title
-                      handle
-                      productType
-                      vendor
-                      createdAt
-                      updatedAt
-                      tags
-                    }
-                  }
-                }
-              }
-            }
-          }
-        }
-        """
+        all_collections = []
+        has_next_page = True
+        cursor = None
         
-        data = self.execute_query(query, "collections_with_products")
-        if data:
-            result = self.process_collections_with_products(data)
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            query = f"""
+            {{
+              collections(first: 100{cursor_param}) {{
+                edges {{
+                  node {{
+                    id
+                    title
+                    handle
+                    description
+                    products(first: 100) {{
+                      edges {{
+                        node {{
+                          id
+                          title
+                          handle
+                          productType
+                          vendor
+                          createdAt
+                          updatedAt
+                          publishedAt
+                          tags
+                          featuredImage {{
+                            url
+                            altText
+                          }}
+                          variants(first: 50) {{
+                            edges {{
+                              node {{
+                                id
+                                title
+                                sku
+                                availableForSale
+                                price
+                                compareAtPrice
+                                createdAt
+                                updatedAt
+                              }}
+                            }}
+                          }}
+                        }}
+                      }}
+                    }}
+                  }}
+                  cursor
+                }}
+                pageInfo {{
+                  hasNextPage
+                  endCursor
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"collections_with_products_page_{len(all_collections)//100 + 1}")
+            if not data:
+                break
+                
+            collections_data = data.get("data", {}).get("collections", {})
+            edges = collections_data.get("edges", [])
+            
+            for edge in edges:
+                all_collections.append(edge["node"])
+                
+            page_info = collections_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+            
+            print(f"Fetched {len(edges)} collections with products, total so far: {len(all_collections)}", file=sys.stderr)
+        
+        if all_collections:
+            result = self.process_collections_with_products_from_list(all_collections)
             self.save_json_file("collections_with_products.json", result)
             return True
         return False
@@ -281,24 +354,19 @@ class ShopifyDataFetcher:
         
         return processed_data
     
-    def process_simple_collections(self, raw_data):
-        """Process simple collections data"""
+    def process_simple_collections_from_list(self, collections_list):
+        """Process collections from a list"""
         timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
             "shop_domain": self.shop_domain,
             "data_type": "collections",
-            "total_collections": 0,
+            "total_collections": len(collections_list),
             "collections": []
         }
         
-        collections_data = raw_data.get("data", {}).get("collections", {}).get("edges", [])
-        processed_data["total_collections"] = len(collections_data)
-        
-        for collection_edge in collections_data:
-            collection = collection_edge["node"]
-            
+        for collection in collections_list:
             collection_info = {
                 "collection_id": collection["id"],
                 "title": collection["title"],
@@ -310,57 +378,104 @@ class ShopifyDataFetcher:
         
         return processed_data
     
-    def process_simple_products(self, raw_data):
-        """Process simple products data"""
+    def process_simple_products_from_list(self, products_list):
+        """Process products from a list"""
         timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
             "shop_domain": self.shop_domain,
             "data_type": "products",
-            "total_products": 0,
+            "total_products": len(products_list),
             "products": []
         }
         
-        products_data = raw_data.get("data", {}).get("products", {}).get("edges", [])
-        processed_data["total_products"] = len(products_data)
-        
-        for product_edge in products_data:
-            product = product_edge["node"]
+        for product in products_list:
+            # Process images
+            images = []
+            images_data = product.get("images", {}).get("edges", [])
+            for image_edge in images_data:
+                image = image_edge["node"]
+                images.append({
+                    "url": image.get("url"),
+                    "alt_text": image.get("altText")
+                })
+            
+            # Process variants
+            variants = []
+            variants_data = product.get("variants", {}).get("edges", [])
+            for variant_edge in variants_data:
+                variant = variant_edge["node"]
+                
+                # Process selected options
+                selected_options = []
+                for option in variant.get("selectedOptions", []):
+                    selected_options.append({
+                        "name": option.get("name"),
+                        "value": option.get("value")
+                    })
+                
+                variants.append({
+                    "variant_id": variant["id"],
+                    "title": variant["title"],
+                    "sku": variant.get("sku"),
+                    "available_for_sale": variant["availableForSale"],
+                    "price": variant.get("price"),
+                    "compare_at_price": variant.get("compareAtPrice"),
+                    "weight": variant.get("weight"),
+                    "weight_unit": variant.get("weightUnit"),
+                    "created_at": variant["createdAt"],
+                    "updated_at": variant["updatedAt"],
+                    "selected_options": selected_options
+                })
+            
+            # Process product options
+            options = []
+            for option in product.get("options", []):
+                options.append({
+                    "name": option.get("name"),
+                    "values": option.get("values", [])
+                })
             
             product_info = {
                 "product_id": product["id"],
                 "title": product["title"],
                 "handle": product["handle"],
+                "description": product.get("description"),
                 "product_type": product.get("productType"),
                 "vendor": product.get("vendor"),
                 "created_at": product["createdAt"],
                 "updated_at": product["updatedAt"],
-                "tags": product.get("tags", [])
+                "published_at": product.get("publishedAt"),
+                "tags": product.get("tags", []),
+                "featured_image": {
+                    "url": product.get("featuredImage", {}).get("url"),
+                    "alt_text": product.get("featuredImage", {}).get("altText")
+                } if product.get("featuredImage") else None,
+                "images": images,
+                "images_count": len(images),
+                "variants": variants,
+                "variants_count": len(variants),
+                "options": options
             }
             
             processed_data["products"].append(product_info)
         
         return processed_data
     
-    def process_collections_with_products(self, raw_data):
-        """Process collections with products"""
+    def process_collections_with_products_from_list(self, collections_list):
+        """Process collections with products from a list"""
         timestamp = datetime.utcnow().isoformat() + "Z"
         
         processed_data = {
             "fetch_timestamp": timestamp,
             "shop_domain": self.shop_domain,
             "data_type": "collections_with_products",
-            "total_collections": 0,
+            "total_collections": len(collections_list),
             "collections": []
         }
         
-        collections_data = raw_data.get("data", {}).get("collections", {}).get("edges", [])
-        processed_data["total_collections"] = len(collections_data)
-        
-        for collection_edge in collections_data:
-            collection = collection_edge["node"]
-            
+        for collection in collections_list:
             collection_info = {
                 "collection_id": collection["id"],
                 "title": collection["title"],
@@ -374,15 +489,39 @@ class ShopifyDataFetcher:
             for product_edge in products_data:
                 product = product_edge["node"]
                 
+                # Process variants
+                variants = []
+                variants_data = product.get("variants", {}).get("edges", [])
+                for variant_edge in variants_data:
+                    variant = variant_edge["node"]
+                    variants.append({
+                        "variant_id": variant["id"],
+                        "title": variant["title"],
+                        "sku": variant.get("sku"),
+                        "available_for_sale": variant["availableForSale"],
+                        "price": variant.get("price"),
+                        "compare_at_price": variant.get("compareAtPrice"),
+                        "created_at": variant["createdAt"],
+                        "updated_at": variant["updatedAt"]
+                    })
+                
                 product_info = {
                     "product_id": product["id"],
                     "title": product["title"],
                     "handle": product["handle"],
+                    "description": product.get("description"),
                     "product_type": product.get("productType"),
                     "vendor": product.get("vendor"),
                     "created_at": product["createdAt"],
                     "updated_at": product["updatedAt"],
-                    "tags": product.get("tags", [])
+                    "published_at": product.get("publishedAt"),
+                    "tags": product.get("tags", []),
+                    "featured_image": {
+                        "url": product.get("featuredImage", {}).get("url"),
+                        "alt_text": product.get("featuredImage", {}).get("altText")
+                    } if product.get("featuredImage") else None,
+                    "variants": variants,
+                    "variants_count": len(variants)
                 }
                 
                 collection_info["products"].append(product_info)
