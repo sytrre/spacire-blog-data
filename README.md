@@ -45,4 +45,4 @@ For direct API access:
 
 All data files sync automatically every 30 minutes.
 
-Last updated: Mon Sep 15 23:04:28 UTC 2025
+Last updated: Mon Sep 15 23:10:21 UTC 2025
