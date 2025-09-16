@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Spacire Shopify Data Fetcher - Complete Version with Pagination
-Fetches blog, collection, and product data from Shopify using GraphQL API
-Creates separate JSON files for each data type
+Spacire Shopify Data Fetcher - Enhanced Version
+Fetches complete product data matching Shopify's JSON structure
+Creates both main files and individual collection files
 """
 
 import os
@@ -10,6 +10,7 @@ import json
 import requests
 from datetime import datetime
 import sys
+import glob
 
 class ShopifyDataFetcher:
     def __init__(self, shop_domain, access_token):
@@ -28,6 +29,7 @@ class ShopifyDataFetcher:
           shop {
             name
             myshopifyDomain
+            currencyCode
           }
         }
         """
@@ -36,12 +38,582 @@ class ShopifyDataFetcher:
         result = self.execute_query(query, "shop_info")
         if result:
             shop_name = result.get("data", {}).get("shop", {}).get("name", "Unknown")
-            print(f"Connected to shop: {shop_name}", file=sys.stderr)
+            currency = result.get("data", {}).get("shop", {}).get("currencyCode", "GBP")
+            print(f"Connected to shop: {shop_name} (Currency: {currency})", file=sys.stderr)
             return True
         return False
     
+    def fetch_all_products(self):
+        """Fetch ALL products with complete data matching Shopify JSON structure"""
+        print("Fetching all products with full data...", file=sys.stderr)
+        
+        all_products = []
+        has_next_page = True
+        cursor = None
+        
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            # Enhanced query to get ALL product data including HTML descriptions
+            query = f"""
+            {{
+              products(first: 250{cursor_param}) {{
+                edges {{
+                  node {{
+                    id
+                    title
+                    handle
+                    descriptionHtml
+                    vendor
+                    productType
+                    createdAt
+                    updatedAt
+                    publishedAt
+                    tags
+                    status
+                    totalInventory
+                    onlineStoreUrl
+                    seo {{
+                      title
+                      description
+                    }}
+                    featuredImage {{
+                      url
+                      altText
+                      width
+                      height
+                    }}
+                    images(first: 20) {{
+                      edges {{
+                        node {{
+                          url
+                          altText
+                          width
+                          height
+                          id
+                        }}
+                      }}
+                    }}
+                    variants(first: 100) {{
+                      edges {{
+                        node {{
+                          id
+                          title
+                          price
+                          compareAtPrice
+                          sku
+                          position
+                          inventoryQuantity
+                          availableForSale
+                          barcode
+                          weight
+                          weightUnit
+                          taxable
+                          requiresShipping
+                          createdAt
+                          updatedAt
+                          image {{
+                            url
+                            altText
+                            width
+                            height
+                          }}
+                          selectedOptions {{
+                            name
+                            value
+                          }}
+                        }}
+                      }}
+                    }}
+                    options {{
+                      id
+                      name
+                      position
+                      values
+                    }}
+                    priceRange {{
+                      minVariantPrice {{
+                        amount
+                        currencyCode
+                      }}
+                      maxVariantPrice {{
+                        amount
+                        currencyCode
+                      }}
+                    }}
+                    compareAtPriceRange {{
+                      minVariantPrice {{
+                        amount
+                        currencyCode
+                      }}
+                      maxVariantPrice {{
+                        amount
+                        currencyCode
+                      }}
+                    }}
+                  }}
+                  cursor
+                }}
+                pageInfo {{
+                  hasNextPage
+                  endCursor
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"products_page_{len(all_products)//250 + 1}")
+            if not data:
+                break
+                
+            products_data = data.get("data", {}).get("products", {})
+            edges = products_data.get("edges", [])
+            
+            for edge in edges:
+                product = self.format_product_for_json(edge["node"])
+                all_products.append(product)
+                
+            page_info = products_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+            
+            print(f"Fetched {len(edges)} products, total so far: {len(all_products)}", file=sys.stderr)
+        
+        # Create Shopify-style products.json
+        products_output = {
+            "products": all_products
+        }
+        
+        self.save_json_file("products.json", products_output)
+        print(f"Saved {len(all_products)} products to products.json", file=sys.stderr)
+        
+        return all_products
+    
+    def fetch_all_collections(self):
+        """Fetch ALL collections matching Shopify JSON structure"""
+        print("Fetching all collections...", file=sys.stderr)
+        
+        all_collections = []
+        has_next_page = True
+        cursor = None
+        
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            query = f"""
+            {{
+              collections(first: 250{cursor_param}) {{
+                edges {{
+                  node {{
+                    id
+                    title
+                    handle
+                    descriptionHtml
+                    updatedAt
+                    publishedOnCurrentPublication
+                    sortOrder
+                    templateSuffix
+                    productsCount
+                    image {{
+                      url
+                      altText
+                      width
+                      height
+                    }}
+                    seo {{
+                      title
+                      description
+                    }}
+                  }}
+                  cursor
+                }}
+                pageInfo {{
+                  hasNextPage
+                  endCursor
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"collections_page_{len(all_collections)//250 + 1}")
+            if not data:
+                break
+                
+            collections_data = data.get("data", {}).get("collections", {})
+            edges = collections_data.get("edges", [])
+            
+            for edge in edges:
+                collection = self.format_collection_for_json(edge["node"])
+                all_collections.append(collection)
+                
+            page_info = collections_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+            
+            print(f"Fetched {len(edges)} collections, total so far: {len(all_collections)}", file=sys.stderr)
+        
+        # Create Shopify-style collections.json
+        collections_output = {
+            "collections": all_collections
+        }
+        
+        self.save_json_file("collections.json", collections_output)
+        print(f"Saved {len(all_collections)} collections to collections.json", file=sys.stderr)
+        
+        return all_collections
+    
+    def fetch_collection_products(self, collection_handle):
+        """Fetch products for a specific collection"""
+        print(f"Fetching products for collection: {collection_handle}", file=sys.stderr)
+        
+        all_products = []
+        has_next_page = True
+        cursor = None
+        
+        while has_next_page:
+            cursor_param = f', after: "{cursor}"' if cursor else ""
+            
+            query = f"""
+            {{
+              collectionByHandle(handle: "{collection_handle}") {{
+                id
+                title
+                handle
+                products(first: 250{cursor_param}) {{
+                  edges {{
+                    node {{
+                      id
+                      title
+                      handle
+                      descriptionHtml
+                      vendor
+                      productType
+                      createdAt
+                      updatedAt
+                      publishedAt
+                      tags
+                      status
+                      totalInventory
+                      onlineStoreUrl
+                      seo {{
+                        title
+                        description
+                      }}
+                      featuredImage {{
+                        url
+                        altText
+                        width
+                        height
+                      }}
+                      images(first: 20) {{
+                        edges {{
+                          node {{
+                            url
+                            altText
+                            width
+                            height
+                            id
+                          }}
+                        }}
+                      }}
+                      variants(first: 100) {{
+                        edges {{
+                          node {{
+                            id
+                            title
+                            price
+                            compareAtPrice
+                            sku
+                            position
+                            inventoryQuantity
+                            availableForSale
+                            barcode
+                            weight
+                            weightUnit
+                            taxable
+                            requiresShipping
+                            createdAt
+                            updatedAt
+                            image {{
+                              url
+                              altText
+                              width
+                              height
+                            }}
+                            selectedOptions {{
+                              name
+                              value
+                            }}
+                          }}
+                        }}
+                      }}
+                      options {{
+                        id
+                        name
+                        position
+                        values
+                      }}
+                      priceRange {{
+                        minVariantPrice {{
+                          amount
+                          currencyCode
+                        }}
+                        maxVariantPrice {{
+                          amount
+                          currencyCode
+                        }}
+                      }}
+                      compareAtPriceRange {{
+                        minVariantPrice {{
+                          amount
+                          currencyCode
+                        }}
+                        maxVariantPrice {{
+                          amount
+                          currencyCode
+                        }}
+                      }}
+                    }}
+                    cursor
+                  }}
+                  pageInfo {{
+                    hasNextPage
+                    endCursor
+                  }}
+                }}
+              }}
+            }}
+            """
+            
+            data = self.execute_query(query, f"collection_{collection_handle}_products")
+            if not data or not data.get("data", {}).get("collectionByHandle"):
+                break
+                
+            collection_data = data.get("data", {}).get("collectionByHandle", {})
+            products_data = collection_data.get("products", {})
+            edges = products_data.get("edges", [])
+            
+            for edge in edges:
+                product = self.format_product_for_json(edge["node"])
+                all_products.append(product)
+                
+            page_info = products_data.get("pageInfo", {})
+            has_next_page = page_info.get("hasNextPage", False)
+            cursor = page_info.get("endCursor")
+        
+        return all_products
+    
+    def format_product_for_json(self, product_node):
+        """Format product data to match Shopify's JSON structure"""
+        # Extract Shopify numeric ID from GraphQL ID
+        gid = product_node.get("id", "")
+        numeric_id = gid.split("/")[-1] if "/" in gid else gid
+        
+        # Format images
+        images = []
+        for img_edge in product_node.get("images", {}).get("edges", []):
+            img = img_edge["node"]
+            images.append({
+                "id": img.get("id", "").split("/")[-1] if "/" in img.get("id", "") else img.get("id"),
+                "position": len(images) + 1,
+                "created_at": product_node.get("createdAt"),
+                "updated_at": product_node.get("updatedAt"),
+                "alt": img.get("altText"),
+                "width": img.get("width"),
+                "height": img.get("height"),
+                "src": img.get("url"),
+                "variant_ids": []
+            })
+        
+        # Format variants
+        variants = []
+        for var_edge in product_node.get("variants", {}).get("edges", []):
+            var = var_edge["node"]
+            var_gid = var.get("id", "")
+            var_numeric_id = var_gid.split("/")[-1] if "/" in var_gid else var_gid
+            
+            # Format options for variant
+            options = []
+            for opt in var.get("selectedOptions", []):
+                options.append(opt.get("value"))
+            
+            variants.append({
+                "id": var_numeric_id,
+                "product_id": numeric_id,
+                "title": var.get("title"),
+                "price": var.get("price"),
+                "compare_at_price": var.get("compareAtPrice"),
+                "sku": var.get("sku"),
+                "position": var.get("position", 1),
+                "inventory_quantity": var.get("inventoryQuantity"),
+                "available": var.get("availableForSale", True),
+                "barcode": var.get("barcode"),
+                "grams": int(float(var.get("weight", 0)) * 1000) if var.get("weight") else 0,
+                "weight": var.get("weight", 0),
+                "weight_unit": var.get("weightUnit", "kg"),
+                "taxable": var.get("taxable", True),
+                "requires_shipping": var.get("requiresShipping", True),
+                "created_at": var.get("createdAt"),
+                "updated_at": var.get("updatedAt"),
+                "featured_image": {
+                    "id": var.get("image", {}).get("id", "").split("/")[-1] if var.get("image", {}).get("id") else None,
+                    "position": 1,
+                    "src": var.get("image", {}).get("url"),
+                    "alt": var.get("image", {}).get("altText"),
+                    "width": var.get("image", {}).get("width"),
+                    "height": var.get("image", {}).get("height")
+                } if var.get("image") else None,
+                "option1": options[0] if len(options) > 0 else None,
+                "option2": options[1] if len(options) > 1 else None,
+                "option3": options[2] if len(options) > 2 else None
+            })
+        
+        # Format options
+        options = []
+        for opt in product_node.get("options", []):
+            opt_id = opt.get("id", "").split("/")[-1] if "/" in opt.get("id", "") else opt.get("id")
+            options.append({
+                "id": opt_id,
+                "product_id": numeric_id,
+                "name": opt.get("name"),
+                "position": opt.get("position", len(options) + 1),
+                "values": opt.get("values", [])
+            })
+        
+        # Build the product object
+        product = {
+            "id": numeric_id,
+            "title": product_node.get("title"),
+            "body_html": product_node.get("descriptionHtml", ""),
+            "vendor": product_node.get("vendor"),
+            "product_type": product_node.get("productType"),
+            "created_at": product_node.get("createdAt"),
+            "handle": product_node.get("handle"),
+            "updated_at": product_node.get("updatedAt"),
+            "published_at": product_node.get("publishedAt"),
+            "template_suffix": None,
+            "published_scope": "web",
+            "tags": ", ".join(product_node.get("tags", [])) if product_node.get("tags") else "",
+            "status": product_node.get("status", "active").lower(),
+            "variants": variants,
+            "options": options,
+            "images": images,
+            "image": {
+                "id": images[0]["id"] if images else None,
+                "position": 1,
+                "created_at": product_node.get("createdAt"),
+                "updated_at": product_node.get("updatedAt"),
+                "alt": product_node.get("featuredImage", {}).get("altText"),
+                "width": product_node.get("featuredImage", {}).get("width"),
+                "height": product_node.get("featuredImage", {}).get("height"),
+                "src": product_node.get("featuredImage", {}).get("url")
+            } if product_node.get("featuredImage") else None
+        }
+        
+        return product
+    
+    def format_collection_for_json(self, collection_node):
+        """Format collection data to match Shopify's JSON structure"""
+        # Extract Shopify numeric ID from GraphQL ID
+        gid = collection_node.get("id", "")
+        numeric_id = gid.split("/")[-1] if "/" in gid else gid
+        
+        collection = {
+            "id": numeric_id,
+            "handle": collection_node.get("handle"),
+            "title": collection_node.get("title"),
+            "updated_at": collection_node.get("updatedAt"),
+            "body_html": collection_node.get("descriptionHtml", ""),
+            "published_at": collection_node.get("updatedAt"),
+            "sort_order": collection_node.get("sortOrder", "best-selling"),
+            "template_suffix": collection_node.get("templateSuffix"),
+            "products_count": collection_node.get("productsCount", 0),
+            "collection_type": "smart" if collection_node.get("sortOrder") else "custom",
+            "published_scope": "web",
+            "image": {
+                "created_at": collection_node.get("updatedAt"),
+                "alt": collection_node.get("image", {}).get("altText"),
+                "width": collection_node.get("image", {}).get("width"),
+                "height": collection_node.get("image", {}).get("height"),
+                "src": collection_node.get("image", {}).get("url")
+            } if collection_node.get("image") else None
+        }
+        
+        return collection
+    
+    def create_collection_product_files(self, collections):
+        """Create individual JSON files for each collection with its products"""
+        print(f"Creating individual collection product files...", file=sys.stderr)
+        
+        # Create collections directory if it doesn't exist
+        os.makedirs("collections", exist_ok=True)
+        
+        for collection in collections[:10]:  # Limit to first 10 for testing, remove limit in production
+            handle = collection.get("handle")
+            if not handle:
+                continue
+                
+            print(f"Fetching products for collection: {handle}", file=sys.stderr)
+            
+            # Fetch products for this collection
+            products = self.fetch_collection_products(handle)
+            
+            if products:
+                # Create the collection products JSON structure
+                collection_products = {
+                    "collection": {
+                        "id": collection.get("id"),
+                        "handle": handle,
+                        "title": collection.get("title"),
+                        "products_count": len(products)
+                    },
+                    "products": products
+                }
+                
+                # Save to collections/[handle]_products.json
+                filename = f"collections/{handle}_products.json"
+                self.save_json_file(filename, collection_products)
+                print(f"Saved {len(products)} products for collection {handle}", file=sys.stderr)
+    
+    def execute_query(self, query, query_type):
+        """Execute GraphQL query with detailed error reporting"""
+        try:
+            response = requests.post(
+                self.api_url,
+                headers=self.headers,
+                json={"query": query},
+                timeout=60
+            )
+            
+            if response.status_code != 200:
+                print(f"HTTP Error for {query_type}: {response.status_code}", file=sys.stderr)
+                return None
+            
+            data = response.json()
+            
+            if "errors" in data:
+                print(f"GraphQL errors for {query_type}:", file=sys.stderr)
+                for error in data["errors"]:
+                    print(f"  - {error}", file=sys.stderr)
+                return None
+            
+            return data
+            
+        except Exception as e:
+            print(f"Error for {query_type}: {str(e)}", file=sys.stderr)
+            return None
+    
+    def save_json_file(self, filename, data):
+        """Save data to JSON file"""
+        try:
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"Successfully saved {filename}", file=sys.stderr)
+        except Exception as e:
+            print(f"Error saving {filename}: {str(e)}", file=sys.stderr)
+    
     def fetch_and_save_blogs(self):
-        """Fetch and save blog data"""
+        """Fetch and save blog data (keeping existing functionality)"""
         print("Fetching blogs...", file=sys.stderr)
         
         query = """
@@ -61,10 +633,15 @@ class ShopifyDataFetcher:
                       title
                       handle
                       summary
+                      contentHtml
                       createdAt
                       updatedAt
                       publishedAt
                       tags
+                      image {
+                        url
+                        altText
+                      }
                     }
                   }
                 }
@@ -76,775 +653,220 @@ class ShopifyDataFetcher:
         
         data = self.execute_query(query, "blogs")
         if data:
-            result = self.process_blog_data(data)
-            self.save_json_file("blog_data.json", result)
-            return True
-        return False
-    
-    def fetch_and_save_collections_simple(self):
-        """Fetch ALL collections with pagination"""
-        print("Fetching collections (simple) with pagination...", file=sys.stderr)
-        
-        all_collections = []
-        has_next_page = True
-        cursor = None
-        
-        while has_next_page:
-            cursor_param = f', after: "{cursor}"' if cursor else ""
-            
-            query = f"""
-            {{
-              collections(first: 250{cursor_param}) {{
-                edges {{
-                  node {{
-                    id
-                    title
-                    handle
-                    description
-                  }}
-                  cursor
-                }}
-                pageInfo {{
-                  hasNextPage
-                  endCursor
-                }}
-              }}
-            }}
-            """
-            
-            data = self.execute_query(query, f"collections_simple_page_{len(all_collections)//250 + 1}")
-            if not data:
-                break
-                
-            collections_data = data.get("data", {}).get("collections", {})
-            edges = collections_data.get("edges", [])
-            
-            for edge in edges:
-                all_collections.append(edge["node"])
-                
-            page_info = collections_data.get("pageInfo", {})
-            has_next_page = page_info.get("hasNextPage", False)
-            cursor = page_info.get("endCursor")
-            
-            print(f"Fetched {len(edges)} collections, total so far: {len(all_collections)}", file=sys.stderr)
-        
-        if all_collections:
-            result = self.process_collections_from_list(all_collections)
-            self.save_json_file("collections.json", result)
-            return True
-        return False
-    
-    def fetch_and_save_products_simple(self):
-        """Fetch ALL products with pagination"""
-        print("Fetching products (simple) with pagination...", file=sys.stderr)
-        
-        all_products = []
-        has_next_page = True
-        cursor = None
-        
-        while has_next_page:
-            cursor_param = f', after: "{cursor}"' if cursor else ""
-            
-            query = f"""
-            {{
-              products(first: 250{cursor_param}) {{
-                edges {{
-                  node {{
-                    id
-                    title
-                    handle
-                    description
-                    productType
-                    vendor
-                    createdAt
-                    updatedAt
-                    publishedAt
-                    tags
-                    featuredImage {{
-                      url
-                      altText
-                    }}
-                    images(first: 10) {{
-                      edges {{
-                        node {{
-                          url
-                          altText
-                        }}
-                      }}
-                    }}
-                    variants(first: 100) {{
-                      edges {{
-                        node {{
-                          id
-                          title
-                          sku
-                          availableForSale
-                          price
-                          compareAtPrice
-                          weight
-                          weightUnit
-                          createdAt
-                          updatedAt
-                          selectedOptions {{
-                            name
-                            value
-                          }}
-                        }}
-                      }}
-                    }}
-                    options {{
-                      name
-                      values
-                    }}
-                  }}
-                  cursor
-                }}
-                pageInfo {{
-                  hasNextPage
-                  endCursor
-                }}
-              }}
-            }}
-            """
-            
-            data = self.execute_query(query, f"products_simple_page_{len(all_products)//250 + 1}")
-            if not data:
-                break
-                
-            products_data = data.get("data", {}).get("products", {})
-            edges = products_data.get("edges", [])
-            
-            for edge in edges:
-                all_products.append(edge["node"])
-                
-            page_info = products_data.get("pageInfo", {})
-            has_next_page = page_info.get("hasNextPage", False)
-            cursor = page_info.get("endCursor")
-            
-            print(f"Fetched {len(edges)} products, total so far: {len(all_products)}", file=sys.stderr)
-        
-        if all_products:
-            result = self.process_products_from_list(all_products)
-            self.save_json_file("products.json", result)
-            return True
-        return False
-    
-    def fetch_and_save_collections_with_products(self):
-        """Fetch ALL collections with their products using pagination"""
-        print("Fetching collections with products using pagination...", file=sys.stderr)
-        
-        all_collections = []
-        has_next_page = True
-        cursor = None
-        
-        while has_next_page:
-            cursor_param = f', after: "{cursor}"' if cursor else ""
-            
-            query = f"""
-            {{
-              collections(first: 100{cursor_param}) {{
-                edges {{
-                  node {{
-                    id
-                    title
-                    handle
-                    description
-                    products(first: 100) {{
-                      edges {{
-                        node {{
-                          id
-                          title
-                          handle
-                          productType
-                          vendor
-                          createdAt
-                          updatedAt
-                          publishedAt
-                          tags
-                          featuredImage {{
-                            url
-                            altText
-                          }}
-                          variants(first: 50) {{
-                            edges {{
-                              node {{
-                                id
-                                title
-                                sku
-                                availableForSale
-                                price
-                                compareAtPrice
-                                createdAt
-                                updatedAt
-                              }}
-                            }}
-                          }}
-                        }}
-                      }}
-                    }}
-                  }}
-                  cursor
-                }}
-                pageInfo {{
-                  hasNextPage
-                  endCursor
-                }}
-              }}
-            }}
-            """
-            
-            data = self.execute_query(query, f"collections_with_products_page_{len(all_collections)//100 + 1}")
-            if not data:
-                break
-                
-            collections_data = data.get("data", {}).get("collections", {})
-            edges = collections_data.get("edges", [])
-            
-            for edge in edges:
-                all_collections.append(edge["node"])
-                
-            page_info = collections_data.get("pageInfo", {})
-            has_next_page = page_info.get("hasNextPage", False)
-            cursor = page_info.get("endCursor")
-            
-            print(f"Fetched {len(edges)} collections with products, total so far: {len(all_collections)}", file=sys.stderr)
-        
-        if all_collections:
-            result = self.process_collections_with_products_from_list(all_collections)
-            self.save_json_file("collections_with_products.json", result)
-            return True
-        return False
-    
-    def execute_query(self, query, query_type):
-        """Execute GraphQL query with detailed error reporting"""
-        
-        try:
-            print(f"Executing {query_type} query...", file=sys.stderr)
-            
-            response = requests.post(
-                self.api_url,
-                headers=self.headers,
-                json={"query": query},
-                timeout=30
-            )
-            
-            print(f"Response status for {query_type}: {response.status_code}", file=sys.stderr)
-            
-            if response.status_code != 200:
-                print(f"HTTP Error for {query_type}: {response.status_code}", file=sys.stderr)
-                print(f"Response text: {response.text[:500]}", file=sys.stderr)
-                return None
-            
-            data = response.json()
-            
-            if "errors" in data:
-                print(f"GraphQL errors for {query_type}:", file=sys.stderr)
-                for error in data["errors"]:
-                    print(f"  - {error}", file=sys.stderr)
-                return None
-            
-            if "data" not in data:
-                print(f"No data field in response for {query_type}", file=sys.stderr)
-                print(f"Response: {json.dumps(data, indent=2)[:500]}", file=sys.stderr)
-                return None
-                
-            print(f"Successfully fetched {query_type}", file=sys.stderr)
-            return data
-            
-        except requests.exceptions.Timeout:
-            print(f"Timeout error for {query_type}", file=sys.stderr)
-            return None
-        except requests.exceptions.RequestException as e:
-            print(f"Request error for {query_type}: {str(e)}", file=sys.stderr)
-            return None
-        except json.JSONDecodeError as e:
-            print(f"JSON decode error for {query_type}: {str(e)}", file=sys.stderr)
-            return None
-        except Exception as e:
-            print(f"Unexpected error for {query_type}: {str(e)}", file=sys.stderr)
-            return None
-    
-    def process_blog_data(self, raw_data):
-        """Process blog data"""
-        timestamp = datetime.utcnow().isoformat() + "Z"
-        
-        processed_data = {
-            "fetch_timestamp": timestamp,
-            "shop_domain": self.shop_domain,
-            "data_type": "blogs",
-            "total_blogs": 0,
-            "total_articles": 0,
-            "blogs": []
-        }
-        
-        blogs_data = raw_data.get("data", {}).get("blogs", {}).get("edges", [])
-        processed_data["total_blogs"] = len(blogs_data)
-        
-        for blog_edge in blogs_data:
-            blog = blog_edge["node"]
-            
-            blog_info = {
-                "blog_id": blog["id"],
-                "blog_title": blog["title"],
-                "blog_handle": blog["handle"],
-                "blog_created_at": blog["createdAt"],
-                "blog_updated_at": blog["updatedAt"],
-                "articles": []
-            }
-            
-            articles_data = blog.get("articles", {}).get("edges", [])
-            
-            for article_edge in articles_data:
-                article = article_edge["node"]
-                
-                is_published = article.get("publishedAt") is not None
-                
-                article_info = {
-                    "article_id": article["id"],
-                    "title": article["title"],
-                    "handle": article["handle"],
-                    "summary": article.get("summary"),
-                    "status": "PUBLISHED" if is_published else "DRAFT",
-                    "created_at": article["createdAt"],
-                    "updated_at": article["updatedAt"],
-                    "published_at": article.get("publishedAt"),
-                    "tags": article.get("tags", []),
-                    "is_published": is_published
+            blogs = []
+            for blog_edge in data.get("data", {}).get("blogs", {}).get("edges", []):
+                blog = blog_edge["node"]
+                blog_formatted = {
+                    "id": blog["id"].split("/")[-1] if "/" in blog["id"] else blog["id"],
+                    "title": blog["title"],
+                    "handle": blog["handle"],
+                    "created_at": blog["createdAt"],
+                    "updated_at": blog["updatedAt"],
+                    "articles": []
                 }
                 
-                blog_info["articles"].append(article_info)
-            
-            blog_info["article_count"] = len(blog_info["articles"])
-            processed_data["total_articles"] += len(blog_info["articles"])
-            processed_data["blogs"].append(blog_info)
-        
-        return processed_data
-    
-    def process_collections_from_list(self, collections_list):
-        """Process collections from a list"""
-        timestamp = datetime.utcnow().isoformat() + "Z"
-        
-        processed_data = {
-            "fetch_timestamp": timestamp,
-            "shop_domain": self.shop_domain,
-            "data_type": "collections",
-            "total_collections": len(collections_list),
-            "collections": []
-        }
-        
-        for collection in collections_list:
-            collection_info = {
-                "collection_id": collection["id"],
-                "title": collection["title"],
-                "handle": collection["handle"],
-                "description": collection.get("description")
-            }
-            
-            processed_data["collections"].append(collection_info)
-        
-        return processed_data
-    
-    def process_products_from_list(self, products_list):
-        """Process products from a list"""
-        timestamp = datetime.utcnow().isoformat() + "Z"
-        
-        processed_data = {
-            "fetch_timestamp": timestamp,
-            "shop_domain": self.shop_domain,
-            "data_type": "products",
-            "total_products": len(products_list),
-            "products": []
-        }
-        
-        for product in products_list:
-            # Process images
-            images = []
-            images_data = product.get("images", {}).get("edges", [])
-            for image_edge in images_data:
-                image = image_edge["node"]
-                images.append({
-                    "url": image.get("url"),
-                    "alt_text": image.get("altText")
-                })
-            
-            # Process variants
-            variants = []
-            variants_data = product.get("variants", {}).get("edges", [])
-            for variant_edge in variants_data:
-                variant = variant_edge["node"]
-                
-                # Process selected options
-                selected_options = []
-                for option in variant.get("selectedOptions", []):
-                    selected_options.append({
-                        "name": option.get("name"),
-                        "value": option.get("value")
+                for article_edge in blog.get("articles", {}).get("edges", []):
+                    article = article_edge["node"]
+                    blog_formatted["articles"].append({
+                        "id": article["id"].split("/")[-1] if "/" in article["id"] else article["id"],
+                        "title": article["title"],
+                        "handle": article["handle"],
+                        "summary": article.get("summary"),
+                        "content": article.get("contentHtml"),
+                        "created_at": article["createdAt"],
+                        "updated_at": article["updatedAt"],
+                        "published_at": article.get("publishedAt"),
+                        "tags": ", ".join(article.get("tags", [])) if article.get("tags") else "",
+                        "image": article.get("image")
                     })
                 
-                variants.append({
-                    "variant_id": variant["id"],
-                    "title": variant["title"],
-                    "sku": variant.get("sku"),
-                    "available_for_sale": variant["availableForSale"],
-                    "price": variant.get("price"),
-                    "compare_at_price": variant.get("compareAtPrice"),
-                    "weight": variant.get("weight"),
-                    "weight_unit": variant.get("weightUnit"),
-                    "created_at": variant["createdAt"],
-                    "updated_at": variant["updatedAt"],
-                    "selected_options": selected_options
-                })
+                blogs.append(blog_formatted)
             
-            # Process product options
-            options = []
-            for option in product.get("options", []):
-                options.append({
-                    "name": option.get("name"),
-                    "values": option.get("values", [])
-                })
-            
-            product_info = {
-                "product_id": product["id"],
-                "title": product["title"],
-                "handle": product["handle"],
-                "description": product.get("description"),
-                "product_type": product.get("productType"),
-                "vendor": product.get("vendor"),
-                "created_at": product["createdAt"],
-                "updated_at": product["updatedAt"],
-                "published_at": product.get("publishedAt"),
-                "tags": product.get("tags", []),
-                "featured_image": {
-                    "url": product.get("featuredImage", {}).get("url"),
-                    "alt_text": product.get("featuredImage", {}).get("altText")
-                } if product.get("featuredImage") else None,
-                "images": images,
-                "images_count": len(images),
-                "variants": variants,
-                "variants_count": len(variants),
-                "options": options
-            }
-            
-            processed_data["products"].append(product_info)
-        
-        return processed_data
+            self.save_json_file("blogs.json", {"blogs": blogs})
+            return True
+        return False
     
-    def process_collections_with_products_from_list(self, collections_list):
-        """Process collections with products from a list"""
-        timestamp = datetime.utcnow().isoformat() + "Z"
+    def cleanup_old_chunk_files(self):
+        """Remove old chunk files that are no longer needed"""
+        print("Cleaning up old chunk files...", file=sys.stderr)
         
-        processed_data = {
-            "fetch_timestamp": timestamp,
-            "shop_domain": self.shop_domain,
-            "data_type": "collections_with_products",
-            "total_collections": len(collections_list),
-            "collections": []
-        }
+        import glob
         
-        for collection in collections_list:
-            collection_info = {
-                "collection_id": collection["id"],
-                "title": collection["title"],
-                "handle": collection["handle"],
-                "description": collection.get("description"),
-                "products": []
-            }
-            
-            products_data = collection.get("products", {}).get("edges", [])
-            
-            for product_edge in products_data:
-                product = product_edge["node"]
-                
-                # Process variants
-                variants = []
-                variants_data = product.get("variants", {}).get("edges", [])
-                for variant_edge in variants_data:
-                    variant = variant_edge["node"]
-                    variants.append({
-                        "variant_id": variant["id"],
-                        "title": variant["title"],
-                        "sku": variant.get("sku"),
-                        "available_for_sale": variant["availableForSale"],
-                        "price": variant.get("price"),
-                        "compare_at_price": variant.get("compareAtPrice"),
-                        "created_at": variant["createdAt"],
-                        "updated_at": variant["updatedAt"]
-                    })
-                
-                product_info = {
-                    "product_id": product["id"],
-                    "title": product["title"],
-                    "handle": product["handle"],
-                    "description": product.get("description"),
-                    "product_type": product.get("productType"),
-                    "vendor": product.get("vendor"),
-                    "created_at": product["createdAt"],
-                    "updated_at": product["updatedAt"],
-                    "published_at": product.get("publishedAt"),
-                    "tags": product.get("tags", []),
-                    "featured_image": {
-                        "url": product.get("featuredImage", {}).get("url"),
-                        "alt_text": product.get("featuredImage", {}).get("altText")
-                    } if product.get("featuredImage") else None,
-                    "variants": variants,
-                    "variants_count": len(variants)
-                }
-                
-                collection_info["products"].append(product_info)
-            
-            collection_info["products_count"] = len(collection_info["products"])
-            processed_data["collections"].append(collection_info)
+        # Patterns for old chunk files to remove
+        old_file_patterns = [
+            "products_chunk_*.json",
+            "collections_with_products_chunk_*.json",
+            "products_summary.json",
+            "collections_with_products_summary.json",
+            "blog_data.json",  # Old format
+            "collections_with_products.json"  # Old large file
+        ]
         
-        return processed_data
+        removed_count = 0
+        for pattern in old_file_patterns:
+            files = glob.glob(pattern)
+            for file in files:
+                try:
+                    os.remove(file)
+                    print(f"Removed old file: {file}", file=sys.stderr)
+                    removed_count += 1
+                except Exception as e:
+                    print(f"Error removing {file}: {e}", file=sys.stderr)
+        
+        if removed_count > 0:
+            print(f"Cleaned up {removed_count} old files", file=sys.stderr)
     
-    def save_json_file(self, filename, data):
-        """Save data to JSON file with chunking for large files"""
-        try:
-            # Save main file
-            with open(filename, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
-            
-            file_size = len(json.dumps(data))
-            print(f"Successfully saved {filename} with {file_size} characters", file=sys.stderr)
-            
-            # If file is large (over 500KB), create chunked versions
-            if file_size > 500000:
-                self.create_chunked_files(filename, data)
-                
-        except Exception as e:
-            print(f"Error saving {filename}: {str(e)}", file=sys.stderr)
-    
-    def create_chunked_files(self, filename, data):
-        """Create smaller chunked files for large datasets"""
-        try:
-            base_name = filename.replace('.json', '')
-            data_type = data.get('data_type', 'unknown')
-            
-            if data_type == 'products':
-                products = data.get('products', [])
-                chunk_size = 50  # 50 products per chunk
-                
-                for i in range(0, len(products), chunk_size):
-                    chunk = products[i:i + chunk_size]
-                    chunk_data = {
-                        "fetch_timestamp": data.get('fetch_timestamp'),
-                        "shop_domain": data.get('shop_domain'),
-                        "data_type": f"products_chunk_{i//chunk_size + 1}",
-                        "chunk_info": {
-                            "chunk_number": i//chunk_size + 1,
-                            "total_chunks": (len(products) + chunk_size - 1) // chunk_size,
-                            "products_in_chunk": len(chunk),
-                            "total_products": len(products)
-                        },
-                        "products": chunk
-                    }
-                    
-                    chunk_filename = f"{base_name}_chunk_{i//chunk_size + 1}.json"
-                    with open(chunk_filename, "w", encoding="utf-8") as f:
-                        json.dump(chunk_data, f, indent=2, ensure_ascii=False)
-                    
-                    print(f"Created chunk: {chunk_filename}", file=sys.stderr)
-            
-            elif data_type == 'collections_with_products':
-                collections = data.get('collections', [])
-                chunk_size = 20  # 20 collections per chunk
-                
-                for i in range(0, len(collections), chunk_size):
-                    chunk = collections[i:i + chunk_size]
-                    chunk_data = {
-                        "fetch_timestamp": data.get('fetch_timestamp'),
-                        "shop_domain": data.get('shop_domain'),
-                        "data_type": f"collections_with_products_chunk_{i//chunk_size + 1}",
-                        "chunk_info": {
-                            "chunk_number": i//chunk_size + 1,
-                            "total_chunks": (len(collections) + chunk_size - 1) // chunk_size,
-                            "collections_in_chunk": len(chunk),
-                            "total_collections": len(collections)
-                        },
-                        "collections": chunk
-                    }
-                    
-                    chunk_filename = f"{base_name}_chunk_{i//chunk_size + 1}.json"
-                    with open(chunk_filename, "w", encoding="utf-8") as f:
-                        json.dump(chunk_data, f, indent=2, ensure_ascii=False)
-                    
-                    print(f"Created chunk: {chunk_filename}", file=sys.stderr)
-            
-            # Create summary file for large datasets
-            summary_data = {
-                "fetch_timestamp": data.get('fetch_timestamp'),
-                "shop_domain": data.get('shop_domain'),
-                "data_type": f"{data_type}_summary",
-                "file_info": {
-                    "main_file": filename,
-                    "file_size_characters": len(json.dumps(data)),
-                    "chunked": True,
-                    "total_items": data.get('total_products') or data.get('total_collections', 0)
-                }
-            }
-            
-            # Add item summaries
-            if data_type == 'products':
-                summary_data["products_summary"] = [
-                    {
-                        "title": product.get('title'),
-                        "handle": product.get('handle'),
-                        "product_type": product.get('product_type'),
-                        "variants_count": product.get('variants_count', 0)
-                    }
-                    for product in data.get('products', [])
-                ]
-            elif data_type == 'collections_with_products':
-                summary_data["collections_summary"] = [
-                    {
-                        "title": collection.get('title'),
-                        "handle": collection.get('handle'),
-                        "products_count": collection.get('products_count', 0)
-                    }
-                    for collection in data.get('collections', [])
-                ]
-            
-            summary_filename = f"{base_name}_summary.json"
-            with open(summary_filename, "w", encoding="utf-8") as f:
-                json.dump(summary_data, f, indent=2, ensure_ascii=False)
-            
-            print(f"Created summary file: {summary_filename}", file=sys.stderr)
-            
-        except Exception as e:
-            print(f"Error creating chunked files: {str(e)}", file=sys.stderr)
-    
-    def create_data_index_file(self):
-        """Create a comprehensive index file with all data URLs and descriptions"""
+    def create_data_index_files(self):
+        """Create comprehensive index files with all data URLs"""
+        print("Creating data index files...", file=sys.stderr)
         
         base_url = "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/"
         timestamp = datetime.utcnow().isoformat() + "Z"
         
-        # Check what files exist
-        import os
-        existing_files = [f for f in os.listdir('.') if f.endswith('.json')]
+        # Get list of collection files
+        collection_files = []
+        if os.path.exists("collections"):
+            for file in os.listdir("collections"):
+                if file.endswith("_products.json"):
+                    collection_files.append(file)
+        collection_files.sort()
         
+        # Create text index
         index_content = f"""SPACIRE SHOPIFY DATA INDEX
 Generated: {timestamp}
 Repository: sytrre/spacire-blog-data
+Currency: GBP (British Pounds)
 
-=== COMPLETE DATA ACCESS ===
+=== SHOPIFY-FORMAT JSON DATA ACCESS ===
 
-BLOG DATA:
-- Main file: {base_url}blog_data.json
-- Contains: All blog posts and articles (published + drafts)
+MAIN DATA FILES:
+----------------
+• Products (All Products):
+  {base_url}products.json
+  Format: Shopify standard products.json with 250+ products per file
+  Contains: Full product data including descriptions, variants, images, pricing in GBP
 
-COLLECTIONS LIST:
-- Main file: {base_url}collections.json  
-- Contains: All 94+ collections with titles, handles, descriptions
-- Update frequency: Daily
+• Collections (All Collections):
+  {base_url}collections.json
+  Format: Shopify standard collections.json
+  Contains: All collections with metadata, descriptions, product counts
 
-PRODUCTS CATALOG:
-- Main file: {base_url}products.json
-- Contains: Complete product catalog with pricing, variants, images"""
+• Blogs (All Blog Posts):
+  {base_url}blogs.json
+  Format: Blog posts with full HTML content
+  Contains: All blog articles with summaries and full content
 
-        # Check for product chunks
-        product_chunks = [f for f in existing_files if f.startswith('products_chunk_')]
-        if product_chunks:
-            product_chunks.sort()
-            index_content += "\n- Chunked files (50 products each):"
-            for chunk in product_chunks:
-                chunk_num = chunk.replace('products_chunk_', '').replace('.json', '')
-                index_content += f"\n  * {base_url}{chunk}"
-            index_content += f"\n- Summary file: {base_url}products_summary.json"
-
+INDIVIDUAL COLLECTION FILES:
+----------------------------
+Each collection has its own product file with complete product data:
+"""
+        
+        # Add collection files to text index
+        for file in collection_files[:20]:  # Show first 20 in text file
+            collection_handle = file.replace("_products.json", "")
+            index_content += f"\n• {collection_handle}:\n  {base_url}collections/{file}"
+        
+        if len(collection_files) > 20:
+            index_content += f"\n\n...and {len(collection_files) - 20} more collection files"
+        
         index_content += f"""
-
-COLLECTIONS WITH PRODUCTS:
-- Main file: {base_url}collections_with_products.json
-- Contains: All collections with their complete product listings"""
-
-        # Check for collections_with_products chunks  
-        collection_chunks = [f for f in existing_files if f.startswith('collections_with_products_chunk_')]
-        if collection_chunks:
-            collection_chunks.sort()
-            index_content += "\n- Chunked files (20 collections each):"
-            for chunk in collection_chunks:
-                chunk_num = chunk.replace('collections_with_products_chunk_', '').replace('.json', '')
-                index_content += f"\n  * {base_url}{chunk}"
-            index_content += f"\n- Summary file: {base_url}collections_with_products_summary.json"
-
-        index_content += """
 
 === USAGE INSTRUCTIONS ===
 
-1. ACCESS ANY FILE: Copy any URL above into browser or API call
-2. MAIN FILES: Complete datasets (may be large)
-3. CHUNK FILES: Smaller portions for easier processing  
-4. SUMMARY FILES: Overview with titles and counts only
+For Developers/API Integration:
+1. Use the main files for bulk data access
+2. Use individual collection files for specific collection products
+3. All prices are in GBP (British Pounds)
+4. Data updates every 30 minutes automatically
 
-=== DATA STRUCTURE ===
-
-Blog Data: Articles with titles, summaries, tags, publish status
-Collections: Titles, handles, descriptions, product counts
-Products: Complete details including:
-  - Pricing (regular + compare-at)
-  - Variants with SKUs and availability
-  - Images and descriptions
-  - Product options (color, size, etc.)
-  - Tags, vendor, product type
+Data Structure:
+- Matches Shopify's standard JSON format exactly
+- Includes full HTML descriptions for products
+- Complete variant data with inventory levels
+- High-resolution images with dimensions
+- SEO metadata included
 
 === UPDATE FREQUENCY ===
+• Automatic sync: Every 30 minutes
+• Manual trigger: Available via GitHub Actions
+• Last updated: {timestamp}
 
-- Blogs, Products, Collections+Products: Every 30 minutes
-- Collections List: Daily at 6 AM UTC
-- This index file: Updates with every sync
+=== QUICK ACCESS EXAMPLES ===
+
+Get all products:
+curl {base_url}products.json
+
+Get specific collection products:
+curl {base_url}collections/blackout-curtains_products.json
+
+Get all blogs:
+curl {base_url}blogs.json
 
 === TECHNICAL INFO ===
-
-All data fetched via Shopify GraphQL API
-JSON format with consistent structure
-Pagination implemented (no data limits)
-Automatic chunking for large files (500KB+ threshold)
-
-Last system update: """ + timestamp
-
-        # Save the index file
-        try:
-            with open("data_index.txt", "w", encoding="utf-8") as f:
-                f.write(index_content)
-            print("Created data index file: data_index.txt", file=sys.stderr)
-            
-            # Also create a JSON version for programmatic access
-            json_index = {
-                "generated": timestamp,
-                "repository": "sytrre/spacire-blog-data", 
-                "base_url": base_url,
-                "files": {
-                    "blogs": {
-                        "main": f"{base_url}blog_data.json",
-                        "description": "All blog posts and articles"
-                    },
-                    "collections": {
-                        "main": f"{base_url}collections.json",
-                        "description": "All collections list",
-                        "update_frequency": "daily"
-                    },
-                    "products": {
-                        "main": f"{base_url}products.json",
-                        "description": "Complete product catalog",
-                        "chunks": [f"{base_url}{chunk}" for chunk in product_chunks],
-                        "summary": f"{base_url}products_summary.json" if product_chunks else None
-                    },
-                    "collections_with_products": {
-                        "main": f"{base_url}collections_with_products.json", 
-                        "description": "Collections with their products",
-                        "chunks": [f"{base_url}{chunk}" for chunk in collection_chunks],
-                        "summary": f"{base_url}collections_with_products_summary.json" if collection_chunks else None
-                    }
+• Data source: Shopify GraphQL API
+• Format: Standard Shopify JSON structure
+• Pagination: 250 items per request
+• Currency: GBP (British Pounds)
+• Repository: Public for direct URL access
+"""
+        
+        # Save text index
+        with open("data_index.txt", "w", encoding="utf-8") as f:
+            f.write(index_content)
+        print("Created data_index.txt", file=sys.stderr)
+        
+        # Create JSON index
+        json_index = {
+            "generated": timestamp,
+            "repository": "sytrre/spacire-blog-data",
+            "base_url": base_url,
+            "currency": "GBP",
+            "update_frequency": "30 minutes",
+            "data_format": "Shopify standard JSON",
+            "files": {
+                "products": {
+                    "url": f"{base_url}products.json",
+                    "description": "All products with full data",
+                    "format": "Shopify products.json",
+                    "contains": "Complete product catalog with descriptions, variants, images, pricing in GBP"
+                },
+                "collections": {
+                    "url": f"{base_url}collections.json",
+                    "description": "All collections",
+                    "format": "Shopify collections.json",
+                    "contains": "All collections with metadata and product counts"
+                },
+                "blogs": {
+                    "url": f"{base_url}blogs.json",
+                    "description": "All blog posts",
+                    "format": "Blog JSON with HTML content",
+                    "contains": "All blog articles with full content"
+                },
+                "collection_products": {
+                    "base_url": f"{base_url}collections/",
+                    "description": "Individual collection product files",
+                    "format": "Shopify collection products.json",
+                    "files": {}
                 }
+            },
+            "total_files": {
+                "main_files": 3,
+                "collection_files": len(collection_files)
             }
-            
-            with open("data_index.json", "w", encoding="utf-8") as f:
-                json.dump(json_index, f, indent=2, ensure_ascii=False)
-            print("Created JSON index file: data_index.json", file=sys.stderr)
-            
-        except Exception as e:
-            print(f"Error creating index files: {str(e)}", file=sys.stderr)
+        }
+        
+        # Add collection files to JSON index
+        for file in collection_files:
+            handle = file.replace("_products.json", "")
+            json_index["files"]["collection_products"]["files"][handle] = {
+                "url": f"{base_url}collections/{file}",
+                "handle": handle
+            }
+        
+        # Save JSON index
+        with open("data_index.json", "w", encoding="utf-8") as f:
+            json.dump(json_index, f, indent=2, ensure_ascii=False)
+        print("Created data_index.json", file=sys.stderr)
 
 def main():
     # Get credentials from environment variables
@@ -854,7 +876,6 @@ def main():
     
     if not shop_domain or not access_token:
         print("Error: Missing required environment variables", file=sys.stderr)
-        print("Please set SHOPIFY_SHOP_DOMAIN and SHOPIFY_ACCESS_TOKEN", file=sys.stderr)
         sys.exit(1)
     
     print(f"Starting data fetch for {shop_domain} (sync_type: {sync_type})", file=sys.stderr)
@@ -862,48 +883,40 @@ def main():
     # Initialize fetcher
     fetcher = ShopifyDataFetcher(shop_domain, access_token)
     
-    # Test API connection first
+    # Test API connection
     if not fetcher.test_api_connection():
         print("Failed to connect to API", file=sys.stderr)
         sys.exit(1)
     
-    # Fetch data based on sync type
-    success_count = 0
-    total_expected = 0
+    # Clean up old chunk files first
+    if sync_type == "all":
+        print("\n=== Cleaning Up Old Files ===", file=sys.stderr)
+        fetcher.cleanup_old_chunk_files()
     
-    # Blogs
-    if sync_type in ["all", "blogs", "frequent_updates"]:
-        total_expected += 1
-        if fetcher.fetch_and_save_blogs():
-            success_count += 1
+    # Based on sync type, fetch different data
+    if sync_type in ["all", "products"]:
+        print("\n=== Fetching Products ===", file=sys.stderr)
+        fetcher.fetch_all_products()
     
-    # Collections list only (daily sync)
-    if sync_type in ["all", "collections_list_only"]:
-        total_expected += 1
-        if fetcher.fetch_and_save_collections_simple():
-            success_count += 1
+    if sync_type in ["all", "collections"]:
+        print("\n=== Fetching Collections ===", file=sys.stderr)
+        collections = fetcher.fetch_all_collections()
+        
+        # Create individual collection files (optional, can be disabled for performance)
+        if sync_type == "all" and collections:
+            print("\n=== Creating Collection Product Files ===", file=sys.stderr)
+            fetcher.create_collection_product_files(collections)
     
-    # Collections with products (frequent sync)
-    if sync_type in ["all", "collections_with_products", "frequent_updates"]:
-        total_expected += 1
-        if fetcher.fetch_and_save_collections_with_products():
-            success_count += 1
+    if sync_type in ["all", "blogs"]:
+        print("\n=== Fetching Blogs ===", file=sys.stderr)
+        fetcher.fetch_and_save_blogs()
     
-    # Products
-    if sync_type in ["all", "products", "frequent_updates"]:
-        total_expected += 1
-        if fetcher.fetch_and_save_products_simple():
-            success_count += 1
+    # Create index files with all URLs
+    if sync_type in ["all"]:
+        print("\n=== Creating Data Index Files ===", file=sys.stderr)
+        fetcher.create_data_index_files()
     
-    # Create index files if we're doing a full sync or frequent updates
-    if sync_type in ["all", "frequent_updates"] and success_count > 0:
-        fetcher.create_data_index_file()
-    
-    print(f"Successfully created {success_count} out of {total_expected} data files", file=sys.stderr)
-    
-    if success_count == 0:
-        print("No data files were created - check API permissions", file=sys.stderr)
-        sys.exit(1)
+    print("\n✅ Data fetch completed successfully!", file=sys.stderr)
 
 if __name__ == "__main__":
     main()
