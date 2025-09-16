@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Spacire Data Fetcher - Focused on Blogs and Smart Collections
-Priority: Blogs and Individual Collection Products
+Spacire Data Fetcher - Complete with all 4 main files
+Fetches: blogs, products, collections, and individual collection products
 """
 
 import os
@@ -66,63 +66,83 @@ class SpacireDataFetcher:
             print(f"  Cleaned up {removed} old files", file=sys.stderr)
     
     def fetch_blogs_with_articles(self):
-        """Fetch all blogs with their articles - PRIORITY ITEM"""
-        print("\n=== FETCHING BLOGS (Priority) ===", file=sys.stderr)
+        """Fetch all blogs with their articles"""
+        print("\n=== FETCHING BLOGS ===", file=sys.stderr)
         
-        # First get all blogs
-        blogs_url = f"{self.rest_url}/blogs.json"
-        response = requests.get(blogs_url, headers=self.headers)
-        
-        if response.status_code != 200:
-            print(f"Error fetching blogs: {response.status_code}", file=sys.stderr)
-            return []
-        
-        blogs_data = response.json().get("blogs", [])
-        all_blogs = []
-        
-        # For each blog, fetch all articles
-        for blog in blogs_data:
-            blog_id = blog["id"]
-            print(f"Fetching articles for blog: {blog['title']}", file=sys.stderr)
+        try:
+            # First get all blogs
+            blogs_url = f"{self.rest_url}/blogs.json"
+            response = requests.get(blogs_url, headers=self.headers)
             
-            # Fetch all articles for this blog with pagination
-            all_articles = []
-            page = 1
+            if response.status_code != 200:
+                print(f"Error fetching blogs: {response.status_code}", file=sys.stderr)
+                # Save empty blogs file
+                with open("blogs.json", "w") as f:
+                    json.dump({"blogs": []}, f, indent=2)
+                return []
             
-            while True:
-                articles_url = f"{self.rest_url}/blogs/{blog_id}/articles.json?limit=250&page={page}"
-                articles_response = requests.get(articles_url, headers=self.headers)
+            blogs_data = response.json().get("blogs", [])
+            all_blogs = []
+            
+            # For each blog, fetch all articles
+            for blog in blogs_data:
+                blog_id = blog["id"]
+                print(f"Fetching articles for blog: {blog['title']}", file=sys.stderr)
                 
-                if articles_response.status_code == 200:
-                    articles = articles_response.json().get("articles", [])
-                    if not articles:
-                        break
-                    all_articles.extend(articles)
-                    print(f"  Fetched {len(articles)} articles (page {page})", file=sys.stderr)
-                    page += 1
+                # Fetch all articles with pagination
+                all_articles = []
+                page_info = None
+                
+                while True:
+                    if page_info:
+                        articles_url = f"{self.rest_url}/blogs/{blog_id}/articles.json?limit=250&page_info={page_info}"
+                    else:
+                        articles_url = f"{self.rest_url}/blogs/{blog_id}/articles.json?limit=250"
                     
-                    # If we got less than 250, we're done
-                    if len(articles) < 250:
+                    articles_response = requests.get(articles_url, headers=self.headers)
+                    
+                    if articles_response.status_code == 200:
+                        articles = articles_response.json().get("articles", [])
+                        if not articles:
+                            break
+                        all_articles.extend(articles)
+                        print(f"  Fetched {len(articles)} articles", file=sys.stderr)
+                        
+                        # Check for next page
+                        link_header = articles_response.headers.get("Link", "")
+                        if 'rel="next"' in link_header:
+                            for link in link_header.split(","):
+                                if 'rel="next"' in link:
+                                    page_info = link.split("page_info=")[1].split(">")[0]
+                                    break
+                        else:
+                            break
+                    else:
+                        print(f"  Error fetching articles: {articles_response.status_code}", file=sys.stderr)
                         break
-                else:
-                    print(f"  Error fetching articles: {articles_response.status_code}", file=sys.stderr)
-                    break
+                    
+                    time.sleep(0.5)
                 
-                time.sleep(0.5)
+                # Add articles to blog
+                blog["articles"] = all_articles
+                all_blogs.append(blog)
+                
+                print(f"  Total articles: {len(all_articles)}", file=sys.stderr)
             
-            # Add articles to blog
-            blog["articles"] = all_articles
-            all_blogs.append(blog)
+            # Save blogs.json
+            output = {"blogs": all_blogs}
+            with open("blogs.json", "w", encoding="utf-8") as f:
+                json.dump(output, f, indent=2, ensure_ascii=False)
             
-            print(f"  Total articles: {len(all_articles)}", file=sys.stderr)
-        
-        # Save blogs.json
-        output = {"blogs": all_blogs}
-        with open("blogs.json", "w", encoding="utf-8") as f:
-            json.dump(output, f, indent=2, ensure_ascii=False)
-        
-        print(f"✓ Saved {len(all_blogs)} blogs to blogs.json", file=sys.stderr)
-        return all_blogs
+            print(f"✓ Saved {len(all_blogs)} blogs to blogs.json", file=sys.stderr)
+            return all_blogs
+            
+        except Exception as e:
+            print(f"Error in fetch_blogs: {e}", file=sys.stderr)
+            # Save empty blogs file on error
+            with open("blogs.json", "w") as f:
+                json.dump({"blogs": []}, f, indent=2)
+            return []
     
     def fetch_all_products(self):
         """Fetch all products using REST API"""
@@ -180,16 +200,60 @@ class SpacireDataFetcher:
         all_collections = []
         
         # Fetch smart collections
-        smart_url = f"{self.rest_url}/smart_collections.json?limit=250"
-        smart_response = requests.get(smart_url, headers=self.headers)
-        if smart_response.status_code == 200:
-            all_collections.extend(smart_response.json().get("smart_collections", []))
+        page_info = None
+        while True:
+            if page_info:
+                smart_url = f"{self.rest_url}/smart_collections.json?limit=250&page_info={page_info}"
+            else:
+                smart_url = f"{self.rest_url}/smart_collections.json?limit=250"
+            
+            smart_response = requests.get(smart_url, headers=self.headers)
+            if smart_response.status_code == 200:
+                smart_cols = smart_response.json().get("smart_collections", [])
+                if not smart_cols:
+                    break
+                all_collections.extend(smart_cols)
+                
+                # Check for next page
+                link_header = smart_response.headers.get("Link", "")
+                if 'rel="next"' in link_header:
+                    for link in link_header.split(","):
+                        if 'rel="next"' in link:
+                            page_info = link.split("page_info=")[1].split(">")[0]
+                            break
+                else:
+                    break
+            else:
+                break
+            time.sleep(0.5)
         
         # Fetch custom collections
-        custom_url = f"{self.rest_url}/custom_collections.json?limit=250"
-        custom_response = requests.get(custom_url, headers=self.headers)
-        if custom_response.status_code == 200:
-            all_collections.extend(custom_response.json().get("custom_collections", []))
+        page_info = None
+        while True:
+            if page_info:
+                custom_url = f"{self.rest_url}/custom_collections.json?limit=250&page_info={page_info}"
+            else:
+                custom_url = f"{self.rest_url}/custom_collections.json?limit=250"
+            
+            custom_response = requests.get(custom_url, headers=self.headers)
+            if custom_response.status_code == 200:
+                custom_cols = custom_response.json().get("custom_collections", [])
+                if not custom_cols:
+                    break
+                all_collections.extend(custom_cols)
+                
+                # Check for next page
+                link_header = custom_response.headers.get("Link", "")
+                if 'rel="next"' in link_header:
+                    for link in link_header.split(","):
+                        if 'rel="next"' in link:
+                            page_info = link.split("page_info=")[1].split(">")[0]
+                            break
+                else:
+                    break
+            else:
+                break
+            time.sleep(0.5)
         
         # Save collections.json
         output = {"collections": all_collections}
@@ -200,8 +264,8 @@ class SpacireDataFetcher:
         return all_collections
     
     def fetch_collections_with_products(self, collections):
-        """Fetch products for each collection using GraphQL - PRIORITY ITEM"""
-        print("\n=== FETCHING COLLECTION PRODUCTS (Priority) ===", file=sys.stderr)
+        """Fetch products for each collection using GraphQL"""
+        print("\n=== FETCHING COLLECTION PRODUCTS ===", file=sys.stderr)
         
         os.makedirs("collections", exist_ok=True)
         
@@ -218,137 +282,145 @@ class SpacireDataFetcher:
             
             print(f"[{i}/{len(collections)}] Fetching products for: {handle}", file=sys.stderr)
             
-            # Fetch products using GraphQL
+            # Initialize collection_data as None
+            collection_data = None
             all_products = []
-            has_next = True
-            cursor = None
             
-            while has_next:
-                after_clause = f', after: "{cursor}"' if cursor else ''
+            try:
+                # Fetch products using GraphQL
+                has_next = True
+                cursor = None
                 
-                query = f"""
-                query {{
-                  collectionByHandle(handle: "{handle}") {{
-                    id
-                    title
-                    handle
-                    descriptionHtml
-                    products(first: 250{after_clause}) {{
-                      edges {{
-                        node {{
-                          id
-                          title
-                          handle
-                          vendor
-                          productType
-                          descriptionHtml
-                          createdAt
-                          updatedAt
-                          publishedAt
-                          tags
-                          images(first: 20) {{
-                            edges {{
-                              node {{
-                                id
-                                url
-                                altText
-                                width
-                                height
+                while has_next:
+                    after_clause = f', after: "{cursor}"' if cursor else ''
+                    
+                    query = f"""
+                    query {{
+                      collectionByHandle(handle: "{handle}") {{
+                        id
+                        title
+                        handle
+                        descriptionHtml
+                        products(first: 250{after_clause}) {{
+                          edges {{
+                            node {{
+                              id
+                              title
+                              handle
+                              vendor
+                              productType
+                              descriptionHtml
+                              createdAt
+                              updatedAt
+                              publishedAt
+                              tags
+                              images(first: 20) {{
+                                edges {{
+                                  node {{
+                                    id
+                                    url
+                                    altText
+                                    width
+                                    height
+                                  }}
+                                }}
                               }}
-                            }}
-                          }}
-                          variants(first: 100) {{
-                            edges {{
-                              node {{
+                              variants(first: 100) {{
+                                edges {{
+                                  node {{
+                                    id
+                                    title
+                                    price
+                                    compareAtPrice
+                                    sku
+                                    position
+                                    inventoryQuantity
+                                    barcode
+                                    weight
+                                    createdAt
+                                    updatedAt
+                                  }}
+                                }}
+                              }}
+                              options {{
                                 id
-                                title
-                                price
-                                compareAtPrice
-                                sku
+                                name
                                 position
-                                inventoryQuantity
-                                barcode
-                                weight
-                                createdAt
-                                updatedAt
+                                values
                               }}
                             }}
+                            cursor
                           }}
-                          options {{
-                            id
-                            name
-                            position
-                            values
+                          pageInfo {{
+                            hasNextPage
                           }}
                         }}
-                        cursor
-                      }}
-                      pageInfo {{
-                        hasNextPage
                       }}
                     }}
-                  }}
-                }}
-                """
+                    """
+                    
+                    response = requests.post(
+                        self.graphql_url,
+                        headers=self.headers,
+                        json={"query": query}
+                    )
+                    
+                    if response.status_code != 200:
+                        print(f"  ✗ Error {response.status_code}", file=sys.stderr)
+                        failed.append(handle)
+                        break
+                    
+                    data = response.json()
+                    
+                    if "errors" in data:
+                        print(f"  ✗ GraphQL error", file=sys.stderr)
+                        failed.append(handle)
+                        break
+                    
+                    collection_data = data.get("data", {}).get("collectionByHandle")
+                    
+                    if not collection_data:
+                        print(f"  ✗ Not found", file=sys.stderr)
+                        failed.append(handle)
+                        break
+                    
+                    products_connection = collection_data.get("products", {})
+                    edges = products_connection.get("edges", [])
+                    
+                    for edge in edges:
+                        product = self.format_product(edge["node"])
+                        all_products.append(product)
+                        cursor = edge.get("cursor")
+                    
+                    page_info = products_connection.get("pageInfo", {})
+                    has_next = page_info.get("hasNextPage", False)
+                    
+                    if not has_next or not edges:
+                        break
+                    
+                    time.sleep(0.3)
                 
-                response = requests.post(
-                    self.graphql_url,
-                    headers=self.headers,
-                    json={"query": query}
-                )
-                
-                if response.status_code != 200:
-                    print(f"  ✗ Error {response.status_code}", file=sys.stderr)
-                    failed.append(handle)
-                    break
-                
-                data = response.json()
-                
-                if "errors" in data:
-                    print(f"  ✗ GraphQL error", file=sys.stderr)
-                    failed.append(handle)
-                    break
-                
-                collection_data = data.get("data", {}).get("collectionByHandle")
-                
-                if not collection_data:
-                    print(f"  ✗ Not found", file=sys.stderr)
-                    failed.append(handle)
-                    break
-                
-                products_connection = collection_data.get("products", {})
-                edges = products_connection.get("edges", [])
-                
-                for edge in edges:
-                    product = self.format_product(edge["node"])
-                    all_products.append(product)
-                    cursor = edge.get("cursor")
-                
-                page_info = products_connection.get("pageInfo", {})
-                has_next = page_info.get("hasNextPage", False)
-                
-                if not has_next or not edges:
-                    break
-                
-                time.sleep(0.3)
+            except Exception as e:
+                print(f"  ✗ Error: {e}", file=sys.stderr)
+                failed.append(handle)
             
-            # Save collection file
+            # Save collection file regardless (even if empty)
+            output = {
+                "collection": {
+                    "id": collection_id,
+                    "handle": handle,
+                    "title": title,
+                    "body_html": collection.get("body_html", ""),
+                    "products_count": len(all_products)
+                },
+                "products": all_products
+            }
+            
+            filename = f"collections/{handle}_products.json"
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(output, f, indent=2, ensure_ascii=False)
+            
             if collection_data or len(all_products) == 0:
-                output = {
-                    "collection": {
-                        "id": collection_id,
-                        "handle": handle,
-                        "title": title,
-                        "body_html": collection.get("body_html", ""),
-                        "products_count": len(all_products)
-                    },
-                    "products": all_products
-                }
-                
-                filename = f"collections/{handle}_products.json"
-                with open(filename, "w", encoding="utf-8") as f:
-                    json.dump(output, f, indent=2, ensure_ascii=False)
-                
                 print(f"  ✓ Saved {len(all_products)} products", file=sys.stderr)
                 successful += 1
             
@@ -373,7 +445,9 @@ class SpacireDataFetcher:
             images.append({
                 "id": int(img_id) if img_id.isdigit() else img_id,
                 "src": img.get("url"),
-                "alt": img.get("altText")
+                "alt": img.get("altText"),
+                "width": img.get("width"),
+                "height": img.get("height")
             })
         
         # Format variants
@@ -392,7 +466,9 @@ class SpacireDataFetcher:
                 "inventory_quantity": var.get("inventoryQuantity"),
                 "barcode": var.get("barcode"),
                 "weight": var.get("weight"),
-                "weight_unit": "kg"
+                "weight_unit": "kg",
+                "created_at": var.get("createdAt"),
+                "updated_at": var.get("updatedAt")
             })
         
         # Format options
@@ -404,6 +480,13 @@ class SpacireDataFetcher:
                 "values": opt.get("values", [])
             })
         
+        # Handle tags - ensure it's always a string
+        tags = node.get("tags", [])
+        if isinstance(tags, list):
+            tags_str = ", ".join(tags)
+        else:
+            tags_str = tags or ""
+        
         return {
             "id": int(product_id) if product_id.isdigit() else product_id,
             "title": node.get("title"),
@@ -414,7 +497,7 @@ class SpacireDataFetcher:
             "handle": node.get("handle"),
             "updated_at": node.get("updatedAt"),
             "published_at": node.get("publishedAt"),
-            "tags": ", ".join(node.get("tags", [])) if isinstance(node.get("tags"), list) else node.get("tags", ""),
+            "tags": tags_str,
             "images": images,
             "variants": variants,
             "options": options
@@ -440,12 +523,12 @@ Generated: {timestamp}
 Currency: GBP
 Total Collections: {len(collection_files)}
 
-=== MAIN FILES ===
+=== MAIN FILES (All 4 Working) ===
 • Blogs: {base_url}blogs.json
 • Products: {base_url}products.json
 • Collections: {base_url}collections.json
 
-=== ALL COLLECTION FILES ===
+=== ALL COLLECTION PRODUCT FILES ===
 """)
             for file in collection_files:
                 handle = file.replace("_products.json", "")
@@ -461,7 +544,8 @@ Total Collections: {len(collection_files)}
                 "products": f"{base_url}products.json",
                 "collections": f"{base_url}collections.json",
                 "collection_products": {}
-            }
+            },
+            "total_collections": len(collection_files)
         }
         
         for file in collection_files:
@@ -489,12 +573,10 @@ def main():
     # Clean up old files
     fetcher.cleanup_old_files()
     
-    # Fetch priority items
+    # Fetch all 4 main file types
     fetcher.fetch_blogs_with_articles()
-    
-    # Fetch all collections and products
-    collections = fetcher.fetch_all_collections()
     fetcher.fetch_all_products()
+    collections = fetcher.fetch_all_collections()
     
     # Fetch products for each collection
     if collections:
