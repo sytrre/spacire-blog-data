@@ -1,0 +1,55 @@
+SPACIRE SHOPIFY DATA INDEX
+Generated: 2025-09-16T11:27:02.243288Z
+Repository: sytrre/spacire-blog-data
+
+=== COMPLETE DATA ACCESS ===
+
+BLOG DATA:
+- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json
+- Contains: All blog posts and articles (published + drafts)
+
+COLLECTIONS LIST:
+- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json  
+- Contains: All 94+ collections with titles, handles, descriptions
+- Update frequency: Daily
+
+PRODUCTS CATALOG:
+- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
+- Contains: Complete product catalog with pricing, variants, images
+
+COLLECTIONS WITH PRODUCTS:
+- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json
+- Contains: All collections with their complete product listings
+
+=== USAGE INSTRUCTIONS ===
+
+1. ACCESS ANY FILE: Copy any URL above into browser or API call
+2. MAIN FILES: Complete datasets (may be large)
+3. CHUNK FILES: Smaller portions for easier processing  
+4. SUMMARY FILES: Overview with titles and counts only
+
+=== DATA STRUCTURE ===
+
+Blog Data: Articles with titles, summaries, tags, publish status
+Collections: Titles, handles, descriptions, product counts
+Products: Complete details including:
+  - Pricing (regular + compare-at)
+  - Variants with SKUs and availability
+  - Images and descriptions
+  - Product options (color, size, etc.)
+  - Tags, vendor, product type
+
+=== UPDATE FREQUENCY ===
+
+- Blogs, Products, Collections+Products: Every 30 minutes
+- Collections List: Daily at 6 AM UTC
+- This index file: Updates with every sync
+
+=== TECHNICAL INFO ===
+
+All data fetched via Shopify GraphQL API
+JSON format with consistent structure
+Pagination implemented (no data limits)
+Automatic chunking for large files (500KB+ threshold)
+
+Last system update: 2025-09-16T11:27:02.243288Z
