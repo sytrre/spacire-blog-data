@@ -4410,5 +4410,14 @@
       "published_scope": "global",
       "admin_graphql_api_id": "gid://shopify/Collection/666414088523"
     }
-  ]
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "items_per_page": 250,
+    "total_items": 94,
+    "items_in_page": 94,
+    "has_next_page": false,
+    "has_previous_page": false
+  }
 }

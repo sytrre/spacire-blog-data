@@ -1,11 +1,19 @@
 {
-  "generated": "2025-09-16T18:51:20.992078Z",
+  "generated": "2025-09-16T19:17:30.165592Z",
   "repository": "spacire-blog-data",
   "currency": "GBP",
+  "pagination_size": 250,
   "files": {
-    "blogs": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json",
-    "products": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
+    "products": {
+      "total_pages": 3,
+      "files": {
+        "page_1": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
+        "page_2": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products_page2.json",
+        "page_3": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products_page3.json"
+      }
+    },
     "collections": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json",
+    "blogs": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json",
     "collection_products": {
       "anxiety-relief-gifts-for-stressed-students": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-relief-gifts-for-stressed-students_products.json",
       "anxiety-sleep-support-tools": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-sleep-support-tools_products.json",
@@ -15,8 +23,8 @@
       "birthday-gifts-for-sleep-lovers": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/birthday-gifts-for-sleep-lovers_products.json",
       "black-friday-sleep-wellness-deals": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/black-friday-sleep-wellness-deals_products.json",
       "blackout-contoured-masks": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-contoured-masks_products.json",
-      "blackout-curtains-for-shift-workers": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains-for-shift-workers_products.json",
       "blackout-curtains": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json",
+      "blackout-curtains-for-shift-workers": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains-for-shift-workers_products.json",
       "blackout-roller-blinds": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-roller-blinds_products.json",
       "blackout-sleep-solutions-for-light-sensitivity": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-sleep-solutions-for-light-sensitivity_products.json",
       "chamomile-sleep-sprays": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/chamomile-sleep-sprays_products.json",
@@ -95,13 +103,12 @@
       "weighted-eye-mask-for-anxiety-relief": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-eye-mask-for-anxiety-relief_products.json",
       "weighted-sleep-masks": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-sleep-masks_products.json",
       "weighted-therapy-for-sensory-comfort": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-therapy-for-sensory-comfort_products.json",
+      "white-noise-machines": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines_products.json",
       "white-noise-machines-for-adults": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines-for-adults_products.json",
       "white-noise-machines-for-babies": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines-for-babies_products.json",
-      "white-noise-machines": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines_products.json",
       "white-noise-solutions-for-noisy-environments": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-solutions-for-noisy-environments_products.json",
       "winter-sleep-comfort-essentials": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/winter-sleep-comfort-essentials_products.json",
       "work-from-home-relaxation-tools": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/work-from-home-relaxation-tools_products.json"
     }
-  },
-  "total_collections": 94
+  }
 }

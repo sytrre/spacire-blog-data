@@ -22333,5 +22333,14 @@
         "variant_ids": []
       }
     }
-  ]
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "products_per_page": 250,
+    "total_products": 37,
+    "products_in_page": 37,
+    "has_next_page": false,
+    "has_previous_page": false
+  }
 }

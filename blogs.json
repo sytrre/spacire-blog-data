@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-16T16:58:51+01:00",
+      "updated_at": "2025-09-16T20:01:00+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -20,8 +20,8 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": null,
-          "updated_at": "2025-09-16T16:58:51+01:00",
+          "published_at": "2025-09-16T20:01:00+01:00",
+          "updated_at": "2025-09-16T20:01:00+01:00",
           "summary_html": "<p>Side sleepers face unique challenges with traditional sleep masks, from pillow pressure causing light leaks to uncomfortable pressure points. This guide explains the best side sleeper sleep mask designs, including 3D contoured options, memory foam construction, silk materials, and advanced strap systems that resist shifting during the night. Learn how the right mask can boost melatonin, ensure complete blackout, and improve sleep quality by up to 60%.</p>",
           "template_suffix": "article",
           "handle": "sleep-masks-for-side-sleepers-finding-the-perfect-fit",
@@ -169,5 +169,14 @@
         }
       ]
     }
-  ]
+  ],
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "items_per_page": 250,
+    "total_items": 1,
+    "items_in_page": 1,
+    "has_next_page": false,
+    "has_previous_page": false
+  }
 }
