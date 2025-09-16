@@ -610,13 +610,14 @@ def main():
     # Get credentials from environment variables
     shop_domain = os.getenv("SHOPIFY_SHOP_DOMAIN")
     access_token = os.getenv("SHOPIFY_ACCESS_TOKEN")
+    sync_type = os.getenv("SYNC_TYPE", "all")
     
     if not shop_domain or not access_token:
         print("Error: Missing required environment variables", file=sys.stderr)
         print("Please set SHOPIFY_SHOP_DOMAIN and SHOPIFY_ACCESS_TOKEN", file=sys.stderr)
         sys.exit(1)
     
-    print(f"Starting data fetch for {shop_domain}", file=sys.stderr)
+    print(f"Starting data fetch for {shop_domain} (sync_type: {sync_type})", file=sys.stderr)
     
     # Initialize fetcher
     fetcher = ShopifyDataFetcher(shop_domain, access_token)
@@ -626,22 +627,28 @@ def main():
         print("Failed to connect to API", file=sys.stderr)
         sys.exit(1)
     
-    # Fetch each data type separately
+    # Fetch data based on sync type
     success_count = 0
+    total_expected = 0
     
-    if fetcher.fetch_and_save_blogs():
-        success_count += 1
+    if sync_type in ["all", "blogs", "blogs_products"]:
+        total_expected += 1
+        if fetcher.fetch_and_save_blogs():
+            success_count += 1
     
-    if fetcher.fetch_and_save_collections_simple():
-        success_count += 1
+    if sync_type in ["all", "collections"]:
+        total_expected += 2  # collections.json and collections_with_products.json
+        if fetcher.fetch_and_save_collections_simple():
+            success_count += 1
+        if fetcher.fetch_and_save_collections_with_products():
+            success_count += 1
     
-    if fetcher.fetch_and_save_products_simple():
-        success_count += 1
+    if sync_type in ["all", "products", "blogs_products"]:
+        total_expected += 1
+        if fetcher.fetch_and_save_products_simple():
+            success_count += 1
     
-    if fetcher.fetch_and_save_collections_with_products():
-        success_count += 1
-    
-    print(f"Successfully created {success_count} out of 4 data files", file=sys.stderr)
+    print(f"Successfully created {success_count} out of {total_expected} data files", file=sys.stderr)
     
     if success_count == 0:
         print("No data files were created - check API permissions", file=sys.stderr)
