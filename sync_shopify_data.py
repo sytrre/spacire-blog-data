@@ -553,7 +553,7 @@ class SpacireSync:
         with open("data_index.json", "w") as f:
             json.dump(index, f, indent=2, ensure_ascii=False)
         
-        # Create simple text index
+        # Create detailed text index
         with open("data_index.txt", "w") as f:
             f.write(f"""SPACIRE SHOPIFY DATA INDEX
 Generated: {timestamp}
@@ -561,13 +561,29 @@ Currency: GBP
 Pagination: 250 items per page
 
 === MAIN FILES ===
-Products: {len(product_files)} pages
-Collections: {len(collection_files)} pages
-Blogs: {len(blog_files)} pages
 
-=== COLLECTION PRODUCTS ===
-Total Collections: {len(collection_product_data)}
+PRODUCTS ({len(product_files)} pages):
 """)
+            for i, file in enumerate(product_files, 1):
+                f.write(f"• Page {i}: {base_url}{file}\n")
+            
+            f.write(f"\nCOLLECTIONS ({len(collection_files)} pages):\n")
+            for i, file in enumerate(collection_files, 1):
+                f.write(f"• Page {i}: {base_url}{file}\n")
+            
+            f.write(f"\nBLOGS ({len(blog_files)} pages):\n")
+            for i, file in enumerate(blog_files, 1):
+                f.write(f"• Page {i}: {base_url}{file}\n")
+            
+            f.write(f"\n=== COLLECTION PRODUCT FILES ({len(collection_product_data)} collections) ===\n\n")
+            for handle in sorted(collection_product_data.keys()):
+                files = collection_product_data[handle]
+                if len(files) == 1:
+                    f.write(f"• {handle}: {base_url}collections/{files[0]}\n")
+                else:
+                    f.write(f"• {handle} ({len(files)} pages):\n")
+                    for i, file in enumerate(files, 1):
+                        f.write(f"  - Page {i}: {base_url}collections/{file}\n")
         
         print(f"✓ Created index files", file=sys.stderr)
         print(f"  - Products: {len(product_files)} pages", file=sys.stderr)
