@@ -2,10 +2,12 @@ name: Sync Spacire Shopify Data
 
 on:
   schedule:
-    # Run blogs, products, and collections_with_products every 30 minutes
+    # Run every 30 minutes for all data updates
     - cron: '*/30 * * * *'
-    # Run collections list only once daily at 6 AM UTC
-    - cron: '0 6 * * *'
+    
+    # Optional: Run every 5 minutes during business hours for near real-time updates
+    # Uncomment the line below for more frequent updates (be mindful of API rate limits)
+    # - cron: '*/5 9-18 * * MON-FRI'
   
   # Allow manual triggering
   workflow_dispatch:
@@ -17,14 +19,17 @@ on:
         type: choice
         options:
           - all
+          - products
+          - collections
           - blogs
-          - products  
-          - collections_list_only
-          - collections_with_products
+          - cleanup_only
   
-  # Run on push to main branch
+  # Run on push to main branch for immediate updates
   push:
     branches: [ main ]
+    paths:
+      - 'fetch_blog_data.py'
+      - '.github/workflows/sync-shopify-data.yml'
 
 jobs:
   fetch-and-update:
@@ -51,12 +56,6 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "sync_type=${{ github.event.inputs.data_type }}" >> $GITHUB_OUTPUT
-          elif [ "${{ github.event_name }}" = "schedule" ]; then
-            if [ "${{ github.event.schedule }}" = "0 6 * * *" ]; then
-              echo "sync_type=collections_list_only" >> $GITHUB_OUTPUT
-            else
-              echo "sync_type=frequent_updates" >> $GITHUB_OUTPUT  
-            fi
           else
             echo "sync_type=all" >> $GITHUB_OUTPUT
           fi
@@ -69,61 +68,146 @@ jobs:
         run: |
           python fetch_blog_data.py > /dev/null
           
-      - name: Create simple README
+      - name: Create comprehensive README
+        if: steps.sync_type.outputs.sync_type == 'all'
         run: |
-          echo "# Spacire Shopify Data" > README.md
-          echo "" >> README.md
-          echo "**Comprehensive Shopify data sync - updates every 30 minutes**" >> README.md
-          echo "" >> README.md
-          echo "## 📁 Data Files" >> README.md
-          echo "" >> README.md
-          echo "### Blogs & Articles" >> README.md
-          echo "- **[blog_data.json](./blog_data.json)** - All blog posts and articles" >> README.md
-          echo "" >> README.md
-          echo "### Collections" >> README.md
-          echo "- **[collections.json](./collections.json)** - Collections list only" >> README.md
-          echo "- **[collections_with_products.json](./collections_with_products.json)** - Collections with their products" >> README.md
-          echo "" >> README.md
-          echo "### Products" >> README.md
-          echo "- **[products.json](./products.json)** - All active products with complete details" >> README.md
-          echo "" >> README.md
-          echo "## 🔗 Raw Data URLs" >> README.md
-          echo "" >> README.md
-          echo "For direct API access:" >> README.md
-          echo "- **Blogs:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json" >> README.md
-          echo "- **Collections List:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json" >> README.md
-          echo "- **Collections with Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json" >> README.md
-          echo "- **Products:** https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json" >> README.md
-          echo "" >> README.md
-          echo "## 📊 Data Includes" >> README.md
-          echo "" >> README.md
-          echo "### Blog Data" >> README.md
-          echo "- Blog titles, handles, creation dates" >> README.md
-          echo "- Article metadata, summaries, tags" >> README.md
-          echo "- Published and draft status" >> README.md
-          echo "" >> README.md
-          echo "### Collection Data" >> README.md
-          echo "- Collection titles, descriptions, handles" >> README.md
-          echo "- Product count and organization" >> README.md
-          echo "- Products within collections (separate file)" >> README.md
-          echo "" >> README.md
-          echo "### Product Data" >> README.md
-          echo "- Complete product catalog" >> README.md
-          echo "- Pricing, variants, SKUs" >> README.md
-          echo "- Images, descriptions, tags" >> README.md
-          echo "- Product options and availability" >> README.md
-          echo "- Vendor and product type information" >> README.md
-          echo "" >> README.md
-          echo "## 🔄 Automatic Updates" >> README.md
-          echo "" >> README.md
-          echo "All data files sync automatically every 30 minutes." >> README.md
-          echo "" >> README.md
-          echo "Last updated: $(date)" >> README.md
+          cat > README.md << 'EOF'
+          # Spacire Shopify Data - Public Store API
+          
+          **🔄 Auto-updates every 30 minutes | 💷 All prices in GBP**
+          
+          ## 📊 Quick Access - Shopify Format JSON Data
+          
+          ### Main Data Files
+          | Data Type | Description | Direct URL | Format |
+          |-----------|-------------|------------|---------|
+          | **Products** | Complete product catalog | [products.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json) | Shopify Standard |
+          | **Collections** | All collections | [collections.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json) | Shopify Standard |
+          | **Blogs** | All blog posts | [blogs.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json) | Blog JSON |
+          | **Data Index** | Complete file listing | [data_index.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/data_index.json) | Index JSON |
+          
+          ### Collection-Specific Product Files
+          Each collection has its own product file. Examples:
+          - [Blackout Curtains](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json)
+          - [Sleep Masks](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-masks_products.json)
+          - [Weighted Blankets](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-blankets_products.json)
+          
+          View all collection files in the [collections/](./collections) directory
+          
+          ## 🚀 API Usage Examples
+          
+          ### Fetch All Products
+          ```bash
+          curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
+          ```
+          
+          ### Fetch Specific Collection Products
+          ```bash
+          curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-masks_products.json
+          ```
+          
+          ### JavaScript/React Example
+          ```javascript
+          // Fetch all products
+          fetch('https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json')
+            .then(res => res.json())
+            .then(data => {
+              console.log(`Found ${data.products.length} products`);
+              data.products.forEach(product => {
+                console.log(`${product.title} - £${product.variants[0].price}`);
+              });
+            });
+          ```
+          
+          ## 📦 Data Structure
+          
+          ### Product Object
+          - **Full HTML descriptions** in `body_html` field
+          - **Complete variant data** with inventory, SKUs, barcodes
+          - **Multiple images** with dimensions and alt text
+          - **Product options** (size, color, etc.)
+          - **Pricing in GBP** with compare-at prices
+          - **SEO metadata** included
+          
+          ### Collection Object
+          - Collection metadata and descriptions
+          - Product count
+          - Sort order and publishing info
+          - Image with dimensions
+          
+          ## 🔄 Update Schedule
+          - **Every 30 minutes**: Full data sync
+          - **Manual trigger**: Available via GitHub Actions
+          - **Format**: Matches Shopify's standard JSON structure
+          - **Currency**: GBP (British Pounds)
+          
+          ## 📝 Data Index
+          For a complete list of all available files and URLs, check:
+          - [data_index.txt](./data_index.txt) - Human readable index
+          - [data_index.json](./data_index.json) - Machine readable index
+          
+          ## 🛠️ Technical Details
+          - **Source**: Shopify GraphQL API
+          - **Pagination**: 250 items per request
+          - **Repository**: Public for direct URL access
+          - **No authentication required** for read access
+          
+          ## 📧 Integration Support
+          This data is perfect for:
+          - External websites and applications
+          - Price comparison tools
+          - Inventory management systems
+          - Content management systems
+          - Mobile applications
+          - Analytics and reporting tools
+          
+          ---
+          
+          Last updated: $(date)
+          EOF
           
       - name: Commit and push changes
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add .
-          git commit -m "Update Shopify data" || echo "No changes to commit"
-          git push || echo "Nothing to push"}
+          git diff --staged --quiet || git commit -m "Update Shopify data - $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "Nothing to push"
+          
+  # Optional: Webhook receiver job for real-time updates
+  # This would need to be triggered by Shopify webhooks
+  webhook-update:
+    if: github.event_name == 'repository_dispatch' && github.event.action == 'shopify_update'
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Fetch updated data
+        env:
+          SHOPIFY_SHOP_DOMAIN: ${{ secrets.SHOPIFY_SHOP_DOMAIN }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          SYNC_TYPE: "all"
+        run: |
+          python fetch_blog_data.py > /dev/null
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action - Webhook Update"
+          git add .
+          git diff --staged --quiet || git commit -m "Webhook update from Shopify - $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "Nothing to push"
