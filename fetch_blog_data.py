@@ -598,13 +598,248 @@ class ShopifyDataFetcher:
         return processed_data
     
     def save_json_file(self, filename, data):
-        """Save data to JSON file"""
+        """Save data to JSON file with chunking for large files"""
         try:
+            # Save main file
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"Successfully saved {filename} with {len(json.dumps(data))} characters", file=sys.stderr)
+            
+            file_size = len(json.dumps(data))
+            print(f"Successfully saved {filename} with {file_size} characters", file=sys.stderr)
+            
+            # If file is large (over 500KB), create chunked versions
+            if file_size > 500000:
+                self.create_chunked_files(filename, data)
+                
         except Exception as e:
             print(f"Error saving {filename}: {str(e)}", file=sys.stderr)
+    
+    def create_chunked_files(self, filename, data):
+        """Create smaller chunked files for large datasets"""
+        try:
+            base_name = filename.replace('.json', '')
+            data_type = data.get('data_type', 'unknown')
+            
+            if data_type == 'products':
+                products = data.get('products', [])
+                chunk_size = 50  # 50 products per chunk
+                
+                for i in range(0, len(products), chunk_size):
+                    chunk = products[i:i + chunk_size]
+                    chunk_data = {
+                        "fetch_timestamp": data.get('fetch_timestamp'),
+                        "shop_domain": data.get('shop_domain'),
+                        "data_type": f"products_chunk_{i//chunk_size + 1}",
+                        "chunk_info": {
+                            "chunk_number": i//chunk_size + 1,
+                            "total_chunks": (len(products) + chunk_size - 1) // chunk_size,
+                            "products_in_chunk": len(chunk),
+                            "total_products": len(products)
+                        },
+                        "products": chunk
+                    }
+                    
+                    chunk_filename = f"{base_name}_chunk_{i//chunk_size + 1}.json"
+                    with open(chunk_filename, "w", encoding="utf-8") as f:
+                        json.dump(chunk_data, f, indent=2, ensure_ascii=False)
+                    
+                    print(f"Created chunk: {chunk_filename}", file=sys.stderr)
+            
+            elif data_type == 'collections_with_products':
+                collections = data.get('collections', [])
+                chunk_size = 20  # 20 collections per chunk
+                
+                for i in range(0, len(collections), chunk_size):
+                    chunk = collections[i:i + chunk_size]
+                    chunk_data = {
+                        "fetch_timestamp": data.get('fetch_timestamp'),
+                        "shop_domain": data.get('shop_domain'),
+                        "data_type": f"collections_with_products_chunk_{i//chunk_size + 1}",
+                        "chunk_info": {
+                            "chunk_number": i//chunk_size + 1,
+                            "total_chunks": (len(collections) + chunk_size - 1) // chunk_size,
+                            "collections_in_chunk": len(chunk),
+                            "total_collections": len(collections)
+                        },
+                        "collections": chunk
+                    }
+                    
+                    chunk_filename = f"{base_name}_chunk_{i//chunk_size + 1}.json"
+                    with open(chunk_filename, "w", encoding="utf-8") as f:
+                        json.dump(chunk_data, f, indent=2, ensure_ascii=False)
+                    
+                    print(f"Created chunk: {chunk_filename}", file=sys.stderr)
+            
+            # Create summary file for large datasets
+            summary_data = {
+                "fetch_timestamp": data.get('fetch_timestamp'),
+                "shop_domain": data.get('shop_domain'),
+                "data_type": f"{data_type}_summary",
+                "file_info": {
+                    "main_file": filename,
+                    "file_size_characters": len(json.dumps(data)),
+                    "chunked": True,
+                    "total_items": data.get('total_products') or data.get('total_collections', 0)
+                }
+            }
+            
+            # Add item summaries
+            if data_type == 'products':
+                summary_data["products_summary"] = [
+                    {
+                        "title": product.get('title'),
+                        "handle": product.get('handle'),
+                        "product_type": product.get('product_type'),
+                        "variants_count": product.get('variants_count', 0)
+                    }
+                    for product in data.get('products', [])
+                ]
+            elif data_type == 'collections_with_products':
+                summary_data["collections_summary"] = [
+                    {
+                        "title": collection.get('title'),
+                        "handle": collection.get('handle'),
+                        "products_count": collection.get('products_count', 0)
+                    }
+                    for collection in data.get('collections', [])
+                ]
+            
+            summary_filename = f"{base_name}_summary.json"
+            with open(summary_filename, "w", encoding="utf-8") as f:
+                json.dump(summary_data, f, indent=2, ensure_ascii=False)
+            
+    def create_data_index_file(self):
+        """Create a comprehensive index file with all data URLs and descriptions"""
+        
+        base_url = "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/"
+        timestamp = datetime.utcnow().isoformat() + "Z"
+        
+        # Check what files exist
+        import os
+        existing_files = [f for f in os.listdir('.') if f.endswith('.json')]
+        
+        index_content = f"""SPACIRE SHOPIFY DATA INDEX
+Generated: {timestamp}
+Repository: sytrre/spacire-blog-data
+
+=== COMPLETE DATA ACCESS ===
+
+BLOG DATA:
+- Main file: {base_url}blog_data.json
+- Contains: All blog posts and articles (published + drafts)
+
+COLLECTIONS LIST:
+- Main file: {base_url}collections.json  
+- Contains: All 94+ collections with titles, handles, descriptions
+- Update frequency: Daily
+
+PRODUCTS CATALOG:
+- Main file: {base_url}products.json
+- Contains: Complete product catalog with pricing, variants, images"""
+
+        # Check for product chunks
+        product_chunks = [f for f in existing_files if f.startswith('products_chunk_')]
+        if product_chunks:
+            product_chunks.sort()
+            index_content += "\n- Chunked files (50 products each):"
+            for chunk in product_chunks:
+                chunk_num = chunk.replace('products_chunk_', '').replace('.json', '')
+                index_content += f"\n  * {base_url}{chunk}"
+            index_content += f"\n- Summary file: {base_url}products_summary.json"
+
+        index_content += f"""
+
+COLLECTIONS WITH PRODUCTS:
+- Main file: {base_url}collections_with_products.json
+- Contains: All collections with their complete product listings"""
+
+        # Check for collections_with_products chunks  
+        collection_chunks = [f for f in existing_files if f.startswith('collections_with_products_chunk_')]
+        if collection_chunks:
+            collection_chunks.sort()
+            index_content += "\n- Chunked files (20 collections each):"
+            for chunk in collection_chunks:
+                chunk_num = chunk.replace('collections_with_products_chunk_', '').replace('.json', '')
+                index_content += f"\n  * {base_url}{chunk}"
+            index_content += f"\n- Summary file: {base_url}collections_with_products_summary.json"
+
+        index_content += """
+
+=== USAGE INSTRUCTIONS ===
+
+1. ACCESS ANY FILE: Copy any URL above into browser or API call
+2. MAIN FILES: Complete datasets (may be large)
+3. CHUNK FILES: Smaller portions for easier processing  
+4. SUMMARY FILES: Overview with titles and counts only
+
+=== DATA STRUCTURE ===
+
+Blog Data: Articles with titles, summaries, tags, publish status
+Collections: Titles, handles, descriptions, product counts
+Products: Complete details including:
+  - Pricing (regular + compare-at)
+  - Variants with SKUs and availability
+  - Images and descriptions
+  - Product options (color, size, etc.)
+  - Tags, vendor, product type
+
+=== UPDATE FREQUENCY ===
+
+- Blogs, Products, Collections+Products: Every 30 minutes
+- Collections List: Daily at 6 AM UTC
+- This index file: Updates with every sync
+
+=== TECHNICAL INFO ===
+
+All data fetched via Shopify GraphQL API
+JSON format with consistent structure
+Pagination implemented (no data limits)
+Automatic chunking for large files (500KB+ threshold)
+
+Last system update: """ + timestamp
+
+        # Save the index file
+        try:
+            with open("data_index.txt", "w", encoding="utf-8") as f:
+                f.write(index_content)
+            print("Created data index file: data_index.txt", file=sys.stderr)
+            
+            # Also create a JSON version for programmatic access
+            json_index = {
+                "generated": timestamp,
+                "repository": "sytrre/spacire-blog-data", 
+                "base_url": base_url,
+                "files": {
+                    "blogs": {
+                        "main": f"{base_url}blog_data.json",
+                        "description": "All blog posts and articles"
+                    },
+                    "collections": {
+                        "main": f"{base_url}collections.json",
+                        "description": "All collections list",
+                        "update_frequency": "daily"
+                    },
+                    "products": {
+                        "main": f"{base_url}products.json",
+                        "description": "Complete product catalog",
+                        "chunks": [f"{base_url}{chunk}" for chunk in product_chunks],
+                        "summary": f"{base_url}products_summary.json" if product_chunks else None
+                    },
+                    "collections_with_products": {
+                        "main": f"{base_url}collections_with_products.json", 
+                        "description": "Collections with their products",
+                        "chunks": [f"{base_url}{chunk}" for chunk in collection_chunks],
+                        "summary": f"{base_url}collections_with_products_summary.json" if collection_chunks else None
+                    }
+                }
+            }
+            
+            with open("data_index.json", "w", encoding="utf-8") as f:
+                json.dump(json_index, f, indent=2, ensure_ascii=False)
+            print("Created JSON index file: data_index.json", file=sys.stderr)
+            
+        except Exception as e:
+            print(f"Error creating index files: {str(e)}", file=sys.stderr)
 
 def main():
     # Get credentials from environment variables
@@ -654,6 +889,10 @@ def main():
         total_expected += 1
         if fetcher.fetch_and_save_products_simple():
             success_count += 1
+    
+    # Always create/update the data index file
+    print("Creating data index file...", file=sys.stderr)
+    fetcher.create_data_index_file()
     
     print(f"Successfully created {success_count} out of {total_expected} data files", file=sys.stderr)
     
