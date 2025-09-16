@@ -9609,8 +9609,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823801831755",
       "variants": [
         {
-          "id": 53252698636619,
           "product_id": 10823801831755,
+          "id": 53252698636619,
           "title": "Black",
           "price": "43.49",
           "position": 1,
@@ -9637,8 +9637,8 @@
           "image_id": 64332651757899
         },
         {
-          "id": 53252698669387,
           "product_id": 10823801831755,
+          "id": 53252698669387,
           "title": "Cameo Brown",
           "price": "43.49",
           "position": 2,
@@ -9665,8 +9665,8 @@
           "image_id": 64332651790667
         },
         {
-          "id": 53252698702155,
           "product_id": 10823801831755,
+          "id": 53252698702155,
           "title": "Champagne",
           "price": "43.49",
           "position": 3,
@@ -9693,8 +9693,8 @@
           "image_id": 64332651823435
         },
         {
-          "id": 53252698734923,
           "product_id": 10823801831755,
+          "id": 53252698734923,
           "title": "Dark Gray",
           "price": "43.49",
           "position": 4,
@@ -9721,8 +9721,8 @@
           "image_id": 64332651856203
         },
         {
-          "id": 53252698767691,
           "product_id": 10823801831755,
+          "id": 53252698767691,
           "title": "Navy Blue",
           "price": "43.49",
           "position": 5,
@@ -9751,8 +9751,8 @@
       ],
       "options": [
         {
-          "id": 13449533161803,
           "product_id": 10823801831755,
+          "id": 13449533161803,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24320,8 +24320,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054191947",
       "variants": [
         {
-          "product_id": 10825054191947,
           "id": 53256619884875,
+          "product_id": 10825054191947,
           "title": "Black 3D",
           "price": "40.86",
           "position": 1,
@@ -24348,8 +24348,8 @@
           "image_id": 64365299663179
         },
         {
-          "product_id": 10825054191947,
           "id": 53256619917643,
+          "product_id": 10825054191947,
           "title": "Black",
           "price": "41.60",
           "position": 2,
@@ -24378,8 +24378,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054191947,
           "id": 13450930684235,
+          "product_id": 10825054191947,
           "name": "Color",
           "position": 1,
           "values": [
