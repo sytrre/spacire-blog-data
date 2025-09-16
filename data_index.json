@@ -1,34 +1,38 @@
 {
-  "generated": "2025-09-16T11:41:48.438854Z",
+  "generated": "2025-09-16T12:41:31.038623Z",
   "repository": "sytrre/spacire-blog-data",
   "base_url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/",
+  "currency": "GBP",
+  "update_frequency": "30 minutes",
+  "data_format": "Shopify standard JSON",
   "files": {
-    "blogs": {
-      "main": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json",
-      "description": "All blog posts and articles"
+    "products": {
+      "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
+      "description": "All products with full data",
+      "format": "Shopify products.json",
+      "contains": "Complete product catalog with descriptions, variants, images, pricing in GBP"
     },
     "collections": {
-      "main": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json",
-      "description": "All collections list",
-      "update_frequency": "daily"
+      "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json",
+      "description": "All collections",
+      "format": "Shopify collections.json",
+      "contains": "All collections with metadata and product counts"
     },
-    "products": {
-      "main": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
-      "description": "Complete product catalog",
-      "chunks": [],
-      "summary": null
+    "blogs": {
+      "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json",
+      "description": "All blog posts",
+      "format": "Blog JSON with HTML content",
+      "contains": "All blog articles with full content"
     },
-    "collections_with_products": {
-      "main": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json",
-      "description": "Collections with their products",
-      "chunks": [
-        "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_1.json",
-        "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_2.json",
-        "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_3.json",
-        "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_4.json",
-        "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_5.json"
-      ],
-      "summary": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_summary.json"
+    "collection_products": {
+      "base_url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/",
+      "description": "Individual collection product files",
+      "format": "Shopify collection products.json",
+      "files": {}
     }
+  },
+  "total_files": {
+    "main_files": 3,
+    "collection_files": 0
   }
 }

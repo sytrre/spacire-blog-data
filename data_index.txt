@@ -1,62 +1,66 @@
 SPACIRE SHOPIFY DATA INDEX
-Generated: 2025-09-16T11:41:48.438854Z
+Generated: 2025-09-16T12:41:31.038623Z
 Repository: sytrre/spacire-blog-data
+Currency: GBP (British Pounds)
 
-=== COMPLETE DATA ACCESS ===
+=== SHOPIFY-FORMAT JSON DATA ACCESS ===
 
-BLOG DATA:
-- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blog_data.json
-- Contains: All blog posts and articles (published + drafts)
+MAIN DATA FILES:
+----------------
+• Products (All Products):
+  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
+  Format: Shopify standard products.json with 250+ products per file
+  Contains: Full product data including descriptions, variants, images, pricing in GBP
 
-COLLECTIONS LIST:
-- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json  
-- Contains: All 94+ collections with titles, handles, descriptions
-- Update frequency: Daily
+• Collections (All Collections):
+  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json
+  Format: Shopify standard collections.json
+  Contains: All collections with metadata, descriptions, product counts
 
-PRODUCTS CATALOG:
-- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
-- Contains: Complete product catalog with pricing, variants, images
+• Blogs (All Blog Posts):
+  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json
+  Format: Blog posts with full HTML content
+  Contains: All blog articles with summaries and full content
 
-COLLECTIONS WITH PRODUCTS:
-- Main file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products.json
-- Contains: All collections with their complete product listings
-- Chunked files (20 collections each):
-  * https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_1.json
-  * https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_2.json
-  * https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_3.json
-  * https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_4.json
-  * https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_chunk_5.json
-- Summary file: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections_with_products_summary.json
+INDIVIDUAL COLLECTION FILES:
+----------------------------
+Each collection has its own product file with complete product data:
+
 
 === USAGE INSTRUCTIONS ===
 
-1. ACCESS ANY FILE: Copy any URL above into browser or API call
-2. MAIN FILES: Complete datasets (may be large)
-3. CHUNK FILES: Smaller portions for easier processing  
-4. SUMMARY FILES: Overview with titles and counts only
+For Developers/API Integration:
+1. Use the main files for bulk data access
+2. Use individual collection files for specific collection products
+3. All prices are in GBP (British Pounds)
+4. Data updates every 30 minutes automatically
 
-=== DATA STRUCTURE ===
-
-Blog Data: Articles with titles, summaries, tags, publish status
-Collections: Titles, handles, descriptions, product counts
-Products: Complete details including:
-  - Pricing (regular + compare-at)
-  - Variants with SKUs and availability
-  - Images and descriptions
-  - Product options (color, size, etc.)
-  - Tags, vendor, product type
+Data Structure:
+- Matches Shopify's standard JSON format exactly
+- Includes full HTML descriptions for products
+- Complete variant data with inventory levels
+- High-resolution images with dimensions
+- SEO metadata included
 
 === UPDATE FREQUENCY ===
+• Automatic sync: Every 30 minutes
+• Manual trigger: Available via GitHub Actions
+• Last updated: 2025-09-16T12:41:31.038623Z
 
-- Blogs, Products, Collections+Products: Every 30 minutes
-- Collections List: Daily at 6 AM UTC
-- This index file: Updates with every sync
+=== QUICK ACCESS EXAMPLES ===
+
+Get all products:
+curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
+
+Get specific collection products:
+curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json
+
+Get all blogs:
+curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json
 
 === TECHNICAL INFO ===
-
-All data fetched via Shopify GraphQL API
-JSON format with consistent structure
-Pagination implemented (no data limits)
-Automatic chunking for large files (500KB+ threshold)
-
-Last system update: 2025-09-16T11:41:48.438854Z
+• Data source: Shopify GraphQL API
+• Format: Standard Shopify JSON structure
+• Pagination: 250 items per request
+• Currency: GBP (British Pounds)
+• Repository: Public for direct URL access
