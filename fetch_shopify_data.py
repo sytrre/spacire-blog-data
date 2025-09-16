@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-Spacire Shopify Data Fetcher - Complete version with REST API
+Spacire Data Fetcher - Fixed version with working collection products
 Fetches: blogs, products, collections, and individual collection products
-Note: body_html removed from blog articles to reduce file size
 """
 
 import os
@@ -19,6 +18,7 @@ class SpacireDataFetcher:
         self.access_token = access_token
         self.api_version = "2023-10"
         self.rest_url = f"https://{shop_domain}/admin/api/{self.api_version}"
+        self.graphql_url = f"https://{shop_domain}/admin/api/{self.api_version}/graphql.json"
         self.headers = {
             "X-Shopify-Access-Token": access_token,
             "Content-Type": "application/json"
@@ -41,7 +41,7 @@ class SpacireDataFetcher:
             return False
     
     def cleanup_old_files(self):
-        """Remove old chunk files if they exist"""
+        """Remove old chunk files"""
         print("\n=== Cleaning Up Old Files ===", file=sys.stderr)
         
         patterns = [
@@ -66,7 +66,7 @@ class SpacireDataFetcher:
             print(f"  Cleaned up {removed} old files", file=sys.stderr)
     
     def fetch_blogs_with_articles(self):
-        """Fetch all blogs with their articles (without body_html)"""
+        """Fetch all blogs with their articles"""
         print("\n=== FETCHING BLOGS ===", file=sys.stderr)
         
         try:
@@ -105,12 +105,6 @@ class SpacireDataFetcher:
                         articles = articles_response.json().get("articles", [])
                         if not articles:
                             break
-                        
-                        # Remove body_html field from each article to reduce file size
-                        for article in articles:
-                            if "body_html" in article:
-                                del article["body_html"]
-                        
                         all_articles.extend(articles)
                         print(f"  Fetched {len(articles)} articles", file=sys.stderr)
                         
@@ -270,7 +264,7 @@ class SpacireDataFetcher:
         return all_collections
     
     def fetch_collections_with_products_rest(self, collections):
-        """Fetch products for each collection using REST API with collects endpoint"""
+        """Fetch products for each collection using REST API with collection_id filter"""
         print("\n=== FETCHING COLLECTION PRODUCTS (REST METHOD) ===", file=sys.stderr)
         
         os.makedirs("collections", exist_ok=True)
@@ -409,7 +403,6 @@ class SpacireDataFetcher:
         """Create index files"""
         print("\n=== Creating Index Files ===", file=sys.stderr)
         
-        # Spacire repository URL
         base_url = "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/"
         timestamp = datetime.utcnow().isoformat() + "Z"
         
@@ -440,7 +433,7 @@ Total Collections: {len(collection_files)}
         # Create data_index.json
         index = {
             "generated": timestamp,
-            "repository": "spacire-blog-data",
+            "repository": "sytrre/spacire-blog-data",
             "currency": "GBP",
             "files": {
                 "blogs": f"{base_url}blogs.json",
@@ -481,7 +474,7 @@ def main():
     fetcher.fetch_all_products()
     collections = fetcher.fetch_all_collections()
     
-    # Fetch products for each collection
+    # Fetch products for each collection using REST API instead of GraphQL
     if collections:
         fetcher.fetch_collections_with_products_rest(collections)
     
@@ -492,3 +485,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+Extension
+Extension Embed
+
+
+
+Actions
+
+Your Business
+
+Settings
+
+Help
+Search Amazon
+
+United States
+Search Amazon
