@@ -890,10 +890,6 @@ def main():
         if fetcher.fetch_and_save_products_simple():
             success_count += 1
     
-    # Always create/update the data index file
-    print("Creating data index file...", file=sys.stderr)
-    fetcher.create_data_index_file()
-    
     print(f"Successfully created {success_count} out of {total_expected} data files", file=sys.stderr)
     
     if success_count == 0:
