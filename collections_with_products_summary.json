@@ -1,0 +1,483 @@
+{
+  "fetch_timestamp": "2025-09-16T11:37:11.049803Z",
+  "shop_domain": "tgaqpq-w2.myshopify.com",
+  "data_type": "collections_with_products_summary",
+  "file_info": {
+    "main_file": "collections_with_products.json",
+    "file_size_characters": 25321379,
+    "chunked": true,
+    "total_items": 94
+  },
+  "collections_summary": [
+    {
+      "title": "White Noise Machines",
+      "handle": "white-noise-machines",
+      "products_count": 100
+    },
+    {
+      "title": "Blackout Curtains",
+      "handle": "blackout-curtains",
+      "products_count": 14
+    },
+    {
+      "title": "Sleep Masks",
+      "handle": "sleep-masks",
+      "products_count": 100
+    },
+    {
+      "title": "Pillow & Sleep Sprays",
+      "handle": "pillow-sleep-sprays",
+      "products_count": 14
+    },
+    {
+      "title": "Smart Sound Machines (App-Controlled)",
+      "handle": "smart-sound-machines-app-controlled",
+      "products_count": 5
+    },
+    {
+      "title": "Portable & Travel Sound Machines",
+      "handle": "portable-travel-sound-machines",
+      "products_count": 13
+    },
+    {
+      "title": "White Noise Machines for Babies",
+      "handle": "white-noise-machines-for-babies",
+      "products_count": 15
+    },
+    {
+      "title": "White Noise Machines for Adults",
+      "handle": "white-noise-machines-for-adults",
+      "products_count": 8
+    },
+    {
+      "title": "Travel Blackout Blinds",
+      "handle": "travel-blackout-blinds",
+      "products_count": 37
+    },
+    {
+      "title": "Children's & Nursery Blackout Curtains",
+      "handle": "childrens-nursery-blackout-curtains",
+      "products_count": 37
+    },
+    {
+      "title": "Blackout Roller Blinds",
+      "handle": "blackout-roller-blinds",
+      "products_count": 1
+    },
+    {
+      "title": "Thermal Blackout Curtains",
+      "handle": "thermal-blackout-curtains",
+      "products_count": 40
+    },
+    {
+      "title": "Travel Sleep Masks",
+      "handle": "travel-sleep-masks",
+      "products_count": 2
+    },
+    {
+      "title": "Blackout & Contoured Masks",
+      "handle": "blackout-contoured-masks",
+      "products_count": 13
+    },
+    {
+      "title": "Weighted Sleep Masks",
+      "handle": "weighted-sleep-masks",
+      "products_count": 11
+    },
+    {
+      "title": "Silk Sleep Masks",
+      "handle": "silk-sleep-masks",
+      "products_count": 31
+    },
+    {
+      "title": "Pillow Mists",
+      "handle": "pillow-mists",
+      "products_count": 10
+    },
+    {
+      "title": "Eucalyptus & Mint Sprays",
+      "handle": "eucalyptus-mint-sprays",
+      "products_count": 2
+    },
+    {
+      "title": "Chamomile Sleep Sprays",
+      "handle": "chamomile-sleep-sprays",
+      "products_count": 29
+    },
+    {
+      "title": "Room & Linen Sprays",
+      "handle": "room-linen-sprays",
+      "products_count": 14
+    },
+    {
+      "title": "Travel-Size Sleep Sprays",
+      "handle": "travel-size-sleep-sprays",
+      "products_count": 12
+    },
+    {
+      "title": "Lavender Sleep Sprays",
+      "handle": "lavender-sleep-sprays",
+      "products_count": 17
+    },
+    {
+      "title": "Weighted Blankets",
+      "handle": "weighted-blankets",
+      "products_count": 83
+    },
+    {
+      "title": "Pillows",
+      "handle": "pillows",
+      "products_count": 99
+    },
+    {
+      "title": "Sleep Environment",
+      "handle": "sleep-environment",
+      "products_count": 56
+    },
+    {
+      "title": "Relaxation Aids for Sleep",
+      "handle": "relaxation-aids",
+      "products_count": 23
+    },
+    {
+      "title": "Tools for Deeper Sleep",
+      "handle": "deep-sleep-tools",
+      "products_count": 23
+    },
+    {
+      "title": "Sleep aids for better rest",
+      "handle": "sleep-aids-for-better-rest",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep wellness essentials",
+      "handle": "sleep-wellness-essentials",
+      "products_count": 100
+    },
+    {
+      "title": "Natural sleep improvement products",
+      "handle": "natural-sleep-improvement-products",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep quality improvement tools",
+      "handle": "sleep-quality-improvement-tools",
+      "products_count": 100
+    },
+    {
+      "title": "Christmas gifts for better sleep",
+      "handle": "christmas-gifts-for-better-sleep",
+      "products_count": 100
+    },
+    {
+      "title": "Black Friday sleep wellness deals",
+      "handle": "black-friday-sleep-wellness-deals",
+      "products_count": 100
+    },
+    {
+      "title": "Birthday gifts for sleep lovers",
+      "handle": "birthday-gifts-for-sleep-lovers",
+      "products_count": 100
+    },
+    {
+      "title": "Mother's Day self care sleep gifts",
+      "handle": "mothers-day-self-care-sleep-gifts",
+      "products_count": 100
+    },
+    {
+      "title": "Wedding registry sleep essentials",
+      "handle": "wedding-registry-sleep-essentials",
+      "products_count": 100
+    },
+    {
+      "title": "Valentine's Day couples sleep gifts",
+      "handle": "valentines-day-couples-sleep-gifts",
+      "products_count": 100
+    },
+    {
+      "title": "Cyber Monday relaxation gifts",
+      "handle": "cyber-monday-relaxation-gifts",
+      "products_count": 100
+    },
+    {
+      "title": "Father's Day stress relief gifts",
+      "handle": "fathers-day-stress-relief-gifts",
+      "products_count": 100
+    },
+    {
+      "title": "Insomnia relief products",
+      "handle": "insomnia-relief-products",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep aids for depression and anxiety",
+      "handle": "sleep-aids-for-depression-and-anxiety",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep aids for shift workers",
+      "handle": "sleep-aids-for-shift-workers",
+      "products_count": 100
+    },
+    {
+      "title": "Anxiety sleep support tools",
+      "handle": "anxiety-sleep-support-tools",
+      "products_count": 24
+    },
+    {
+      "title": "Stress relief sleep products",
+      "handle": "stress-relief-sleep-products",
+      "products_count": 100
+    },
+    {
+      "title": "Light sleeper solutions",
+      "handle": "light-sleeper-solutions",
+      "products_count": 27
+    },
+    {
+      "title": "Sleep solutions for apartment living",
+      "handle": "sleep-solutions-for-apartment-living",
+      "products_count": 7
+    },
+    {
+      "title": "Sleep gifts for new parents",
+      "handle": "sleep-gifts-for-new-parents",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep aids for busy professionals",
+      "handle": "sleep-aids-for-busy-professionals",
+      "products_count": 100
+    },
+    {
+      "title": "Student dorm sleep essentials",
+      "handle": "student-dorm-sleep-essentials",
+      "products_count": 100
+    },
+    {
+      "title": "Senior sleep comfort solutions",
+      "handle": "senior-sleep-comfort-solutions",
+      "products_count": 99
+    },
+    {
+      "title": "Travel sleep aids for business trips",
+      "handle": "travel-sleep-aids-for-business-trips",
+      "products_count": 20
+    },
+    {
+      "title": "Hotel quality sleep at home",
+      "handle": "hotel-quality-sleep-at-home",
+      "products_count": 100
+    },
+    {
+      "title": "Spa day relaxation products",
+      "handle": "spa-day-relaxation-products",
+      "products_count": 100
+    },
+    {
+      "title": "Self care Sunday sleep rituals",
+      "handle": "self-care-sunday-sleep-rituals",
+      "products_count": 33
+    },
+    {
+      "title": "Holiday stress relief sleep aids",
+      "handle": "holiday-stress-relief-sleep-aids",
+      "products_count": 33
+    },
+    {
+      "title": "Work from home relaxation tools",
+      "handle": "work-from-home-relaxation-tools",
+      "products_count": 25
+    },
+    {
+      "title": "Blackout sleep solutions for light sensitivity",
+      "handle": "blackout-sleep-solutions-for-light-sensitivity",
+      "products_count": 100
+    },
+    {
+      "title": "Travel sleep essentials for frequent flyers",
+      "handle": "travel-sleep-essentials-for-frequent-flyers",
+      "products_count": 100
+    },
+    {
+      "title": "Sleep mask gifts for light sleepers",
+      "handle": "sleep-mask-gifts-for-light-sleepers",
+      "products_count": 100
+    },
+    {
+      "title": "Eye mask for meditation practice",
+      "handle": "eye-mask-for-meditation-practice",
+      "products_count": 100
+    },
+    {
+      "title": "Weighted eye mask for anxiety relief",
+      "handle": "weighted-eye-mask-for-anxiety-relief",
+      "products_count": 100
+    },
+    {
+      "title": "Aromatherapy sleep aids for relaxation",
+      "handle": "aromatherapy-sleep-aids-for-relaxation",
+      "products_count": 20
+    },
+    {
+      "title": "Lavender pillow spray for restless nights",
+      "handle": "lavender-pillow-spray-for-restless-nights",
+      "products_count": 20
+    },
+    {
+      "title": "Natural sleep aids for bedtime routine",
+      "handle": "natural-sleep-aids-for-bedtime-routine",
+      "products_count": 20
+    },
+    {
+      "title": "Aromatherapy gifts for meditation lovers",
+      "handle": "aromatherapy-gifts-for-meditation-lovers",
+      "products_count": 20
+    },
+    {
+      "title": "Anxiety relief gifts for stressed students",
+      "handle": "anxiety-relief-gifts-for-stressed-students",
+      "products_count": 7
+    },
+    {
+      "title": "Weighted therapy for sensory comfort",
+      "handle": "weighted-therapy-for-sensory-comfort",
+      "products_count": 7
+    },
+    {
+      "title": "Deep pressure therapy blankets for autism",
+      "handle": "deep-pressure-therapy-blankets-for-autism",
+      "products_count": 7
+    },
+    {
+      "title": "Therapeutic blankets for PTSD relief",
+      "handle": "therapeutic-blankets-for-ptsd-relief",
+      "products_count": 7
+    },
+    {
+      "title": "Sensory processing disorder sleep aids",
+      "handle": "sensory-processing-disorder-sleep-aids",
+      "products_count": 7
+    },
+    {
+      "title": "White noise solutions for noisy environments",
+      "handle": "white-noise-solutions-for-noisy-environments",
+      "products_count": 100
+    },
+    {
+      "title": "Baby sleep aids for new parents",
+      "handle": "baby-sleep-aids-for-new-parents",
+      "products_count": 100
+    },
+    {
+      "title": "Sound masking for noisy environments",
+      "handle": "sound-masking-for-noisy-environments",
+      "products_count": 100
+    },
+    {
+      "title": "Meditation accessories for mindfulness practice",
+      "handle": "meditation-accessories-for-mindfulness-practice",
+      "products_count": 100
+    },
+    {
+      "title": "Smart home sleep automation products",
+      "handle": "smart-home-sleep-automation-products",
+      "products_count": 37
+    },
+    {
+      "title": "Room darkening solutions for better sleep",
+      "handle": "room-darkening-solutions-for-better-sleep",
+      "products_count": 37
+    },
+    {
+      "title": "Light blocking bedroom essentials",
+      "handle": "light-blocking-bedroom-essentials",
+      "products_count": 37
+    },
+    {
+      "title": "Blackout curtains for shift workers",
+      "handle": "blackout-curtains-for-shift-workers",
+      "products_count": 37
+    },
+    {
+      "title": "Energy saving window treatments",
+      "handle": "energy-saving-window-treatments",
+      "products_count": 37
+    },
+    {
+      "title": "Ergonomic pillows for neck pain relief",
+      "handle": "ergonomic-pillows-for-neck-pain-relief",
+      "products_count": 95
+    },
+    {
+      "title": "Memory foam pillows for better sleep",
+      "handle": "memory-foam-pillows-for-better-sleep",
+      "products_count": 95
+    },
+    {
+      "title": "Travel pillows for business trips",
+      "handle": "travel-pillows-for-business-trips",
+      "products_count": 95
+    },
+    {
+      "title": "Comfort pillows for side sleepers",
+      "handle": "comfort-pillows-for-side-sleepers",
+      "products_count": 95
+    },
+    {
+      "title": "Orthopedic sleep support products",
+      "handle": "orthopedic-sleep-support-products",
+      "products_count": 95
+    },
+    {
+      "title": "Cozy comfort gifts for winter months",
+      "handle": "cozy-comfort-gifts-for-winter-months",
+      "products_count": 74
+    },
+    {
+      "title": "Luxury bedding for hotel quality sleep",
+      "handle": "luxury-bedding-for-hotel-quality-sleep",
+      "products_count": 74
+    },
+    {
+      "title": "Soft blankets for relaxation",
+      "handle": "soft-blankets-for-relaxation",
+      "products_count": 74
+    },
+    {
+      "title": "Winter sleep comfort essentials",
+      "handle": "winter-sleep-comfort-essentials",
+      "products_count": 74
+    },
+    {
+      "title": "Comfort blankets for stress relief",
+      "handle": "comfort-blankets-for-stress-relief",
+      "products_count": 74
+    },
+    {
+      "title": "Smart alarm clocks for better wake up",
+      "handle": "smart-alarm-clocks-for-better-wake-up",
+      "products_count": 10
+    },
+    {
+      "title": "Light therapy alarm clocks",
+      "handle": "light-therapy-alarm-clocks",
+      "products_count": 28
+    },
+    {
+      "title": "Sunrise simulation wake up lights",
+      "handle": "sunrise-simulation-wake-up-lights",
+      "products_count": 54
+    },
+    {
+      "title": "Sleep cycle optimization tools",
+      "handle": "sleep-cycle-optimization-tools",
+      "products_count": 6
+    },
+    {
+      "title": "Sleep gifts for restless nights",
+      "handle": "sleep-gifts-for-restless-nights",
+      "products_count": 100
+    }
+  ]
+}
