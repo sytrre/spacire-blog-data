@@ -708,6 +708,11 @@ class ShopifyDataFetcher:
             with open(summary_filename, "w", encoding="utf-8") as f:
                 json.dump(summary_data, f, indent=2, ensure_ascii=False)
             
+            print(f"Created summary file: {summary_filename}", file=sys.stderr)
+            
+        except Exception as e:
+            print(f"Error creating chunked files: {str(e)}", file=sys.stderr)
+    
     def create_data_index_file(self):
         """Create a comprehensive index file with all data URLs and descriptions"""
         
@@ -889,6 +894,10 @@ def main():
         total_expected += 1
         if fetcher.fetch_and_save_products_simple():
             success_count += 1
+    
+    # Create index files if we're doing a full sync or frequent updates
+    if sync_type in ["all", "frequent_updates"] and success_count > 0:
+        fetcher.create_data_index_file()
     
     print(f"Successfully created {success_count} out of {total_expected} data files", file=sys.stderr)
     
