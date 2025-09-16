@@ -13,6 +13,7 @@ from datetime import datetime
 import sys
 import time
 import glob
+import re
 
 class SpacireDataFetcher:
     def __init__(self, shop_domain, access_token):
@@ -371,6 +372,7 @@ class SpacireDataFetcher:
                 # Use the /collects endpoint to get product IDs for this collection
                 page_info = None
                 product_ids = []
+                collects_page = 0
                 
                 while True:
                     if page_info:
@@ -385,20 +387,26 @@ class SpacireDataFetcher:
                         if not collects:
                             break
                         
+                        collects_page += 1
                         for collect in collects:
                             product_ids.append(collect["product_id"])
                         
-                        # Check for next page
+                        print(f"    Collects page {collects_page}: found {len(collects)} product IDs (total: {len(product_ids)})", file=sys.stderr)
+                        
+                        # Check for next page - Fix Link header parsing
                         link_header = collects_response.headers.get("Link", "")
-                        if 'rel="next"' in link_header:
-                            for link in link_header.split(","):
-                                if 'rel="next"' in link:
-                                    page_info = link.split("page_info=")[1].split(">")[0]
-                                    break
+                        if link_header and 'rel="next"' in link_header:
+                            # More robust page_info extraction
+                            import re
+                            match = re.search(r'page_info=([^&>]+)', link_header)
+                            if match:
+                                page_info = match.group(1)
+                            else:
+                                break
                         else:
                             break
                     else:
-                        # If collects doesn't work, try products with collection_id
+                        # If collects doesn't work, break to try products endpoint
                         break
                     
                     time.sleep(0.3)
@@ -422,6 +430,7 @@ class SpacireDataFetcher:
                 # If collects didn't work or returned nothing, try direct products endpoint
                 if not all_products:
                     page_info = None
+                    page_count = 0
                     while True:
                         if page_info:
                             products_url = f"{self.rest_url}/products.json?collection_id={collection_id}&limit=250&page_info={page_info}"
@@ -436,17 +445,25 @@ class SpacireDataFetcher:
                                 break
                             
                             all_products.extend(products)
+                            page_count += 1
+                            print(f"    Fetched page {page_count} with {len(products)} products (total: {len(all_products)})", file=sys.stderr)
                             
-                            # Check for next page
+                            # Check for next page - CRITICAL: Must parse Link header correctly
                             link_header = products_response.headers.get("Link", "")
-                            if 'rel="next"' in link_header:
-                                for link in link_header.split(","):
-                                    if 'rel="next"' in link:
-                                        page_info = link.split("page_info=")[1].split(">")[0]
-                                        break
+                            if link_header and 'rel="next"' in link_header:
+                                # Extract page_info more carefully
+                                import re
+                                match = re.search(r'page_info=([^&>]+)', link_header)
+                                if match:
+                                    page_info = match.group(1)
+                                    print(f"    Found next page_info: {page_info[:30]}...", file=sys.stderr)
+                                else:
+                                    break
                             else:
+                                print(f"    No more pages found", file=sys.stderr)
                                 break
                         else:
+                            print(f"    Error fetching products: {products_response.status_code}", file=sys.stderr)
                             break
                         
                         time.sleep(0.3)
