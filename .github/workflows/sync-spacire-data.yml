@@ -1,0 +1,98 @@
+name: Sync Spacire Data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  
+  workflow_dispatch:  # Manual trigger button
+  
+  push:
+    branches: [main]
+    paths:
+      - 'sync_shopify_data.py'
+      - '.github/workflows/sync-spacire-data.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Fetch Shopify Data
+        env:
+          SHOPIFY_SHOP_DOMAIN: ${{ secrets.SHOPIFY_SHOP_DOMAIN }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+        run: |
+          echo "Starting Spacire sync..."
+          python sync_shopify_data.py
+      
+      - name: Generate README
+        run: |
+          cat > README.md << 'EOF'
+          # Spacire Shopify Data API
+          
+          **Auto-updates every 30 minutes | All prices in GBP**
+          
+          ## Quick Access - Shopify Standard JSON
+          
+          | Data Type | URL |
+          |-----------|-----|
+          | All Products | [products.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json) |
+          | All Collections | [collections.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json) |
+          | All Blogs | [blogs.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json) |
+          | Data Index | [data_index.json](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/data_index.json) |
+          
+          ## Pagination
+          
+          All files are paginated at 250 items per page. Files with more than 250 items have additional pages:
+          - `products_page2.json`, `products_page3.json`, etc.
+          - Check `pagination` field in each file for navigation
+          
+          ## Collection Products
+          
+          Each collection has its own products file(s) in the `collections/` directory:
+          - [Sleep Masks](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-masks_products.json)
+          - [Weighted Blankets](https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-blankets_products.json)
+          - [View all collections →](./collections)
+          
+          ## API Usage
+          
+          ```javascript
+          // Fetch first page of products
+          fetch('https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json')
+            .then(res => res.json())
+            .then(data => {
+              console.log(data.products); // Array of up to 250 products
+              console.log(data.pagination); // Pagination info
+              
+              // Check for more pages
+              if (data.pagination.has_next_page) {
+                // Fetch next page: products_page2.json
+              }
+            });
+          ```
+          
+          Last updated: $(date)
+          EOF
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "Update Spacire data - $(date +'%Y-%m-%d %H:%M')"
+          git push || echo "No changes to push"
