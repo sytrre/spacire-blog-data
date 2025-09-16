@@ -631,19 +631,26 @@ def main():
     success_count = 0
     total_expected = 0
     
-    if sync_type in ["all", "blogs", "blogs_products"]:
+    # Blogs
+    if sync_type in ["all", "blogs", "frequent_updates"]:
         total_expected += 1
         if fetcher.fetch_and_save_blogs():
             success_count += 1
     
-    if sync_type in ["all", "collections"]:
-        total_expected += 2  # collections.json and collections_with_products.json
+    # Collections list only (daily sync)
+    if sync_type in ["all", "collections_list_only"]:
+        total_expected += 1
         if fetcher.fetch_and_save_collections_simple():
             success_count += 1
+    
+    # Collections with products (frequent sync)
+    if sync_type in ["all", "collections_with_products", "frequent_updates"]:
+        total_expected += 1
         if fetcher.fetch_and_save_collections_with_products():
             success_count += 1
     
-    if sync_type in ["all", "products", "blogs_products"]:
+    # Products
+    if sync_type in ["all", "products", "frequent_updates"]:
         total_expected += 1
         if fetcher.fetch_and_save_products_simple():
             success_count += 1
