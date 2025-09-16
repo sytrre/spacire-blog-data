@@ -1,66 +1,126 @@
 SPACIRE SHOPIFY DATA INDEX
-Generated: 2025-09-16T12:54:39.932178Z
+Generated: 2025-09-16T13:19:45.955881Z
 Repository: sytrre/spacire-blog-data
 Currency: GBP (British Pounds)
+Format: Shopify Standard JSON
 
-=== SHOPIFY-FORMAT JSON DATA ACCESS ===
+=== MAIN DATA FILES ===
 
-MAIN DATA FILES:
-----------------
-• Products (All Products):
-  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
-  Format: Shopify standard products.json with 250+ products per file
-  Contains: Full product data including descriptions, variants, images, pricing in GBP
+Products (All Products)
+URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
+Contains: Complete product catalog with descriptions, variants, images, pricing in GBP
 
-• Collections (All Collections):
-  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json
-  Format: Shopify standard collections.json
-  Contains: All collections with metadata, descriptions, product counts
+Collections (All Collections)
+URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json
+Contains: All smart and custom collections with metadata
 
-• Blogs (All Blog Posts):
-  https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json
-  Format: Blog posts with full HTML content
-  Contains: All blog articles with summaries and full content
+Blogs (All Blog Posts)
+URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json
+Contains: All blogs and their articles with full content
 
-INDIVIDUAL COLLECTION FILES:
-----------------------------
-Each collection has its own product file with complete product data:
+=== COLLECTION PRODUCT FILES ===
+Individual files for each collection's products:
 
+• anxiety-relief-gifts-for-stressed-students
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-relief-gifts-for-stressed-students_products.json
 
-=== USAGE INSTRUCTIONS ===
+• anxiety-sleep-support-tools
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-sleep-support-tools_products.json
 
-For Developers/API Integration:
-1. Use the main files for bulk data access
-2. Use individual collection files for specific collection products
-3. All prices are in GBP (British Pounds)
-4. Data updates every 30 minutes automatically
+• aromatherapy-gifts-for-meditation-lovers
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/aromatherapy-gifts-for-meditation-lovers_products.json
 
-Data Structure:
-- Matches Shopify's standard JSON format exactly
-- Includes full HTML descriptions for products
-- Complete variant data with inventory levels
-- High-resolution images with dimensions
-- SEO metadata included
+• aromatherapy-sleep-aids-for-relaxation
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/aromatherapy-sleep-aids-for-relaxation_products.json
 
-=== UPDATE FREQUENCY ===
-• Automatic sync: Every 30 minutes
-• Manual trigger: Available via GitHub Actions
-• Last updated: 2025-09-16T12:54:39.932178Z
+• baby-sleep-aids-for-new-parents
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/baby-sleep-aids-for-new-parents_products.json
 
-=== QUICK ACCESS EXAMPLES ===
+• birthday-gifts-for-sleep-lovers
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/birthday-gifts-for-sleep-lovers_products.json
+
+• black-friday-sleep-wellness-deals
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/black-friday-sleep-wellness-deals_products.json
+
+• blackout-contoured-masks
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-contoured-masks_products.json
+
+• blackout-curtains-for-shift-workers
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains-for-shift-workers_products.json
+
+• blackout-curtains
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json
+
+• blackout-roller-blinds
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-roller-blinds_products.json
+
+• blackout-sleep-solutions-for-light-sensitivity
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-sleep-solutions-for-light-sensitivity_products.json
+
+• chamomile-sleep-sprays
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/chamomile-sleep-sprays_products.json
+
+• childrens-nursery-blackout-curtains
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/childrens-nursery-blackout-curtains_products.json
+
+• christmas-gifts-for-better-sleep
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/christmas-gifts-for-better-sleep_products.json
+
+• comfort-blankets-for-stress-relief
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/comfort-blankets-for-stress-relief_products.json
+
+• comfort-pillows-for-side-sleepers
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/comfort-pillows-for-side-sleepers_products.json
+
+• cozy-comfort-gifts-for-winter-months
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/cozy-comfort-gifts-for-winter-months_products.json
+
+• cyber-monday-relaxation-gifts
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/cyber-monday-relaxation-gifts_products.json
+
+• deep-pressure-therapy-blankets-for-autism
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/deep-pressure-therapy-blankets-for-autism_products.json
+
+• deep-sleep-tools
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/deep-sleep-tools_products.json
+
+• energy-saving-window-treatments
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/energy-saving-window-treatments_products.json
+
+• ergonomic-pillows-for-neck-pain-relief
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/ergonomic-pillows-for-neck-pain-relief_products.json
+
+• eucalyptus-mint-sprays
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/eucalyptus-mint-sprays_products.json
+
+• eye-mask-for-meditation-practice
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/eye-mask-for-meditation-practice_products.json
+
+• fathers-day-stress-relief-gifts
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/fathers-day-stress-relief-gifts_products.json
+
+• holiday-stress-relief-sleep-aids
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/holiday-stress-relief-sleep-aids_products.json
+
+• hotel-quality-sleep-at-home
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/hotel-quality-sleep-at-home_products.json
+
+• insomnia-relief-products
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/insomnia-relief-products_products.json
+
+• lavender-pillow-spray-for-restless-nights
+  URL: https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/lavender-pillow-spray-for-restless-nights_products.json
+
+... and 64 more collections
+
+=== USAGE ===
 
 Get all products:
 curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json
 
-Get specific collection products:
-curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json
+Get specific collection:
+curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-masks_products.json
 
-Get all blogs:
-curl https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json
-
-=== TECHNICAL INFO ===
-• Data source: Shopify GraphQL API
-• Format: Standard Shopify JSON structure
-• Pagination: 250 items per request
-• Currency: GBP (British Pounds)
-• Repository: Public for direct URL access
+=== UPDATES ===
+Auto-syncs every 30 minutes
+Last updated: 2025-09-16T13:19:45.955881Z

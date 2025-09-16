@@ -1,38 +1,402 @@
 {
-  "generated": "2025-09-16T12:54:39.932178Z",
+  "generated": "2025-09-16T13:19:45.955881Z",
   "repository": "sytrre/spacire-blog-data",
   "base_url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/",
   "currency": "GBP",
-  "update_frequency": "30 minutes",
-  "data_format": "Shopify standard JSON",
+  "format": "Shopify Standard JSON",
   "files": {
     "products": {
       "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
-      "description": "All products with full data",
-      "format": "Shopify products.json",
-      "contains": "Complete product catalog with descriptions, variants, images, pricing in GBP"
+      "description": "All products with full data"
     },
     "collections": {
       "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json",
-      "description": "All collections",
-      "format": "Shopify collections.json",
-      "contains": "All collections with metadata and product counts"
+      "description": "All collections"
     },
     "blogs": {
       "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json",
-      "description": "All blog posts",
-      "format": "Blog JSON with HTML content",
-      "contains": "All blog articles with full content"
+      "description": "All blogs and articles"
     },
     "collection_products": {
       "base_url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/",
-      "description": "Individual collection product files",
-      "format": "Shopify collection products.json",
-      "files": {}
+      "files": {
+        "anxiety-relief-gifts-for-stressed-students": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-relief-gifts-for-stressed-students_products.json",
+          "handle": "anxiety-relief-gifts-for-stressed-students"
+        },
+        "anxiety-sleep-support-tools": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/anxiety-sleep-support-tools_products.json",
+          "handle": "anxiety-sleep-support-tools"
+        },
+        "aromatherapy-gifts-for-meditation-lovers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/aromatherapy-gifts-for-meditation-lovers_products.json",
+          "handle": "aromatherapy-gifts-for-meditation-lovers"
+        },
+        "aromatherapy-sleep-aids-for-relaxation": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/aromatherapy-sleep-aids-for-relaxation_products.json",
+          "handle": "aromatherapy-sleep-aids-for-relaxation"
+        },
+        "baby-sleep-aids-for-new-parents": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/baby-sleep-aids-for-new-parents_products.json",
+          "handle": "baby-sleep-aids-for-new-parents"
+        },
+        "birthday-gifts-for-sleep-lovers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/birthday-gifts-for-sleep-lovers_products.json",
+          "handle": "birthday-gifts-for-sleep-lovers"
+        },
+        "black-friday-sleep-wellness-deals": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/black-friday-sleep-wellness-deals_products.json",
+          "handle": "black-friday-sleep-wellness-deals"
+        },
+        "blackout-contoured-masks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-contoured-masks_products.json",
+          "handle": "blackout-contoured-masks"
+        },
+        "blackout-curtains-for-shift-workers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains-for-shift-workers_products.json",
+          "handle": "blackout-curtains-for-shift-workers"
+        },
+        "blackout-curtains": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-curtains_products.json",
+          "handle": "blackout-curtains"
+        },
+        "blackout-roller-blinds": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-roller-blinds_products.json",
+          "handle": "blackout-roller-blinds"
+        },
+        "blackout-sleep-solutions-for-light-sensitivity": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/blackout-sleep-solutions-for-light-sensitivity_products.json",
+          "handle": "blackout-sleep-solutions-for-light-sensitivity"
+        },
+        "chamomile-sleep-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/chamomile-sleep-sprays_products.json",
+          "handle": "chamomile-sleep-sprays"
+        },
+        "childrens-nursery-blackout-curtains": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/childrens-nursery-blackout-curtains_products.json",
+          "handle": "childrens-nursery-blackout-curtains"
+        },
+        "christmas-gifts-for-better-sleep": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/christmas-gifts-for-better-sleep_products.json",
+          "handle": "christmas-gifts-for-better-sleep"
+        },
+        "comfort-blankets-for-stress-relief": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/comfort-blankets-for-stress-relief_products.json",
+          "handle": "comfort-blankets-for-stress-relief"
+        },
+        "comfort-pillows-for-side-sleepers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/comfort-pillows-for-side-sleepers_products.json",
+          "handle": "comfort-pillows-for-side-sleepers"
+        },
+        "cozy-comfort-gifts-for-winter-months": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/cozy-comfort-gifts-for-winter-months_products.json",
+          "handle": "cozy-comfort-gifts-for-winter-months"
+        },
+        "cyber-monday-relaxation-gifts": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/cyber-monday-relaxation-gifts_products.json",
+          "handle": "cyber-monday-relaxation-gifts"
+        },
+        "deep-pressure-therapy-blankets-for-autism": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/deep-pressure-therapy-blankets-for-autism_products.json",
+          "handle": "deep-pressure-therapy-blankets-for-autism"
+        },
+        "deep-sleep-tools": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/deep-sleep-tools_products.json",
+          "handle": "deep-sleep-tools"
+        },
+        "energy-saving-window-treatments": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/energy-saving-window-treatments_products.json",
+          "handle": "energy-saving-window-treatments"
+        },
+        "ergonomic-pillows-for-neck-pain-relief": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/ergonomic-pillows-for-neck-pain-relief_products.json",
+          "handle": "ergonomic-pillows-for-neck-pain-relief"
+        },
+        "eucalyptus-mint-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/eucalyptus-mint-sprays_products.json",
+          "handle": "eucalyptus-mint-sprays"
+        },
+        "eye-mask-for-meditation-practice": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/eye-mask-for-meditation-practice_products.json",
+          "handle": "eye-mask-for-meditation-practice"
+        },
+        "fathers-day-stress-relief-gifts": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/fathers-day-stress-relief-gifts_products.json",
+          "handle": "fathers-day-stress-relief-gifts"
+        },
+        "holiday-stress-relief-sleep-aids": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/holiday-stress-relief-sleep-aids_products.json",
+          "handle": "holiday-stress-relief-sleep-aids"
+        },
+        "hotel-quality-sleep-at-home": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/hotel-quality-sleep-at-home_products.json",
+          "handle": "hotel-quality-sleep-at-home"
+        },
+        "insomnia-relief-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/insomnia-relief-products_products.json",
+          "handle": "insomnia-relief-products"
+        },
+        "lavender-pillow-spray-for-restless-nights": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/lavender-pillow-spray-for-restless-nights_products.json",
+          "handle": "lavender-pillow-spray-for-restless-nights"
+        },
+        "lavender-sleep-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/lavender-sleep-sprays_products.json",
+          "handle": "lavender-sleep-sprays"
+        },
+        "light-blocking-bedroom-essentials": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/light-blocking-bedroom-essentials_products.json",
+          "handle": "light-blocking-bedroom-essentials"
+        },
+        "light-sleeper-solutions": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/light-sleeper-solutions_products.json",
+          "handle": "light-sleeper-solutions"
+        },
+        "light-therapy-alarm-clocks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/light-therapy-alarm-clocks_products.json",
+          "handle": "light-therapy-alarm-clocks"
+        },
+        "luxury-bedding-for-hotel-quality-sleep": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/luxury-bedding-for-hotel-quality-sleep_products.json",
+          "handle": "luxury-bedding-for-hotel-quality-sleep"
+        },
+        "meditation-accessories-for-mindfulness-practice": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/meditation-accessories-for-mindfulness-practice_products.json",
+          "handle": "meditation-accessories-for-mindfulness-practice"
+        },
+        "memory-foam-pillows-for-better-sleep": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/memory-foam-pillows-for-better-sleep_products.json",
+          "handle": "memory-foam-pillows-for-better-sleep"
+        },
+        "mothers-day-self-care-sleep-gifts": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/mothers-day-self-care-sleep-gifts_products.json",
+          "handle": "mothers-day-self-care-sleep-gifts"
+        },
+        "natural-sleep-aids-for-bedtime-routine": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/natural-sleep-aids-for-bedtime-routine_products.json",
+          "handle": "natural-sleep-aids-for-bedtime-routine"
+        },
+        "natural-sleep-improvement-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/natural-sleep-improvement-products_products.json",
+          "handle": "natural-sleep-improvement-products"
+        },
+        "orthopedic-sleep-support-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/orthopedic-sleep-support-products_products.json",
+          "handle": "orthopedic-sleep-support-products"
+        },
+        "pillow-mists": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/pillow-mists_products.json",
+          "handle": "pillow-mists"
+        },
+        "pillow-sleep-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/pillow-sleep-sprays_products.json",
+          "handle": "pillow-sleep-sprays"
+        },
+        "pillows": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/pillows_products.json",
+          "handle": "pillows"
+        },
+        "portable-travel-sound-machines": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/portable-travel-sound-machines_products.json",
+          "handle": "portable-travel-sound-machines"
+        },
+        "relaxation-aids": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/relaxation-aids_products.json",
+          "handle": "relaxation-aids"
+        },
+        "room-darkening-solutions-for-better-sleep": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/room-darkening-solutions-for-better-sleep_products.json",
+          "handle": "room-darkening-solutions-for-better-sleep"
+        },
+        "room-linen-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/room-linen-sprays_products.json",
+          "handle": "room-linen-sprays"
+        },
+        "self-care-sunday-sleep-rituals": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/self-care-sunday-sleep-rituals_products.json",
+          "handle": "self-care-sunday-sleep-rituals"
+        },
+        "senior-sleep-comfort-solutions": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/senior-sleep-comfort-solutions_products.json",
+          "handle": "senior-sleep-comfort-solutions"
+        },
+        "sensory-processing-disorder-sleep-aids": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sensory-processing-disorder-sleep-aids_products.json",
+          "handle": "sensory-processing-disorder-sleep-aids"
+        },
+        "silk-sleep-masks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/silk-sleep-masks_products.json",
+          "handle": "silk-sleep-masks"
+        },
+        "sleep-aids-for-better-rest": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-aids-for-better-rest_products.json",
+          "handle": "sleep-aids-for-better-rest"
+        },
+        "sleep-aids-for-busy-professionals": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-aids-for-busy-professionals_products.json",
+          "handle": "sleep-aids-for-busy-professionals"
+        },
+        "sleep-aids-for-depression-and-anxiety": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-aids-for-depression-and-anxiety_products.json",
+          "handle": "sleep-aids-for-depression-and-anxiety"
+        },
+        "sleep-aids-for-shift-workers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-aids-for-shift-workers_products.json",
+          "handle": "sleep-aids-for-shift-workers"
+        },
+        "sleep-cycle-optimization-tools": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-cycle-optimization-tools_products.json",
+          "handle": "sleep-cycle-optimization-tools"
+        },
+        "sleep-environment": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-environment_products.json",
+          "handle": "sleep-environment"
+        },
+        "sleep-gifts-for-new-parents": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-gifts-for-new-parents_products.json",
+          "handle": "sleep-gifts-for-new-parents"
+        },
+        "sleep-gifts-for-restless-nights": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-gifts-for-restless-nights_products.json",
+          "handle": "sleep-gifts-for-restless-nights"
+        },
+        "sleep-mask-gifts-for-light-sleepers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-mask-gifts-for-light-sleepers_products.json",
+          "handle": "sleep-mask-gifts-for-light-sleepers"
+        },
+        "sleep-masks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-masks_products.json",
+          "handle": "sleep-masks"
+        },
+        "sleep-quality-improvement-tools": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-quality-improvement-tools_products.json",
+          "handle": "sleep-quality-improvement-tools"
+        },
+        "sleep-solutions-for-apartment-living": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-solutions-for-apartment-living_products.json",
+          "handle": "sleep-solutions-for-apartment-living"
+        },
+        "sleep-wellness-essentials": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sleep-wellness-essentials_products.json",
+          "handle": "sleep-wellness-essentials"
+        },
+        "smart-alarm-clocks-for-better-wake-up": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/smart-alarm-clocks-for-better-wake-up_products.json",
+          "handle": "smart-alarm-clocks-for-better-wake-up"
+        },
+        "smart-home-sleep-automation-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/smart-home-sleep-automation-products_products.json",
+          "handle": "smart-home-sleep-automation-products"
+        },
+        "smart-sound-machines-app-controlled": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/smart-sound-machines-app-controlled_products.json",
+          "handle": "smart-sound-machines-app-controlled"
+        },
+        "soft-blankets-for-relaxation": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/soft-blankets-for-relaxation_products.json",
+          "handle": "soft-blankets-for-relaxation"
+        },
+        "sound-masking-for-noisy-environments": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sound-masking-for-noisy-environments_products.json",
+          "handle": "sound-masking-for-noisy-environments"
+        },
+        "spa-day-relaxation-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/spa-day-relaxation-products_products.json",
+          "handle": "spa-day-relaxation-products"
+        },
+        "stress-relief-sleep-products": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/stress-relief-sleep-products_products.json",
+          "handle": "stress-relief-sleep-products"
+        },
+        "student-dorm-sleep-essentials": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/student-dorm-sleep-essentials_products.json",
+          "handle": "student-dorm-sleep-essentials"
+        },
+        "sunrise-simulation-wake-up-lights": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/sunrise-simulation-wake-up-lights_products.json",
+          "handle": "sunrise-simulation-wake-up-lights"
+        },
+        "therapeutic-blankets-for-ptsd-relief": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/therapeutic-blankets-for-ptsd-relief_products.json",
+          "handle": "therapeutic-blankets-for-ptsd-relief"
+        },
+        "thermal-blackout-curtains": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/thermal-blackout-curtains_products.json",
+          "handle": "thermal-blackout-curtains"
+        },
+        "travel-blackout-blinds": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-blackout-blinds_products.json",
+          "handle": "travel-blackout-blinds"
+        },
+        "travel-pillows-for-business-trips": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-pillows-for-business-trips_products.json",
+          "handle": "travel-pillows-for-business-trips"
+        },
+        "travel-size-sleep-sprays": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-size-sleep-sprays_products.json",
+          "handle": "travel-size-sleep-sprays"
+        },
+        "travel-sleep-aids-for-business-trips": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-sleep-aids-for-business-trips_products.json",
+          "handle": "travel-sleep-aids-for-business-trips"
+        },
+        "travel-sleep-essentials-for-frequent-flyers": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-sleep-essentials-for-frequent-flyers_products.json",
+          "handle": "travel-sleep-essentials-for-frequent-flyers"
+        },
+        "travel-sleep-masks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/travel-sleep-masks_products.json",
+          "handle": "travel-sleep-masks"
+        },
+        "valentines-day-couples-sleep-gifts": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/valentines-day-couples-sleep-gifts_products.json",
+          "handle": "valentines-day-couples-sleep-gifts"
+        },
+        "wedding-registry-sleep-essentials": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/wedding-registry-sleep-essentials_products.json",
+          "handle": "wedding-registry-sleep-essentials"
+        },
+        "weighted-blankets": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-blankets_products.json",
+          "handle": "weighted-blankets"
+        },
+        "weighted-eye-mask-for-anxiety-relief": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-eye-mask-for-anxiety-relief_products.json",
+          "handle": "weighted-eye-mask-for-anxiety-relief"
+        },
+        "weighted-sleep-masks": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-sleep-masks_products.json",
+          "handle": "weighted-sleep-masks"
+        },
+        "weighted-therapy-for-sensory-comfort": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/weighted-therapy-for-sensory-comfort_products.json",
+          "handle": "weighted-therapy-for-sensory-comfort"
+        },
+        "white-noise-machines-for-adults": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines-for-adults_products.json",
+          "handle": "white-noise-machines-for-adults"
+        },
+        "white-noise-machines-for-babies": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines-for-babies_products.json",
+          "handle": "white-noise-machines-for-babies"
+        },
+        "white-noise-machines": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-machines_products.json",
+          "handle": "white-noise-machines"
+        },
+        "white-noise-solutions-for-noisy-environments": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/white-noise-solutions-for-noisy-environments_products.json",
+          "handle": "white-noise-solutions-for-noisy-environments"
+        },
+        "winter-sleep-comfort-essentials": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/winter-sleep-comfort-essentials_products.json",
+          "handle": "winter-sleep-comfort-essentials"
+        },
+        "work-from-home-relaxation-tools": {
+          "url": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/work-from-home-relaxation-tools_products.json",
+          "handle": "work-from-home-relaxation-tools"
+        }
+      }
     }
-  },
-  "total_files": {
-    "main_files": 3,
-    "collection_files": 0
   }
 }
