@@ -2,16 +2,16 @@ name: Sync Spacire Shopify Data
 
 on:
   schedule:
-    # Run blogs and products every 30 minutes
+    # Run blogs, products, and collections_with_products every 30 minutes
     - cron: '*/30 * * * *'
-    # Run collections only once daily at 6 AM UTC
+    # Run collections list only once daily at 6 AM UTC
     - cron: '0 6 * * *'
   
   # Allow manual triggering
   workflow_dispatch:
     inputs:
       data_type:
-        description: 'What to sync (all, blogs, products, collections)'
+        description: 'What to sync'
         required: false
         default: 'all'
         type: choice
@@ -19,7 +19,8 @@ on:
           - all
           - blogs
           - products  
-          - collections
+          - collections_list_only
+          - collections_with_products
   
   # Run on push to main branch
   push:
@@ -52,9 +53,9 @@ jobs:
             echo "sync_type=${{ github.event.inputs.data_type }}" >> $GITHUB_OUTPUT
           elif [ "${{ github.event_name }}" = "schedule" ]; then
             if [ "${{ github.event.schedule }}" = "0 6 * * *" ]; then
-              echo "sync_type=collections" >> $GITHUB_OUTPUT
+              echo "sync_type=collections_list_only" >> $GITHUB_OUTPUT
             else
-              echo "sync_type=blogs_products" >> $GITHUB_OUTPUT  
+              echo "sync_type=frequent_updates" >> $GITHUB_OUTPUT  
             fi
           else
             echo "sync_type=all" >> $GITHUB_OUTPUT
