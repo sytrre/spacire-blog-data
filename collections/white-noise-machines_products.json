@@ -4436,8 +4436,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954334027",
       "variants": [
         {
-          "id": 53253609226571,
           "product_id": 10823954334027,
+          "id": 53253609226571,
           "title": "White / USB",
           "price": "33.49",
           "position": 1,
@@ -4466,8 +4466,8 @@
       ],
       "options": [
         {
-          "id": 13449723117899,
           "product_id": 10823954334027,
+          "id": 13449723117899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4475,8 +4475,8 @@
           ]
         },
         {
-          "id": 13449723150667,
           "product_id": 10823954334027,
+          "id": 13449723150667,
           "name": "format",
           "position": 2,
           "values": [
@@ -12773,8 +12773,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823720960331",
       "variants": [
         {
-          "id": 53252208329035,
           "product_id": 10823720960331,
+          "id": 53252208329035,
           "title": "Quiet Black / USB",
           "price": "54.49",
           "position": 1,
@@ -12801,8 +12801,8 @@
           "image_id": 64331376689483
         },
         {
-          "id": 53252208361803,
           "product_id": 10823720960331,
+          "id": 53252208361803,
           "title": "Sauce Purple / USB",
           "price": "54.49",
           "position": 2,
@@ -12829,8 +12829,8 @@
           "image_id": 64331376722251
         },
         {
-          "id": 53252208394571,
           "product_id": 10823720960331,
+          "id": 53252208394571,
           "title": "Snow Salt White / USB",
           "price": "54.49",
           "position": 3,
@@ -12857,8 +12857,8 @@
           "image_id": 64331376755019
         },
         {
-          "id": 53252208427339,
           "product_id": 10823720960331,
+          "id": 53252208427339,
           "title": "Sunset Yellow / USB",
           "price": "54.49",
           "position": 4,
@@ -12887,8 +12887,8 @@
       ],
       "options": [
         {
-          "id": 13449396650315,
           "product_id": 10823720960331,
+          "id": 13449396650315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12899,8 +12899,8 @@
           ]
         },
         {
-          "id": 13449396683083,
           "product_id": 10823720960331,
+          "id": 13449396683083,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -15037,8 +15037,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103671627",
       "variants": [
         {
-          "id": 53256908341579,
           "product_id": 10825103671627,
+          "id": 53256908341579,
           "title": "White / Colorful Lights",
           "price": "361.11",
           "position": 1,
@@ -15067,8 +15067,8 @@
       ],
       "options": [
         {
-          "id": 13451005264203,
           "product_id": 10825103671627,
+          "id": 13451005264203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15076,8 +15076,8 @@
           ]
         },
         {
-          "id": 13451005296971,
           "product_id": 10825103671627,
+          "id": 13451005296971,
           "name": "Specifications",
           "position": 2,
           "values": [
