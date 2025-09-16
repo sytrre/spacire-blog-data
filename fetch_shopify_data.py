@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Spacire Data Fetcher - Complete with all 4 main files
+Spacire Data Fetcher - Fixed version with working collection products
 Fetches: blogs, products, collections, and individual collection products
 """
 
@@ -263,9 +263,9 @@ class SpacireDataFetcher:
         print(f"✓ Saved {len(all_collections)} collections to collections.json", file=sys.stderr)
         return all_collections
     
-    def fetch_collections_with_products(self, collections):
-        """Fetch products for each collection using GraphQL"""
-        print("\n=== FETCHING COLLECTION PRODUCTS ===", file=sys.stderr)
+    def fetch_collections_with_products_rest(self, collections):
+        """Fetch products for each collection using REST API with collection_id filter"""
+        print("\n=== FETCHING COLLECTION PRODUCTS (REST METHOD) ===", file=sys.stderr)
         
         os.makedirs("collections", exist_ok=True)
         
@@ -277,128 +277,99 @@ class SpacireDataFetcher:
             title = collection.get("title")
             collection_id = collection.get("id")
             
-            if not handle:
+            if not handle or not collection_id:
                 continue
             
             print(f"[{i}/{len(collections)}] Fetching products for: {handle}", file=sys.stderr)
             
-            # Initialize collection_data as None
-            collection_data = None
             all_products = []
             
             try:
-                # Fetch products using GraphQL
-                has_next = True
-                cursor = None
+                # Use the /collects endpoint to get product IDs for this collection
+                page_info = None
+                product_ids = []
                 
-                while has_next:
-                    after_clause = f', after: "{cursor}"' if cursor else ''
+                while True:
+                    if page_info:
+                        collects_url = f"{self.rest_url}/collects.json?collection_id={collection_id}&limit=250&page_info={page_info}"
+                    else:
+                        collects_url = f"{self.rest_url}/collects.json?collection_id={collection_id}&limit=250"
                     
-                    query = f"""
-                    query {{
-                      collectionByHandle(handle: "{handle}") {{
-                        id
-                        title
-                        handle
-                        descriptionHtml
-                        products(first: 250{after_clause}) {{
-                          edges {{
-                            node {{
-                              id
-                              title
-                              handle
-                              vendor
-                              productType
-                              descriptionHtml
-                              createdAt
-                              updatedAt
-                              publishedAt
-                              tags
-                              images(first: 20) {{
-                                edges {{
-                                  node {{
-                                    id
-                                    url
-                                    altText
-                                    width
-                                    height
-                                  }}
-                                }}
-                              }}
-                              variants(first: 100) {{
-                                edges {{
-                                  node {{
-                                    id
-                                    title
-                                    price
-                                    compareAtPrice
-                                    sku
-                                    position
-                                    inventoryQuantity
-                                    barcode
-                                    weight
-                                    createdAt
-                                    updatedAt
-                                  }}
-                                }}
-                              }}
-                              options {{
-                                id
-                                name
-                                position
-                                values
-                              }}
-                            }}
-                            cursor
-                          }}
-                          pageInfo {{
-                            hasNextPage
-                          }}
-                        }}
-                      }}
-                    }}
-                    """
+                    collects_response = requests.get(collects_url, headers=self.headers)
                     
-                    response = requests.post(
-                        self.graphql_url,
-                        headers=self.headers,
-                        json={"query": query}
-                    )
-                    
-                    if response.status_code != 200:
-                        print(f"  ✗ Error {response.status_code}", file=sys.stderr)
-                        failed.append(handle)
-                        break
-                    
-                    data = response.json()
-                    
-                    if "errors" in data:
-                        print(f"  ✗ GraphQL error", file=sys.stderr)
-                        failed.append(handle)
-                        break
-                    
-                    collection_data = data.get("data", {}).get("collectionByHandle")
-                    
-                    if not collection_data:
-                        print(f"  ✗ Not found", file=sys.stderr)
-                        failed.append(handle)
-                        break
-                    
-                    products_connection = collection_data.get("products", {})
-                    edges = products_connection.get("edges", [])
-                    
-                    for edge in edges:
-                        product = self.format_product(edge["node"])
-                        all_products.append(product)
-                        cursor = edge.get("cursor")
-                    
-                    page_info = products_connection.get("pageInfo", {})
-                    has_next = page_info.get("hasNextPage", False)
-                    
-                    if not has_next or not edges:
+                    if collects_response.status_code == 200:
+                        collects = collects_response.json().get("collects", [])
+                        if not collects:
+                            break
+                        
+                        for collect in collects:
+                            product_ids.append(collect["product_id"])
+                        
+                        # Check for next page
+                        link_header = collects_response.headers.get("Link", "")
+                        if 'rel="next"' in link_header:
+                            for link in link_header.split(","):
+                                if 'rel="next"' in link:
+                                    page_info = link.split("page_info=")[1].split(">")[0]
+                                    break
+                        else:
+                            break
+                    else:
+                        # If collects doesn't work, try products with collection_id
                         break
                     
                     time.sleep(0.3)
+                
+                # If we got product IDs from collects, fetch the actual products
+                if product_ids:
+                    # Batch fetch products (Shopify allows up to 250 IDs per request)
+                    for batch_start in range(0, len(product_ids), 250):
+                        batch_ids = product_ids[batch_start:batch_start + 250]
+                        ids_string = ",".join(str(pid) for pid in batch_ids)
+                        
+                        products_url = f"{self.rest_url}/products.json?ids={ids_string}&limit=250"
+                        products_response = requests.get(products_url, headers=self.headers)
+                        
+                        if products_response.status_code == 200:
+                            products = products_response.json().get("products", [])
+                            all_products.extend(products)
+                        
+                        time.sleep(0.3)
+                
+                # If collects didn't work or returned nothing, try direct products endpoint
+                if not all_products:
+                    page_info = None
+                    while True:
+                        if page_info:
+                            products_url = f"{self.rest_url}/products.json?collection_id={collection_id}&limit=250&page_info={page_info}"
+                        else:
+                            products_url = f"{self.rest_url}/products.json?collection_id={collection_id}&limit=250"
+                        
+                        products_response = requests.get(products_url, headers=self.headers)
+                        
+                        if products_response.status_code == 200:
+                            products = products_response.json().get("products", [])
+                            if not products:
+                                break
+                            
+                            all_products.extend(products)
+                            
+                            # Check for next page
+                            link_header = products_response.headers.get("Link", "")
+                            if 'rel="next"' in link_header:
+                                for link in link_header.split(","):
+                                    if 'rel="next"' in link:
+                                        page_info = link.split("page_info=")[1].split(">")[0]
+                                        break
+                            else:
+                                break
+                        else:
+                            break
+                        
+                        time.sleep(0.3)
+                
+                print(f"  ✓ Found {len(all_products)} products", file=sys.stderr)
+                successful += 1
                 
             except Exception as e:
                 print(f"  ✗ Error: {e}", file=sys.stderr)
@@ -420,88 +391,13 @@ class SpacireDataFetcher:
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(output, f, indent=2, ensure_ascii=False)
             
-            if collection_data or len(all_products) == 0:
-                print(f"  ✓ Saved {len(all_products)} products", file=sys.stderr)
-                successful += 1
-            
             time.sleep(0.5)
         
         print(f"\n✓ Processed {successful}/{len(collections)} collections", file=sys.stderr)
         if failed:
-            print(f"✗ Failed: {len(failed)}", file=sys.stderr)
+            print(f"✗ Failed collections: {', '.join(failed)}", file=sys.stderr)
         
         return successful
-    
-    def format_product(self, node):
-        """Convert GraphQL product to REST format"""
-        gid = node.get("id", "")
-        product_id = gid.split("/")[-1] if "/" in gid else gid
-        
-        # Format images
-        images = []
-        for img_edge in node.get("images", {}).get("edges", []):
-            img = img_edge["node"]
-            img_id = img.get("id", "").split("/")[-1] if "/" in img.get("id") else ""
-            images.append({
-                "id": int(img_id) if img_id.isdigit() else img_id,
-                "src": img.get("url"),
-                "alt": img.get("altText"),
-                "width": img.get("width"),
-                "height": img.get("height")
-            })
-        
-        # Format variants
-        variants = []
-        for var_edge in node.get("variants", {}).get("edges", []):
-            var = var_edge["node"]
-            var_id = var.get("id", "").split("/")[-1] if "/" in var.get("id") else ""
-            variants.append({
-                "id": int(var_id) if var_id.isdigit() else var_id,
-                "product_id": int(product_id) if product_id.isdigit() else product_id,
-                "title": var.get("title"),
-                "price": var.get("price"),
-                "compare_at_price": var.get("compareAtPrice"),
-                "sku": var.get("sku"),
-                "position": var.get("position", 1),
-                "inventory_quantity": var.get("inventoryQuantity"),
-                "barcode": var.get("barcode"),
-                "weight": var.get("weight"),
-                "weight_unit": "kg",
-                "created_at": var.get("createdAt"),
-                "updated_at": var.get("updatedAt")
-            })
-        
-        # Format options
-        options = []
-        for opt in node.get("options", []):
-            options.append({
-                "name": opt.get("name"),
-                "position": opt.get("position", 1),
-                "values": opt.get("values", [])
-            })
-        
-        # Handle tags - ensure it's always a string
-        tags = node.get("tags", [])
-        if isinstance(tags, list):
-            tags_str = ", ".join(tags)
-        else:
-            tags_str = tags or ""
-        
-        return {
-            "id": int(product_id) if product_id.isdigit() else product_id,
-            "title": node.get("title"),
-            "body_html": node.get("descriptionHtml", ""),
-            "vendor": node.get("vendor"),
-            "product_type": node.get("productType"),
-            "created_at": node.get("createdAt"),
-            "handle": node.get("handle"),
-            "updated_at": node.get("updatedAt"),
-            "published_at": node.get("publishedAt"),
-            "tags": tags_str,
-            "images": images,
-            "variants": variants,
-            "options": options
-        }
     
     def create_index(self):
         """Create index files"""
@@ -578,9 +474,9 @@ def main():
     fetcher.fetch_all_products()
     collections = fetcher.fetch_all_collections()
     
-    # Fetch products for each collection
+    # Fetch products for each collection using REST API instead of GraphQL
     if collections:
-        fetcher.fetch_collections_with_products(collections)
+        fetcher.fetch_collections_with_products_rest(collections)
     
     # Create index
     fetcher.create_index()
