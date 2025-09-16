@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Spacire Shopify Data Fetcher - Enhanced Version
+Spacire Shopify Data Fetcher - Fixed GraphQL Schema Version
 Fetches complete product data matching Shopify's JSON structure
 Creates both main files and individual collection files
 """
@@ -54,7 +54,7 @@ class ShopifyDataFetcher:
         while has_next_page:
             cursor_param = f', after: "{cursor}"' if cursor else ""
             
-            # Enhanced query to get ALL product data including HTML descriptions
+            # Fixed GraphQL query with correct field names
             query = f"""
             {{
               products(first: 250{cursor_param}) {{
@@ -107,9 +107,7 @@ class ShopifyDataFetcher:
                           availableForSale
                           barcode
                           weight
-                          weightUnit
                           taxable
-                          requiresShipping
                           createdAt
                           updatedAt
                           image {{
@@ -131,17 +129,7 @@ class ShopifyDataFetcher:
                       position
                       values
                     }}
-                    priceRange {{
-                      minVariantPrice {{
-                        amount
-                        currencyCode
-                      }}
-                      maxVariantPrice {{
-                        amount
-                        currencyCode
-                      }}
-                    }}
-                    compareAtPriceRange {{
+                    priceRangeV2 {{
                       minVariantPrice {{
                         amount
                         currencyCode
@@ -213,7 +201,9 @@ class ShopifyDataFetcher:
                     publishedOnCurrentPublication
                     sortOrder
                     templateSuffix
-                    productsCount
+                    productsCount {{
+                      count
+                    }}
                     image {{
                       url
                       altText
@@ -329,9 +319,7 @@ class ShopifyDataFetcher:
                             availableForSale
                             barcode
                             weight
-                            weightUnit
                             taxable
-                            requiresShipping
                             createdAt
                             updatedAt
                             image {{
@@ -353,17 +341,7 @@ class ShopifyDataFetcher:
                         position
                         values
                       }}
-                      priceRange {{
-                        minVariantPrice {{
-                          amount
-                          currencyCode
-                        }}
-                        maxVariantPrice {{
-                          amount
-                          currencyCode
-                        }}
-                      }}
-                      compareAtPriceRange {{
+                      priceRangeV2 {{
                         minVariantPrice {{
                           amount
                           currencyCode
@@ -450,9 +428,9 @@ class ShopifyDataFetcher:
                 "barcode": var.get("barcode"),
                 "grams": int(float(var.get("weight", 0)) * 1000) if var.get("weight") else 0,
                 "weight": var.get("weight", 0),
-                "weight_unit": var.get("weightUnit", "kg"),
+                "weight_unit": "kg",  # Default to kg as it's not in GraphQL
                 "taxable": var.get("taxable", True),
-                "requires_shipping": var.get("requiresShipping", True),
+                "requires_shipping": True,  # Default to true as it's not in GraphQL
                 "created_at": var.get("createdAt"),
                 "updated_at": var.get("updatedAt"),
                 "featured_image": {
@@ -518,6 +496,11 @@ class ShopifyDataFetcher:
         gid = collection_node.get("id", "")
         numeric_id = gid.split("/")[-1] if "/" in gid else gid
         
+        # Get product count
+        products_count = 0
+        if collection_node.get("productsCount"):
+            products_count = collection_node.get("productsCount", {}).get("count", 0)
+        
         collection = {
             "id": numeric_id,
             "handle": collection_node.get("handle"),
@@ -527,7 +510,7 @@ class ShopifyDataFetcher:
             "published_at": collection_node.get("updatedAt"),
             "sort_order": collection_node.get("sortOrder", "best-selling"),
             "template_suffix": collection_node.get("templateSuffix"),
-            "products_count": collection_node.get("productsCount", 0),
+            "products_count": products_count,
             "collection_type": "smart" if collection_node.get("sortOrder") else "custom",
             "published_scope": "web",
             "image": {
@@ -587,6 +570,7 @@ class ShopifyDataFetcher:
             
             if response.status_code != 200:
                 print(f"HTTP Error for {query_type}: {response.status_code}", file=sys.stderr)
+                print(f"Response: {response.text[:500]}", file=sys.stderr)
                 return None
             
             data = response.json()
@@ -633,7 +617,7 @@ class ShopifyDataFetcher:
                       title
                       handle
                       summary
-                      contentHtml
+                      content
                       createdAt
                       updatedAt
                       publishedAt
@@ -672,7 +656,7 @@ class ShopifyDataFetcher:
                         "title": article["title"],
                         "handle": article["handle"],
                         "summary": article.get("summary"),
-                        "content": article.get("contentHtml"),
+                        "content": article.get("content"),
                         "created_at": article["createdAt"],
                         "updated_at": article["updatedAt"],
                         "published_at": article.get("publishedAt"),
@@ -689,8 +673,6 @@ class ShopifyDataFetcher:
     def cleanup_old_chunk_files(self):
         """Remove old chunk files that are no longer needed"""
         print("Cleaning up old chunk files...", file=sys.stderr)
-        
-        import glob
         
         # Patterns for old chunk files to remove
         old_file_patterns = [
