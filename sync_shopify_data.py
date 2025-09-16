@@ -315,9 +315,9 @@ class SpacireSync:
         return all_collections
     
     def fetch_collection_products(self, collections):
-        """Fetch products for each collection using simple pagination"""
+        """Fetch products for each collection using REST API"""
         print("\n=== FETCHING COLLECTION PRODUCTS ===", file=sys.stderr)
-        print(">>> Using simple page-based pagination method <<<", file=sys.stderr)
+        print(">>> Using REST API products endpoint <<<", file=sys.stderr)
         
         os.makedirs("collections", exist_ok=True)
         
@@ -337,32 +337,49 @@ class SpacireSync:
             all_products = []
             
             try:
-                # Simple page-based pagination
-                page = 1
-                max_pages = 20  # Safety limit
+                # Use the products endpoint with collection_id filter
+                # This endpoint uses page_info for pagination
+                url = f"{self.rest_url}/products.json?collection_id={collection_id}&limit=250"
                 
-                while page <= max_pages:
-                    products_url = f"{self.rest_url}/products.json?collection_id={collection_id}&limit=250&page={page}"
-                    response = requests.get(products_url, headers=self.headers)
+                while url:
+                    # Make request
+                    response = requests.get(url, headers=self.headers)
                     
                     if response.status_code == 200:
                         products = response.json().get("products", [])
                         
                         if products:
                             all_products.extend(products)
-                            print(f"    Page {page}: Got {len(products)} products (total: {len(all_products)})", file=sys.stderr)
-                            
-                            # If we got exactly 250, there might be more
-                            if len(products) == 250:
-                                page += 1
-                                time.sleep(0.3)
-                            else:
-                                break
-                        else:
-                            break
+                            print(f"    Got {len(products)} products (total: {len(all_products)})", file=sys.stderr)
+                        
+                        # Check for next page in Link header
+                        link_header = response.headers.get("Link", "")
+                        url = None  # Reset
+                        
+                        if link_header and 'rel="next"' in link_header:
+                            # Extract next page URL from Link header
+                            # Format: <https://shop.myshopify.com/admin/api/2023-10/products.json?page_info=xxx>; rel="next"
+                            import re
+                            match = re.search(r'<([^>]+)>;\s*rel="next"', link_header)
+                            if match:
+                                next_url = match.group(1)
+                                # Use the full URL from the Link header
+                                if next_url.startswith('http'):
+                                    url = next_url
+                                else:
+                                    # Construct full URL if relative
+                                    url = f"https://{self.shop_domain}{next_url}"
+                                print(f"    Found next page", file=sys.stderr)
+                        
+                        if not url:
+                            print(f"    No more pages", file=sys.stderr)
                     else:
-                        print(f"    Error {response.status_code} on page {page}", file=sys.stderr)
+                        print(f"    Error {response.status_code} fetching products", file=sys.stderr)
+                        if response.status_code == 400:
+                            print(f"    Response: {response.text[:200]}", file=sys.stderr)
                         break
+                    
+                    time.sleep(0.3)
                 
                 # Save paginated collection products
                 total_products = len(all_products)
