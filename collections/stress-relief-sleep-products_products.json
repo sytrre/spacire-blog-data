@@ -16869,8 +16869,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "id": 53256763375947,
           "product_id": 10825071165771,
+          "id": 53256763375947,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -16899,8 +16899,8 @@
       ],
       "options": [
         {
-          "id": 13450956013899,
           "product_id": 10825071165771,
+          "id": 13450956013899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38278,8 +38278,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823910293835",
       "variants": [
         {
-          "id": 53253482512715,
           "product_id": 10823910293835,
+          "id": 53253482512715,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -38308,8 +38308,8 @@
       ],
       "options": [
         {
-          "id": 13449674064203,
           "product_id": 10823910293835,
+          "id": 13449674064203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60351,8 +60351,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960704843",
       "variants": [
         {
-          "id": 53256229224779,
           "product_id": 10824960704843,
+          "id": 53256229224779,
           "title": "50ml",
           "price": "21.38",
           "position": 1,
@@ -60381,8 +60381,8 @@
       ],
       "options": [
         {
-          "id": 13450821402955,
           "product_id": 10824960704843,
+          "id": 13450821402955,
           "name": "style",
           "position": 1,
           "values": [

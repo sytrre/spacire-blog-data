@@ -3824,8 +3824,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960704843",
       "variants": [
         {
-          "id": 53256229224779,
           "product_id": 10824960704843,
+          "id": 53256229224779,
           "title": "50ml",
           "price": "21.38",
           "position": 1,
@@ -3854,8 +3854,8 @@
       ],
       "options": [
         {
-          "id": 13450821402955,
           "product_id": 10824960704843,
+          "id": 13450821402955,
           "name": "style",
           "position": 1,
           "values": [

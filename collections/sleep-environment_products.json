@@ -3454,8 +3454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "id": 53256763375947,
           "product_id": 10825071165771,
+          "id": 53256763375947,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -3484,8 +3484,8 @@
       ],
       "options": [
         {
-          "id": 13450956013899,
           "product_id": 10825071165771,
+          "id": 13450956013899,
           "name": "Color",
           "position": 1,
           "values": [
