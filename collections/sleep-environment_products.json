@@ -1177,8 +1177,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791673675",
       "variants": [
         {
-          "id": 53252641423691,
           "product_id": 10823791673675,
+          "id": 53252641423691,
           "title": "Black",
           "price": "29.99",
           "position": 1,
@@ -1207,8 +1207,8 @@
       ],
       "options": [
         {
-          "id": 13449520447819,
           "product_id": 10823791673675,
+          "id": 13449520447819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16758,8 +16758,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823619936587",
       "variants": [
         {
-          "id": 53251753935179,
           "product_id": 10823619936587,
+          "id": 53251753935179,
           "title": "Black",
           "price": "36.49",
           "position": 1,
@@ -16788,8 +16788,8 @@
       ],
       "options": [
         {
-          "id": 13449256632651,
           "product_id": 10823619936587,
+          "id": 13449256632651,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20475,8 +20475,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961687883",
       "variants": [
         {
-          "id": 53256231682379,
           "product_id": 10824961687883,
+          "id": 53256231682379,
           "title": "30ml",
           "price": "20.95",
           "position": 1,
@@ -20505,8 +20505,8 @@
       ],
       "options": [
         {
-          "id": 13450822451531,
           "product_id": 10824961687883,
+          "id": 13450822451531,
           "name": "capacity",
           "position": 1,
           "values": [
