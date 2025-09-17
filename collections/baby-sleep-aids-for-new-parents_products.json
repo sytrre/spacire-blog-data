@@ -5602,8 +5602,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087811915",
       "variants": [
         {
-          "product_id": 10825087811915,
           "id": 53256852963659,
+          "product_id": 10825087811915,
           "title": "White / USB",
           "price": "410.41",
           "position": 1,
@@ -5632,8 +5632,8 @@
       ],
       "options": [
         {
-          "product_id": 10825087811915,
           "id": 13450979475787,
+          "product_id": 10825087811915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5641,8 +5641,8 @@
           ]
         },
         {
-          "product_id": 10825087811915,
           "id": 13450979508555,
+          "product_id": 10825087811915,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -9926,8 +9926,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825094627659",
       "variants": [
         {
-          "product_id": 10825094627659,
           "id": 53256888811851,
+          "product_id": 10825094627659,
           "title": "As shown / USB",
           "price": "995.21",
           "position": 1,
@@ -9956,8 +9956,8 @@
       ],
       "options": [
         {
-          "product_id": 10825094627659,
           "id": 13450991403339,
+          "product_id": 10825094627659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9965,8 +9965,8 @@
           ]
         },
         {
-          "product_id": 10825094627659,
           "id": 13450991436107,
+          "product_id": 10825094627659,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -12175,8 +12175,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823720960331",
       "variants": [
         {
-          "product_id": 10823720960331,
           "id": 53252208329035,
+          "product_id": 10823720960331,
           "title": "Quiet Black / USB",
           "price": "54.49",
           "position": 1,
@@ -12203,8 +12203,8 @@
           "image_id": 64331376689483
         },
         {
-          "product_id": 10823720960331,
           "id": 53252208361803,
+          "product_id": 10823720960331,
           "title": "Sauce Purple / USB",
           "price": "54.49",
           "position": 2,
@@ -12231,8 +12231,8 @@
           "image_id": 64331376722251
         },
         {
-          "product_id": 10823720960331,
           "id": 53252208394571,
+          "product_id": 10823720960331,
           "title": "Snow Salt White / USB",
           "price": "54.49",
           "position": 3,
@@ -12259,8 +12259,8 @@
           "image_id": 64331376755019
         },
         {
-          "product_id": 10823720960331,
           "id": 53252208427339,
+          "product_id": 10823720960331,
           "title": "Sunset Yellow / USB",
           "price": "54.49",
           "position": 4,
@@ -12289,8 +12289,8 @@
       ],
       "options": [
         {
-          "product_id": 10823720960331,
           "id": 13449396650315,
+          "product_id": 10823720960331,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12301,8 +12301,8 @@
           ]
         },
         {
-          "product_id": 10823720960331,
           "id": 13449396683083,
+          "product_id": 10823720960331,
           "name": "Specifications",
           "position": 2,
           "values": [

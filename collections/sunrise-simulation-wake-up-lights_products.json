@@ -11339,8 +11339,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "product_id": 10825031188811,
           "id": 53256535900491,
+          "product_id": 10825031188811,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -11369,8 +11369,8 @@
       ],
       "options": [
         {
-          "product_id": 10825031188811,
           "id": 13450901717323,
+          "product_id": 10825031188811,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -11378,8 +11378,8 @@
           ]
         },
         {
-          "product_id": 10825031188811,
           "id": 13450901750091,
+          "product_id": 10825031188811,
           "name": "Power",
           "position": 2,
           "values": [
@@ -13304,8 +13304,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050161483",
       "variants": [
         {
-          "product_id": 10825050161483,
           "id": 53256601665867,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Black",
           "price": "31.43",
           "position": 1,
@@ -13332,8 +13332,8 @@
           "image_id": 64365250052427
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601698635,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Blue",
           "price": "31.43",
           "position": 2,
@@ -13360,8 +13360,8 @@
           "image_id": 64365250085195
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601731403,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Purplish Red",
           "price": "31.43",
           "position": 3,
@@ -13388,8 +13388,8 @@
           "image_id": 64365250117963
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601764171,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Black",
           "price": "31.57",
           "position": 4,
@@ -13416,8 +13416,8 @@
           "image_id": 64365250052427
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601796939,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Blue",
           "price": "31.57",
           "position": 5,
@@ -13444,8 +13444,8 @@
           "image_id": 64365250085195
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601829707,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Purplish Red",
           "price": "31.59",
           "position": 6,
@@ -13474,8 +13474,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050161483,
           "id": 13450926195019,
+          "product_id": 10825050161483,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -13484,8 +13484,8 @@
           ]
         },
         {
-          "product_id": 10825050161483,
           "id": 13450926227787,
+          "product_id": 10825050161483,
           "name": "Color",
           "position": 2,
           "values": [
@@ -30062,8 +30062,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053569355",
       "variants": [
         {
-          "product_id": 10825053569355,
           "id": 53256615231819,
+          "product_id": 10825053569355,
           "title": "Short with elastic",
           "price": "34.02",
           "position": 1,
@@ -30090,8 +30090,8 @@
           "image_id": 64365292454219
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615264587,
+          "product_id": 10825053569355,
           "title": "Grey outline",
           "price": "34.11",
           "position": 2,
@@ -30118,8 +30118,8 @@
           "image_id": 64365292486987
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615297355,
+          "product_id": 10825053569355,
           "title": "Grey outline 2PC",
           "price": "36.70",
           "position": 3,
@@ -30146,8 +30146,8 @@
           "image_id": 64365292519755
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615330123,
+          "product_id": 10825053569355,
           "title": "Grey outline 3PC",
           "price": "39.11",
           "position": 4,
@@ -30174,8 +30174,8 @@
           "image_id": 64365292552523
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615362891,
+          "product_id": 10825053569355,
           "title": "Grey outline set",
           "price": "34.47",
           "position": 5,
@@ -30202,8 +30202,8 @@
           "image_id": 64365292585291
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615395659,
+          "product_id": 10825053569355,
           "title": "Dark gray",
           "price": "34.28",
           "position": 6,
@@ -30232,8 +30232,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053569355,
           "id": 13450929930571,
+          "product_id": 10825053569355,
           "name": "Color",
           "position": 1,
           "values": [

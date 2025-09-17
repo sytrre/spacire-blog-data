@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-17T12:30:30+01:00",
+      "updated_at": "2025-09-17T14:04:33+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-17T12:30:30+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-17T14:04:33+01:00",
+          "summary_html": "<p>Discover the ultimate guide to choosing the perfect sleep mask tailored to your sleeping style. Whether you’re a side sleeper needing pressure-free comfort, a stomach sleeper seeking ultra-thin silk designs, or a light-sensitive individual craving complete blackout, this buyer’s guide explores the best masks by material, features, and price. From memory foam to Bluetooth-enabled options, learn how to optimize your sleep with the right mask for your needs.</p>",
           "template_suffix": "article",
           "handle": "best-sleep-masks-detailed-buyers-guide-for-every-sleep-style",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998418022731"
+          "admin_graphql_api_id": "gid://shopify/Article/998418022731",
+          "image": {
+            "created_at": "2025-09-17T14:04:32+01:00",
+            "alt": "best value budget sleep masks",
+            "width": 2048,
+            "height": 2048,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A2_b68bf18b-0d4f-46be-8bfe-309beb900f34.png?v=1758114273"
+          }
         },
         {
           "id": 998328795467,
