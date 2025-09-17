@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-17T17:19:38+01:00",
+      "updated_at": "2025-09-17T18:30:02+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -14,6 +14,21 @@
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
         {
+          "id": 998421954891,
+          "title": "Sleep Mask Care Guide: How to Clean and Maintain Eye Masks",
+          "created_at": "2025-09-17T17:58:04+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-09-17T17:59:01+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "sleep-mask-care-guide-how-to-clean-and-maintain-eye-masks",
+          "tags": "Sleep Masks",
+          "admin_graphql_api_id": "gid://shopify/Article/998421954891"
+        },
+        {
           "id": 998421823819,
           "title": "Travel Sleep Masks: Essential Features for Frequent Flyers",
           "created_at": "2025-09-17T17:19:38+01:00",
@@ -21,12 +36,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-17T17:19:38+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-17T17:51:39+01:00",
+          "summary_html": "<p data-start=\"970\" data-end=\"1407\">For the 4.3 billion passengers traveling annually, sleep on the go is often elusive. A travel sleep mask designed for portability, durability, and complete blackout can transform long flights, hotel stays, and train rides into restful experiences. From silk luxury options to 3D memory foam and Bluetooth-enhanced designs, this guide reviews the best travel masks to ensure comfort, hygiene, and restorative sleep across every journey.</p>",
           "template_suffix": "article",
           "handle": "travel-sleep-masks-essential-features-for-frequent-flyers",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998421823819"
+          "admin_graphql_api_id": "gid://shopify/Article/998421823819",
+          "image": {
+            "created_at": "2025-09-17T17:51:38+01:00",
+            "alt": "durable travel eye mask with protective case",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/Z1_d3888757-3df0-40e4-96d4-3c936ea448a7.jpg?v=1758127899"
+          }
         },
         {
           "id": 998418022731,
@@ -35,8 +57,8 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": null,
-          "updated_at": "2025-09-17T14:42:28+01:00",
+          "published_at": "2025-09-17T18:30:02+01:00",
+          "updated_at": "2025-09-17T18:30:02+01:00",
           "summary_html": "<p>Discover the ultimate guide to choosing the perfect sleep mask tailored to your sleeping style. Whether you’re a side sleeper needing pressure-free comfort, a stomach sleeper seeking ultra-thin silk designs, or a light-sensitive individual craving complete blackout, this buyer’s guide explores the best masks by material, features, and price. From memory foam to Bluetooth-enabled options, learn how to optimize your sleep with the right mask for your needs.</p>",
           "template_suffix": "article",
           "handle": "best-sleep-masks-detailed-buyers-guide-for-every-sleep-style",
