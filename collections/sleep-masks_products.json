@@ -8233,8 +8233,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823801831755",
       "variants": [
         {
-          "product_id": 10823801831755,
           "id": 53252698636619,
+          "product_id": 10823801831755,
           "title": "Black",
           "price": "43.49",
           "position": 1,
@@ -8261,8 +8261,8 @@
           "image_id": 64332651757899
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698669387,
+          "product_id": 10823801831755,
           "title": "Cameo Brown",
           "price": "43.49",
           "position": 2,
@@ -8289,8 +8289,8 @@
           "image_id": 64332651790667
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698702155,
+          "product_id": 10823801831755,
           "title": "Champagne",
           "price": "43.49",
           "position": 3,
@@ -8317,8 +8317,8 @@
           "image_id": 64332651823435
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698734923,
+          "product_id": 10823801831755,
           "title": "Dark Gray",
           "price": "43.49",
           "position": 4,
@@ -8345,8 +8345,8 @@
           "image_id": 64332651856203
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698767691,
+          "product_id": 10823801831755,
           "title": "Navy Blue",
           "price": "43.49",
           "position": 5,
@@ -8375,8 +8375,8 @@
       ],
       "options": [
         {
-          "product_id": 10823801831755,
           "id": 13449533161803,
+          "product_id": 10823801831755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20905,8 +20905,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031287115",
       "variants": [
         {
-          "id": 53256536719691,
           "product_id": 10825031287115,
+          "id": 53256536719691,
           "title": "Elegant Black",
           "price": "27.47",
           "position": 1,
@@ -20933,8 +20933,8 @@
           "image_id": 64365031424331
         },
         {
-          "id": 53256536752459,
           "product_id": 10825031287115,
+          "id": 53256536752459,
           "title": "Emerald",
           "price": "27.47",
           "position": 2,
@@ -20961,8 +20961,8 @@
           "image_id": 64365031457099
         },
         {
-          "id": 53256536785227,
           "product_id": 10825031287115,
+          "id": 53256536785227,
           "title": "Navy Blue",
           "price": "27.47",
           "position": 3,
@@ -20989,8 +20989,8 @@
           "image_id": 64365031489867
         },
         {
-          "id": 53256536817995,
           "product_id": 10825031287115,
+          "id": 53256536817995,
           "title": "Space Gray",
           "price": "27.47",
           "position": 4,
@@ -21017,8 +21017,8 @@
           "image_id": 64365031522635
         },
         {
-          "id": 53256536850763,
           "product_id": 10825031287115,
+          "id": 53256536850763,
           "title": "Aurora Silver",
           "price": "27.47",
           "position": 5,
@@ -21045,8 +21045,8 @@
           "image_id": 64365031555403
         },
         {
-          "id": 53256536883531,
           "product_id": 10825031287115,
+          "id": 53256536883531,
           "title": "Girl Pink",
           "price": "27.47",
           "position": 6,
@@ -21073,8 +21073,8 @@
           "image_id": 64365031588171
         },
         {
-          "id": 53256536916299,
           "product_id": 10825031287115,
+          "id": 53256536916299,
           "title": "Navy Blue Ice Pack",
           "price": "27.62",
           "position": 7,
@@ -21101,8 +21101,8 @@
           "image_id": 64365031620939
         },
         {
-          "id": 53256536949067,
           "product_id": 10825031287115,
+          "id": 53256536949067,
           "title": "Emerald Ice Pack",
           "price": "27.62",
           "position": 8,
@@ -21129,8 +21129,8 @@
           "image_id": 64365031653707
         },
         {
-          "id": 53256536981835,
           "product_id": 10825031287115,
+          "id": 53256536981835,
           "title": "Space Gray Ice Pack",
           "price": "27.62",
           "position": 9,
@@ -21157,8 +21157,8 @@
           "image_id": 64365031686475
         },
         {
-          "id": 53256537014603,
           "product_id": 10825031287115,
+          "id": 53256537014603,
           "title": "Girl Pink Ice Pack",
           "price": "27.62",
           "position": 10,
@@ -21185,8 +21185,8 @@
           "image_id": 64365031719243
         },
         {
-          "id": 53256537047371,
           "product_id": 10825031287115,
+          "id": 53256537047371,
           "title": "Aurora Silver Ice Pack",
           "price": "27.62",
           "position": 11,
@@ -21215,8 +21215,8 @@
       ],
       "options": [
         {
-          "id": 13450901848395,
           "product_id": 10825031287115,
+          "id": 13450901848395,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -33692,8 +33692,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823813497163",
       "variants": [
         {
-          "product_id": 10823813497163,
           "id": 53252747198795,
+          "product_id": 10823813497163,
           "title": "Black / Type A",
           "price": "33.49",
           "position": 1,
@@ -33720,8 +33720,8 @@
           "image_id": 64333042090315
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747231563,
+          "product_id": 10823813497163,
           "title": "Black / Type B Size Large",
           "price": "38.99",
           "position": 2,
@@ -33748,8 +33748,8 @@
           "image_id": 64333042090315
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747264331,
+          "product_id": 10823813497163,
           "title": "Black / Type B Size Small",
           "price": "38.99",
           "position": 3,
@@ -33776,8 +33776,8 @@
           "image_id": 64333042123083
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747297099,
+          "product_id": 10823813497163,
           "title": "Black / Type C",
           "price": "32.99",
           "position": 4,
@@ -33804,8 +33804,8 @@
           "image_id": 64333042155851
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747329867,
+          "product_id": 10823813497163,
           "title": "Black / Type D",
           "price": "29.49",
           "position": 5,
@@ -33834,8 +33834,8 @@
       ],
       "options": [
         {
-          "product_id": 10823813497163,
           "id": 13449546367307,
+          "product_id": 10823813497163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -33843,8 +33843,8 @@
           ]
         },
         {
-          "product_id": 10823813497163,
           "id": 13449546400075,
+          "product_id": 10823813497163,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -40143,8 +40143,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056747851",
       "variants": [
         {
-          "id": 53256627618123,
           "product_id": 10825056747851,
+          "id": 53256627618123,
           "title": "Cow Spot",
           "price": "30.93",
           "position": 1,
@@ -40173,8 +40173,8 @@
       ],
       "options": [
         {
-          "id": 13450933666123,
           "product_id": 10825056747851,
+          "id": 13450933666123,
           "name": "Color",
           "position": 1,
           "values": [
@@ -58442,8 +58442,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742587211",
       "variants": [
         {
-          "product_id": 10823742587211,
           "id": 53252368400715,
+          "product_id": 10823742587211,
           "title": "Pink / USB",
           "price": "34.99",
           "position": 1,
@@ -58472,8 +58472,8 @@
       ],
       "options": [
         {
-          "product_id": 10823742587211,
           "id": 13449442427211,
+          "product_id": 10823742587211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -58481,8 +58481,8 @@
           ]
         },
         {
-          "product_id": 10823742587211,
           "id": 13449442459979,
+          "product_id": 10823742587211,
           "name": "power",
           "position": 2,
           "values": [
@@ -58603,8 +58603,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068314955",
       "variants": [
         {
-          "product_id": 10825068314955,
           "id": 53256743092555,
+          "product_id": 10825068314955,
           "title": "Black",
           "price": "32.45",
           "position": 1,
@@ -58631,8 +58631,8 @@
           "image_id": 64365476249931
         },
         {
-          "product_id": 10825068314955,
           "id": 53256743125323,
+          "product_id": 10825068314955,
           "title": "Gray",
           "price": "32.45",
           "position": 2,
@@ -58659,8 +58659,8 @@
           "image_id": 64365476282699
         },
         {
-          "product_id": 10825068314955,
           "id": 53256743158091,
+          "product_id": 10825068314955,
           "title": "Pink",
           "price": "32.45",
           "position": 3,
@@ -58689,8 +58689,8 @@
       ],
       "options": [
         {
-          "product_id": 10825068314955,
           "id": 13450951950667,
+          "product_id": 10825068314955,
           "name": "format",
           "position": 1,
           "values": [

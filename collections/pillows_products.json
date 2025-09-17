@@ -27526,8 +27526,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772564296011",
       "variants": [
         {
-          "id": 53314612724043,
           "product_id": 14772564296011,
+          "id": 53314612724043,
           "title": "White",
           "price": "42.50",
           "position": 1,
@@ -27556,8 +27556,8 @@
       ],
       "options": [
         {
-          "id": 17117260546379,
           "product_id": 14772564296011,
+          "id": 17117260546379,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29443,8 +29443,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771202359627",
       "variants": [
         {
-          "product_id": 14771202359627,
           "id": 53309796909387,
+          "product_id": 14771202359627,
           "title": "Rabbit / 40x 35cm",
           "price": "28.59",
           "position": 1,
@@ -29471,8 +29471,8 @@
           "image_id": 64591504343371
         },
         {
-          "product_id": 14771202359627,
           "id": 53309796942155,
+          "product_id": 14771202359627,
           "title": "Owl / 40x 35cm",
           "price": "28.59",
           "position": 2,
@@ -29499,8 +29499,8 @@
           "image_id": 64591504376139
         },
         {
-          "product_id": 14771202359627,
           "id": 53309796974923,
+          "product_id": 14771202359627,
           "title": "Chick / 40x 35cm",
           "price": "28.59",
           "position": 3,
@@ -29527,8 +29527,8 @@
           "image_id": 64591504408907
         },
         {
-          "product_id": 14771202359627,
           "id": 53309797007691,
+          "product_id": 14771202359627,
           "title": "Dinosaur / 40x 35cm",
           "price": "28.59",
           "position": 4,
@@ -29555,8 +29555,8 @@
           "image_id": 64591504441675
         },
         {
-          "product_id": 14771202359627,
           "id": 53309797040459,
+          "product_id": 14771202359627,
           "title": "Koala / 40x 35cm",
           "price": "28.59",
           "position": 5,
@@ -29585,8 +29585,8 @@
       ],
       "options": [
         {
-          "product_id": 14771202359627,
           "id": 17115727331659,
+          "product_id": 14771202359627,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29598,8 +29598,8 @@
           ]
         },
         {
-          "product_id": 14771202359627,
           "id": 17115727364427,
+          "product_id": 14771202359627,
           "name": "Size",
           "position": 2,
           "values": [
