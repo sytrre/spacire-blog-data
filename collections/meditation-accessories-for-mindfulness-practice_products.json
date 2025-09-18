@@ -6503,8 +6503,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "product_id": 10825092628811,
           "id": 53256886354251,
+          "product_id": 10825092628811,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -6533,8 +6533,8 @@
       ],
       "options": [
         {
-          "product_id": 10825092628811,
           "id": 13450987635019,
+          "product_id": 10825092628811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6542,8 +6542,8 @@
           ]
         },
         {
-          "product_id": 10825092628811,
           "id": 13450987667787,
+          "product_id": 10825092628811,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -8068,8 +8068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "product_id": 10825084240203,
           "id": 53256832352587,
+          "product_id": 10825084240203,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -8096,8 +8096,8 @@
           "image_id": 64365644644683
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832385355,
+          "product_id": 10825084240203,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -8124,8 +8124,8 @@
           "image_id": 64365644677451
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832418123,
+          "product_id": 10825084240203,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -8154,8 +8154,8 @@
       ],
       "options": [
         {
-          "product_id": 10825084240203,
           "id": 13450974003531,
+          "product_id": 10825084240203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15566,8 +15566,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100132683",
       "variants": [
         {
-          "product_id": 10825100132683,
           "id": 53256900378955,
+          "product_id": 10825100132683,
           "title": "White / US",
           "price": "533.64",
           "position": 1,
@@ -15596,8 +15596,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100132683,
           "id": 13451000316235,
+          "product_id": 10825100132683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15605,8 +15605,8 @@
           ]
         },
         {
-          "product_id": 10825100132683,
           "id": 13451000349003,
+          "product_id": 10825100132683,
           "name": "Model",
           "position": 2,
           "values": [

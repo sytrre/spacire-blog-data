@@ -2742,8 +2742,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021030731",
       "variants": [
         {
-          "id": 53256503918923,
           "product_id": 10825021030731,
+          "id": 53256503918923,
           "title": "Dark Purple",
           "price": "35.97",
           "position": 1,
@@ -2770,8 +2770,8 @@
           "image_id": 64364894257483
         },
         {
-          "id": 53256503951691,
           "product_id": 10825021030731,
+          "id": 53256503951691,
           "title": "Gray",
           "price": "35.97",
           "position": 2,
@@ -2800,8 +2800,8 @@
       ],
       "options": [
         {
-          "id": 13450890740043,
           "product_id": 10825021030731,
+          "id": 13450890740043,
           "name": "format",
           "position": 1,
           "values": [
