@@ -57553,8 +57553,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908360523",
       "variants": [
         {
-          "id": 53253479072075,
           "product_id": 10823908360523,
+          "id": 53253479072075,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -57581,8 +57581,8 @@
           "image_id": 64334773649739
         },
         {
-          "id": 53253479104843,
           "product_id": 10823908360523,
+          "id": 53253479104843,
           "title": "Grey",
           "price": "38.99",
           "position": 2,
@@ -57609,8 +57609,8 @@
           "image_id": 64334773682507
         },
         {
-          "id": 53253479137611,
           "product_id": 10823908360523,
+          "id": 53253479137611,
           "title": "Navy Blue",
           "price": "38.99",
           "position": 3,
@@ -57637,8 +57637,8 @@
           "image_id": 64334773715275
         },
         {
-          "id": 53253479170379,
           "product_id": 10823908360523,
+          "id": 53253479170379,
           "title": "Peacock blue",
           "price": "38.99",
           "position": 4,
@@ -57665,8 +57665,8 @@
           "image_id": 64334773748043
         },
         {
-          "id": 53253479203147,
           "product_id": 10823908360523,
+          "id": 53253479203147,
           "title": "Pink",
           "price": "38.99",
           "position": 5,
@@ -57693,8 +57693,8 @@
           "image_id": 64334773780811
         },
         {
-          "id": 53253479235915,
           "product_id": 10823908360523,
+          "id": 53253479235915,
           "title": "Sky Blue",
           "price": "38.99",
           "position": 6,
@@ -57723,8 +57723,8 @@
       ],
       "options": [
         {
-          "id": 13449671999819,
           "product_id": 10823908360523,
+          "id": 13449671999819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64225,8 +64225,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045573963",
       "variants": [
         {
-          "product_id": 10825045573963,
           "id": 53256583020875,
+          "product_id": 10825045573963,
           "title": "2PC Black",
           "price": "35.56",
           "position": 1,
@@ -64253,8 +64253,8 @@
           "image_id": 64365202997579
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583053643,
+          "product_id": 10825045573963,
           "title": "3PC Black",
           "price": "37.23",
           "position": 2,
@@ -64281,8 +64281,8 @@
           "image_id": 64365203030347
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583086411,
+          "product_id": 10825045573963,
           "title": "4PC Black",
           "price": "38.93",
           "position": 3,
@@ -64309,8 +64309,8 @@
           "image_id": 64365203063115
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583119179,
+          "product_id": 10825045573963,
           "title": "5PC Black",
           "price": "40.63",
           "position": 4,
@@ -64337,8 +64337,8 @@
           "image_id": 64365203095883
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583151947,
+          "product_id": 10825045573963,
           "title": "Black Without nasal wings",
           "price": "33.54",
           "position": 5,
@@ -64365,8 +64365,8 @@
           "image_id": 64365203128651
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583184715,
+          "product_id": 10825045573963,
           "title": "Black",
           "price": "33.85",
           "position": 6,
@@ -64395,8 +64395,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045573963,
           "id": 13450921312587,
+          "product_id": 10825045573963,
           "name": "Color",
           "position": 1,
           "values": [
