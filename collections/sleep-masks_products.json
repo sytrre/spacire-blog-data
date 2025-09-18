@@ -30726,8 +30726,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791345995",
       "variants": [
         {
-          "product_id": 10823791345995,
           "id": 53252639916363,
+          "product_id": 10823791345995,
           "title": "Black / Eye Mask And Thread",
           "price": "25.49",
           "position": 1,
@@ -30754,8 +30754,8 @@
           "image_id": 64332411339083
         },
         {
-          "product_id": 10823791345995,
           "id": 53252639949131,
+          "product_id": 10823791345995,
           "title": "Navy Blue / Eye Mask And Thread",
           "price": "25.49",
           "position": 2,
@@ -30782,8 +30782,8 @@
           "image_id": 64332411371851
         },
         {
-          "product_id": 10823791345995,
           "id": 53252639981899,
+          "product_id": 10823791345995,
           "title": "Peacock Green / Eye Mask And Thread",
           "price": "25.49",
           "position": 3,
@@ -30810,8 +30810,8 @@
           "image_id": 64332411404619
         },
         {
-          "product_id": 10823791345995,
           "id": 53252640014667,
+          "product_id": 10823791345995,
           "title": "Pink / Eye Mask And Thread",
           "price": "25.49",
           "position": 4,
@@ -30840,8 +30840,8 @@
       ],
       "options": [
         {
-          "product_id": 10823791345995,
           "id": 13449519923531,
+          "product_id": 10823791345995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -30852,8 +30852,8 @@
           ]
         },
         {
-          "product_id": 10823791345995,
           "id": 13449519956299,
+          "product_id": 10823791345995,
           "name": "format",
           "position": 2,
           "values": [
@@ -56259,8 +56259,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045541195",
       "variants": [
         {
-          "id": 53256581906763,
           "product_id": 10825045541195,
+          "id": 53256581906763,
           "title": "Black",
           "price": "36.08",
           "position": 1,
@@ -56287,8 +56287,8 @@
           "image_id": 64365200146763
         },
         {
-          "id": 53256581939531,
           "product_id": 10825045541195,
+          "id": 53256581939531,
           "title": "Dark Blue",
           "price": "34.80",
           "position": 2,
@@ -56317,8 +56317,8 @@
       ],
       "options": [
         {
-          "id": 13450921279819,
           "product_id": 10825045541195,
+          "id": 13450921279819,
           "name": "Color",
           "position": 1,
           "values": [
