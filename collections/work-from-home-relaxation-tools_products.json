@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "id": 53256905490763,
           "product_id": 10825102360907,
+          "id": 53256905490763,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "id": 53256905523531,
           "product_id": 10825102360907,
+          "id": 53256905523531,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "id": 53256905556299,
           "product_id": 10825102360907,
+          "id": 53256905556299,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "id": 53256905589067,
           "product_id": 10825102360907,
+          "id": 53256905589067,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "id": 13451003461963,
           "product_id": 10825102360907,
+          "id": 13451003461963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "id": 13451003494731,
           "product_id": 10825102360907,
+          "id": 13451003494731,
           "name": "format",
           "position": 2,
           "values": [
