@@ -52095,8 +52095,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "product_id": 10825054585163,
           "id": 53256620376395,
+          "product_id": 10825054585163,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -52123,8 +52123,8 @@
           "image_id": 64365305528651
         },
         {
-          "product_id": 10825054585163,
           "id": 53256620409163,
+          "product_id": 10825054585163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -52153,8 +52153,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054585163,
           "id": 13450931110219,
+          "product_id": 10825054585163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63670,8 +63670,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045541195",
       "variants": [
         {
-          "product_id": 10825045541195,
           "id": 53256581906763,
+          "product_id": 10825045541195,
           "title": "Black",
           "price": "36.08",
           "position": 1,
@@ -63698,8 +63698,8 @@
           "image_id": 64365200146763
         },
         {
-          "product_id": 10825045541195,
           "id": 53256581939531,
+          "product_id": 10825045541195,
           "title": "Dark Blue",
           "price": "34.80",
           "position": 2,
@@ -63728,8 +63728,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045541195,
           "id": 13450921279819,
+          "product_id": 10825045541195,
           "name": "Color",
           "position": 1,
           "values": [
