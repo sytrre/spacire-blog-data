@@ -11449,8 +11449,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087320395",
       "variants": [
         {
-          "id": 53256850407755,
           "product_id": 10825087320395,
+          "id": 53256850407755,
           "title": "White / USB",
           "price": "306.30",
           "position": 1,
@@ -11479,8 +11479,8 @@
       ],
       "options": [
         {
-          "id": 13450978754891,
           "product_id": 10825087320395,
+          "id": 13450978754891,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11488,8 +11488,8 @@
           ]
         },
         {
-          "id": 13450978787659,
           "product_id": 10825087320395,
+          "id": 13450978787659,
           "name": "power",
           "position": 2,
           "values": [
