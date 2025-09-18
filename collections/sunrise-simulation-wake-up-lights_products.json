@@ -28767,8 +28767,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776059691339",
       "variants": [
         {
-          "id": 53331196805451,
           "product_id": 14776059691339,
+          "id": 53331196805451,
           "title": "Black Monolayer / 140*80CM",
           "price": "18.61",
           "position": 1,
@@ -28795,8 +28795,8 @@
           "image_id": 64660531511627
         },
         {
-          "id": 53331196838219,
           "product_id": 14776059691339,
+          "id": 53331196838219,
           "title": "Black Monolayer / 180*90CM",
           "price": "19.19",
           "position": 2,
@@ -28825,8 +28825,8 @@
       ],
       "options": [
         {
-          "id": 17121536377163,
           "product_id": 14776059691339,
+          "id": 17121536377163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28834,8 +28834,8 @@
           ]
         },
         {
-          "id": 17121536409931,
           "product_id": 14776059691339,
+          "id": 17121536409931,
           "name": "Size",
           "position": 2,
           "values": [
@@ -30062,8 +30062,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053569355",
       "variants": [
         {
-          "product_id": 10825053569355,
           "id": 53256615231819,
+          "product_id": 10825053569355,
           "title": "Short with elastic",
           "price": "34.02",
           "position": 1,
@@ -30090,8 +30090,8 @@
           "image_id": 64365292454219
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615264587,
+          "product_id": 10825053569355,
           "title": "Grey outline",
           "price": "34.11",
           "position": 2,
@@ -30118,8 +30118,8 @@
           "image_id": 64365292486987
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615297355,
+          "product_id": 10825053569355,
           "title": "Grey outline 2PC",
           "price": "36.70",
           "position": 3,
@@ -30146,8 +30146,8 @@
           "image_id": 64365292519755
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615330123,
+          "product_id": 10825053569355,
           "title": "Grey outline 3PC",
           "price": "39.11",
           "position": 4,
@@ -30174,8 +30174,8 @@
           "image_id": 64365292552523
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615362891,
+          "product_id": 10825053569355,
           "title": "Grey outline set",
           "price": "34.47",
           "position": 5,
@@ -30202,8 +30202,8 @@
           "image_id": 64365292585291
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615395659,
+          "product_id": 10825053569355,
           "title": "Dark gray",
           "price": "34.28",
           "position": 6,
@@ -30232,8 +30232,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053569355,
           "id": 13450929930571,
+          "product_id": 10825053569355,
           "name": "Color",
           "position": 1,
           "values": [

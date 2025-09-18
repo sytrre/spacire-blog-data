@@ -761,8 +761,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744586059",
       "variants": [
         {
-          "id": 53252390781259,
           "product_id": 10823744586059,
+          "id": 53252390781259,
           "title": "White",
           "price": "30.49",
           "position": 1,
@@ -791,8 +791,8 @@
       ],
       "options": [
         {
-          "id": 13449446916427,
           "product_id": 10823744586059,
+          "id": 13449446916427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1770,8 +1770,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823693795659",
       "variants": [
         {
-          "id": 53252086497611,
           "product_id": 10823693795659,
+          "id": 53252086497611,
           "title": "White / USB",
           "price": "32.49",
           "position": 1,
@@ -1800,8 +1800,8 @@
       ],
       "options": [
         {
-          "id": 13449346679115,
           "product_id": 10823693795659,
+          "id": 13449346679115,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1809,8 +1809,8 @@
           ]
         },
         {
-          "id": 13449346711883,
           "product_id": 10823693795659,
+          "id": 13449346711883,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -4232,8 +4232,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743766859",
       "variants": [
         {
-          "id": 53252383277387,
           "product_id": 10823743766859,
+          "id": 53252383277387,
           "title": "White",
           "price": "35.49",
           "position": 1,
@@ -4262,8 +4262,8 @@
       ],
       "options": [
         {
-          "id": 13449444819275,
           "product_id": 10823743766859,
+          "id": 13449444819275,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8896,8 +8896,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794229579",
       "variants": [
         {
-          "id": 53252658856267,
           "product_id": 10823794229579,
+          "id": 53252658856267,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -8926,8 +8926,8 @@
       ],
       "options": [
         {
-          "id": 13449524019531,
           "product_id": 10823794229579,
+          "id": 13449524019531,
           "name": "Color",
           "position": 1,
           "values": [

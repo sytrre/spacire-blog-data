@@ -3046,8 +3046,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "id": 53257349398859,
           "product_id": 10825158918475,
+          "id": 53257349398859,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -3076,8 +3076,8 @@
       ],
       "options": [
         {
-          "id": 13451086135627,
           "product_id": 10825158918475,
+          "id": 13451086135627,
           "name": "style",
           "position": 1,
           "values": [

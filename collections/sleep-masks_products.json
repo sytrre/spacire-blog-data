@@ -4446,8 +4446,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634846027",
       "variants": [
         {
-          "id": 53251876716875,
           "product_id": 10823634846027,
+          "id": 53251876716875,
           "title": "Black",
           "price": "36.99",
           "position": 1,
@@ -4474,8 +4474,8 @@
           "image_id": 64329765585227
         },
         {
-          "id": 53251876749643,
           "product_id": 10823634846027,
+          "id": 53251876749643,
           "title": "White",
           "price": "40.49",
           "position": 2,
@@ -4502,8 +4502,8 @@
           "image_id": 64329765617995
         },
         {
-          "id": 53251876782411,
           "product_id": 10823634846027,
+          "id": 53251876782411,
           "title": "Wine red",
           "price": "40.49",
           "position": 3,
@@ -4532,8 +4532,8 @@
       ],
       "options": [
         {
-          "id": 13449276227915,
           "product_id": 10823634846027,
+          "id": 13449276227915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37954,8 +37954,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "product_id": 10825050194251,
           "id": 53256602091851,
+          "product_id": 10825050194251,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -37984,8 +37984,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050194251,
           "id": 13450926260555,
+          "product_id": 10825050194251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -56442,8 +56442,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053569355",
       "variants": [
         {
-          "product_id": 10825053569355,
           "id": 53256615231819,
+          "product_id": 10825053569355,
           "title": "Short with elastic",
           "price": "34.02",
           "position": 1,
@@ -56470,8 +56470,8 @@
           "image_id": 64365292454219
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615264587,
+          "product_id": 10825053569355,
           "title": "Grey outline",
           "price": "34.11",
           "position": 2,
@@ -56498,8 +56498,8 @@
           "image_id": 64365292486987
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615297355,
+          "product_id": 10825053569355,
           "title": "Grey outline 2PC",
           "price": "36.70",
           "position": 3,
@@ -56526,8 +56526,8 @@
           "image_id": 64365292519755
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615330123,
+          "product_id": 10825053569355,
           "title": "Grey outline 3PC",
           "price": "39.11",
           "position": 4,
@@ -56554,8 +56554,8 @@
           "image_id": 64365292552523
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615362891,
+          "product_id": 10825053569355,
           "title": "Grey outline set",
           "price": "34.47",
           "position": 5,
@@ -56582,8 +56582,8 @@
           "image_id": 64365292585291
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615395659,
+          "product_id": 10825053569355,
           "title": "Dark gray",
           "price": "34.28",
           "position": 6,
@@ -56612,8 +56612,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053569355,
           "id": 13450929930571,
+          "product_id": 10825053569355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57251,8 +57251,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051504971",
       "variants": [
         {
-          "id": 53256606875979,
           "product_id": 10825051504971,
+          "id": 53256606875979,
           "title": "Dark green",
           "price": "32.96",
           "position": 1,
@@ -57279,8 +57279,8 @@
           "image_id": 64365264240971
         },
         {
-          "id": 53256606908747,
           "product_id": 10825051504971,
+          "id": 53256606908747,
           "title": "Gray",
           "price": "32.96",
           "position": 2,
@@ -57309,8 +57309,8 @@
       ],
       "options": [
         {
-          "id": 13450927702347,
           "product_id": 10825051504971,
+          "id": 13450927702347,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57665,8 +57665,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050751307",
       "variants": [
         {
-          "id": 53256605106507,
           "product_id": 10825050751307,
+          "id": 53256605106507,
           "title": "C Cup Eye Mask Bag / Light Gray",
           "price": "32.50",
           "position": 1,
@@ -57693,8 +57693,8 @@
           "image_id": 64365259030859
         },
         {
-          "id": 53256605139275,
           "product_id": 10825050751307,
+          "id": 53256605139275,
           "title": "C Cup Eye Mask Bag / Medium Gray",
           "price": "32.50",
           "position": 2,
@@ -57723,8 +57723,8 @@
       ],
       "options": [
         {
-          "id": 13450926915915,
           "product_id": 10825050751307,
+          "id": 13450926915915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57732,8 +57732,8 @@
           ]
         },
         {
-          "id": 13450926981451,
           "product_id": 10825050751307,
+          "id": 13450926981451,
           "name": "Specifications",
           "position": 2,
           "values": [

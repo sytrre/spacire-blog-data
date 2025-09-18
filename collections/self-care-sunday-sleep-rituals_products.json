@@ -3624,8 +3624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "id": 53257349398859,
           "product_id": 10825158918475,
+          "id": 53257349398859,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -3654,8 +3654,8 @@
       ],
       "options": [
         {
-          "id": 13451086135627,
           "product_id": 10825158918475,
+          "id": 13451086135627,
           "name": "style",
           "position": 1,
           "values": [
@@ -4076,8 +4076,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157345611",
       "variants": [
         {
-          "product_id": 10825157345611,
           "id": 53257320726859,
+          "product_id": 10825157345611,
           "title": "30 PCS",
           "price": "32.12",
           "position": 1,
@@ -4106,8 +4106,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157345611,
           "id": 13451083383115,
+          "product_id": 10825157345611,
           "name": "quantity",
           "position": 1,
           "values": [

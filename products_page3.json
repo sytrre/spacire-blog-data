@@ -117,8 +117,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157345611",
       "variants": [
         {
-          "product_id": 10825157345611,
           "id": 53257320726859,
+          "product_id": 10825157345611,
           "title": "30 PCS",
           "price": "32.12",
           "position": 1,
@@ -147,8 +147,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157345611,
           "id": 13451083383115,
+          "product_id": 10825157345611,
           "name": "quantity",
           "position": 1,
           "values": [
