@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-17T18:30:02+01:00",
+      "updated_at": "2025-09-18T08:09:54+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-17T17:59:01+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-18T08:09:54+01:00",
+          "summary_html": "<p>Proper sleep mask care is essential for extending product lifespan, maintaining hygiene, and ensuring optimal comfort. From delicate mulberry silk to durable memory foam and synthetic blends, each material requires tailored cleaning and storage methods. This guide covers step-by-step care routines, professional tips, and replacement indicators to help you protect your investment and enjoy consistently restorative sleep.</p>",
           "template_suffix": "article",
           "handle": "sleep-mask-care-guide-how-to-clean-and-maintain-eye-masks",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998421954891"
+          "admin_graphql_api_id": "gid://shopify/Article/998421954891",
+          "image": {
+            "created_at": "2025-09-18T08:09:52+01:00",
+            "alt": "how to wash silk sleep mask without damage",
+            "width": 2048,
+            "height": 2048,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_346dd12b-f36b-4e14-9592-c9a6b693ee95.png?v=1758179394"
+          }
         },
         {
           "id": 998421823819,
