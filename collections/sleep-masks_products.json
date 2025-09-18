@@ -44464,8 +44464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634288971",
       "variants": [
         {
-          "product_id": 10823634288971,
           "id": 53251875078475,
+          "product_id": 10823634288971,
           "title": "White / Bluetooth",
           "price": "51.99",
           "position": 1,
@@ -44492,8 +44492,8 @@
           "image_id": 64329758900555
         },
         {
-          "product_id": 10823634288971,
           "id": 53251875111243,
+          "product_id": 10823634288971,
           "title": "White / No Bluetooth",
           "price": "48.99",
           "position": 2,
@@ -44522,8 +44522,8 @@
       ],
       "options": [
         {
-          "product_id": 10823634288971,
           "id": 13449275638091,
+          "product_id": 10823634288971,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44531,8 +44531,8 @@
           ]
         },
         {
-          "product_id": 10823634288971,
           "id": 13449275670859,
+          "product_id": 10823634288971,
           "name": "style",
           "position": 2,
           "values": [
@@ -51382,8 +51382,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823619936587",
       "variants": [
         {
-          "product_id": 10823619936587,
           "id": 53251753935179,
+          "product_id": 10823619936587,
           "title": "Black",
           "price": "36.49",
           "position": 1,
@@ -51412,8 +51412,8 @@
       ],
       "options": [
         {
-          "product_id": 10823619936587,
           "id": 13449256632651,
+          "product_id": 10823619936587,
           "name": "Color",
           "position": 1,
           "values": [
