@@ -1570,8 +1570,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159311691",
       "variants": [
         {
-          "id": 53257350938955,
           "product_id": 10825159311691,
+          "id": 53257350938955,
           "title": "1Bag",
           "price": "31.38",
           "position": 1,
@@ -1600,8 +1600,8 @@
       ],
       "options": [
         {
-          "id": 13451086561611,
           "product_id": 10825159311691,
+          "id": 13451086561611,
           "name": "style",
           "position": 1,
           "values": [

@@ -613,8 +613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "id": 53256897036619,
           "product_id": 10825098527051,
+          "id": 53256897036619,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -643,8 +643,8 @@
       ],
       "options": [
         {
-          "id": 13450998186315,
           "product_id": 10825098527051,
+          "id": 13450998186315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -652,8 +652,8 @@
           ]
         },
         {
-          "id": 13450998219083,
           "product_id": 10825098527051,
+          "id": 13450998219083,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -8896,8 +8896,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794229579",
       "variants": [
         {
-          "product_id": 10823794229579,
           "id": 53252658856267,
+          "product_id": 10823794229579,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -8926,8 +8926,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794229579,
           "id": 13449524019531,
+          "product_id": 10823794229579,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12454,8 +12454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -12482,8 +12482,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -12510,8 +12510,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -12538,8 +12538,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -12568,8 +12568,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12580,8 +12580,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -16689,8 +16689,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100067147",
       "variants": [
         {
-          "id": 53256900149579,
           "product_id": 10825100067147,
+          "id": 53256900149579,
           "title": "White Chinese Version",
           "price": "690.47",
           "position": 1,
@@ -16717,8 +16717,8 @@
           "image_id": 64365758841163
         },
         {
-          "id": 53256900182347,
           "product_id": 10825100067147,
+          "id": 53256900182347,
           "title": "White English Version",
           "price": "690.47",
           "position": 2,
@@ -16745,8 +16745,8 @@
           "image_id": 64365758873931
         },
         {
-          "id": 53256900215115,
           "product_id": 10825100067147,
+          "id": 53256900215115,
           "title": "Chinese And White",
           "price": "505.81",
           "position": 3,
@@ -16775,8 +16775,8 @@
       ],
       "options": [
         {
-          "id": 13451000250699,
           "product_id": 10825100067147,
+          "id": 13451000250699,
           "name": "Color",
           "position": 1,
           "values": [

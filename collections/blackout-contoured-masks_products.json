@@ -615,8 +615,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158525259",
       "variants": [
         {
-          "product_id": 10825158525259,
           "id": 53257345368395,
+          "product_id": 10825158525259,
           "title": "Rabbit",
           "price": "34.35",
           "position": 1,
@@ -643,8 +643,8 @@
           "image_id": 64366993834315
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345401163,
+          "product_id": 10825158525259,
           "title": "Blue monster",
           "price": "34.35",
           "position": 2,
@@ -671,8 +671,8 @@
           "image_id": 64366993867083
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345433931,
+          "product_id": 10825158525259,
           "title": "Joe Minibus",
           "price": "34.35",
           "position": 3,
@@ -699,8 +699,8 @@
           "image_id": 64366993899851
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345466699,
+          "product_id": 10825158525259,
           "title": "Little new",
           "price": "34.35",
           "position": 4,
@@ -727,8 +727,8 @@
           "image_id": 64366993932619
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345499467,
+          "product_id": 10825158525259,
           "title": "Piestar",
           "price": "34.35",
           "position": 5,
@@ -757,8 +757,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158525259,
           "id": 13451085644107,
+          "product_id": 10825158525259,
           "name": "Style",
           "position": 1,
           "values": [
@@ -904,8 +904,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048621387",
       "variants": [
         {
-          "product_id": 10825048621387,
           "id": 53256597438795,
+          "product_id": 10825048621387,
           "title": "Yellow",
           "price": "32.29",
           "position": 1,
@@ -932,8 +932,8 @@
           "image_id": 64365236257099
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597471563,
+          "product_id": 10825048621387,
           "title": "Light Blue",
           "price": "32.29",
           "position": 2,
@@ -960,8 +960,8 @@
           "image_id": 64365236289867
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597504331,
+          "product_id": 10825048621387,
           "title": "Light Blue b",
           "price": "32.29",
           "position": 3,
@@ -988,8 +988,8 @@
           "image_id": 64365236322635
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597537099,
+          "product_id": 10825048621387,
           "title": "Beige",
           "price": "32.29",
           "position": 4,
@@ -1016,8 +1016,8 @@
           "image_id": 64365236355403
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597569867,
+          "product_id": 10825048621387,
           "title": "Pink",
           "price": "32.29",
           "position": 5,
@@ -1044,8 +1044,8 @@
           "image_id": 64365236388171
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597602635,
+          "product_id": 10825048621387,
           "title": "4style",
           "price": "32.49",
           "position": 6,
@@ -1072,8 +1072,8 @@
           "image_id": 64365236420939
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597635403,
+          "product_id": 10825048621387,
           "title": "7style",
           "price": "32.49",
           "position": 7,
@@ -1100,8 +1100,8 @@
           "image_id": 64365236453707
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597668171,
+          "product_id": 10825048621387,
           "title": "One word",
           "price": "32.33",
           "position": 8,
@@ -1128,8 +1128,8 @@
           "image_id": 64365236486475
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597700939,
+          "product_id": 10825048621387,
           "title": "Squint",
           "price": "32.33",
           "position": 9,
@@ -1156,8 +1156,8 @@
           "image_id": 64365236519243
         },
         {
-          "product_id": 10825048621387,
           "id": 53256597733707,
+          "product_id": 10825048621387,
           "title": "Loving eye",
           "price": "32.33",
           "position": 10,
@@ -1186,8 +1186,8 @@
       ],
       "options": [
         {
-          "product_id": 10825048621387,
           "id": 13450924589387,
+          "product_id": 10825048621387,
           "name": "Color",
           "position": 1,
           "values": [
