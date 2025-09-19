@@ -15744,8 +15744,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772293665099",
       "variants": [
         {
-          "product_id": 14772293665099,
           "id": 53313709834571,
+          "product_id": 14772293665099,
           "title": "65x65CM",
           "price": "40.29",
           "position": 1,
@@ -15772,8 +15772,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709867339,
+          "product_id": 14772293665099,
           "title": "45x45CM",
           "price": "38.71",
           "position": 2,
@@ -15800,8 +15800,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709900107,
+          "product_id": 14772293665099,
           "title": "35x50CM",
           "price": "38.37",
           "position": 3,
@@ -15828,8 +15828,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709932875,
+          "product_id": 14772293665099,
           "title": "50x50CM",
           "price": "39.09",
           "position": 4,
@@ -15856,8 +15856,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709965643,
+          "product_id": 14772293665099,
           "title": "60x60CM",
           "price": "39.85",
           "position": 5,
@@ -15886,8 +15886,8 @@
       ],
       "options": [
         {
-          "product_id": 14772293665099,
           "id": 17116933751115,
+          "product_id": 14772293665099,
           "name": "Size",
           "position": 1,
           "values": [
@@ -25367,8 +25367,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773401092427",
       "variants": [
         {
-          "product_id": 14773401092427,
           "id": 53317142020427,
+          "product_id": 14773401092427,
           "title": "Black / B 150x130cm",
           "price": "51.07",
           "position": 1,
@@ -25395,8 +25395,8 @@
           "image_id": 64620892520779
         },
         {
-          "product_id": 14773401092427,
           "id": 53317142053195,
+          "product_id": 14773401092427,
           "title": "Black / 150x200cm",
           "price": "53.08",
           "position": 2,
@@ -25423,8 +25423,8 @@
           "image_id": 64620892520779
         },
         {
-          "product_id": 14773401092427,
           "id": 53317142085963,
+          "product_id": 14773401092427,
           "title": "Brown / B 150x130cm",
           "price": "51.07",
           "position": 3,
@@ -25451,8 +25451,8 @@
           "image_id": 64620892553547
         },
         {
-          "product_id": 14773401092427,
           "id": 53317142118731,
+          "product_id": 14773401092427,
           "title": "Brown / 150x200cm",
           "price": "53.08",
           "position": 4,
@@ -25479,8 +25479,8 @@
           "image_id": 64620892553547
         },
         {
-          "product_id": 14773401092427,
           "id": 53317142151499,
+          "product_id": 14773401092427,
           "title": "White / B 150x130cm",
           "price": "51.07",
           "position": 5,
@@ -25507,8 +25507,8 @@
           "image_id": 64620892586315
         },
         {
-          "product_id": 14773401092427,
           "id": 53317142184267,
+          "product_id": 14773401092427,
           "title": "White / 150x200cm",
           "price": "53.08",
           "position": 6,
@@ -25537,8 +25537,8 @@
       ],
       "options": [
         {
-          "product_id": 14773401092427,
           "id": 17118205870411,
+          "product_id": 14773401092427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25548,8 +25548,8 @@
           ]
         },
         {
-          "product_id": 14773401092427,
           "id": 17118205903179,
+          "product_id": 14773401092427,
           "name": "Carpet size",
           "position": 2,
           "values": [
