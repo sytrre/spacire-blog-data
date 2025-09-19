@@ -613,8 +613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "product_id": 10825098527051,
           "id": 53256897036619,
+          "product_id": 10825098527051,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -643,8 +643,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098527051,
           "id": 13450998186315,
+          "product_id": 10825098527051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -652,8 +652,8 @@
           ]
         },
         {
-          "product_id": 10825098527051,
           "id": 13450998219083,
+          "product_id": 10825098527051,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -13533,8 +13533,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "product_id": 10825103278411,
           "id": 53256907456843,
+          "product_id": 10825103278411,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -13561,8 +13561,8 @@
           "image_id": 64365801996619
         },
         {
-          "product_id": 10825103278411,
           "id": 53256907489611,
+          "product_id": 10825103278411,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -13591,8 +13591,8 @@
       ],
       "options": [
         {
-          "product_id": 10825103278411,
           "id": 13451004838219,
+          "product_id": 10825103278411,
           "name": "Color",
           "position": 1,
           "values": [
