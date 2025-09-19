@@ -163,8 +163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960737611",
       "variants": [
         {
-          "product_id": 10824960737611,
           "id": 53256229355851,
+          "product_id": 10824960737611,
           "title": "30ml",
           "price": "21.69",
           "position": 1,
@@ -193,8 +193,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960737611,
           "id": 13450821435723,
+          "product_id": 10824960737611,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -263,8 +263,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961392971",
       "variants": [
         {
-          "id": 53256230568267,
           "product_id": 10824961392971,
+          "id": 53256230568267,
           "title": "60ml",
           "price": "21.93",
           "position": 1,
@@ -293,8 +293,8 @@
       ],
       "options": [
         {
-          "id": 13450822091083,
           "product_id": 10824961392971,
+          "id": 13450822091083,
           "name": "Color Classification",
           "position": 1,
           "values": [

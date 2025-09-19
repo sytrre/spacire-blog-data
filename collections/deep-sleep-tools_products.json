@@ -3735,8 +3735,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087811915",
       "variants": [
         {
-          "id": 53256852963659,
           "product_id": 10825087811915,
+          "id": 53256852963659,
           "title": "White / USB",
           "price": "410.41",
           "position": 1,
@@ -3765,8 +3765,8 @@
       ],
       "options": [
         {
-          "id": 13450979475787,
           "product_id": 10825087811915,
+          "id": 13450979475787,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3774,8 +3774,8 @@
           ]
         },
         {
-          "id": 13450979508555,
           "product_id": 10825087811915,
+          "id": 13450979508555,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -3883,8 +3883,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "id": 53256886354251,
           "product_id": 10825092628811,
+          "id": 53256886354251,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -3913,8 +3913,8 @@
       ],
       "options": [
         {
-          "id": 13450987635019,
           "product_id": 10825092628811,
+          "id": 13450987635019,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3922,8 +3922,8 @@
           ]
         },
         {
-          "id": 13450987667787,
           "product_id": 10825092628811,
+          "id": 13450987667787,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -5665,8 +5665,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "id": 53252200071499,
           "product_id": 10823718011211,
+          "id": 53252200071499,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -5695,8 +5695,8 @@
       ],
       "options": [
         {
-          "id": 13449389080907,
           "product_id": 10823718011211,
+          "id": 13449389080907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5704,8 +5704,8 @@
           ]
         },
         {
-          "id": 13449389113675,
           "product_id": 10823718011211,
+          "id": 13449389113675,
           "name": "Power source",
           "position": 2,
           "values": [
@@ -6379,8 +6379,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -6409,8 +6409,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -6418,8 +6418,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [

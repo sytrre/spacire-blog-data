@@ -163,8 +163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021620555",
       "variants": [
         {
-          "id": 53256505786699,
           "product_id": 10825021620555,
+          "id": 53256505786699,
           "title": "Dark pink",
           "price": "27.29",
           "position": 1,
@@ -191,8 +191,8 @@
           "image_id": 64364897993035
         },
         {
-          "id": 53256505819467,
           "product_id": 10825021620555,
+          "id": 53256505819467,
           "title": "Dark Blue",
           "price": "27.29",
           "position": 2,
@@ -219,8 +219,8 @@
           "image_id": 64364898025803
         },
         {
-          "id": 53256505852235,
           "product_id": 10825021620555,
+          "id": 53256505852235,
           "title": "Purple",
           "price": "27.29",
           "position": 3,
@@ -247,8 +247,8 @@
           "image_id": 64364898058571
         },
         {
-          "id": 53256505885003,
           "product_id": 10825021620555,
+          "id": 53256505885003,
           "title": "Pearl white",
           "price": "27.29",
           "position": 4,
@@ -275,8 +275,8 @@
           "image_id": 64364898091339
         },
         {
-          "id": 53256505917771,
           "product_id": 10825021620555,
+          "id": 53256505917771,
           "title": "Champagne",
           "price": "27.29",
           "position": 5,
@@ -303,8 +303,8 @@
           "image_id": 64364898124107
         },
         {
-          "id": 53256505950539,
           "product_id": 10825021620555,
+          "id": 53256505950539,
           "title": "Light pink",
           "price": "27.29",
           "position": 6,
@@ -331,8 +331,8 @@
           "image_id": 64364898156875
         },
         {
-          "id": 53256505983307,
           "product_id": 10825021620555,
+          "id": 53256505983307,
           "title": "Black",
           "price": "27.29",
           "position": 7,
@@ -359,8 +359,8 @@
           "image_id": 64364898189643
         },
         {
-          "id": 53256506016075,
           "product_id": 10825021620555,
+          "id": 53256506016075,
           "title": "Grey",
           "price": "27.29",
           "position": 8,
@@ -389,8 +389,8 @@
       ],
       "options": [
         {
-          "id": 13450891460939,
           "product_id": 10825021620555,
+          "id": 13450891460939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -597,8 +597,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961392971",
       "variants": [
         {
-          "id": 53256230568267,
           "product_id": 10824961392971,
+          "id": 53256230568267,
           "title": "60ml",
           "price": "21.93",
           "position": 1,
@@ -627,8 +627,8 @@
       ],
       "options": [
         {
-          "id": 13450822091083,
           "product_id": 10824961392971,
+          "id": 13450822091083,
           "name": "Color Classification",
           "position": 1,
           "values": [
