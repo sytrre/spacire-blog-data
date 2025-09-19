@@ -845,8 +845,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960737611",
       "variants": [
         {
-          "id": 53256229355851,
           "product_id": 10824960737611,
+          "id": 53256229355851,
           "title": "30ml",
           "price": "21.69",
           "position": 1,
@@ -875,8 +875,8 @@
       ],
       "options": [
         {
-          "id": 13450821435723,
           "product_id": 10824960737611,
+          "id": 13450821435723,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -1706,8 +1706,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "product_id": 10825005203787,
           "id": 53256408367435,
+          "product_id": 10825005203787,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -1736,8 +1736,8 @@
       ],
       "options": [
         {
-          "product_id": 10825005203787,
           "id": 13450870784331,
+          "product_id": 10825005203787,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -2629,8 +2629,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021030731",
       "variants": [
         {
-          "product_id": 10825021030731,
           "id": 53256503918923,
+          "product_id": 10825021030731,
           "title": "Dark Purple",
           "price": "35.97",
           "position": 1,
@@ -2657,8 +2657,8 @@
           "image_id": 64364894257483
         },
         {
-          "product_id": 10825021030731,
           "id": 53256503951691,
+          "product_id": 10825021030731,
           "title": "Gray",
           "price": "35.97",
           "position": 2,
@@ -2687,8 +2687,8 @@
       ],
       "options": [
         {
-          "product_id": 10825021030731,
           "id": 13450890740043,
+          "product_id": 10825021030731,
           "name": "format",
           "position": 1,
           "values": [
@@ -3624,8 +3624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "product_id": 10825158918475,
           "id": 53257349398859,
+          "product_id": 10825158918475,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -3654,8 +3654,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158918475,
           "id": 13451086135627,
+          "product_id": 10825158918475,
           "name": "style",
           "position": 1,
           "values": [

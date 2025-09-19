@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794688331",
       "variants": [
         {
-          "id": 53252663083339,
           "product_id": 10823794688331,
+          "id": 53252663083339,
           "title": "Silver",
           "price": "44.99",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64332501745995
         },
         {
-          "id": 53252663116107,
           "product_id": 10823794688331,
+          "id": 53252663116107,
           "title": "White",
           "price": "44.99",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13449524478283,
           "product_id": 10823794688331,
+          "id": 13449524478283,
           "name": "Color",
           "position": 1,
           "values": [
@@ -207,8 +207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -235,8 +235,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -263,8 +263,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -291,8 +291,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -321,8 +321,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -333,8 +333,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -613,8 +613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "product_id": 10825098527051,
           "id": 53256897036619,
+          "product_id": 10825098527051,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -643,8 +643,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098527051,
           "id": 13450998186315,
+          "product_id": 10825098527051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -652,8 +652,8 @@
           ]
         },
         {
-          "product_id": 10825098527051,
           "id": 13450998219083,
+          "product_id": 10825098527051,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -4367,8 +4367,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743766859",
       "variants": [
         {
-          "product_id": 10823743766859,
           "id": 53252383277387,
+          "product_id": 10823743766859,
           "title": "White",
           "price": "35.49",
           "position": 1,
@@ -4397,8 +4397,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743766859,
           "id": 13449444819275,
+          "product_id": 10823743766859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8917,8 +8917,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108259147",
       "variants": [
         {
-          "id": 53256916336971,
           "product_id": 10825108259147,
+          "id": 53256916336971,
           "title": "White",
           "price": "204.55",
           "position": 1,
@@ -8947,8 +8947,8 @@
       ],
       "options": [
         {
-          "id": 13451010343243,
           "product_id": 10825108259147,
+          "id": 13451010343243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10708,8 +10708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "id": 53256898085195,
           "product_id": 10825099084107,
+          "id": 53256898085195,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -10736,8 +10736,8 @@
           "image_id": 64365739639115
         },
         {
-          "id": 53256898117963,
           "product_id": 10825099084107,
+          "id": 53256898117963,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -10766,8 +10766,8 @@
       ],
       "options": [
         {
-          "id": 13450998972747,
           "product_id": 10825099084107,
+          "id": 13450998972747,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -10775,8 +10775,8 @@
           ]
         },
         {
-          "id": 13450999005515,
           "product_id": 10825099084107,
+          "id": 13450999005515,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -13334,8 +13334,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "product_id": 10825100362059,
           "id": 53256901624139,
+          "product_id": 10825100362059,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -13362,8 +13362,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901656907,
+          "product_id": 10825100362059,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -13390,8 +13390,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901689675,
+          "product_id": 10825100362059,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -13420,8 +13420,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100362059,
           "id": 13451000676683,
+          "product_id": 10825100362059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19594,8 +19594,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -19624,8 +19624,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19633,8 +19633,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [
@@ -20055,8 +20055,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "id": 53252019913035,
           "product_id": 10823681016139,
+          "id": 53252019913035,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -20083,8 +20083,8 @@
           "image_id": 64330808787275
         },
         {
-          "id": 53252019945803,
           "product_id": 10823681016139,
+          "id": 53252019945803,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -20113,8 +20113,8 @@
       ],
       "options": [
         {
-          "id": 13449326625099,
           "product_id": 10823681016139,
+          "id": 13449326625099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20123,8 +20123,8 @@
           ]
         },
         {
-          "id": 13449326657867,
           "product_id": 10823681016139,
+          "id": 13449326657867,
           "name": "Model",
           "position": 2,
           "values": [

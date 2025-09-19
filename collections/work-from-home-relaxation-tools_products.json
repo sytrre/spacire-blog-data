@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -3537,8 +3537,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "product_id": 10825100362059,
           "id": 53256901624139,
+          "product_id": 10825100362059,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -3565,8 +3565,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901656907,
+          "product_id": 10825100362059,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -3593,8 +3593,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901689675,
+          "product_id": 10825100362059,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -3623,8 +3623,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100362059,
           "id": 13451000676683,
+          "product_id": 10825100362059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5237,8 +5237,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908360523",
       "variants": [
         {
-          "product_id": 10823908360523,
           "id": 53253479072075,
+          "product_id": 10823908360523,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -5265,8 +5265,8 @@
           "image_id": 64334773649739
         },
         {
-          "product_id": 10823908360523,
           "id": 53253479104843,
+          "product_id": 10823908360523,
           "title": "Grey",
           "price": "38.99",
           "position": 2,
@@ -5293,8 +5293,8 @@
           "image_id": 64334773682507
         },
         {
-          "product_id": 10823908360523,
           "id": 53253479137611,
+          "product_id": 10823908360523,
           "title": "Navy Blue",
           "price": "38.99",
           "position": 3,
@@ -5321,8 +5321,8 @@
           "image_id": 64334773715275
         },
         {
-          "product_id": 10823908360523,
           "id": 53253479170379,
+          "product_id": 10823908360523,
           "title": "Peacock blue",
           "price": "38.99",
           "position": 4,
@@ -5349,8 +5349,8 @@
           "image_id": 64334773748043
         },
         {
-          "product_id": 10823908360523,
           "id": 53253479203147,
+          "product_id": 10823908360523,
           "title": "Pink",
           "price": "38.99",
           "position": 5,
@@ -5377,8 +5377,8 @@
           "image_id": 64334773780811
         },
         {
-          "product_id": 10823908360523,
           "id": 53253479235915,
+          "product_id": 10823908360523,
           "title": "Sky Blue",
           "price": "38.99",
           "position": 6,
@@ -5407,8 +5407,8 @@
       ],
       "options": [
         {
-          "product_id": 10823908360523,
           "id": 13449671999819,
+          "product_id": 10823908360523,
           "name": "Color",
           "position": 1,
           "values": [
