@@ -845,8 +845,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960737611",
       "variants": [
         {
-          "product_id": 10824960737611,
           "id": 53256229355851,
+          "product_id": 10824960737611,
           "title": "30ml",
           "price": "21.69",
           "position": 1,
@@ -875,8 +875,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960737611,
           "id": 13450821435723,
+          "product_id": 10824960737611,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -1523,8 +1523,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961851723",
       "variants": [
         {
-          "product_id": 10824961851723,
           "id": 53256232403275,
+          "product_id": 10824961851723,
           "title": "60ML",
           "price": "23.66",
           "position": 1,
@@ -1551,8 +1551,8 @@
           "image_id": 64364296470859
         },
         {
-          "product_id": 10824961851723,
           "id": 53256232436043,
+          "product_id": 10824961851723,
           "title": "2pcs",
           "price": "24.82",
           "position": 2,
@@ -1581,8 +1581,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961851723,
           "id": 13450822615371,
+          "product_id": 10824961851723,
           "name": "Net Content",
           "position": 1,
           "values": [
@@ -3142,8 +3142,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "id": 53256909848907,
           "product_id": 10825104621899,
+          "id": 53256909848907,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -3172,8 +3172,8 @@
       ],
       "options": [
         {
-          "id": 13451006443851,
           "product_id": 10825104621899,
+          "id": 13451006443851,
           "name": "Color",
           "position": 1,
           "values": [

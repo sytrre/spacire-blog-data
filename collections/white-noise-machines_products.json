@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794688331",
       "variants": [
         {
-          "product_id": 10823794688331,
           "id": 53252663083339,
+          "product_id": 10823794688331,
           "title": "Silver",
           "price": "44.99",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64332501745995
         },
         {
-          "product_id": 10823794688331,
           "id": 53252663116107,
+          "product_id": 10823794688331,
           "title": "White",
           "price": "44.99",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794688331,
           "id": 13449524478283,
+          "product_id": 10823794688331,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2083,8 +2083,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823694221643",
       "variants": [
         {
-          "id": 53252087251275,
           "product_id": 10823694221643,
+          "id": 53252087251275,
           "title": "White / USB",
           "price": "75.49",
           "position": 1,
@@ -2113,8 +2113,8 @@
       ],
       "options": [
         {
-          "id": 13449347203403,
           "product_id": 10823694221643,
+          "id": 13449347203403,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2122,8 +2122,8 @@
           ]
         },
         {
-          "id": 13449347236171,
           "product_id": 10823694221643,
+          "id": 13449347236171,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -4436,8 +4436,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954334027",
       "variants": [
         {
-          "product_id": 10823954334027,
           "id": 53253609226571,
+          "product_id": 10823954334027,
           "title": "White / USB",
           "price": "33.49",
           "position": 1,
@@ -4466,8 +4466,8 @@
       ],
       "options": [
         {
-          "product_id": 10823954334027,
           "id": 13449723117899,
+          "product_id": 10823954334027,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4475,8 +4475,8 @@
           ]
         },
         {
-          "product_id": 10823954334027,
           "id": 13449723150667,
+          "product_id": 10823954334027,
           "name": "format",
           "position": 2,
           "values": [
@@ -11603,8 +11603,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081585995",
       "variants": [
         {
-          "id": 53256809709899,
           "product_id": 10825081585995,
+          "id": 53256809709899,
           "title": "Blue Battery Square",
           "price": "128.88",
           "position": 1,
@@ -11631,8 +11631,8 @@
           "image_id": 64365609812299
         },
         {
-          "id": 53256809742667,
           "product_id": 10825081585995,
+          "id": 53256809742667,
           "title": "Pink Square Battery",
           "price": "128.88",
           "position": 2,
@@ -11659,8 +11659,8 @@
           "image_id": 64365609845067
         },
         {
-          "id": 53256809775435,
           "product_id": 10825081585995,
+          "id": 53256809775435,
           "title": "Blue Square Charging",
           "price": "139.92",
           "position": 3,
@@ -11687,8 +11687,8 @@
           "image_id": 64365609877835
         },
         {
-          "id": 53256809808203,
           "product_id": 10825081585995,
+          "id": 53256809808203,
           "title": "Pink Square  Charging",
           "price": "139.92",
           "position": 4,
@@ -11715,8 +11715,8 @@
           "image_id": 64365609910603
         },
         {
-          "id": 53256809840971,
           "product_id": 10825081585995,
+          "id": 53256809840971,
           "title": "Blue Battery Star",
           "price": "128.88",
           "position": 5,
@@ -11743,8 +11743,8 @@
           "image_id": 64365609943371
         },
         {
-          "id": 53256809873739,
           "product_id": 10825081585995,
+          "id": 53256809873739,
           "title": "Purple Star Battery",
           "price": "128.88",
           "position": 6,
@@ -11771,8 +11771,8 @@
           "image_id": 64365609976139
         },
         {
-          "id": 53256809906507,
           "product_id": 10825081585995,
+          "id": 53256809906507,
           "title": "Blue Star Charging",
           "price": "139.92",
           "position": 7,
@@ -11799,8 +11799,8 @@
           "image_id": 64365610008907
         },
         {
-          "id": 53256809939275,
           "product_id": 10825081585995,
+          "id": 53256809939275,
           "title": "Purple Star Charging",
           "price": "139.92",
           "position": 8,
@@ -11827,8 +11827,8 @@
           "image_id": 64365610041675
         },
         {
-          "id": 53256809972043,
           "product_id": 10825081585995,
+          "id": 53256809972043,
           "title": "White Square Battery",
           "price": "128.88",
           "position": 9,
@@ -11855,8 +11855,8 @@
           "image_id": 64365610074443
         },
         {
-          "id": 53256810004811,
           "product_id": 10825081585995,
+          "id": 53256810004811,
           "title": "White Charging Charging",
           "price": "139.92",
           "position": 10,
@@ -11883,8 +11883,8 @@
           "image_id": 64365610107211
         },
         {
-          "id": 53256810037579,
           "product_id": 10825081585995,
+          "id": 53256810037579,
           "title": "White  Star Battery",
           "price": "128.88",
           "position": 11,
@@ -11911,8 +11911,8 @@
           "image_id": 64365610139979
         },
         {
-          "id": 53256810070347,
           "product_id": 10825081585995,
+          "id": 53256810070347,
           "title": "White  Star Charging",
           "price": "139.92",
           "position": 12,
@@ -11941,8 +11941,8 @@
       ],
       "options": [
         {
-          "id": 13450969776459,
           "product_id": 10825081585995,
+          "id": 13450969776459,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15185,8 +15185,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "id": 53256909848907,
           "product_id": 10825104621899,
+          "id": 53256909848907,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -15215,8 +15215,8 @@
       ],
       "options": [
         {
-          "id": 13451006443851,
           "product_id": 10825104621899,
+          "id": 13451006443851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18003,8 +18003,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106784587",
       "variants": [
         {
-          "id": 53256912273739,
           "product_id": 10825106784587,
+          "id": 53256912273739,
           "title": "White",
           "price": "363.76",
           "position": 1,
@@ -18033,8 +18033,8 @@
       ],
       "options": [
         {
-          "id": 13451008672075,
           "product_id": 10825106784587,
+          "id": 13451008672075,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18394,8 +18394,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825086173515",
       "variants": [
         {
-          "id": 53256844935499,
           "product_id": 10825086173515,
+          "id": 53256844935499,
           "title": "American Standard Power Supply / 12W",
           "price": "344.80",
           "position": 1,
@@ -18422,8 +18422,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256844968267,
           "product_id": 10825086173515,
+          "id": 53256844968267,
           "title": "European Power Supply / 12W",
           "price": "344.80",
           "position": 2,
@@ -18450,8 +18450,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256845001035,
           "product_id": 10825086173515,
+          "id": 53256845001035,
           "title": "Bs Power Supply / 12W",
           "price": "344.80",
           "position": 3,
@@ -18478,8 +18478,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256845033803,
           "product_id": 10825086173515,
+          "id": 53256845033803,
           "title": "Australian Regulations / 12W",
           "price": "344.80",
           "position": 4,
@@ -18508,8 +18508,8 @@
       ],
       "options": [
         {
-          "id": 13450976887115,
           "product_id": 10825086173515,
+          "id": 13450976887115,
           "name": "Light Color",
           "position": 1,
           "values": [
@@ -18520,8 +18520,8 @@
           ]
         },
         {
-          "id": 13450976919883,
           "product_id": 10825086173515,
+          "id": 13450976919883,
           "name": "power",
           "position": 2,
           "values": [
@@ -19154,8 +19154,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "id": 53252653875531,
           "product_id": 10823793475915,
+          "id": 53252653875531,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19182,8 +19182,8 @@
           "image_id": 64332469698891
         },
         {
-          "id": 53252653908299,
           "product_id": 10823793475915,
+          "id": 53252653908299,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19212,8 +19212,8 @@
       ],
       "options": [
         {
-          "id": 13449523069259,
           "product_id": 10823793475915,
+          "id": 13449523069259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19221,8 +19221,8 @@
           ]
         },
         {
-          "id": 13449523102027,
           "product_id": 10823793475915,
+          "id": 13449523102027,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -19789,8 +19789,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089286475",
       "variants": [
         {
-          "id": 53256865448267,
           "product_id": 10825089286475,
+          "id": 53256865448267,
           "title": "Orange",
           "price": "563.56",
           "position": 1,
@@ -19819,8 +19819,8 @@
       ],
       "options": [
         {
-          "id": 13450981605707,
           "product_id": 10825089286475,
+          "id": 13450981605707,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20102,8 +20102,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "product_id": 10823681016139,
           "id": 53252019913035,
+          "product_id": 10823681016139,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -20130,8 +20130,8 @@
           "image_id": 64330808787275
         },
         {
-          "product_id": 10823681016139,
           "id": 53252019945803,
+          "product_id": 10823681016139,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -20160,8 +20160,8 @@
       ],
       "options": [
         {
-          "product_id": 10823681016139,
           "id": 13449326625099,
+          "product_id": 10823681016139,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20170,8 +20170,8 @@
           ]
         },
         {
-          "product_id": 10823681016139,
           "id": 13449326657867,
+          "product_id": 10823681016139,
           "name": "Model",
           "position": 2,
           "values": [
@@ -21084,8 +21084,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "id": 53253571477835,
           "product_id": 10823935689035,
+          "id": 53253571477835,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -21114,8 +21114,8 @@
       ],
       "options": [
         {
-          "id": 13449702670667,
           "product_id": 10823935689035,
+          "id": 13449702670667,
           "name": "Color",
           "position": 1,
           "values": [
