@@ -4571,8 +4571,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954334027",
       "variants": [
         {
-          "product_id": 10823954334027,
           "id": 53253609226571,
+          "product_id": 10823954334027,
           "title": "White / USB",
           "price": "33.49",
           "position": 1,
@@ -4601,8 +4601,8 @@
       ],
       "options": [
         {
-          "product_id": 10823954334027,
           "id": 13449723117899,
+          "product_id": 10823954334027,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4610,8 +4610,8 @@
           ]
         },
         {
-          "product_id": 10823954334027,
           "id": 13449723150667,
+          "product_id": 10823954334027,
           "name": "format",
           "position": 2,
           "values": [
@@ -20055,8 +20055,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "product_id": 10823681016139,
           "id": 53252019913035,
+          "product_id": 10823681016139,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -20083,8 +20083,8 @@
           "image_id": 64330808787275
         },
         {
-          "product_id": 10823681016139,
           "id": 53252019945803,
+          "product_id": 10823681016139,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -20113,8 +20113,8 @@
       ],
       "options": [
         {
-          "product_id": 10823681016139,
           "id": 13449326625099,
+          "product_id": 10823681016139,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20123,8 +20123,8 @@
           ]
         },
         {
-          "product_id": 10823681016139,
           "id": 13449326657867,
+          "product_id": 10823681016139,
           "name": "Model",
           "position": 2,
           "values": [
