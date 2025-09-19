@@ -207,8 +207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "id": 53256897036619,
           "product_id": 10825098527051,
+          "id": 53256897036619,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -237,8 +237,8 @@
       ],
       "options": [
         {
-          "id": 13450998186315,
           "product_id": 10825098527051,
+          "id": 13450998186315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -246,8 +246,8 @@
           ]
         },
         {
-          "id": 13450998219083,
           "product_id": 10825098527051,
+          "id": 13450998219083,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -2705,8 +2705,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825088237899",
       "variants": [
         {
-          "product_id": 10825088237899,
           "id": 53256861319499,
+          "product_id": 10825088237899,
           "title": "Roundshape",
           "price": "422.11",
           "position": 1,
@@ -2733,8 +2733,8 @@
           "image_id": 64365683638603
         },
         {
-          "product_id": 10825088237899,
           "id": 53256861352267,
+          "product_id": 10825088237899,
           "title": "Square",
           "price": "422.11",
           "position": 2,
@@ -2761,8 +2761,8 @@
           "image_id": 64365683671371
         },
         {
-          "product_id": 10825088237899,
           "id": 53256861385035,
+          "product_id": 10825088237899,
           "title": "Square 2pcs",
           "price": "836.26",
           "position": 3,
@@ -2791,8 +2791,8 @@
       ],
       "options": [
         {
-          "product_id": 10825088237899,
           "id": 13450980163915,
+          "product_id": 10825088237899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3735,8 +3735,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087811915",
       "variants": [
         {
-          "product_id": 10825087811915,
           "id": 53256852963659,
+          "product_id": 10825087811915,
           "title": "White / USB",
           "price": "410.41",
           "position": 1,
@@ -3765,8 +3765,8 @@
       ],
       "options": [
         {
-          "product_id": 10825087811915,
           "id": 13450979475787,
+          "product_id": 10825087811915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3774,8 +3774,8 @@
           ]
         },
         {
-          "product_id": 10825087811915,
           "id": 13450979508555,
+          "product_id": 10825087811915,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -4400,8 +4400,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886334795",
       "variants": [
         {
-          "product_id": 14774886334795,
           "id": 53325485343051,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 91cm × 122cm",
           "price": "86.91",
           "position": 1,
@@ -4428,8 +4428,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485375819,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 122cm × 183cm",
           "price": "92.32",
           "position": 2,
@@ -4456,8 +4456,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485408587,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 122cm × 198cm",
           "price": "93.55",
           "position": 3,
@@ -4484,8 +4484,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485441355,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 152cm × 203cm",
           "price": "95.12",
           "position": 4,
@@ -4512,8 +4512,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485474123,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 203cm × 221cm",
           "price": "99.08",
           "position": 5,
@@ -4540,8 +4540,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485506891,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 229cm × 229cm",
           "price": "103.38",
           "position": 6,
@@ -4568,8 +4568,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485539659,
+          "product_id": 14774886334795,
           "title": "White / 122cm × 183cm",
           "price": "92.08",
           "position": 7,
@@ -4596,8 +4596,8 @@
           "image_id": 64643915022667
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485572427,
+          "product_id": 14774886334795,
           "title": "Blue / 91cm × 122cm",
           "price": "87.89",
           "position": 8,
@@ -4624,8 +4624,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485605195,
+          "product_id": 14774886334795,
           "title": "White / 152cm × 203cm",
           "price": "95.03",
           "position": 9,
@@ -4652,8 +4652,8 @@
           "image_id": 64643915022667
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485637963,
+          "product_id": 14774886334795,
           "title": "Blue / 152cm × 203cm",
           "price": "93.05",
           "position": 10,
@@ -4680,8 +4680,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485670731,
+          "product_id": 14774886334795,
           "title": "Blue / 122cm × 183cm",
           "price": "91.70",
           "position": 11,
@@ -4708,8 +4708,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485703499,
+          "product_id": 14774886334795,
           "title": "Dark gray single core / 152cm × 203cm",
           "price": "93.05",
           "position": 12,
@@ -4736,8 +4736,8 @@
           "image_id": 64643915088203
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485736267,
+          "product_id": 14774886334795,
           "title": "Grey / 104x152cm 3.2kg",
           "price": "96.75",
           "position": 13,
@@ -4766,8 +4766,8 @@
       ],
       "options": [
         {
-          "product_id": 14774886334795,
           "id": 17120123519307,
+          "product_id": 14774886334795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4779,8 +4779,8 @@
           ]
         },
         {
-          "product_id": 14774886334795,
           "id": 17120123552075,
+          "product_id": 14774886334795,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -5665,8 +5665,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "product_id": 10823718011211,
           "id": 53252200071499,
+          "product_id": 10823718011211,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -5695,8 +5695,8 @@
       ],
       "options": [
         {
-          "product_id": 10823718011211,
           "id": 13449389080907,
+          "product_id": 10823718011211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5704,8 +5704,8 @@
           ]
         },
         {
-          "product_id": 10823718011211,
           "id": 13449389113675,
+          "product_id": 10823718011211,
           "name": "Power source",
           "position": 2,
           "values": [
@@ -6379,8 +6379,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -6409,8 +6409,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -6418,8 +6418,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [

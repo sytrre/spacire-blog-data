@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050063179",
       "variants": [
         {
-          "id": 53256601469259,
           "product_id": 10825050063179,
+          "id": 53256601469259,
           "title": "Purple",
           "price": "45.21",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365249331531
         },
         {
-          "id": 53256601502027,
           "product_id": 10825050063179,
+          "id": 53256601502027,
           "title": "Cyan",
           "price": "45.21",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13450926096715,
           "product_id": 10825050063179,
+          "id": 13450926096715,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -411,8 +411,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021620555",
       "variants": [
         {
-          "product_id": 10825021620555,
           "id": 53256505786699,
+          "product_id": 10825021620555,
           "title": "Dark pink",
           "price": "27.29",
           "position": 1,
@@ -439,8 +439,8 @@
           "image_id": 64364897993035
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505819467,
+          "product_id": 10825021620555,
           "title": "Dark Blue",
           "price": "27.29",
           "position": 2,
@@ -467,8 +467,8 @@
           "image_id": 64364898025803
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505852235,
+          "product_id": 10825021620555,
           "title": "Purple",
           "price": "27.29",
           "position": 3,
@@ -495,8 +495,8 @@
           "image_id": 64364898058571
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505885003,
+          "product_id": 10825021620555,
           "title": "Pearl white",
           "price": "27.29",
           "position": 4,
@@ -523,8 +523,8 @@
           "image_id": 64364898091339
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505917771,
+          "product_id": 10825021620555,
           "title": "Champagne",
           "price": "27.29",
           "position": 5,
@@ -551,8 +551,8 @@
           "image_id": 64364898124107
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505950539,
+          "product_id": 10825021620555,
           "title": "Light pink",
           "price": "27.29",
           "position": 6,
@@ -579,8 +579,8 @@
           "image_id": 64364898156875
         },
         {
-          "product_id": 10825021620555,
           "id": 53256505983307,
+          "product_id": 10825021620555,
           "title": "Black",
           "price": "27.29",
           "position": 7,
@@ -607,8 +607,8 @@
           "image_id": 64364898189643
         },
         {
-          "product_id": 10825021620555,
           "id": 53256506016075,
+          "product_id": 10825021620555,
           "title": "Grey",
           "price": "27.29",
           "position": 8,
@@ -637,8 +637,8 @@
       ],
       "options": [
         {
-          "product_id": 10825021620555,
           "id": 13450891460939,
+          "product_id": 10825021620555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4484,8 +4484,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158820171",
       "variants": [
         {
-          "product_id": 10825158820171,
           "id": 53257347891531,
+          "product_id": 10825158820171,
           "title": "Sleep aid patch",
           "price": "33.16",
           "position": 1,
@@ -4514,8 +4514,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158820171,
           "id": 13451086004555,
+          "product_id": 10825158820171,
           "name": "style",
           "position": 1,
           "values": [
@@ -5019,8 +5019,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824959983947",
       "variants": [
         {
-          "id": 53256218673483,
           "product_id": 10824959983947,
+          "id": 53256218673483,
           "title": "30ml",
           "price": "21.12",
           "position": 1,
@@ -5049,8 +5049,8 @@
       ],
       "options": [
         {
-          "id": 13450820256075,
           "product_id": 10824959983947,
+          "id": 13450820256075,
           "name": "capacity",
           "position": 1,
           "values": [

@@ -898,8 +898,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824959983947",
       "variants": [
         {
-          "id": 53256218673483,
           "product_id": 10824959983947,
+          "id": 53256218673483,
           "title": "30ml",
           "price": "21.12",
           "position": 1,
@@ -928,8 +928,8 @@
       ],
       "options": [
         {
-          "id": 13450820256075,
           "product_id": 10824959983947,
+          "id": 13450820256075,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -1298,8 +1298,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159278923",
       "variants": [
         {
-          "product_id": 10825159278923,
           "id": 53257350742347,
+          "product_id": 10825159278923,
           "title": "12pcs",
           "price": "31.24",
           "position": 1,
@@ -1326,8 +1326,8 @@
           "image_id": 64367042756939
         },
         {
-          "product_id": 10825159278923,
           "id": 53257350775115,
+          "product_id": 10825159278923,
           "title": "24pcs",
           "price": "32.17",
           "position": 2,
@@ -1354,8 +1354,8 @@
           "image_id": 64367042789707
         },
         {
-          "product_id": 10825159278923,
           "id": 53257350807883,
+          "product_id": 10825159278923,
           "title": "36pcs",
           "price": "33.08",
           "position": 3,
@@ -1384,8 +1384,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159278923,
           "id": 13451086528843,
+          "product_id": 10825159278923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3371,8 +3371,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079554379",
       "variants": [
         {
-          "product_id": 10825079554379,
           "id": 53256799191371,
+          "product_id": 10825079554379,
           "title": "White / USB",
           "price": "286.23",
           "position": 1,
@@ -3401,8 +3401,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079554379,
           "id": 13450966958411,
+          "product_id": 10825079554379,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3410,8 +3410,8 @@
           ]
         },
         {
-          "product_id": 10825079554379,
           "id": 13450966991179,
+          "product_id": 10825079554379,
           "name": "power",
           "position": 2,
           "values": [

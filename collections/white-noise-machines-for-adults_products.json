@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825088237899",
       "variants": [
         {
-          "product_id": 10825088237899,
           "id": 53256861319499,
+          "product_id": 10825088237899,
           "title": "Roundshape",
           "price": "422.11",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365683638603
         },
         {
-          "product_id": 10825088237899,
           "id": 53256861352267,
+          "product_id": 10825088237899,
           "title": "Square",
           "price": "422.11",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365683671371
         },
         {
-          "product_id": 10825088237899,
           "id": 53256861385035,
+          "product_id": 10825088237899,
           "title": "Square 2pcs",
           "price": "836.26",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "product_id": 10825088237899,
           "id": 13450980163915,
+          "product_id": 10825088237899,
           "name": "Color",
           "position": 1,
           "values": [

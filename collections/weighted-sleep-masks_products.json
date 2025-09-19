@@ -2279,8 +2279,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823620198731",
       "variants": [
         {
-          "product_id": 10823620198731,
           "id": 53251763700043,
+          "product_id": 10823620198731,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -2307,8 +2307,8 @@
           "image_id": 64329604170059
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763732811,
+          "product_id": 10823620198731,
           "title": "Carbon ash",
           "price": "27.99",
           "position": 2,
@@ -2335,8 +2335,8 @@
           "image_id": 64329604202827
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763765579,
+          "product_id": 10823620198731,
           "title": "Gray",
           "price": "27.99",
           "position": 3,
@@ -2363,8 +2363,8 @@
           "image_id": 64329604235595
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763798347,
+          "product_id": 10823620198731,
           "title": "Pink",
           "price": "27.99",
           "position": 4,
@@ -2393,8 +2393,8 @@
       ],
       "options": [
         {
-          "product_id": 10823620198731,
           "id": 13449257091403,
+          "product_id": 10823620198731,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2812,8 +2812,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825052258635",
       "variants": [
         {
-          "product_id": 10825052258635,
           "id": 53256610316619,
+          "product_id": 10825052258635,
           "title": "Black / 23X10X2cm",
           "price": "45.14",
           "position": 1,
@@ -2840,8 +2840,8 @@
           "image_id": 64365275283787
         },
         {
-          "product_id": 10825052258635,
           "id": 53256610349387,
+          "product_id": 10825052258635,
           "title": "Purple / 23X10X2cm",
           "price": "45.14",
           "position": 2,
@@ -2868,8 +2868,8 @@
           "image_id": 64365275316555
         },
         {
-          "product_id": 10825052258635,
           "id": 53256610382155,
+          "product_id": 10825052258635,
           "title": "Red / 23X10X2cm",
           "price": "45.14",
           "position": 3,
@@ -2896,8 +2896,8 @@
           "image_id": 64365275349323
         },
         {
-          "product_id": 10825052258635,
           "id": 53256610414923,
+          "product_id": 10825052258635,
           "title": "Grey / 23X10X2cm",
           "price": "45.01",
           "position": 4,
@@ -2924,8 +2924,8 @@
           "image_id": 64365275382091
         },
         {
-          "product_id": 10825052258635,
           "id": 53256610447691,
+          "product_id": 10825052258635,
           "title": "Grey set / 23X10X2cm",
           "price": "50.56",
           "position": 5,
@@ -2952,8 +2952,8 @@
           "image_id": 64365275414859
         },
         {
-          "product_id": 10825052258635,
           "id": 53256610480459,
+          "product_id": 10825052258635,
           "title": "Grey set1 / 23X10X2cm",
           "price": "50.56",
           "position": 6,
@@ -2982,8 +2982,8 @@
       ],
       "options": [
         {
-          "product_id": 10825052258635,
           "id": 13450928456011,
+          "product_id": 10825052258635,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2996,8 +2996,8 @@
           ]
         },
         {
-          "product_id": 10825052258635,
           "id": 13450928488779,
+          "product_id": 10825052258635,
           "name": "Size",
           "position": 2,
           "values": [
