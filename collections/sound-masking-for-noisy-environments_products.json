@@ -5280,8 +5280,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823772438859",
       "variants": [
         {
-          "product_id": 10823772438859,
           "id": 53252545315147,
+          "product_id": 10823772438859,
           "title": "Gray / Chinese Packaging",
           "price": "40.99",
           "position": 1,
@@ -5308,8 +5308,8 @@
           "image_id": 64332163121483
         },
         {
-          "product_id": 10823772438859,
           "id": 53252545347915,
+          "product_id": 10823772438859,
           "title": "Gray / English Packaging",
           "price": "40.99",
           "position": 2,
@@ -5338,8 +5338,8 @@
       ],
       "options": [
         {
-          "product_id": 10823772438859,
           "id": 13449495642443,
+          "product_id": 10823772438859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5347,8 +5347,8 @@
           ]
         },
         {
-          "product_id": 10823772438859,
           "id": 13449495675211,
+          "product_id": 10823772438859,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -14168,8 +14168,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "product_id": 10825089614155,
           "id": 53256870297931,
+          "product_id": 10825089614155,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -14196,8 +14196,8 @@
           "image_id": 64365692289355
         },
         {
-          "product_id": 10825089614155,
           "id": 53256870330699,
+          "product_id": 10825089614155,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -14226,8 +14226,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089614155,
           "id": 13450982129995,
+          "product_id": 10825089614155,
           "name": "Color",
           "position": 1,
           "values": [
