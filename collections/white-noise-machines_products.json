@@ -207,8 +207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -235,8 +235,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -263,8 +263,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -291,8 +291,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -321,8 +321,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -333,8 +333,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -1252,8 +1252,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793836363",
       "variants": [
         {
-          "id": 53252657774923,
           "product_id": 10823793836363,
+          "id": 53252657774923,
           "title": "Black",
           "price": "80.99",
           "position": 1,
@@ -1280,8 +1280,8 @@
           "image_id": 64332485132619
         },
         {
-          "id": 53252657807691,
           "product_id": 10823793836363,
+          "id": 53252657807691,
           "title": "Light Green",
           "price": "124.49",
           "position": 2,
@@ -1310,8 +1310,8 @@
       ],
       "options": [
         {
-          "id": 13449523528011,
           "product_id": 10823793836363,
+          "id": 13449523528011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6368,8 +6368,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823771160907",
       "variants": [
         {
-          "id": 53252539089227,
           "product_id": 10823771160907,
+          "id": 53252539089227,
           "title": "Grey / USB",
           "price": "42.49",
           "position": 1,
@@ -6398,8 +6398,8 @@
       ],
       "options": [
         {
-          "id": 13449493905739,
           "product_id": 10823771160907,
+          "id": 13449493905739,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6407,8 +6407,8 @@
           ]
         },
         {
-          "id": 13449493938507,
           "product_id": 10823771160907,
+          "id": 13449493938507,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -8713,8 +8713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "id": 53253611553099,
           "product_id": 10823955087691,
+          "id": 53253611553099,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -8741,8 +8741,8 @@
           "image_id": 64335531671883
         },
         {
-          "id": 53253611585867,
           "product_id": 10823955087691,
+          "id": 53253611585867,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -8771,8 +8771,8 @@
       ],
       "options": [
         {
-          "id": 13449724100939,
           "product_id": 10823955087691,
+          "id": 13449724100939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9565,8 +9565,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "id": 53256803025227,
           "product_id": 10825080078667,
+          "id": 53256803025227,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -9595,8 +9595,8 @@
       ],
       "options": [
         {
-          "id": 13450967777611,
           "product_id": 10825080078667,
+          "id": 13450967777611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9604,8 +9604,8 @@
           ]
         },
         {
-          "id": 13450967810379,
           "product_id": 10825080078667,
+          "id": 13450967810379,
           "name": "power",
           "position": 2,
           "values": [
@@ -9726,8 +9726,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -9756,8 +9756,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9765,8 +9765,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -10353,8 +10353,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "product_id": 10823924613451,
           "id": 53253541167435,
+          "product_id": 10823924613451,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -10383,8 +10383,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924613451,
           "id": 13449690349899,
+          "product_id": 10823924613451,
           "name": "default",
           "position": 1,
           "values": [
@@ -10492,8 +10492,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823678820683",
       "variants": [
         {
-          "id": 53252007199051,
           "product_id": 10823678820683,
+          "id": 53252007199051,
           "title": "Light Gray",
           "price": "38.99",
           "position": 1,
@@ -10522,8 +10522,8 @@
       ],
       "options": [
         {
-          "id": 13449324069195,
           "product_id": 10823678820683,
+          "id": 13449324069195,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14376,8 +14376,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "id": 53256870297931,
           "product_id": 10825089614155,
+          "id": 53256870297931,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -14404,8 +14404,8 @@
           "image_id": 64365692289355
         },
         {
-          "id": 53256870330699,
           "product_id": 10825089614155,
+          "id": 53256870330699,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -14434,8 +14434,8 @@
       ],
       "options": [
         {
-          "id": 13450982129995,
           "product_id": 10825089614155,
+          "id": 13450982129995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14572,8 +14572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "product_id": 10823924449611,
           "id": 53253540938059,
+          "product_id": 10823924449611,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14602,8 +14602,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924449611,
           "id": 13449690186059,
+          "product_id": 10823924449611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15560,8 +15560,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100656971",
       "variants": [
         {
-          "product_id": 10825100656971,
           "id": 53256902312267,
+          "product_id": 10825100656971,
           "title": "White",
           "price": "435.45",
           "position": 1,
@@ -15588,8 +15588,8 @@
           "image_id": 64365770080587
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902345035,
+          "product_id": 10825100656971,
           "title": "3pcs white",
           "price": "1267.76",
           "position": 2,
@@ -15616,8 +15616,8 @@
           "image_id": 64365770113355
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902377803,
+          "product_id": 10825100656971,
           "title": "2pcs white",
           "price": "851.60",
           "position": 3,
@@ -15646,8 +15646,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100656971,
           "id": 13451000971595,
+          "product_id": 10825100656971,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16341,8 +16341,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081225547",
       "variants": [
         {
-          "id": 53256806072651,
           "product_id": 10825081225547,
+          "id": 53256806072651,
           "title": "White 311 Intelligent Style",
           "price": "579.32",
           "position": 1,
@@ -16369,8 +16369,8 @@
           "image_id": 64365605192011
         },
         {
-          "id": 53256806105419,
           "product_id": 10825081225547,
+          "id": 53256806105419,
           "title": "White 081 Colorful Light",
           "price": "257.50",
           "position": 2,
@@ -16399,8 +16399,8 @@
       ],
       "options": [
         {
-          "id": 13450969317707,
           "product_id": 10825081225547,
+          "id": 13450969317707,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17681,8 +17681,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936147787",
       "variants": [
         {
-          "product_id": 10823936147787,
           "id": 53253572329803,
+          "product_id": 10823936147787,
           "title": "White / USB",
           "price": "72.99",
           "position": 1,
@@ -17711,8 +17711,8 @@
       ],
       "options": [
         {
-          "product_id": 10823936147787,
           "id": 13449703293259,
+          "product_id": 10823936147787,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17720,8 +17720,8 @@
           ]
         },
         {
-          "product_id": 10823936147787,
           "id": 13449703326027,
+          "product_id": 10823936147787,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -17829,8 +17829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "id": 53252200071499,
           "product_id": 10823718011211,
+          "id": 53252200071499,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17859,8 +17859,8 @@
       ],
       "options": [
         {
-          "id": 13449389080907,
           "product_id": 10823718011211,
+          "id": 13449389080907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17868,8 +17868,8 @@
           ]
         },
         {
-          "id": 13449389113675,
           "product_id": 10823718011211,
+          "id": 13449389113675,
           "name": "Power source",
           "position": 2,
           "values": [
@@ -18168,8 +18168,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898497355",
       "variants": [
         {
-          "id": 53253434933579,
           "product_id": 10823898497355,
+          "id": 53253434933579,
           "title": "Milky White / Alarm Clock Speaker",
           "price": "37.49",
           "position": 1,
@@ -18198,8 +18198,8 @@
       ],
       "options": [
         {
-          "id": 13449659547979,
           "product_id": 10823898497355,
+          "id": 13449659547979,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18207,8 +18207,8 @@
           ]
         },
         {
-          "id": 13449659580747,
           "product_id": 10823898497355,
+          "id": 13449659580747,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -18845,8 +18845,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823719354699",
       "variants": [
         {
-          "id": 53252203086155,
           "product_id": 10823719354699,
+          "id": 53252203086155,
           "title": "White / USB",
           "price": "55.49",
           "position": 1,
@@ -18875,8 +18875,8 @@
       ],
       "options": [
         {
-          "id": 13449392161099,
           "product_id": 10823719354699,
+          "id": 13449392161099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18884,8 +18884,8 @@
           ]
         },
         {
-          "id": 13449392193867,
           "product_id": 10823719354699,
+          "id": 13449392193867,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -21084,8 +21084,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "product_id": 10823935689035,
           "id": 53253571477835,
+          "product_id": 10823935689035,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -21114,8 +21114,8 @@
       ],
       "options": [
         {
-          "product_id": 10823935689035,
           "id": 13449702670667,
+          "product_id": 10823935689035,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21610,8 +21610,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079554379",
       "variants": [
         {
-          "id": 53256799191371,
           "product_id": 10825079554379,
+          "id": 53256799191371,
           "title": "White / USB",
           "price": "286.23",
           "position": 1,
@@ -21640,8 +21640,8 @@
       ],
       "options": [
         {
-          "id": 13450966958411,
           "product_id": 10825079554379,
+          "id": 13450966958411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21649,8 +21649,8 @@
           ]
         },
         {
-          "id": 13450966991179,
           "product_id": 10825079554379,
+          "id": 13450966991179,
           "name": "power",
           "position": 2,
           "values": [

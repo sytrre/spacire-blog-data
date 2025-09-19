@@ -891,8 +891,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824959983947",
       "variants": [
         {
-          "product_id": 10824959983947,
           "id": 53256218673483,
+          "product_id": 10824959983947,
           "title": "30ml",
           "price": "21.12",
           "position": 1,
@@ -921,8 +921,8 @@
       ],
       "options": [
         {
-          "product_id": 10824959983947,
           "id": 13450820256075,
+          "product_id": 10824959983947,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -3364,8 +3364,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079554379",
       "variants": [
         {
-          "id": 53256799191371,
           "product_id": 10825079554379,
+          "id": 53256799191371,
           "title": "White / USB",
           "price": "286.23",
           "position": 1,
@@ -3394,8 +3394,8 @@
       ],
       "options": [
         {
-          "id": 13450966958411,
           "product_id": 10825079554379,
+          "id": 13450966958411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3403,8 +3403,8 @@
           ]
         },
         {
-          "id": 13450966991179,
           "product_id": 10825079554379,
+          "id": 13450966991179,
           "name": "power",
           "position": 2,
           "values": [

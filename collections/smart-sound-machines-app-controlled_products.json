@@ -674,8 +674,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081225547",
       "variants": [
         {
-          "id": 53256806072651,
           "product_id": 10825081225547,
+          "id": 53256806072651,
           "title": "White 311 Intelligent Style",
           "price": "579.32",
           "position": 1,
@@ -702,8 +702,8 @@
           "image_id": 64365605192011
         },
         {
-          "id": 53256806105419,
           "product_id": 10825081225547,
+          "id": 53256806105419,
           "title": "White 081 Colorful Light",
           "price": "257.50",
           "position": 2,
@@ -732,8 +732,8 @@
       ],
       "options": [
         {
-          "id": 13450969317707,
           "product_id": 10825081225547,
+          "id": 13450969317707,
           "name": "Color",
           "position": 1,
           "values": [

@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -2717,8 +2717,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "id": 53253611553099,
           "product_id": 10823955087691,
+          "id": 53253611553099,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -2745,8 +2745,8 @@
           "image_id": 64335531671883
         },
         {
-          "id": 53253611585867,
           "product_id": 10823955087691,
+          "id": 53253611585867,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -2775,8 +2775,8 @@
       ],
       "options": [
         {
-          "id": 13449724100939,
           "product_id": 10823955087691,
+          "id": 13449724100939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2900,8 +2900,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -2930,8 +2930,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2939,8 +2939,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -3736,8 +3736,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "id": 53256870297931,
           "product_id": 10825089614155,
+          "id": 53256870297931,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -3764,8 +3764,8 @@
           "image_id": 64365692289355
         },
         {
-          "id": 53256870330699,
           "product_id": 10825089614155,
+          "id": 53256870330699,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -3794,8 +3794,8 @@
       ],
       "options": [
         {
-          "id": 13450982129995,
           "product_id": 10825089614155,
+          "id": 13450982129995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4377,8 +4377,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100656971",
       "variants": [
         {
-          "product_id": 10825100656971,
           "id": 53256902312267,
+          "product_id": 10825100656971,
           "title": "White",
           "price": "435.45",
           "position": 1,
@@ -4405,8 +4405,8 @@
           "image_id": 64365770080587
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902345035,
+          "product_id": 10825100656971,
           "title": "3pcs white",
           "price": "1267.76",
           "position": 2,
@@ -4433,8 +4433,8 @@
           "image_id": 64365770113355
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902377803,
+          "product_id": 10825100656971,
           "title": "2pcs white",
           "price": "851.60",
           "position": 3,
@@ -4463,8 +4463,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100656971,
           "id": 13451000971595,
+          "product_id": 10825100656971,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4591,8 +4591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "product_id": 10825066053963,
           "id": 53256702853451,
+          "product_id": 10825066053963,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -4619,8 +4619,8 @@
           "image_id": 64365446496587
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702886219,
+          "product_id": 10825066053963,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -4647,8 +4647,8 @@
           "image_id": 64365446529355
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702918987,
+          "product_id": 10825066053963,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -4677,8 +4677,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066053963,
           "id": 13450948116811,
+          "product_id": 10825066053963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4805,8 +4805,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "id": 53256744730955,
           "product_id": 10825068970315,
+          "id": 53256744730955,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -4833,8 +4833,8 @@
           "image_id": 64365481132363
         },
         {
-          "id": 53256744763723,
           "product_id": 10825068970315,
+          "id": 53256744763723,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -4863,8 +4863,8 @@
       ],
       "options": [
         {
-          "id": 13450952737099,
           "product_id": 10825068970315,
+          "id": 13450952737099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4872,8 +4872,8 @@
           ]
         },
         {
-          "id": 13450952769867,
           "product_id": 10825068970315,
+          "id": 13450952769867,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -4882,8 +4882,8 @@
           ]
         },
         {
-          "id": 13450952802635,
           "product_id": 10825068970315,
+          "id": 13450952802635,
           "name": "Please Input",
           "position": 3,
           "values": [

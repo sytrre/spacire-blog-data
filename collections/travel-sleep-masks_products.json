@@ -202,8 +202,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "product_id": 10825066053963,
           "id": 53256702853451,
+          "product_id": 10825066053963,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -230,8 +230,8 @@
           "image_id": 64365446496587
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702886219,
+          "product_id": 10825066053963,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -258,8 +258,8 @@
           "image_id": 64365446529355
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702918987,
+          "product_id": 10825066053963,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -288,8 +288,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066053963,
           "id": 13450948116811,
+          "product_id": 10825066053963,
           "name": "Color",
           "position": 1,
           "values": [

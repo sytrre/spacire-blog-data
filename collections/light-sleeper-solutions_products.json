@@ -6063,8 +6063,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -6093,8 +6093,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -6102,8 +6102,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -12714,8 +12714,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825028501835",
       "variants": [
         {
-          "id": 53256527511883,
           "product_id": 10825028501835,
+          "id": 53256527511883,
           "title": "Green",
           "price": "27.79",
           "position": 1,
@@ -12742,8 +12742,8 @@
           "image_id": 64364984009035
         },
         {
-          "id": 53256527544651,
           "product_id": 10825028501835,
+          "id": 53256527544651,
           "title": "Purple",
           "price": "28.29",
           "position": 2,
@@ -12770,8 +12770,8 @@
           "image_id": 64364984041803
         },
         {
-          "id": 53256527577419,
           "product_id": 10825028501835,
+          "id": 53256527577419,
           "title": "Blue",
           "price": "27.79",
           "position": 3,
@@ -12798,8 +12798,8 @@
           "image_id": 64364984074571
         },
         {
-          "id": 53256527610187,
           "product_id": 10825028501835,
+          "id": 53256527610187,
           "title": "Black",
           "price": "27.79",
           "position": 4,
@@ -12826,8 +12826,8 @@
           "image_id": 64364984107339
         },
         {
-          "id": 53256527642955,
           "product_id": 10825028501835,
+          "id": 53256527642955,
           "title": "Pink",
           "price": "28.75",
           "position": 5,
@@ -12854,8 +12854,8 @@
           "image_id": 64364984140107
         },
         {
-          "id": 53256527675723,
           "product_id": 10825028501835,
+          "id": 53256527675723,
           "title": "Grey",
           "price": "27.79",
           "position": 6,
@@ -12884,8 +12884,8 @@
       ],
       "options": [
         {
-          "id": 13450898866507,
           "product_id": 10825028501835,
+          "id": 13450898866507,
           "name": "Color",
           "position": 1,
           "values": [
