@@ -4315,8 +4315,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158820171",
       "variants": [
         {
-          "product_id": 10825158820171,
           "id": 53257347891531,
+          "product_id": 10825158820171,
           "title": "Sleep aid patch",
           "price": "33.16",
           "position": 1,
@@ -4345,8 +4345,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158820171,
           "id": 13451086004555,
+          "product_id": 10825158820171,
           "name": "style",
           "position": 1,
           "values": [
