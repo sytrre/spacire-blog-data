@@ -2900,8 +2900,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -2930,8 +2930,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2939,8 +2939,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -3359,8 +3359,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "id": 53252755915083,
           "product_id": 10823815659851,
+          "id": 53252755915083,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -3389,8 +3389,8 @@
       ],
       "options": [
         {
-          "id": 13449548726603,
           "product_id": 10823815659851,
+          "id": 13449548726603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4591,8 +4591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "id": 53256702853451,
           "product_id": 10825066053963,
+          "id": 53256702853451,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -4619,8 +4619,8 @@
           "image_id": 64365446496587
         },
         {
-          "id": 53256702886219,
           "product_id": 10825066053963,
+          "id": 53256702886219,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -4647,8 +4647,8 @@
           "image_id": 64365446529355
         },
         {
-          "id": 53256702918987,
           "product_id": 10825066053963,
+          "id": 53256702918987,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -4677,8 +4677,8 @@
       ],
       "options": [
         {
-          "id": 13450948116811,
           "product_id": 10825066053963,
+          "id": 13450948116811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4805,8 +4805,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "id": 53256744730955,
           "product_id": 10825068970315,
+          "id": 53256744730955,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -4833,8 +4833,8 @@
           "image_id": 64365481132363
         },
         {
-          "id": 53256744763723,
           "product_id": 10825068970315,
+          "id": 53256744763723,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -4863,8 +4863,8 @@
       ],
       "options": [
         {
-          "id": 13450952737099,
           "product_id": 10825068970315,
+          "id": 13450952737099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4872,8 +4872,8 @@
           ]
         },
         {
-          "id": 13450952769867,
           "product_id": 10825068970315,
+          "id": 13450952769867,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -4882,8 +4882,8 @@
           ]
         },
         {
-          "id": 13450952802635,
           "product_id": 10825068970315,
+          "id": 13450952802635,
           "name": "Please Input",
           "position": 3,
           "values": [
@@ -6410,8 +6410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "id": 53257350447435,
           "product_id": 10825159246155,
+          "id": 53257350447435,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -6440,8 +6440,8 @@
       ],
       "options": [
         {
-          "id": 13451086496075,
           "product_id": 10825159246155,
+          "id": 13451086496075,
           "name": "style",
           "position": 1,
           "values": [

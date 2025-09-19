@@ -3081,8 +3081,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054617931",
       "variants": [
         {
-          "id": 53256620704075,
           "product_id": 10825054617931,
+          "id": 53256620704075,
           "title": "Flax / 1.8x1m",
           "price": "41.23",
           "position": 1,
@@ -3109,8 +3109,8 @@
           "image_id": 64365306544459
         },
         {
-          "id": 53256620736843,
           "product_id": 10825054617931,
+          "id": 53256620736843,
           "title": "Flax / 1.8x1.8m",
           "price": "44.19",
           "position": 2,
@@ -3139,8 +3139,8 @@
       ],
       "options": [
         {
-          "id": 13450931142987,
           "product_id": 10825054617931,
+          "id": 13450931142987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3148,8 +3148,8 @@
           ]
         },
         {
-          "id": 13450931175755,
           "product_id": 10825054617931,
+          "id": 13450931175755,
           "name": "Size",
           "position": 2,
           "values": [
@@ -4952,8 +4952,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776188207435",
       "variants": [
         {
-          "id": 53331876544843,
           "product_id": 14776188207435,
+          "id": 53331876544843,
           "title": "Cherry",
           "price": "17.84",
           "position": 1,
@@ -4980,8 +4980,8 @@
           "image_id": 64662302458187
         },
         {
-          "id": 53331876577611,
           "product_id": 14776188207435,
+          "id": 53331876577611,
           "title": "Blue flowers",
           "price": "17.84",
           "position": 2,
@@ -5008,8 +5008,8 @@
           "image_id": 64662302490955
         },
         {
-          "id": 53331876610379,
           "product_id": 14776188207435,
+          "id": 53331876610379,
           "title": "Bunny",
           "price": "17.84",
           "position": 3,
@@ -5036,8 +5036,8 @@
           "image_id": 64662302523723
         },
         {
-          "id": 53331876643147,
           "product_id": 14776188207435,
+          "id": 53331876643147,
           "title": "Small flower",
           "price": "17.84",
           "position": 4,
@@ -5064,8 +5064,8 @@
           "image_id": 64662302556491
         },
         {
-          "id": 53331876675915,
           "product_id": 14776188207435,
+          "id": 53331876675915,
           "title": "Coffee polka dots",
           "price": "17.84",
           "position": 5,
@@ -5092,8 +5092,8 @@
           "image_id": 64662302589259
         },
         {
-          "id": 53331876708683,
           "product_id": 14776188207435,
+          "id": 53331876708683,
           "title": "Blue striped rabbit",
           "price": "17.84",
           "position": 6,
@@ -5120,8 +5120,8 @@
           "image_id": 64662302622027
         },
         {
-          "id": 53331876741451,
           "product_id": 14776188207435,
+          "id": 53331876741451,
           "title": "Long ear rabbit",
           "price": "17.84",
           "position": 7,
@@ -5148,8 +5148,8 @@
           "image_id": 64662302654795
         },
         {
-          "id": 53331876774219,
           "product_id": 14776188207435,
+          "id": 53331876774219,
           "title": "Pink heart",
           "price": "17.84",
           "position": 8,
@@ -5176,8 +5176,8 @@
           "image_id": 64662302687563
         },
         {
-          "id": 53331876806987,
           "product_id": 14776188207435,
+          "id": 53331876806987,
           "title": "Pony",
           "price": "17.84",
           "position": 9,
@@ -5206,8 +5206,8 @@
       ],
       "options": [
         {
-          "id": 17121694646603,
           "product_id": 14776188207435,
+          "id": 17121694646603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13615,8 +13615,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776056807755",
       "variants": [
         {
-          "id": 53331182027083,
           "product_id": 14776056807755,
+          "id": 53331182027083,
           "title": "Grey / 1mx2.7m",
           "price": "53.45",
           "position": 1,
@@ -13643,8 +13643,8 @@
           "image_id": 64660127187275
         },
         {
-          "id": 53331182059851,
           "product_id": 14776056807755,
+          "id": 53331182059851,
           "title": "Beige / 1mx2.7m",
           "price": "53.45",
           "position": 2,
@@ -13671,8 +13671,8 @@
           "image_id": 64660127220043
         },
         {
-          "id": 53331182092619,
           "product_id": 14776056807755,
+          "id": 53331182092619,
           "title": "Coffee / 1mx2.7m",
           "price": "53.45",
           "position": 3,
@@ -13701,8 +13701,8 @@
       ],
       "options": [
         {
-          "id": 17121533067595,
           "product_id": 14776056807755,
+          "id": 17121533067595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13712,8 +13712,8 @@
           ]
         },
         {
-          "id": 17121533100363,
           "product_id": 14776056807755,
+          "id": 17121533100363,
           "name": "Size",
           "position": 2,
           "values": [
@@ -22539,8 +22539,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825028501835",
       "variants": [
         {
-          "id": 53256527511883,
           "product_id": 10825028501835,
+          "id": 53256527511883,
           "title": "Green",
           "price": "27.79",
           "position": 1,
@@ -22567,8 +22567,8 @@
           "image_id": 64364984009035
         },
         {
-          "id": 53256527544651,
           "product_id": 10825028501835,
+          "id": 53256527544651,
           "title": "Purple",
           "price": "28.29",
           "position": 2,
@@ -22595,8 +22595,8 @@
           "image_id": 64364984041803
         },
         {
-          "id": 53256527577419,
           "product_id": 10825028501835,
+          "id": 53256527577419,
           "title": "Blue",
           "price": "27.79",
           "position": 3,
@@ -22623,8 +22623,8 @@
           "image_id": 64364984074571
         },
         {
-          "id": 53256527610187,
           "product_id": 10825028501835,
+          "id": 53256527610187,
           "title": "Black",
           "price": "27.79",
           "position": 4,
@@ -22651,8 +22651,8 @@
           "image_id": 64364984107339
         },
         {
-          "id": 53256527642955,
           "product_id": 10825028501835,
+          "id": 53256527642955,
           "title": "Pink",
           "price": "28.75",
           "position": 5,
@@ -22679,8 +22679,8 @@
           "image_id": 64364984140107
         },
         {
-          "id": 53256527675723,
           "product_id": 10825028501835,
+          "id": 53256527675723,
           "title": "Grey",
           "price": "27.79",
           "position": 6,
@@ -22709,8 +22709,8 @@
       ],
       "options": [
         {
-          "id": 13450898866507,
           "product_id": 10825028501835,
+          "id": 13450898866507,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28767,8 +28767,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776059691339",
       "variants": [
         {
-          "id": 53331196805451,
           "product_id": 14776059691339,
+          "id": 53331196805451,
           "title": "Black Monolayer / 140*80CM",
           "price": "18.61",
           "position": 1,
@@ -28795,8 +28795,8 @@
           "image_id": 64660531511627
         },
         {
-          "id": 53331196838219,
           "product_id": 14776059691339,
+          "id": 53331196838219,
           "title": "Black Monolayer / 180*90CM",
           "price": "19.19",
           "position": 2,
@@ -28825,8 +28825,8 @@
       ],
       "options": [
         {
-          "id": 17121536377163,
           "product_id": 14776059691339,
+          "id": 17121536377163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28834,8 +28834,8 @@
           ]
         },
         {
-          "id": 17121536409931,
           "product_id": 14776059691339,
+          "id": 17121536409931,
           "name": "Size",
           "position": 2,
           "values": [

@@ -324,8 +324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954334027",
       "variants": [
         {
-          "id": 53253609226571,
           "product_id": 10823954334027,
+          "id": 53253609226571,
           "title": "White / USB",
           "price": "33.49",
           "position": 1,
@@ -354,8 +354,8 @@
       ],
       "options": [
         {
-          "id": 13449723117899,
           "product_id": 10823954334027,
+          "id": 13449723117899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -363,8 +363,8 @@
           ]
         },
         {
-          "id": 13449723150667,
           "product_id": 10823954334027,
+          "id": 13449723150667,
           "name": "format",
           "position": 2,
           "values": [
@@ -1753,8 +1753,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823676428619",
       "variants": [
         {
-          "id": 53252001857867,
           "product_id": 10823676428619,
+          "id": 53252001857867,
           "title": "Default",
           "price": "55.99",
           "position": 1,
@@ -1783,8 +1783,8 @@
       ],
       "options": [
         {
-          "id": 13449321382219,
           "product_id": 10823676428619,
+          "id": 13449321382219,
           "name": "CJ default",
           "position": 1,
           "values": [
@@ -2140,8 +2140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823679672651",
       "variants": [
         {
-          "id": 53252013261131,
           "product_id": 10823679672651,
+          "id": 53252013261131,
           "title": "default",
           "price": "35.99",
           "position": 1,
@@ -2170,8 +2170,8 @@
       ],
       "options": [
         {
-          "id": 13449325085003,
           "product_id": 10823679672651,
+          "id": 13449325085003,
           "name": "default",
           "position": 1,
           "values": [
@@ -2305,8 +2305,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "id": 53252019913035,
           "product_id": 10823681016139,
+          "id": 53252019913035,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -2333,8 +2333,8 @@
           "image_id": 64330808787275
         },
         {
-          "id": 53252019945803,
           "product_id": 10823681016139,
+          "id": 53252019945803,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -2363,8 +2363,8 @@
       ],
       "options": [
         {
-          "id": 13449326625099,
           "product_id": 10823681016139,
+          "id": 13449326625099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2373,8 +2373,8 @@
           ]
         },
         {
-          "id": 13449326657867,
           "product_id": 10823681016139,
+          "id": 13449326657867,
           "name": "Model",
           "position": 2,
           "values": [

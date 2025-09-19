@@ -1959,8 +1959,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823804584267",
       "variants": [
         {
-          "id": 53252703912267,
           "product_id": 10823804584267,
+          "id": 53252703912267,
           "title": "Black",
           "price": "30.99",
           "position": 1,
@@ -1987,8 +1987,8 @@
           "image_id": 64332669813067
         },
         {
-          "id": 53252703945035,
           "product_id": 10823804584267,
+          "id": 53252703945035,
           "title": "Blue",
           "price": "30.99",
           "position": 2,
@@ -2015,8 +2015,8 @@
           "image_id": 64332669845835
         },
         {
-          "id": 53252703977803,
           "product_id": 10823804584267,
+          "id": 53252703977803,
           "title": "Champagne",
           "price": "30.99",
           "position": 3,
@@ -2043,8 +2043,8 @@
           "image_id": 64332669878603
         },
         {
-          "id": 53252704010571,
           "product_id": 10823804584267,
+          "id": 53252704010571,
           "title": "Coffee Grey",
           "price": "30.99",
           "position": 4,
@@ -2071,8 +2071,8 @@
           "image_id": 64332669911371
         },
         {
-          "id": 53252704043339,
           "product_id": 10823804584267,
+          "id": 53252704043339,
           "title": "Gold",
           "price": "30.99",
           "position": 5,
@@ -2099,8 +2099,8 @@
           "image_id": 64332669944139
         },
         {
-          "id": 53252704076107,
           "product_id": 10823804584267,
+          "id": 53252704076107,
           "title": "Green",
           "price": "30.99",
           "position": 6,
@@ -2127,8 +2127,8 @@
           "image_id": 64332669976907
         },
         {
-          "id": 53252704108875,
           "product_id": 10823804584267,
+          "id": 53252704108875,
           "title": "Navy Blue",
           "price": "30.99",
           "position": 7,
@@ -2155,8 +2155,8 @@
           "image_id": 64332670009675
         },
         {
-          "id": 53252704141643,
           "product_id": 10823804584267,
+          "id": 53252704141643,
           "title": "Pink",
           "price": "30.99",
           "position": 8,
@@ -2183,8 +2183,8 @@
           "image_id": 64332670042443
         },
         {
-          "id": 53252704174411,
           "product_id": 10823804584267,
+          "id": 53252704174411,
           "title": "Silver",
           "price": "30.99",
           "position": 9,
@@ -2213,8 +2213,8 @@
       ],
       "options": [
         {
-          "id": 13449536078155,
           "product_id": 10823804584267,
+          "id": 13449536078155,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3116,8 +3116,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "id": 53256744730955,
           "product_id": 10825068970315,
+          "id": 53256744730955,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -3144,8 +3144,8 @@
           "image_id": 64365481132363
         },
         {
-          "id": 53256744763723,
           "product_id": 10825068970315,
+          "id": 53256744763723,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -3174,8 +3174,8 @@
       ],
       "options": [
         {
-          "id": 13450952737099,
           "product_id": 10825068970315,
+          "id": 13450952737099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3183,8 +3183,8 @@
           ]
         },
         {
-          "id": 13450952769867,
           "product_id": 10825068970315,
+          "id": 13450952769867,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -3193,8 +3193,8 @@
           ]
         },
         {
-          "id": 13450952802635,
           "product_id": 10825068970315,
+          "id": 13450952802635,
           "name": "Please Input",
           "position": 3,
           "values": [
