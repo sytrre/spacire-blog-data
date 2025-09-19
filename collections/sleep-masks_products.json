@@ -15335,8 +15335,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047998795",
       "variants": [
         {
-          "product_id": 10825047998795,
           "id": 53256594129227,
+          "product_id": 10825047998795,
           "title": "Black and white panda",
           "price": "30.99",
           "position": 1,
@@ -15363,8 +15363,8 @@
           "image_id": 64365228917067
         },
         {
-          "product_id": 10825047998795,
           "id": 53256594161995,
+          "product_id": 10825047998795,
           "title": "Grey crown bear",
           "price": "30.99",
           "position": 2,
@@ -15391,8 +15391,8 @@
           "image_id": 64365228949835
         },
         {
-          "product_id": 10825047998795,
           "id": 53256594194763,
+          "product_id": 10825047998795,
           "title": "Pink mouse",
           "price": "30.99",
           "position": 3,
@@ -15421,8 +15421,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047998795,
           "id": 13450923868491,
+          "product_id": 10825047998795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49584,8 +49584,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743045963",
       "variants": [
         {
-          "product_id": 10823743045963,
           "id": 53252370202955,
+          "product_id": 10823743045963,
           "title": "Late Night Black",
           "price": "69.99",
           "position": 1,
@@ -49612,8 +49612,8 @@
           "image_id": 64331629232459
         },
         {
-          "product_id": 10823743045963,
           "id": 53252370235723,
+          "product_id": 10823743045963,
           "title": "Midnight Gray",
           "price": "69.99",
           "position": 2,
@@ -49642,8 +49642,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743045963,
           "id": 13449443279179,
+          "product_id": 10823743045963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -51230,8 +51230,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823804879179",
       "variants": [
         {
-          "product_id": 10823804879179,
           "id": 53252705747275,
+          "product_id": 10823804879179,
           "title": "Maroon",
           "price": "43.49",
           "position": 1,
@@ -51260,8 +51260,8 @@
       ],
       "options": [
         {
-          "product_id": 10823804879179,
           "id": 13449536373067,
+          "product_id": 10823804879179,
           "name": "Color",
           "position": 1,
           "values": [

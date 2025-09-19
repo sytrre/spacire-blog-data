@@ -18168,8 +18168,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898497355",
       "variants": [
         {
-          "product_id": 10823898497355,
           "id": 53253434933579,
+          "product_id": 10823898497355,
           "title": "Milky White / Alarm Clock Speaker",
           "price": "37.49",
           "position": 1,
@@ -18198,8 +18198,8 @@
       ],
       "options": [
         {
-          "product_id": 10823898497355,
           "id": 13449659547979,
+          "product_id": 10823898497355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18207,8 +18207,8 @@
           ]
         },
         {
-          "product_id": 10823898497355,
           "id": 13449659580747,
+          "product_id": 10823898497355,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -18845,8 +18845,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823719354699",
       "variants": [
         {
-          "product_id": 10823719354699,
           "id": 53252203086155,
+          "product_id": 10823719354699,
           "title": "White / USB",
           "price": "55.49",
           "position": 1,
@@ -18875,8 +18875,8 @@
       ],
       "options": [
         {
-          "product_id": 10823719354699,
           "id": 13449392161099,
+          "product_id": 10823719354699,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18884,8 +18884,8 @@
           ]
         },
         {
-          "product_id": 10823719354699,
           "id": 13449392193867,
+          "product_id": 10823719354699,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
