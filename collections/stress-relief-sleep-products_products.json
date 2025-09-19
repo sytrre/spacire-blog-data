@@ -30407,8 +30407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825026011467",
       "variants": [
         {
-          "id": 53256520696139,
           "product_id": 10825026011467,
+          "id": 53256520696139,
           "title": "Black Strap",
           "price": "26.79",
           "position": 1,
@@ -30435,8 +30435,8 @@
           "image_id": 64364945539403
         },
         {
-          "id": 53256520728907,
           "product_id": 10825026011467,
+          "id": 53256520728907,
           "title": "Gray Strap",
           "price": "26.79",
           "position": 2,
@@ -30463,8 +30463,8 @@
           "image_id": 64364945572171
         },
         {
-          "id": 53256520761675,
           "product_id": 10825026011467,
+          "id": 53256520761675,
           "title": "Pink Bandage",
           "price": "26.79",
           "position": 3,
@@ -30491,8 +30491,8 @@
           "image_id": 64364945604939
         },
         {
-          "id": 53256520794443,
           "product_id": 10825026011467,
+          "id": 53256520794443,
           "title": "Purple Strap",
           "price": "26.79",
           "position": 4,
@@ -30519,8 +30519,8 @@
           "image_id": 64364945637707
         },
         {
-          "id": 53256520827211,
           "product_id": 10825026011467,
+          "id": 53256520827211,
           "title": "Blue Strap",
           "price": "26.79",
           "position": 5,
@@ -30547,8 +30547,8 @@
           "image_id": 64364945670475
         },
         {
-          "id": 53256520859979,
           "product_id": 10825026011467,
+          "id": 53256520859979,
           "title": "Dark Green Strap",
           "price": "26.79",
           "position": 6,
@@ -30575,8 +30575,8 @@
           "image_id": 64364945703243
         },
         {
-          "id": 53256520892747,
           "product_id": 10825026011467,
+          "id": 53256520892747,
           "title": "Red Strap",
           "price": "26.79",
           "position": 7,
@@ -30603,8 +30603,8 @@
           "image_id": 64364945736011
         },
         {
-          "id": 53256520925515,
           "product_id": 10825026011467,
+          "id": 53256520925515,
           "title": "Dark Purple Strap",
           "price": "26.79",
           "position": 8,
@@ -30631,8 +30631,8 @@
           "image_id": 64364945768779
         },
         {
-          "id": 53256520958283,
           "product_id": 10825026011467,
+          "id": 53256520958283,
           "title": "White Strap",
           "price": "26.79",
           "position": 9,
@@ -30659,8 +30659,8 @@
           "image_id": 64364945801547
         },
         {
-          "id": 53256520991051,
           "product_id": 10825026011467,
+          "id": 53256520991051,
           "title": "Champagne Strap",
           "price": "26.79",
           "position": 10,
@@ -30687,8 +30687,8 @@
           "image_id": 64364945834315
         },
         {
-          "id": 53256521023819,
           "product_id": 10825026011467,
+          "id": 53256521023819,
           "title": "Rose Red Strap",
           "price": "26.79",
           "position": 11,
@@ -30717,8 +30717,8 @@
       ],
       "options": [
         {
-          "id": 13450896245067,
           "product_id": 10825026011467,
+          "id": 13450896245067,
           "name": "Color",
           "position": 1,
           "values": [
