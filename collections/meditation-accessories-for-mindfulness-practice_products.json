@@ -10708,8 +10708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "product_id": 10825099084107,
           "id": 53256898085195,
+          "product_id": 10825099084107,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -10736,8 +10736,8 @@
           "image_id": 64365739639115
         },
         {
-          "product_id": 10825099084107,
           "id": 53256898117963,
+          "product_id": 10825099084107,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -10766,8 +10766,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099084107,
           "id": 13450998972747,
+          "product_id": 10825099084107,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -10775,8 +10775,8 @@
           ]
         },
         {
-          "product_id": 10825099084107,
           "id": 13450999005515,
+          "product_id": 10825099084107,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -19107,8 +19107,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "id": 53252653875531,
           "product_id": 10823793475915,
+          "id": 53252653875531,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19135,8 +19135,8 @@
           "image_id": 64332469698891
         },
         {
-          "id": 53252653908299,
           "product_id": 10823793475915,
+          "id": 53252653908299,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19165,8 +19165,8 @@
       ],
       "options": [
         {
-          "id": 13449523069259,
           "product_id": 10823793475915,
+          "id": 13449523069259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19174,8 +19174,8 @@
           ]
         },
         {
-          "id": 13449523102027,
           "product_id": 10823793475915,
+          "id": 13449523102027,
           "name": "Specifications",
           "position": 2,
           "values": [
