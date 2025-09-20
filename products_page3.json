@@ -3203,8 +3203,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742587211",
       "variants": [
         {
-          "id": 53252368400715,
           "product_id": 10823742587211,
+          "id": 53252368400715,
           "title": "Pink / USB",
           "price": "34.99",
           "position": 1,
@@ -3233,8 +3233,8 @@
       ],
       "options": [
         {
-          "id": 13449442427211,
           "product_id": 10823742587211,
+          "id": 13449442427211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3242,8 +3242,8 @@
           ]
         },
         {
-          "id": 13449442459979,
           "product_id": 10823742587211,
+          "id": 13449442459979,
           "name": "power",
           "position": 2,
           "values": [
