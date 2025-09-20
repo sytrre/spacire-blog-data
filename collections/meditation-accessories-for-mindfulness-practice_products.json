@@ -8434,8 +8434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "id": 53253611553099,
           "product_id": 10823955087691,
+          "id": 53253611553099,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -8462,8 +8462,8 @@
           "image_id": 64335531671883
         },
         {
-          "id": 53253611585867,
           "product_id": 10823955087691,
+          "id": 53253611585867,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -8492,8 +8492,8 @@
       ],
       "options": [
         {
-          "id": 13449724100939,
           "product_id": 10823955087691,
+          "id": 13449724100939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10365,8 +10365,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794393419",
       "variants": [
         {
-          "id": 53252659216715,
           "product_id": 10823794393419,
+          "id": 53252659216715,
           "title": "White New 10 Songs",
           "price": "35.99",
           "position": 1,
@@ -10395,8 +10395,8 @@
       ],
       "options": [
         {
-          "id": 13449524183371,
           "product_id": 10823794393419,
+          "id": 13449524183371,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18650,8 +18650,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106096459",
       "variants": [
         {
-          "product_id": 10825106096459,
           "id": 53256911520075,
+          "product_id": 10825106096459,
           "title": "White / 5W",
           "price": "441.62",
           "position": 1,
@@ -18680,8 +18680,8 @@
       ],
       "options": [
         {
-          "product_id": 10825106096459,
           "id": 13451007918411,
+          "product_id": 10825106096459,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -18689,8 +18689,8 @@
           ]
         },
         {
-          "product_id": 10825106096459,
           "id": 13451007951179,
+          "product_id": 10825106096459,
           "name": "Light Source Power",
           "position": 2,
           "values": [
