@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-20T16:49:22+01:00",
+      "updated_at": "2025-09-20T22:01:25+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -65,13 +65,20 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": null,
-          "updated_at": "2025-09-20T14:29:16+01:00",
-          "summary_html": "",
+          "published_at": "2025-09-20T21:58:57+01:00",
+          "updated_at": "2025-09-20T22:01:25+01:00",
+          "summary_html": "<p><meta charset=\"UTF-8\"><span>Worried your sleep mask is causing wrinkles?</span><span> Separate fact from fiction in this article.</span><span> We'll explore common concerns and scientific evidence to reveal whether sleep masks truly contribute to fine lines or if they're a harmless aid to better sleep.</span></p>",
           "template_suffix": "article",
           "handle": "do-sleep-masks-cause-wrinkles-myths-vs-facts",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998480511307"
+          "admin_graphql_api_id": "gid://shopify/Article/998480511307",
+          "image": {
+            "created_at": "2025-09-20T22:01:23+01:00",
+            "alt": "Do Sleep Masks Cause Wrinkles?",
+            "width": 1536,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/Do_Sleep_Masks_Cause_Wrinkles.png?v=1758402085"
+          }
         },
         {
           "id": 998421954891,
