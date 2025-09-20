@@ -10708,8 +10708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "id": 53256898085195,
           "product_id": 10825099084107,
+          "id": 53256898085195,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -10736,8 +10736,8 @@
           "image_id": 64365739639115
         },
         {
-          "id": 53256898117963,
           "product_id": 10825099084107,
+          "id": 53256898117963,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -10766,8 +10766,8 @@
       ],
       "options": [
         {
-          "id": 13450998972747,
           "product_id": 10825099084107,
+          "id": 13450998972747,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -10775,8 +10775,8 @@
           ]
         },
         {
-          "id": 13450999005515,
           "product_id": 10825099084107,
+          "id": 13450999005515,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -18650,8 +18650,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106096459",
       "variants": [
         {
-          "id": 53256911520075,
           "product_id": 10825106096459,
+          "id": 53256911520075,
           "title": "White / 5W",
           "price": "441.62",
           "position": 1,
@@ -18680,8 +18680,8 @@
       ],
       "options": [
         {
-          "id": 13451007918411,
           "product_id": 10825106096459,
+          "id": 13451007918411,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -18689,8 +18689,8 @@
           ]
         },
         {
-          "id": 13451007951179,
           "product_id": 10825106096459,
+          "id": 13451007951179,
           "name": "Light Source Power",
           "position": 2,
           "values": [
