@@ -541,8 +541,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962441547",
       "variants": [
         {
-          "product_id": 10824962441547,
           "id": 53256233582923,
+          "product_id": 10824962441547,
           "title": "Lavender",
           "price": "21.70",
           "position": 1,
@@ -571,8 +571,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962441547,
           "id": 13450823205195,
+          "product_id": 10824962441547,
           "name": "style",
           "position": 1,
           "values": [
