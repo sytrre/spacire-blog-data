@@ -6503,8 +6503,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "product_id": 10825092628811,
           "id": 53256886354251,
+          "product_id": 10825092628811,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -6533,8 +6533,8 @@
       ],
       "options": [
         {
-          "product_id": 10825092628811,
           "id": 13450987635019,
+          "product_id": 10825092628811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6542,8 +6542,8 @@
           ]
         },
         {
-          "product_id": 10825092628811,
           "id": 13450987667787,
+          "product_id": 10825092628811,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14977,8 +14977,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "product_id": 10825104621899,
           "id": 53256909848907,
+          "product_id": 10825104621899,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -15007,8 +15007,8 @@
       ],
       "options": [
         {
-          "product_id": 10825104621899,
           "id": 13451006443851,
+          "product_id": 10825104621899,
           "name": "Color",
           "position": 1,
           "values": [
