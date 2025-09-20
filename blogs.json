@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-20T16:37:10+01:00",
+      "updated_at": "2025-09-20T16:49:22+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998481559883,
+          "title": "Sleep Masks for Migraines: How Light Blocking Helps",
+          "created_at": "2025-09-20T16:49:22+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-09-20T16:49:22+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "sleep-masks-for-migraines-how-light-blocking-helps",
+          "tags": "Sleep Masks",
+          "admin_graphql_api_id": "gid://shopify/Article/998481559883"
+        },
         {
           "id": 998481527115,
           "title": "Best Sleep Masks for Meditation and Mindfulness Practice",
