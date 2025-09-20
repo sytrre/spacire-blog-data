@@ -39140,8 +39140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -39170,8 +39170,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -51845,8 +51845,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908360523",
       "variants": [
         {
-          "id": 53253479072075,
           "product_id": 10823908360523,
+          "id": 53253479072075,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -51873,8 +51873,8 @@
           "image_id": 64334773649739
         },
         {
-          "id": 53253479104843,
           "product_id": 10823908360523,
+          "id": 53253479104843,
           "title": "Grey",
           "price": "38.99",
           "position": 2,
@@ -51901,8 +51901,8 @@
           "image_id": 64334773682507
         },
         {
-          "id": 53253479137611,
           "product_id": 10823908360523,
+          "id": 53253479137611,
           "title": "Navy Blue",
           "price": "38.99",
           "position": 3,
@@ -51929,8 +51929,8 @@
           "image_id": 64334773715275
         },
         {
-          "id": 53253479170379,
           "product_id": 10823908360523,
+          "id": 53253479170379,
           "title": "Peacock blue",
           "price": "38.99",
           "position": 4,
@@ -51957,8 +51957,8 @@
           "image_id": 64334773748043
         },
         {
-          "id": 53253479203147,
           "product_id": 10823908360523,
+          "id": 53253479203147,
           "title": "Pink",
           "price": "38.99",
           "position": 5,
@@ -51985,8 +51985,8 @@
           "image_id": 64334773780811
         },
         {
-          "id": 53253479235915,
           "product_id": 10823908360523,
+          "id": 53253479235915,
           "title": "Sky Blue",
           "price": "38.99",
           "position": 6,
@@ -52015,8 +52015,8 @@
       ],
       "options": [
         {
-          "id": 13449671999819,
           "product_id": 10823908360523,
+          "id": 13449671999819,
           "name": "Color",
           "position": 1,
           "values": [

@@ -407,8 +407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "product_id": 10823744356683,
           "id": 53252389568843,
+          "product_id": 10823744356683,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -437,8 +437,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744356683,
           "id": 13449446457675,
+          "product_id": 10823744356683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10155,8 +10155,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -10185,8 +10185,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12169,8 +12169,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -12199,8 +12199,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -38823,8 +38823,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823680229707",
       "variants": [
         {
-          "product_id": 10823680229707,
           "id": 53252015653195,
+          "product_id": 10823680229707,
           "title": "default",
           "price": "60.49",
           "position": 1,
@@ -38853,8 +38853,8 @@
       ],
       "options": [
         {
-          "product_id": 10823680229707,
           "id": 13449325707595,
+          "product_id": 10823680229707,
           "name": "default",
           "position": 1,
           "values": [
@@ -55359,8 +55359,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904258891",
       "variants": [
         {
-          "id": 53325633847627,
           "product_id": 14774904258891,
+          "id": 53325633847627,
           "title": "Tencel Navy Blue Standard / MJ8125",
           "price": "38.18",
           "position": 1,
@@ -55387,8 +55387,8 @@
           "image_id": 64644466540875
         },
         {
-          "id": 53325633880395,
           "product_id": 14774904258891,
+          "id": 53325633880395,
           "title": "Tencel Blue Standard / MJ8125",
           "price": "38.18",
           "position": 2,
@@ -55415,8 +55415,8 @@
           "image_id": 64644466573643
         },
         {
-          "id": 53325633913163,
           "product_id": 14774904258891,
+          "id": 53325633913163,
           "title": "Dark Gray Gray Standard / MJ8125",
           "price": "38.43",
           "position": 3,
@@ -55443,8 +55443,8 @@
           "image_id": 64644466606411
         },
         {
-          "id": 53325633945931,
           "product_id": 14774904258891,
+          "id": 53325633945931,
           "title": "Dark Gray Mesh Low Loft Pillow / MJ8125",
           "price": "37.70",
           "position": 4,
@@ -55473,8 +55473,8 @@
       ],
       "options": [
         {
-          "id": 17120143442251,
           "product_id": 14774904258891,
+          "id": 17120143442251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55485,8 +55485,8 @@
           ]
         },
         {
-          "id": 17120143475019,
           "product_id": 14774904258891,
+          "id": 17120143475019,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -65118,8 +65118,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908360523",
       "variants": [
         {
-          "id": 53253479072075,
           "product_id": 10823908360523,
+          "id": 53253479072075,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -65146,8 +65146,8 @@
           "image_id": 64334773649739
         },
         {
-          "id": 53253479104843,
           "product_id": 10823908360523,
+          "id": 53253479104843,
           "title": "Grey",
           "price": "38.99",
           "position": 2,
@@ -65174,8 +65174,8 @@
           "image_id": 64334773682507
         },
         {
-          "id": 53253479137611,
           "product_id": 10823908360523,
+          "id": 53253479137611,
           "title": "Navy Blue",
           "price": "38.99",
           "position": 3,
@@ -65202,8 +65202,8 @@
           "image_id": 64334773715275
         },
         {
-          "id": 53253479170379,
           "product_id": 10823908360523,
+          "id": 53253479170379,
           "title": "Peacock blue",
           "price": "38.99",
           "position": 4,
@@ -65230,8 +65230,8 @@
           "image_id": 64334773748043
         },
         {
-          "id": 53253479203147,
           "product_id": 10823908360523,
+          "id": 53253479203147,
           "title": "Pink",
           "price": "38.99",
           "position": 5,
@@ -65258,8 +65258,8 @@
           "image_id": 64334773780811
         },
         {
-          "id": 53253479235915,
           "product_id": 10823908360523,
+          "id": 53253479235915,
           "title": "Sky Blue",
           "price": "38.99",
           "position": 6,
@@ -65288,8 +65288,8 @@
       ],
       "options": [
         {
-          "id": 13449671999819,
           "product_id": 10823908360523,
+          "id": 13449671999819,
           "name": "Color",
           "position": 1,
           "values": [
