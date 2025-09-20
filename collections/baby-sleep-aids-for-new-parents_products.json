@@ -17956,8 +17956,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106784587",
       "variants": [
         {
-          "product_id": 10825106784587,
           "id": 53256912273739,
+          "product_id": 10825106784587,
           "title": "White",
           "price": "363.76",
           "position": 1,
@@ -17986,8 +17986,8 @@
       ],
       "options": [
         {
-          "product_id": 10825106784587,
           "id": 13451008672075,
+          "product_id": 10825106784587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19742,8 +19742,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089286475",
       "variants": [
         {
-          "product_id": 10825089286475,
           "id": 53256865448267,
+          "product_id": 10825089286475,
           "title": "Orange",
           "price": "563.56",
           "position": 1,
@@ -19772,8 +19772,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089286475,
           "id": 13450981605707,
+          "product_id": 10825089286475,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21380,8 +21380,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108652363",
       "variants": [
         {
-          "id": 53256916926795,
           "product_id": 10825108652363,
+          "id": 53256916926795,
           "title": "SM06 Black",
           "price": "195.99",
           "position": 1,
@@ -21408,8 +21408,8 @@
           "image_id": 64365840630091
         },
         {
-          "id": 53256916959563,
           "product_id": 10825108652363,
+          "id": 53256916959563,
           "title": "SM06 White",
           "price": "195.99",
           "position": 2,
@@ -21438,8 +21438,8 @@
       ],
       "options": [
         {
-          "id": 13451010769227,
           "product_id": 10825108652363,
+          "id": 13451010769227,
           "name": "Color",
           "position": 1,
           "values": [
