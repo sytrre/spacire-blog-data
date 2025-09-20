@@ -8434,8 +8434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "product_id": 10823955087691,
           "id": 53253611553099,
+          "product_id": 10823955087691,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -8462,8 +8462,8 @@
           "image_id": 64335531671883
         },
         {
-          "product_id": 10823955087691,
           "id": 53253611585867,
+          "product_id": 10823955087691,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -8492,8 +8492,8 @@
       ],
       "options": [
         {
-          "product_id": 10823955087691,
           "id": 13449724100939,
+          "product_id": 10823955087691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10708,8 +10708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "id": 53256898085195,
           "product_id": 10825099084107,
+          "id": 53256898085195,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -10736,8 +10736,8 @@
           "image_id": 64365739639115
         },
         {
-          "id": 53256898117963,
           "product_id": 10825099084107,
+          "id": 53256898117963,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -10766,8 +10766,8 @@
       ],
       "options": [
         {
-          "id": 13450998972747,
           "product_id": 10825099084107,
+          "id": 13450998972747,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -10775,8 +10775,8 @@
           ]
         },
         {
-          "id": 13450999005515,
           "product_id": 10825099084107,
+          "id": 13450999005515,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -19594,8 +19594,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -19624,8 +19624,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19633,8 +19633,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [
