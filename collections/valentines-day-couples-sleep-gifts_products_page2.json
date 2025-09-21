@@ -10155,8 +10155,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "product_id": 10825050194251,
           "id": 53256602091851,
+          "product_id": 10825050194251,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -10185,8 +10185,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050194251,
           "id": 13450926260555,
+          "product_id": 10825050194251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67783,8 +67783,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "product_id": 10823793475915,
           "id": 53252653875531,
+          "product_id": 10823793475915,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -67811,8 +67811,8 @@
           "image_id": 64332469698891
         },
         {
-          "product_id": 10823793475915,
           "id": 53252653908299,
+          "product_id": 10823793475915,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -67841,8 +67841,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793475915,
           "id": 13449523069259,
+          "product_id": 10823793475915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67850,8 +67850,8 @@
           ]
         },
         {
-          "product_id": 10823793475915,
           "id": 13449523102027,
+          "product_id": 10823793475915,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -98624,8 +98624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775048208715",
       "variants": [
         {
-          "product_id": 14775048208715,
           "id": 53327248589131,
+          "product_id": 14775048208715,
           "title": "White / 40cm",
           "price": "18.15",
           "position": 1,
@@ -98654,8 +98654,8 @@
       ],
       "options": [
         {
-          "product_id": 14775048208715,
           "id": 17120338968907,
+          "product_id": 14775048208715,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98663,8 +98663,8 @@
           ]
         },
         {
-          "product_id": 14775048208715,
           "id": 17120339001675,
+          "product_id": 14775048208715,
           "name": "Size",
           "position": 2,
           "values": [
