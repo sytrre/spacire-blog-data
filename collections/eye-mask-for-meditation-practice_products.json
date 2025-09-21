@@ -35901,8 +35901,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823657914699",
       "variants": [
         {
-          "product_id": 10823657914699,
           "id": 53251952181579,
+          "product_id": 10823657914699,
           "title": "Black / USB",
           "price": "41.99",
           "position": 1,
@@ -35931,8 +35931,8 @@
       ],
       "options": [
         {
-          "product_id": 10823657914699,
           "id": 13449300410699,
+          "product_id": 10823657914699,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35940,8 +35940,8 @@
           ]
         },
         {
-          "product_id": 10823657914699,
           "id": 13449300443467,
+          "product_id": 10823657914699,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -48585,8 +48585,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825030173003",
       "variants": [
         {
-          "id": 53256533442891,
           "product_id": 10825030173003,
+          "id": 53256533442891,
           "title": "Free Size / Dark Gray Velcro",
           "price": "28.40",
           "position": 1,
@@ -48613,8 +48613,8 @@
           "image_id": 64365017301323
         },
         {
-          "id": 53256533475659,
           "product_id": 10825030173003,
+          "id": 53256533475659,
           "title": "Free Size / Black Velcro",
           "price": "28.40",
           "position": 2,
@@ -48641,8 +48641,8 @@
           "image_id": 64365017334091
         },
         {
-          "id": 53256533508427,
           "product_id": 10825030173003,
+          "id": 53256533508427,
           "title": "Free Size / Dark Green Velcro",
           "price": "28.40",
           "position": 3,
@@ -48669,8 +48669,8 @@
           "image_id": 64365017366859
         },
         {
-          "id": 53256533541195,
           "product_id": 10825030173003,
+          "id": 53256533541195,
           "title": "Free Size / Shaha Green Velcro",
           "price": "28.40",
           "position": 4,
@@ -48697,8 +48697,8 @@
           "image_id": 64365017399627
         },
         {
-          "id": 53256533573963,
           "product_id": 10825030173003,
+          "id": 53256533573963,
           "title": "Free Size / 88 Haze Blue Velcro",
           "price": "28.40",
           "position": 5,
@@ -48725,8 +48725,8 @@
           "image_id": 64365017432395
         },
         {
-          "id": 53256533606731,
           "product_id": 10825030173003,
+          "id": 53256533606731,
           "title": "Free Size / 89 Rose Color Velcro",
           "price": "28.40",
           "position": 6,
@@ -48753,8 +48753,8 @@
           "image_id": 64365017465163
         },
         {
-          "id": 53256533639499,
           "product_id": 10825030173003,
+          "id": 53256533639499,
           "title": "Free Size / Navy Blue Velcro",
           "price": "28.40",
           "position": 7,
@@ -48781,8 +48781,8 @@
           "image_id": 64365017497931
         },
         {
-          "id": 53256533672267,
           "product_id": 10825030173003,
+          "id": 53256533672267,
           "title": "Free Size / Pink Color Velcro",
           "price": "28.40",
           "position": 8,
@@ -48809,8 +48809,8 @@
           "image_id": 64365017530699
         },
         {
-          "id": 53256533705035,
           "product_id": 10825030173003,
+          "id": 53256533705035,
           "title": "Free Size / Pink Leopard Print Velcro",
           "price": "28.40",
           "position": 9,
@@ -48837,8 +48837,8 @@
           "image_id": 64365017563467
         },
         {
-          "id": 53256533737803,
           "product_id": 10825030173003,
+          "id": 53256533737803,
           "title": "Free Size / Purple Leopard Print Velcro",
           "price": "28.40",
           "position": 10,
@@ -48865,8 +48865,8 @@
           "image_id": 64365017596235
         },
         {
-          "id": 53256533770571,
           "product_id": 10825030173003,
+          "id": 53256533770571,
           "title": "Free Size / Brown Leopard Print Velcro",
           "price": "28.40",
           "position": 11,
@@ -48893,8 +48893,8 @@
           "image_id": 64365017629003
         },
         {
-          "id": 53256533803339,
           "product_id": 10825030173003,
+          "id": 53256533803339,
           "title": "Free Size / Aurora Printing Velcro",
           "price": "28.40",
           "position": 12,
@@ -48921,8 +48921,8 @@
           "image_id": 64365017661771
         },
         {
-          "id": 53256533836107,
           "product_id": 10825030173003,
+          "id": 53256533836107,
           "title": "Free Size / Beige",
           "price": "28.40",
           "position": 13,
@@ -48949,8 +48949,8 @@
           "image_id": 64365017694539
         },
         {
-          "id": 53256533868875,
           "product_id": 10825030173003,
+          "id": 53256533868875,
           "title": "Free Size / Whine",
           "price": "28.40",
           "position": 14,
@@ -48979,8 +48979,8 @@
       ],
       "options": [
         {
-          "id": 13450900603211,
           "product_id": 10825030173003,
+          "id": 13450900603211,
           "name": "Size",
           "position": 1,
           "values": [
@@ -48988,8 +48988,8 @@
           ]
         },
         {
-          "id": 13450900635979,
           "product_id": 10825030173003,
+          "id": 13450900635979,
           "name": "Color",
           "position": 2,
           "values": [
