@@ -2859,8 +2859,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108652363",
       "variants": [
         {
-          "product_id": 10825108652363,
           "id": 53256916926795,
+          "product_id": 10825108652363,
           "title": "SM06 Black",
           "price": "195.99",
           "position": 1,
@@ -2887,8 +2887,8 @@
           "image_id": 64365840630091
         },
         {
-          "product_id": 10825108652363,
           "id": 53256916959563,
+          "product_id": 10825108652363,
           "title": "SM06 White",
           "price": "195.99",
           "position": 2,
@@ -2917,8 +2917,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108652363,
           "id": 13451010769227,
+          "product_id": 10825108652363,
           "name": "Color",
           "position": 1,
           "values": [
