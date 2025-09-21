@@ -10124,8 +10124,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050063179",
       "variants": [
         {
-          "product_id": 10825050063179,
           "id": 53256601469259,
+          "product_id": 10825050063179,
           "title": "Purple",
           "price": "45.21",
           "position": 1,
@@ -10152,8 +10152,8 @@
           "image_id": 64365249331531
         },
         {
-          "product_id": 10825050063179,
           "id": 53256601502027,
+          "product_id": 10825050063179,
           "title": "Cyan",
           "price": "45.21",
           "position": 2,
@@ -10182,8 +10182,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050063179,
           "id": 13450926096715,
+          "product_id": 10825050063179,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -119028,8 +119028,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158689099",
       "variants": [
         {
-          "id": 53257347400011,
           "product_id": 10825158689099,
+          "id": 53257347400011,
           "title": "One box",
           "price": "41.62",
           "position": 1,
@@ -119056,8 +119056,8 @@
           "image_id": 64367013757259
         },
         {
-          "id": 53257347432779,
           "product_id": 10825158689099,
+          "id": 53257347432779,
           "title": "Three boxes",
           "price": "52.42",
           "position": 2,
@@ -119084,8 +119084,8 @@
           "image_id": 64367013790027
         },
         {
-          "id": 53257347465547,
           "product_id": 10825158689099,
+          "id": 53257347465547,
           "title": "Five boxes",
           "price": "63.22",
           "position": 3,
@@ -119114,8 +119114,8 @@
       ],
       "options": [
         {
-          "id": 13451085840715,
           "product_id": 10825158689099,
+          "id": 13451085840715,
           "name": "style",
           "position": 1,
           "values": [

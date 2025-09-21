@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050063179",
       "variants": [
         {
-          "product_id": 10825050063179,
           "id": 53256601469259,
+          "product_id": 10825050063179,
           "title": "Purple",
           "price": "45.21",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365249331531
         },
         {
-          "product_id": 10825050063179,
           "id": 53256601502027,
+          "product_id": 10825050063179,
           "title": "Cyan",
           "price": "45.21",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050063179,
           "id": 13450926096715,
+          "product_id": 10825050063179,
           "name": "Specifications",
           "position": 1,
           "values": [
