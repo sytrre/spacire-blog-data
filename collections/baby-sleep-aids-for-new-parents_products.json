@@ -10365,8 +10365,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794393419",
       "variants": [
         {
-          "id": 53252659216715,
           "product_id": 10823794393419,
+          "id": 53252659216715,
           "title": "White New 10 Songs",
           "price": "35.99",
           "position": 1,
@@ -10395,8 +10395,8 @@
       ],
       "options": [
         {
-          "id": 13449524183371,
           "product_id": 10823794393419,
+          "id": 13449524183371,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14529,8 +14529,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14559,8 +14559,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14568,8 +14568,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
