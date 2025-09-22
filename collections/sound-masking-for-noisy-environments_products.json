@@ -14529,8 +14529,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14559,8 +14559,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14568,8 +14568,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -16481,8 +16481,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100067147",
       "variants": [
         {
-          "id": 53256900149579,
           "product_id": 10825100067147,
+          "id": 53256900149579,
           "title": "White Chinese Version",
           "price": "690.47",
           "position": 1,
@@ -16509,8 +16509,8 @@
           "image_id": 64365758841163
         },
         {
-          "id": 53256900182347,
           "product_id": 10825100067147,
+          "id": 53256900182347,
           "title": "White English Version",
           "price": "690.47",
           "position": 2,
@@ -16537,8 +16537,8 @@
           "image_id": 64365758873931
         },
         {
-          "id": 53256900215115,
           "product_id": 10825100067147,
+          "id": 53256900215115,
           "title": "Chinese And White",
           "price": "505.81",
           "position": 3,
@@ -16567,8 +16567,8 @@
       ],
       "options": [
         {
-          "id": 13451000250699,
           "product_id": 10825100067147,
+          "id": 13451000250699,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21563,8 +21563,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079554379",
       "variants": [
         {
-          "id": 53256799191371,
           "product_id": 10825079554379,
+          "id": 53256799191371,
           "title": "White / USB",
           "price": "286.23",
           "position": 1,
@@ -21593,8 +21593,8 @@
       ],
       "options": [
         {
-          "id": 13450966958411,
           "product_id": 10825079554379,
+          "id": 13450966958411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21602,8 +21602,8 @@
           ]
         },
         {
-          "id": 13450966991179,
           "product_id": 10825079554379,
+          "id": 13450966991179,
           "name": "power",
           "position": 2,
           "values": [
