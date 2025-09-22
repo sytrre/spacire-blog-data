@@ -407,8 +407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "id": 53252389568843,
           "product_id": 10823744356683,
+          "id": 53252389568843,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -437,8 +437,8 @@
       ],
       "options": [
         {
-          "id": 13449446457675,
           "product_id": 10823744356683,
+          "id": 13449446457675,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2026,8 +2026,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157116235",
       "variants": [
         {
-          "id": 53257317548363,
           "product_id": 10825157116235,
+          "id": 53257317548363,
           "title": "White / USB",
           "price": "37.79",
           "position": 1,
@@ -2056,8 +2056,8 @@
       ],
       "options": [
         {
-          "id": 13451082924363,
           "product_id": 10825157116235,
+          "id": 13451082924363,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2065,8 +2065,8 @@
           ]
         },
         {
-          "id": 13451082957131,
           "product_id": 10825157116235,
+          "id": 13451082957131,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -7322,8 +7322,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776187879755",
       "variants": [
         {
-          "id": 53331871629643,
           "product_id": 14776187879755,
+          "id": 53331871629643,
           "title": "Silver gray / 10X10CM",
           "price": "34.57",
           "position": 1,
@@ -7350,8 +7350,8 @@
           "image_id": 64662298034507
         },
         {
-          "id": 53331871662411,
           "product_id": 14776187879755,
+          "id": 53331871662411,
           "title": "Beige / 10X10CM",
           "price": "34.57",
           "position": 2,
@@ -7378,8 +7378,8 @@
           "image_id": 64662298067275
         },
         {
-          "id": 53331871695179,
           "product_id": 14776187879755,
+          "id": 53331871695179,
           "title": "Plum color / 10X10CM",
           "price": "34.57",
           "position": 3,
@@ -7406,8 +7406,8 @@
           "image_id": 64662298100043
         },
         {
-          "id": 53331871727947,
           "product_id": 14776187879755,
+          "id": 53331871727947,
           "title": "Red wine / 10X10CM",
           "price": "34.57",
           "position": 4,
@@ -7436,8 +7436,8 @@
       ],
       "options": [
         {
-          "id": 17121694122315,
           "product_id": 14776187879755,
+          "id": 17121694122315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7448,8 +7448,8 @@
           ]
         },
         {
-          "id": 17121694155083,
           "product_id": 14776187879755,
+          "id": 17121694155083,
           "name": "Size",
           "position": 2,
           "values": [
@@ -29373,8 +29373,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772553744715",
       "variants": [
         {
-          "id": 53314585887051,
           "product_id": 14772553744715,
+          "id": 53314585887051,
           "title": "White / 45x45cm",
           "price": "17.87",
           "position": 1,
@@ -29401,8 +29401,8 @@
           "image_id": 64611690873163
         },
         {
-          "id": 53314585919819,
           "product_id": 14772553744715,
+          "id": 53314585919819,
           "title": "White / 30x50cm",
           "price": "17.87",
           "position": 2,
@@ -29429,8 +29429,8 @@
           "image_id": 64611690873163
         },
         {
-          "id": 53314585952587,
           "product_id": 14772553744715,
+          "id": 53314585952587,
           "title": "Black / 45x45cm",
           "price": "17.87",
           "position": 3,
@@ -29457,8 +29457,8 @@
           "image_id": 64611690905931
         },
         {
-          "id": 53314585985355,
           "product_id": 14772553744715,
+          "id": 53314585985355,
           "title": "Black / 30x50cm",
           "price": "17.87",
           "position": 4,
@@ -29487,8 +29487,8 @@
       ],
       "options": [
         {
-          "id": 17117248979275,
           "product_id": 14772553744715,
+          "id": 17117248979275,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29497,8 +29497,8 @@
           ]
         },
         {
-          "id": 17117249012043,
           "product_id": 14772553744715,
+          "id": 17117249012043,
           "name": "Size",
           "position": 2,
           "values": [
@@ -38823,8 +38823,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823680229707",
       "variants": [
         {
-          "id": 53252015653195,
           "product_id": 10823680229707,
+          "id": 53252015653195,
           "title": "default",
           "price": "60.49",
           "position": 1,
@@ -38853,8 +38853,8 @@
       ],
       "options": [
         {
-          "id": 13449325707595,
           "product_id": 10823680229707,
+          "id": 13449325707595,
           "name": "default",
           "position": 1,
           "values": [
@@ -99704,8 +99704,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774357557579",
       "variants": [
         {
-          "product_id": 14774357557579,
           "id": 53322529931595,
+          "product_id": 14774357557579,
           "title": "Black / 90X90",
           "price": "44.30",
           "position": 1,
@@ -99732,8 +99732,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322529964363,
+          "product_id": 14774357557579,
           "title": "Black / 90X210",
           "price": "46.07",
           "position": 2,
@@ -99760,8 +99760,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322529997131,
+          "product_id": 14774357557579,
           "title": "Black / 90X180",
           "price": "45.21",
           "position": 3,
@@ -99788,8 +99788,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322530029899,
+          "product_id": 14774357557579,
           "title": "Black / 90X150",
           "price": "45.21",
           "position": 4,
@@ -99818,8 +99818,8 @@
       ],
       "options": [
         {
-          "product_id": 14774357557579,
           "id": 17119472222539,
+          "product_id": 14774357557579,
           "name": "Color",
           "position": 1,
           "values": [
@@ -99827,8 +99827,8 @@
           ]
         },
         {
-          "product_id": 14774357557579,
           "id": 17119472255307,
+          "product_id": 14774357557579,
           "name": "Size",
           "position": 2,
           "values": [
