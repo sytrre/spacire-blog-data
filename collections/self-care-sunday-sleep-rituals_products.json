@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050063179",
       "variants": [
         {
-          "id": 53256601469259,
           "product_id": 10825050063179,
+          "id": 53256601469259,
           "title": "Purple",
           "price": "45.21",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365249331531
         },
         {
-          "id": 53256601502027,
           "product_id": 10825050063179,
+          "id": 53256601502027,
           "title": "Cyan",
           "price": "45.21",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13450926096715,
           "product_id": 10825050063179,
+          "id": 13450926096715,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -1272,8 +1272,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "id": 53256408367435,
           "product_id": 10825005203787,
+          "id": 53256408367435,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -1302,8 +1302,8 @@
       ],
       "options": [
         {
-          "id": 13450870784331,
           "product_id": 10825005203787,
+          "id": 13450870784331,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -2532,8 +2532,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157509451",
       "variants": [
         {
-          "id": 53257323741515,
           "product_id": 10825157509451,
+          "id": 53257323741515,
           "title": "30 PATCHES",
           "price": "32.06",
           "position": 1,
@@ -2562,8 +2562,8 @@
       ],
       "options": [
         {
-          "id": 13451083678027,
           "product_id": 10825157509451,
+          "id": 13451083678027,
           "name": "quantity",
           "position": 1,
           "values": [
