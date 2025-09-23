@@ -1842,8 +1842,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775297474891",
       "variants": [
         {
-          "product_id": 14775297474891,
           "id": 53327831204171,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / Without core",
           "price": "68.52",
           "position": 1,
@@ -1870,8 +1870,8 @@
           "image_id": 64651402576203
         },
         {
-          "product_id": 14775297474891,
           "id": 53327831236939,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / With down core",
           "price": "70.79",
           "position": 2,
@@ -1898,8 +1898,8 @@
           "image_id": 64651402576203
         },
         {
-          "product_id": 14775297474891,
           "id": 53327831269707,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / With goose feather core",
           "price": "76.90",
           "position": 3,
@@ -1928,8 +1928,8 @@
       ],
       "options": [
         {
-          "product_id": 14775297474891,
           "id": 17120605569355,
+          "product_id": 14775297474891,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1937,8 +1937,8 @@
           ]
         },
         {
-          "product_id": 14775297474891,
           "id": 17120605602123,
+          "product_id": 14775297474891,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -7448,8 +7448,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771564347723",
       "variants": [
         {
-          "id": 53310482121035,
           "product_id": 14771564347723,
+          "id": 53310482121035,
           "title": "Light Blue / 64X35X13cm",
           "price": "46.24",
           "position": 1,
@@ -7476,8 +7476,8 @@
           "image_id": 64595156959563
         },
         {
-          "id": 53310482153803,
           "product_id": 14771564347723,
+          "id": 53310482153803,
           "title": "Lavender Purple / 64X35X13cm",
           "price": "46.24",
           "position": 2,
@@ -7506,8 +7506,8 @@
       ],
       "options": [
         {
-          "id": 17116100362571,
           "product_id": 14771564347723,
+          "id": 17116100362571,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7516,8 +7516,8 @@
           ]
         },
         {
-          "id": 17116100395339,
           "product_id": 14771564347723,
+          "id": 17116100395339,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -12231,8 +12231,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771301384523",
       "variants": [
         {
-          "id": 53309973922123,
           "product_id": 14771301384523,
+          "id": 53309973922123,
           "title": "C",
           "price": "64.13",
           "position": 1,
@@ -12259,8 +12259,8 @@
           "image_id": 64592338944331
         },
         {
-          "id": 53309973954891,
           "product_id": 14771301384523,
+          "id": 53309973954891,
           "title": "A",
           "price": "64.13",
           "position": 2,
@@ -12287,8 +12287,8 @@
           "image_id": 64592338977099
         },
         {
-          "id": 53309973987659,
           "product_id": 14771301384523,
+          "id": 53309973987659,
           "title": "B",
           "price": "64.13",
           "position": 3,
@@ -12315,8 +12315,8 @@
           "image_id": 64592339009867
         },
         {
-          "id": 53309974020427,
           "product_id": 14771301384523,
+          "id": 53309974020427,
           "title": "D",
           "price": "64.13",
           "position": 4,
@@ -12343,8 +12343,8 @@
           "image_id": 64592339042635
         },
         {
-          "id": 53309974053195,
           "product_id": 14771301384523,
+          "id": 53309974053195,
           "title": "E",
           "price": "64.13",
           "position": 5,
@@ -12373,8 +12373,8 @@
       ],
       "options": [
         {
-          "id": 17115828453707,
           "product_id": 14771301384523,
+          "id": 17115828453707,
           "name": "Style",
           "position": 1,
           "values": [
@@ -17543,8 +17543,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771563528523",
       "variants": [
         {
-          "product_id": 14771563528523,
           "id": 53310479302987,
+          "product_id": 14771563528523,
           "title": "White / 40x65cm",
           "price": "40.79",
           "position": 1,
@@ -17573,8 +17573,8 @@
       ],
       "options": [
         {
-          "product_id": 14771563528523,
           "id": 17116099445067,
+          "product_id": 14771563528523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17582,8 +17582,8 @@
           ]
         },
         {
-          "product_id": 14771563528523,
           "id": 17116099477835,
+          "product_id": 14771563528523,
           "name": "Size Specification",
           "position": 2,
           "values": [
