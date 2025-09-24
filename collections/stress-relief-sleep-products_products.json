@@ -6167,8 +6167,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050063179",
       "variants": [
         {
-          "product_id": 10825050063179,
           "id": 53256601469259,
+          "product_id": 10825050063179,
           "title": "Purple",
           "price": "45.21",
           "position": 1,
@@ -6195,8 +6195,8 @@
           "image_id": 64365249331531
         },
         {
-          "product_id": 10825050063179,
           "id": 53256601502027,
+          "product_id": 10825050063179,
           "title": "Cyan",
           "price": "45.21",
           "position": 2,
@@ -6225,8 +6225,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050063179,
           "id": 13450926096715,
+          "product_id": 10825050063179,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -46218,8 +46218,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825070412107",
       "variants": [
         {
-          "product_id": 10825070412107,
           "id": 53256759247179,
+          "product_id": 10825070412107,
           "title": "Random",
           "price": "31.58",
           "position": 1,
@@ -46248,8 +46248,8 @@
       ],
       "options": [
         {
-          "product_id": 10825070412107,
           "id": 13450955063627,
+          "product_id": 10825070412107,
           "name": "Color",
           "position": 1,
           "values": [
@@ -54308,8 +54308,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "product_id": 10825068970315,
           "id": 53256744730955,
+          "product_id": 10825068970315,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -54336,8 +54336,8 @@
           "image_id": 64365481132363
         },
         {
-          "product_id": 10825068970315,
           "id": 53256744763723,
+          "product_id": 10825068970315,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -54366,8 +54366,8 @@
       ],
       "options": [
         {
-          "product_id": 10825068970315,
           "id": 13450952737099,
+          "product_id": 10825068970315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -54375,8 +54375,8 @@
           ]
         },
         {
-          "product_id": 10825068970315,
           "id": 13450952769867,
+          "product_id": 10825068970315,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -54385,8 +54385,8 @@
           ]
         },
         {
-          "product_id": 10825068970315,
           "id": 13450952802635,
+          "product_id": 10825068970315,
           "name": "Please Input",
           "position": 3,
           "values": [
