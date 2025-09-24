@@ -915,8 +915,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158852939",
       "variants": [
         {
-          "id": 53257349103947,
           "product_id": 10825158852939,
+          "id": 53257349103947,
           "title": "White / Usb",
           "price": "39.26",
           "position": 1,
@@ -945,8 +945,8 @@
       ],
       "options": [
         {
-          "id": 13451086037323,
           "product_id": 10825158852939,
+          "id": 13451086037323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -954,8 +954,8 @@
           ]
         },
         {
-          "id": 13451086070091,
           "product_id": 10825158852939,
+          "id": 13451086070091,
           "name": "Model",
           "position": 2,
           "values": [

@@ -32937,8 +32937,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825060417867",
       "variants": [
         {
-          "id": 53256661238091,
           "product_id": 10825060417867,
+          "id": 53256661238091,
           "title": "Black",
           "price": "32.03",
           "position": 1,
@@ -32965,8 +32965,8 @@
           "image_id": 64365379125579
         },
         {
-          "id": 53256661270859,
           "product_id": 10825060417867,
+          "id": 53256661270859,
           "title": "Red",
           "price": "32.03",
           "position": 2,
@@ -32993,8 +32993,8 @@
           "image_id": 64365379158347
         },
         {
-          "id": 53256661303627,
           "product_id": 10825060417867,
+          "id": 53256661303627,
           "title": "Pink",
           "price": "32.03",
           "position": 3,
@@ -33023,8 +33023,8 @@
       ],
       "options": [
         {
-          "id": 13450939203915,
           "product_id": 10825060417867,
+          "id": 13450939203915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34501,8 +34501,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659225419",
       "variants": [
         {
-          "id": 53251954966859,
           "product_id": 10823659225419,
+          "id": 53251954966859,
           "title": "White / A13 / USB",
           "price": "59.99",
           "position": 1,
@@ -34529,8 +34529,8 @@
           "image_id": 64329977037131
         },
         {
-          "id": 53251954999627,
           "product_id": 10823659225419,
+          "id": 53251954999627,
           "title": "White / A15 / USB",
           "price": "44.99",
           "position": 2,
@@ -34559,8 +34559,8 @@
       ],
       "options": [
         {
-          "id": 13449301786955,
           "product_id": 10823659225419,
+          "id": 13449301786955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34568,8 +34568,8 @@
           ]
         },
         {
-          "id": 13449301819723,
           "product_id": 10823659225419,
+          "id": 13449301819723,
           "name": "style",
           "position": 2,
           "values": [
@@ -34578,8 +34578,8 @@
           ]
         },
         {
-          "id": 13449301852491,
           "product_id": 10823659225419,
+          "id": 13449301852491,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -42189,8 +42189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051275595",
       "variants": [
         {
-          "id": 53256606187851,
           "product_id": 10825051275595,
+          "id": 53256606187851,
           "title": "Beige Fruit Green",
           "price": "32.00",
           "position": 1,
@@ -42217,8 +42217,8 @@
           "image_id": 64365262537035
         },
         {
-          "id": 53256606220619,
           "product_id": 10825051275595,
+          "id": 53256606220619,
           "title": "Gray",
           "price": "32.00",
           "position": 2,
@@ -42245,8 +42245,8 @@
           "image_id": 64365262569803
         },
         {
-          "id": 53256606253387,
           "product_id": 10825051275595,
+          "id": 53256606253387,
           "title": "Pink",
           "price": "32.00",
           "position": 3,
@@ -42273,8 +42273,8 @@
           "image_id": 64365262602571
         },
         {
-          "id": 53256606286155,
           "product_id": 10825051275595,
+          "id": 53256606286155,
           "title": "Purple",
           "price": "32.00",
           "position": 4,
@@ -42301,8 +42301,8 @@
           "image_id": 64365262635339
         },
         {
-          "id": 53256606318923,
           "product_id": 10825051275595,
+          "id": 53256606318923,
           "title": "Black",
           "price": "32.00",
           "position": 5,
@@ -42331,8 +42331,8 @@
       ],
       "options": [
         {
-          "id": 13450927472971,
           "product_id": 10825051275595,
+          "id": 13450927472971,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -47020,8 +47020,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "id": 53256702853451,
           "product_id": 10825066053963,
+          "id": 53256702853451,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -47048,8 +47048,8 @@
           "image_id": 64365446496587
         },
         {
-          "id": 53256702886219,
           "product_id": 10825066053963,
+          "id": 53256702886219,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -47076,8 +47076,8 @@
           "image_id": 64365446529355
         },
         {
-          "id": 53256702918987,
           "product_id": 10825066053963,
+          "id": 53256702918987,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -47106,8 +47106,8 @@
       ],
       "options": [
         {
-          "id": 13450948116811,
           "product_id": 10825066053963,
+          "id": 13450948116811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47234,8 +47234,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825030173003",
       "variants": [
         {
-          "product_id": 10825030173003,
           "id": 53256533442891,
+          "product_id": 10825030173003,
           "title": "Free Size / Dark Gray Velcro",
           "price": "28.40",
           "position": 1,
@@ -47262,8 +47262,8 @@
           "image_id": 64365017301323
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533475659,
+          "product_id": 10825030173003,
           "title": "Free Size / Black Velcro",
           "price": "28.40",
           "position": 2,
@@ -47290,8 +47290,8 @@
           "image_id": 64365017334091
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533508427,
+          "product_id": 10825030173003,
           "title": "Free Size / Dark Green Velcro",
           "price": "28.40",
           "position": 3,
@@ -47318,8 +47318,8 @@
           "image_id": 64365017366859
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533541195,
+          "product_id": 10825030173003,
           "title": "Free Size / Shaha Green Velcro",
           "price": "28.40",
           "position": 4,
@@ -47346,8 +47346,8 @@
           "image_id": 64365017399627
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533573963,
+          "product_id": 10825030173003,
           "title": "Free Size / 88 Haze Blue Velcro",
           "price": "28.40",
           "position": 5,
@@ -47374,8 +47374,8 @@
           "image_id": 64365017432395
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533606731,
+          "product_id": 10825030173003,
           "title": "Free Size / 89 Rose Color Velcro",
           "price": "28.40",
           "position": 6,
@@ -47402,8 +47402,8 @@
           "image_id": 64365017465163
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533639499,
+          "product_id": 10825030173003,
           "title": "Free Size / Navy Blue Velcro",
           "price": "28.40",
           "position": 7,
@@ -47430,8 +47430,8 @@
           "image_id": 64365017497931
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533672267,
+          "product_id": 10825030173003,
           "title": "Free Size / Pink Color Velcro",
           "price": "28.40",
           "position": 8,
@@ -47458,8 +47458,8 @@
           "image_id": 64365017530699
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533705035,
+          "product_id": 10825030173003,
           "title": "Free Size / Pink Leopard Print Velcro",
           "price": "28.40",
           "position": 9,
@@ -47486,8 +47486,8 @@
           "image_id": 64365017563467
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533737803,
+          "product_id": 10825030173003,
           "title": "Free Size / Purple Leopard Print Velcro",
           "price": "28.40",
           "position": 10,
@@ -47514,8 +47514,8 @@
           "image_id": 64365017596235
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533770571,
+          "product_id": 10825030173003,
           "title": "Free Size / Brown Leopard Print Velcro",
           "price": "28.40",
           "position": 11,
@@ -47542,8 +47542,8 @@
           "image_id": 64365017629003
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533803339,
+          "product_id": 10825030173003,
           "title": "Free Size / Aurora Printing Velcro",
           "price": "28.40",
           "position": 12,
@@ -47570,8 +47570,8 @@
           "image_id": 64365017661771
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533836107,
+          "product_id": 10825030173003,
           "title": "Free Size / Beige",
           "price": "28.40",
           "position": 13,
@@ -47598,8 +47598,8 @@
           "image_id": 64365017694539
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533868875,
+          "product_id": 10825030173003,
           "title": "Free Size / Whine",
           "price": "28.40",
           "position": 14,
@@ -47628,8 +47628,8 @@
       ],
       "options": [
         {
-          "product_id": 10825030173003,
           "id": 13450900603211,
+          "product_id": 10825030173003,
           "name": "Size",
           "position": 1,
           "values": [
@@ -47637,8 +47637,8 @@
           ]
         },
         {
-          "product_id": 10825030173003,
           "id": 13450900635979,
+          "product_id": 10825030173003,
           "name": "Color",
           "position": 2,
           "values": [
