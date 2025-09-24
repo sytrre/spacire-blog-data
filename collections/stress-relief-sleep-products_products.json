@@ -34609,8 +34609,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "product_id": 10825005203787,
           "id": 53256408367435,
+          "product_id": 10825005203787,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -34639,8 +34639,8 @@
       ],
       "options": [
         {
-          "product_id": 10825005203787,
           "id": 13450870784331,
+          "product_id": 10825005203787,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -64065,8 +64065,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823925825867",
       "variants": [
         {
-          "product_id": 10823925825867,
           "id": 53253545001291,
+          "product_id": 10823925825867,
           "title": "White",
           "price": "56.49",
           "position": 1,
@@ -64095,8 +64095,8 @@
       ],
       "options": [
         {
-          "product_id": 10823925825867,
           "id": 13449691758923,
+          "product_id": 10823925825867,
           "name": "Color",
           "position": 1,
           "values": [
