@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-24T15:19:30+01:00",
+      "updated_at": "2025-09-24T16:34:15+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -21,12 +21,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-23T11:57:17+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-24T16:34:15+01:00",
+          "summary_html": "<p data-start=\"1108\" data-end=\"1530\">Lavender sleep sprays are clinically proven to improve sleep quality, reducing time to fall asleep by 36% and increasing deep sleep by 20%. Backed by decades of research, lavender aromatherapy lowers stress hormones, activates GABA receptors, and creates natural relaxation without side effects. Premium sprays from £21.70–£24.33 offer therapeutic-grade essential oils for restorative, safe, and effective sleep support.</p>",
           "template_suffix": "article",
           "handle": "lavender-sleep-spray-benefits-science-of-aromatherapy-sleep",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998507282763"
+          "admin_graphql_api_id": "gid://shopify/Article/998507282763",
+          "image": {
+            "created_at": "2025-09-24T16:34:14+01:00",
+            "alt": "clinical research proving lavender aromatherapy sleep benefits",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_1386430c-ffaf-4cbc-aca0-9467c6bf68d1.png?v=1758728055"
+          }
         },
         {
           "id": 998506463563,
@@ -36,12 +43,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-23T11:08:57+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-24T16:19:19+01:00",
+          "summary_html": "<p>Pillow sprays combine aromatherapy and modern sleep science to naturally enhance rest through calming scents like lavender, chamomile, and sandalwood. Affordable and effective, these sprays reduce stress, promote relaxation, and improve sleep quality. From compact travel mists to premium 120ml bottles, pillow sprays are a versatile, budget-friendly solution for better sleep, stress relief, and creating a calming nighttime routine.</p>",
           "template_suffix": "article",
           "handle": "best-pillow-sprays-for-sleep-complete-aromatherapy-guide",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998506463563"
+          "admin_graphql_api_id": "gid://shopify/Article/998506463563",
+          "image": {
+            "created_at": "2025-09-24T16:19:18+01:00",
+            "alt": "aromatherapy sleep spray misting over pillow before bedtime",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_8127dfc0-1708-4c9c-8587-2cb70ed34329.jpg?v=1758727159"
+          }
         },
         {
           "id": 998504464715,
@@ -72,8 +86,8 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": null,
-          "updated_at": "2025-09-24T14:55:39+01:00",
+          "published_at": "2025-09-24T16:30:02+01:00",
+          "updated_at": "2025-09-24T16:30:02+01:00",
           "summary_html": "<p>Finding the perfect sleep mask fit shouldn’t be a struggle. Adjustable sleep masks with elastic bands, velcro straps, and 3D contoured designs provide a customized fit that eliminates light leakage and pressure points. This guide explores the best adjustable sleep masks, essential features, premium options, and expert tips for ensuring comfort, blackout performance, and durability—whether at home or while traveling.</p>",
           "template_suffix": "article",
           "handle": "adjustable-sleep-masks-one-size-doesnt-fit-all-guide",
