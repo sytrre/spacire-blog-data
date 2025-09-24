@@ -13580,8 +13580,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "product_id": 10823922745675,
           "id": 53253533860171,
+          "product_id": 10823922745675,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -13610,8 +13610,8 @@
       ],
       "options": [
         {
-          "product_id": 10823922745675,
           "id": 13449688219979,
+          "product_id": 10823922745675,
           "name": "style",
           "position": 1,
           "values": [
@@ -13619,8 +13619,8 @@
           ]
         },
         {
-          "product_id": 10823922745675,
           "id": 13449688252747,
+          "product_id": 10823922745675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14885,8 +14885,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -14915,8 +14915,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16916,8 +16916,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "product_id": 10825102721355,
           "id": 53256906441035,
+          "product_id": 10825102721355,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -16944,8 +16944,8 @@
           "image_id": 64365797114187
         },
         {
-          "product_id": 10825102721355,
           "id": 53256906473803,
+          "product_id": 10825102721355,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -16974,8 +16974,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102721355,
           "id": 13451004117323,
+          "product_id": 10825102721355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16984,8 +16984,8 @@
           ]
         },
         {
-          "product_id": 10825102721355,
           "id": 13451004150091,
+          "product_id": 10825102721355,
           "name": "Power Type",
           "position": 2,
           "values": [
@@ -17829,8 +17829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "id": 53252200071499,
           "product_id": 10823718011211,
+          "id": 53252200071499,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17859,8 +17859,8 @@
       ],
       "options": [
         {
-          "id": 13449389080907,
           "product_id": 10823718011211,
+          "id": 13449389080907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17868,8 +17868,8 @@
           ]
         },
         {
-          "id": 13449389113675,
           "product_id": 10823718011211,
+          "id": 13449389113675,
           "name": "Power source",
           "position": 2,
           "values": [
