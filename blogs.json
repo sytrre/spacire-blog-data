@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-24T14:44:47+01:00",
+      "updated_at": "2025-09-24T15:19:30+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -51,12 +51,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-23T09:35:13+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-24T15:19:30+01:00",
+          "summary_html": "<p>Shift workers face unique sleep challenges due to circadian rhythm disruption and daytime light exposure. Specialized blackout sleep masks with cooling fabrics, 3D contoured designs, and adjustable straps provide complete darkness, comfort, and temperature regulation. Discover the best shift worker sleep masks, premium solutions, and proven strategies to achieve restorative daytime sleep and protect your long-term health.</p>",
           "template_suffix": "article",
           "handle": "sleep-masks-for-shift-workers-day-sleep-solutions",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998504464715"
+          "admin_graphql_api_id": "gid://shopify/Article/998504464715",
+          "image": {
+            "created_at": "2025-09-24T15:19:29+01:00",
+            "alt": "adjustable strap sleep mask for long wear",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_15f77a60-39dd-4e32-8cb8-5b1e1758256c.jpg?v=1758723570"
+          }
         },
         {
           "id": 998503874891,
@@ -66,18 +73,18 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-24T14:44:47+01:00",
+          "updated_at": "2025-09-24T14:55:39+01:00",
           "summary_html": "<p>Finding the perfect sleep mask fit shouldn’t be a struggle. Adjustable sleep masks with elastic bands, velcro straps, and 3D contoured designs provide a customized fit that eliminates light leakage and pressure points. This guide explores the best adjustable sleep masks, essential features, premium options, and expert tips for ensuring comfort, blackout performance, and durability—whether at home or while traveling.</p>",
           "template_suffix": "article",
           "handle": "adjustable-sleep-masks-one-size-doesnt-fit-all-guide",
           "tags": "Sleep Masks",
           "admin_graphql_api_id": "gid://shopify/Article/998503874891",
           "image": {
-            "created_at": "2025-09-24T14:44:45+01:00",
+            "created_at": "2025-09-24T14:55:38+01:00",
             "alt": "adjustable sleep mask for perfect fit",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/B_68e03507-0397-4121-874f-980347f41541.png?v=1758721487"
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/B_68e03507-0397-4121-874f-980347f41541.png?v=1758722139"
           }
         },
         {
