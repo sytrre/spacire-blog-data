@@ -1124,8 +1124,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960770379",
       "variants": [
         {
-          "id": 53256229519691,
           "product_id": 10824960770379,
+          "id": 53256229519691,
           "title": "100ml",
           "price": "22.63",
           "position": 1,
@@ -1154,8 +1154,8 @@
       ],
       "options": [
         {
-          "id": 13450821468491,
           "product_id": 10824960770379,
+          "id": 13450821468491,
           "name": "style",
           "position": 1,
           "values": [
@@ -1702,8 +1702,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158885707",
       "variants": [
         {
-          "id": 53257349235019,
           "product_id": 10825158885707,
+          "id": 53257349235019,
           "title": "Lavender",
           "price": "31.41",
           "position": 1,
@@ -1732,8 +1732,8 @@
       ],
       "options": [
         {
-          "id": 13451086102859,
           "product_id": 10825158885707,
+          "id": 13451086102859,
           "name": "style",
           "position": 1,
           "values": [
