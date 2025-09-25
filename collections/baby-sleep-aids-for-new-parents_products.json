@@ -4732,8 +4732,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825082175819",
       "variants": [
         {
-          "id": 53256814395723,
           "product_id": 10825082175819,
+          "id": 53256814395723,
           "title": "Silver",
           "price": "504.07",
           "position": 1,
@@ -4762,8 +4762,8 @@
       ],
       "options": [
         {
-          "id": 13450970726731,
           "product_id": 10825082175819,
+          "id": 13450970726731,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6677,8 +6677,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "id": 53252393304395,
           "product_id": 10823745110347,
+          "id": 53252393304395,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -6707,8 +6707,8 @@
       ],
       "options": [
         {
-          "id": 13449447899467,
           "product_id": 10823745110347,
+          "id": 13449447899467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6716,8 +6716,8 @@
           ]
         },
         {
-          "id": 13449447932235,
           "product_id": 10823745110347,
+          "id": 13449447932235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -12468,8 +12468,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954727243",
       "variants": [
         {
-          "id": 53253610045771,
           "product_id": 10823954727243,
+          "id": 53253610045771,
           "title": "White / USB",
           "price": "98.49",
           "position": 1,
@@ -12498,8 +12498,8 @@
       ],
       "options": [
         {
-          "id": 13449723674955,
           "product_id": 10823954727243,
+          "id": 13449723674955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12507,8 +12507,8 @@
           ]
         },
         {
-          "id": 13449723707723,
           "product_id": 10823954727243,
+          "id": 13449723707723,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14677,8 +14677,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -14707,8 +14707,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17782,8 +17782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "product_id": 10823718011211,
           "id": 53252200071499,
+          "product_id": 10823718011211,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17812,8 +17812,8 @@
       ],
       "options": [
         {
-          "product_id": 10823718011211,
           "id": 13449389080907,
+          "product_id": 10823718011211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17821,8 +17821,8 @@
           ]
         },
         {
-          "product_id": 10823718011211,
           "id": 13449389113675,
+          "product_id": 10823718011211,
           "name": "Power source",
           "position": 2,
           "values": [

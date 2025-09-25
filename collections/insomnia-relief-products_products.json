@@ -37473,8 +37473,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772555317579",
       "variants": [
         {
-          "id": 53314594046283,
           "product_id": 14772555317579,
+          "id": 53314594046283,
           "title": "Light Grey / 45x45cm",
           "price": "26.39",
           "position": 1,
@@ -37501,8 +37501,8 @@
           "image_id": 64611747135819
         },
         {
-          "id": 53314594079051,
           "product_id": 14772555317579,
+          "id": 53314594079051,
           "title": "Dark Grey / 45x45cm",
           "price": "26.39",
           "position": 2,
@@ -37529,8 +37529,8 @@
           "image_id": 64611747168587
         },
         {
-          "id": 53314594111819,
           "product_id": 14772555317579,
+          "id": 53314594111819,
           "title": "Light green / 45x45cm",
           "price": "26.39",
           "position": 3,
@@ -37557,8 +37557,8 @@
           "image_id": 64611747201355
         },
         {
-          "id": 53314594144587,
           "product_id": 14772555317579,
+          "id": 53314594144587,
           "title": "Orange / 45x45cm",
           "price": "26.39",
           "position": 4,
@@ -37585,8 +37585,8 @@
           "image_id": 64611747234123
         },
         {
-          "id": 53314594177355,
           "product_id": 14772555317579,
+          "id": 53314594177355,
           "title": "Purple / 45x45cm",
           "price": "26.39",
           "position": 5,
@@ -37613,8 +37613,8 @@
           "image_id": 64611747266891
         },
         {
-          "id": 53314594210123,
           "product_id": 14772555317579,
+          "id": 53314594210123,
           "title": "Blue / 45x45cm",
           "price": "26.39",
           "position": 6,
@@ -37641,8 +37641,8 @@
           "image_id": 64611747299659
         },
         {
-          "id": 53314594242891,
           "product_id": 14772555317579,
+          "id": 53314594242891,
           "title": "Rose Red / 45x45cm",
           "price": "26.39",
           "position": 7,
@@ -37669,8 +37669,8 @@
           "image_id": 64611747332427
         },
         {
-          "id": 53314594275659,
           "product_id": 14772555317579,
+          "id": 53314594275659,
           "title": "Yellow / 45x45cm",
           "price": "26.39",
           "position": 8,
@@ -37699,8 +37699,8 @@
       ],
       "options": [
         {
-          "id": 17117251174731,
           "product_id": 14772555317579,
+          "id": 17117251174731,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37715,8 +37715,8 @@
           ]
         },
         {
-          "id": 17117251207499,
           "product_id": 14772555317579,
+          "id": 17117251207499,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -46316,8 +46316,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825082175819",
       "variants": [
         {
-          "id": 53256814395723,
           "product_id": 10825082175819,
+          "id": 53256814395723,
           "title": "Silver",
           "price": "504.07",
           "position": 1,
@@ -46346,8 +46346,8 @@
       ],
       "options": [
         {
-          "id": 13450970726731,
           "product_id": 10825082175819,
+          "id": 13450970726731,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90302,8 +90302,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "id": 53252393304395,
           "product_id": 10823745110347,
+          "id": 53252393304395,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -90332,8 +90332,8 @@
       ],
       "options": [
         {
-          "id": 13449447899467,
           "product_id": 10823745110347,
+          "id": 13449447899467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90341,8 +90341,8 @@
           ]
         },
         {
-          "id": 13449447932235,
           "product_id": 10823745110347,
+          "id": 13449447932235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -92834,8 +92834,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823915569483",
       "variants": [
         {
-          "product_id": 10823915569483,
           "id": 53253514166603,
+          "product_id": 10823915569483,
           "title": "Blue Hook / 1.5x1.6m",
           "price": "63.99",
           "position": 1,
@@ -92862,8 +92862,8 @@
           "image_id": 64334945288523
         },
         {
-          "product_id": 10823915569483,
           "id": 53253514199371,
+          "product_id": 10823915569483,
           "title": "Blue Hook / 1.5x1.8m",
           "price": "69.99",
           "position": 2,
@@ -92892,8 +92892,8 @@
       ],
       "options": [
         {
-          "product_id": 10823915569483,
           "id": 13449680716107,
+          "product_id": 10823915569483,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92901,8 +92901,8 @@
           ]
         },
         {
-          "product_id": 10823915569483,
           "id": 13449680748875,
+          "product_id": 10823915569483,
           "name": "Size",
           "position": 2,
           "values": [
