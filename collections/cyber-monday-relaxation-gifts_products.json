@@ -9696,7 +9696,7 @@
       "product_type": "Curtains",
       "created_at": "2025-08-26T12:12:55+01:00",
       "handle": "aurorez-natural-linen-curtains-2-panels-set-thick-light-filtering-drapes-bedroom-living-room",
-      "updated_at": "2025-09-15T18:20:27+01:00",
+      "updated_at": "2025-09-25T10:28:11+01:00",
       "published_at": "2025-08-26T12:13:11+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -9716,7 +9716,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T12:13:09+01:00",
-          "updated_at": "2025-09-14T15:27:44+01:00",
+          "updated_at": "2025-09-25T10:28:11+01:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -9727,8 +9727,8 @@
           "weight": 2200.0,
           "weight_unit": "g",
           "inventory_item_id": 55214726381899,
-          "inventory_quantity": 385,
-          "old_inventory_quantity": 385,
+          "inventory_quantity": 352,
+          "old_inventory_quantity": 352,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53253016977739",
           "image_id": 64334015758667
         }
@@ -89512,8 +89512,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773586428235",
       "variants": [
         {
-          "product_id": 14773586428235,
           "id": 53317509579083,
+          "product_id": 14773586428235,
           "title": "Khaki / 127x152cm",
           "price": "45.61",
           "position": 1,
@@ -89540,8 +89540,8 @@
           "image_id": 64623535259979
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509611851,
+          "product_id": 14773586428235,
           "title": "Khaki / 130x200cm",
           "price": "46.85",
           "position": 2,
@@ -89568,8 +89568,8 @@
           "image_id": 64623535259979
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509644619,
+          "product_id": 14773586428235,
           "title": "Grey / 127x152cm",
           "price": "45.61",
           "position": 3,
@@ -89596,8 +89596,8 @@
           "image_id": 64623535292747
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509677387,
+          "product_id": 14773586428235,
           "title": "Grey / 130x200cm",
           "price": "46.85",
           "position": 4,
@@ -89624,8 +89624,8 @@
           "image_id": 64623535292747
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509710155,
+          "product_id": 14773586428235,
           "title": "Turmeric / 127x152cm",
           "price": "45.61",
           "position": 5,
@@ -89652,8 +89652,8 @@
           "image_id": 64623535325515
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509742923,
+          "product_id": 14773586428235,
           "title": "Turmeric / 130x200cm",
           "price": "46.85",
           "position": 6,
@@ -89680,8 +89680,8 @@
           "image_id": 64623535325515
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509775691,
+          "product_id": 14773586428235,
           "title": "Beige / 127x152cm",
           "price": "45.61",
           "position": 7,
@@ -89708,8 +89708,8 @@
           "image_id": 64623535358283
         },
         {
-          "product_id": 14773586428235,
           "id": 53317509808459,
+          "product_id": 14773586428235,
           "title": "Beige / 130x200cm",
           "price": "46.85",
           "position": 8,
@@ -89738,8 +89738,8 @@
       ],
       "options": [
         {
-          "product_id": 14773586428235,
           "id": 17118400184651,
+          "product_id": 14773586428235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -89750,8 +89750,8 @@
           ]
         },
         {
-          "product_id": 14773586428235,
           "id": 17118400217419,
+          "product_id": 14773586428235,
           "name": "Size",
           "position": 2,
           "values": [
