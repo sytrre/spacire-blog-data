@@ -26310,8 +26310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108160843",
       "variants": [
         {
-          "id": 53256915812683,
           "product_id": 10825108160843,
+          "id": 53256915812683,
           "title": "White 085 Neutral",
           "price": "503.53",
           "position": 1,
@@ -26340,8 +26340,8 @@
       ],
       "options": [
         {
-          "id": 13451010244939,
           "product_id": 10825108160843,
+          "id": 13451010244939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37039,8 +37039,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "id": 53256909848907,
           "product_id": 10825104621899,
+          "id": 53256909848907,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -37069,8 +37069,8 @@
       ],
       "options": [
         {
-          "id": 13451006443851,
           "product_id": 10825104621899,
+          "id": 13451006443851,
           "name": "Color",
           "position": 1,
           "values": [

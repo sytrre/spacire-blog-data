@@ -3640,8 +3640,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053176139",
       "variants": [
         {
-          "product_id": 10825053176139,
           "id": 53256613953867,
+          "product_id": 10825053176139,
           "title": "Fruit green / Standard",
           "price": "30.27",
           "position": 1,
@@ -3668,8 +3668,8 @@
           "image_id": 64365285835083
         },
         {
-          "product_id": 10825053176139,
           "id": 53256613986635,
+          "product_id": 10825053176139,
           "title": "Dark blue / Standard",
           "price": "30.28",
           "position": 2,
@@ -3696,8 +3696,8 @@
           "image_id": 64365285867851
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614019403,
+          "product_id": 10825053176139,
           "title": "Leopard / Standard",
           "price": "30.43",
           "position": 3,
@@ -3724,8 +3724,8 @@
           "image_id": 64365285900619
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614052171,
+          "product_id": 10825053176139,
           "title": "Leopard / Luxury",
           "price": "30.40",
           "position": 4,
@@ -3752,8 +3752,8 @@
           "image_id": 64365285900619
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614084939,
+          "product_id": 10825053176139,
           "title": "Blue / Standard",
           "price": "30.27",
           "position": 5,
@@ -3780,8 +3780,8 @@
           "image_id": 64365285933387
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614117707,
+          "product_id": 10825053176139,
           "title": "Purple / Standard",
           "price": "30.28",
           "position": 6,
@@ -3808,8 +3808,8 @@
           "image_id": 64365285966155
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614150475,
+          "product_id": 10825053176139,
           "title": "Red / Standard",
           "price": "30.27",
           "position": 7,
@@ -3836,8 +3836,8 @@
           "image_id": 64365285998923
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614183243,
+          "product_id": 10825053176139,
           "title": "Stars / Standard",
           "price": "30.27",
           "position": 8,
@@ -3864,8 +3864,8 @@
           "image_id": 64365286031691
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614216011,
+          "product_id": 10825053176139,
           "title": "Pink / Luxury",
           "price": "30.28",
           "position": 9,
@@ -3892,8 +3892,8 @@
           "image_id": 64365286064459
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614248779,
+          "product_id": 10825053176139,
           "title": "Purple / Luxury",
           "price": "30.28",
           "position": 10,
@@ -3920,8 +3920,8 @@
           "image_id": 64365286097227
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614281547,
+          "product_id": 10825053176139,
           "title": "Pink / Standard",
           "price": "30.27",
           "position": 11,
@@ -3948,8 +3948,8 @@
           "image_id": 64365286129995
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614314315,
+          "product_id": 10825053176139,
           "title": "Brown / Standard",
           "price": "30.27",
           "position": 12,
@@ -3976,8 +3976,8 @@
           "image_id": 64365286162763
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614347083,
+          "product_id": 10825053176139,
           "title": "Grey / Standard",
           "price": "30.27",
           "position": 13,
@@ -4004,8 +4004,8 @@
           "image_id": 64365286195531
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614379851,
+          "product_id": 10825053176139,
           "title": "Blue / Luxury",
           "price": "30.32",
           "position": 14,
@@ -4032,8 +4032,8 @@
           "image_id": 64365286228299
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614412619,
+          "product_id": 10825053176139,
           "title": "Light blue / Standard",
           "price": "30.27",
           "position": 15,
@@ -4060,8 +4060,8 @@
           "image_id": 64365286261067
         },
         {
-          "product_id": 10825053176139,
           "id": 53256614445387,
+          "product_id": 10825053176139,
           "title": "Black / Standard",
           "price": "30.28",
           "position": 16,
@@ -4090,8 +4090,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053176139,
           "id": 13450929504587,
+          "product_id": 10825053176139,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4110,8 +4110,8 @@
           ]
         },
         {
-          "product_id": 10825053176139,
           "id": 13450929537355,
+          "product_id": 10825053176139,
           "name": "style",
           "position": 2,
           "values": [
@@ -26310,8 +26310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108160843",
       "variants": [
         {
-          "id": 53256915812683,
           "product_id": 10825108160843,
+          "id": 53256915812683,
           "title": "White 085 Neutral",
           "price": "503.53",
           "position": 1,
@@ -26340,8 +26340,8 @@
       ],
       "options": [
         {
-          "id": 13451010244939,
           "product_id": 10825108160843,
+          "id": 13451010244939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37039,8 +37039,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "id": 53256909848907,
           "product_id": 10825104621899,
+          "id": 53256909848907,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -37069,8 +37069,8 @@
       ],
       "options": [
         {
-          "id": 13451006443851,
           "product_id": 10825104621899,
+          "id": 13451006443851,
           "name": "Color",
           "position": 1,
           "values": [
