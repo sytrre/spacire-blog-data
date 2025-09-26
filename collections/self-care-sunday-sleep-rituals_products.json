@@ -2280,8 +2280,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158885707",
       "variants": [
         {
-          "id": 53257349235019,
           "product_id": 10825158885707,
+          "id": 53257349235019,
           "title": "Lavender",
           "price": "31.41",
           "position": 1,
@@ -2310,8 +2310,8 @@
       ],
       "options": [
         {
-          "id": 13451086102859,
           "product_id": 10825158885707,
+          "id": 13451086102859,
           "name": "style",
           "position": 1,
           "values": [
@@ -2632,8 +2632,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157345611",
       "variants": [
         {
-          "id": 53257320726859,
           "product_id": 10825157345611,
+          "id": 53257320726859,
           "title": "30 PCS",
           "price": "32.12",
           "position": 1,
@@ -2662,8 +2662,8 @@
       ],
       "options": [
         {
-          "id": 13451083383115,
           "product_id": 10825157345611,
+          "id": 13451083383115,
           "name": "quantity",
           "position": 1,
           "values": [
@@ -3506,8 +3506,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961556811",
       "variants": [
         {
-          "product_id": 10824961556811,
           "id": 53256231190859,
+          "product_id": 10824961556811,
           "title": "Sleep spray",
           "price": "22.20",
           "position": 1,
@@ -3536,8 +3536,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961556811,
           "id": 13450822287691,
+          "product_id": 10824961556811,
           "name": "style",
           "position": 1,
           "values": [
