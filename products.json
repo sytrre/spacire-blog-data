@@ -46309,8 +46309,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825082175819",
       "variants": [
         {
-          "product_id": 10825082175819,
           "id": 53256814395723,
+          "product_id": 10825082175819,
           "title": "Silver",
           "price": "504.07",
           "position": 1,
@@ -46339,8 +46339,8 @@
       ],
       "options": [
         {
-          "product_id": 10825082175819,
           "id": 13450970726731,
+          "product_id": 10825082175819,
           "name": "Color",
           "position": 1,
           "values": [
