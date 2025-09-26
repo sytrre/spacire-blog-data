@@ -2644,8 +2644,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886367563",
       "variants": [
         {
-          "id": 53325486096715,
           "product_id": 14774886367563,
+          "id": 53325486096715,
           "title": "Dark Grey / 2kg",
           "price": "100.56",
           "position": 1,
@@ -2672,8 +2672,8 @@
           "image_id": 64643917578571
         },
         {
-          "id": 53325486129483,
           "product_id": 14774886367563,
+          "id": 53325486129483,
           "title": "Dark Grey / 3kg",
           "price": "100.96",
           "position": 2,
@@ -2702,8 +2702,8 @@
       ],
       "options": [
         {
-          "id": 17120123584843,
           "product_id": 14774886367563,
+          "id": 17120123584843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2711,8 +2711,8 @@
           ]
         },
         {
-          "id": 17120123617611,
           "product_id": 14774886367563,
+          "id": 17120123617611,
           "name": "Size",
           "position": 2,
           "values": [

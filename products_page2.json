@@ -11274,8 +11274,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954727243",
       "variants": [
         {
-          "product_id": 10823954727243,
           "id": 53253610045771,
+          "product_id": 10823954727243,
           "title": "White / USB",
           "price": "98.49",
           "position": 1,
@@ -11304,8 +11304,8 @@
       ],
       "options": [
         {
-          "product_id": 10823954727243,
           "id": 13449723674955,
+          "product_id": 10823954727243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11313,8 +11313,8 @@
           ]
         },
         {
-          "product_id": 10823954727243,
           "id": 13449723707723,
+          "product_id": 10823954727243,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -12162,8 +12162,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "id": 53256231453003,
           "product_id": 10824961589579,
+          "id": 53256231453003,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -12192,8 +12192,8 @@
       ],
       "options": [
         {
-          "id": 13450822353227,
           "product_id": 10824961589579,
+          "id": 13450822353227,
           "name": "style",
           "position": 1,
           "values": [
@@ -43396,8 +43396,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886367563",
       "variants": [
         {
-          "id": 53325486096715,
           "product_id": 14774886367563,
+          "id": 53325486096715,
           "title": "Dark Grey / 2kg",
           "price": "100.56",
           "position": 1,
@@ -43424,8 +43424,8 @@
           "image_id": 64643917578571
         },
         {
-          "id": 53325486129483,
           "product_id": 14774886367563,
+          "id": 53325486129483,
           "title": "Dark Grey / 3kg",
           "price": "100.96",
           "position": 2,
@@ -43454,8 +43454,8 @@
       ],
       "options": [
         {
-          "id": 17120123584843,
           "product_id": 14774886367563,
+          "id": 17120123584843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -43463,8 +43463,8 @@
           ]
         },
         {
-          "id": 17120123617611,
           "product_id": 14774886367563,
+          "id": 17120123617611,
           "name": "Size",
           "position": 2,
           "values": [
