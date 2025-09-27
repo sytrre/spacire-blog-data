@@ -53679,8 +53679,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772565508427",
       "variants": [
         {
-          "product_id": 14772565508427,
           "id": 53314614919499,
+          "product_id": 14772565508427,
           "title": "Green Single Pack / 48X74CM",
           "price": "38.63",
           "position": 1,
@@ -53707,8 +53707,8 @@
           "image_id": 64611847930187
         },
         {
-          "product_id": 14772565508427,
           "id": 53314614952267,
+          "product_id": 14772565508427,
           "title": "Purple Single Pack / 48X74CM",
           "price": "38.63",
           "position": 2,
@@ -53737,8 +53737,8 @@
       ],
       "options": [
         {
-          "product_id": 14772565508427,
           "id": 17117261791563,
+          "product_id": 14772565508427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -53747,8 +53747,8 @@
           ]
         },
         {
-          "product_id": 14772565508427,
           "id": 17117261824331,
+          "product_id": 14772565508427,
           "name": "Size Specification",
           "position": 2,
           "values": [
