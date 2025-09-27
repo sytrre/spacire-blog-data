@@ -1224,8 +1224,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -1254,8 +1254,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -2528,8 +2528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "id": 53256408170827,
           "product_id": 10825004908875,
+          "id": 53256408170827,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -2558,8 +2558,8 @@
       ],
       "options": [
         {
-          "id": 13450870489419,
           "product_id": 10825004908875,
+          "id": 13450870489419,
           "name": "format",
           "position": 1,
           "values": [
