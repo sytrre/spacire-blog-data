@@ -12169,8 +12169,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -12199,8 +12199,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -13390,8 +13390,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056747851",
       "variants": [
         {
-          "product_id": 10825056747851,
           "id": 53256627618123,
+          "product_id": 10825056747851,
           "title": "Cow Spot",
           "price": "30.93",
           "position": 1,
@@ -13420,8 +13420,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056747851,
           "id": 13450933666123,
+          "product_id": 10825056747851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63102,8 +63102,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158885707",
       "variants": [
         {
-          "product_id": 10825158885707,
           "id": 53257349235019,
+          "product_id": 10825158885707,
           "title": "Lavender",
           "price": "31.41",
           "position": 1,
@@ -63132,8 +63132,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158885707,
           "id": 13451086102859,
+          "product_id": 10825158885707,
           "name": "style",
           "position": 1,
           "values": [
