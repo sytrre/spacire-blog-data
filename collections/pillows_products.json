@@ -1842,8 +1842,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775297474891",
       "variants": [
         {
-          "id": 53327831204171,
           "product_id": 14775297474891,
+          "id": 53327831204171,
           "title": "BZ22922 30x50cm / Without core",
           "price": "68.52",
           "position": 1,
@@ -1870,8 +1870,8 @@
           "image_id": 64651402576203
         },
         {
-          "id": 53327831236939,
           "product_id": 14775297474891,
+          "id": 53327831236939,
           "title": "BZ22922 30x50cm / With down core",
           "price": "70.79",
           "position": 2,
@@ -1898,8 +1898,8 @@
           "image_id": 64651402576203
         },
         {
-          "id": 53327831269707,
           "product_id": 14775297474891,
+          "id": 53327831269707,
           "title": "BZ22922 30x50cm / With goose feather core",
           "price": "76.90",
           "position": 3,
@@ -1928,8 +1928,8 @@
       ],
       "options": [
         {
-          "id": 17120605569355,
           "product_id": 14775297474891,
+          "id": 17120605569355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1937,8 +1937,8 @@
           ]
         },
         {
-          "id": 17120605602123,
           "product_id": 14775297474891,
+          "id": 17120605602123,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -17713,8 +17713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771563528523",
       "variants": [
         {
-          "id": 53310479302987,
           "product_id": 14771563528523,
+          "id": 53310479302987,
           "title": "White / 40x65cm",
           "price": "40.79",
           "position": 1,
@@ -17743,8 +17743,8 @@
       ],
       "options": [
         {
-          "id": 17116099445067,
           "product_id": 14771563528523,
+          "id": 17116099445067,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17752,8 +17752,8 @@
           ]
         },
         {
-          "id": 17116099477835,
           "product_id": 14771563528523,
+          "id": 17116099477835,
           "name": "Size Specification",
           "position": 2,
           "values": [
