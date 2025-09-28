@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-27T11:00:03+01:00",
+      "updated_at": "2025-09-28T15:29:36+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -36,12 +36,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-26T02:06:42+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-28T15:29:36+01:00",
+          "summary_html": "<p>Pillow sprays enhance sleep through aromatherapy, but proper application and timing are key to unlocking their full benefits. Apply 2–4 sprays per pillow from 6–8 inches away, 15–30 minutes before bedtime, and allow 5–10 minutes of drying for optimal effectiveness. This guide explains step-by-step pillow spray techniques, timing for naps, travel, and stress relief, plus safety do’s and don’ts to avoid irritation or fabric damage. Discover how consistent use builds stronger sleep associations and why professional pillow sprays provide reliable, long-lasting relaxation support.</p>",
           "template_suffix": "article",
           "handle": "how-to-use-pillow-spray-application-tips-and-timing",
           "tags": "Sleep Masks",
-          "admin_graphql_api_id": "gid://shopify/Article/998553452875"
+          "admin_graphql_api_id": "gid://shopify/Article/998553452875",
+          "image": {
+            "created_at": "2025-09-28T15:29:34+01:00",
+            "alt": "hand spraying lavender pillow mist onto pillow",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_e10b62dc-35e0-45b7-a4c0-0fa7bbe492e6.jpg?v=1759069776"
+          }
         },
         {
           "id": 998553125195,
@@ -51,12 +58,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-26T01:47:07+01:00",
-          "summary_html": "",
+          "updated_at": "2025-09-28T15:14:23+01:00",
+          "summary_html": "<p>DIY sleep sprays give you control over ingredients and customization, but they carry safety risks, limited shelf life, and inconsistent results. Store-bought sleep sprays, priced around £20–£24, deliver professionally tested, standardized formulations that show effectiveness within 15–30 minutes. With proven safety, balanced essential oil blends, and regulatory compliance, commercial sprays provide reliable relaxation and convenience. This guide compares DIY vs professional sleep sprays, highlighting costs, effectiveness, safety, and expert-backed benefits to help you choose the best option for restful nights.</p>",
           "template_suffix": "article",
           "handle": "diy-vs-store-bought-sleep-sprays-safety-and-effectiveness",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998553125195"
+          "admin_graphql_api_id": "gid://shopify/Article/998553125195",
+          "image": {
+            "created_at": "2025-09-28T15:14:21+01:00",
+            "alt": "professional sleep spray bottle with clinical grade formulation",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_1c037b87-81a6-4b43-9630-b219fa0e59cb.png?v=1759068863"
+          }
         },
         {
           "id": 998507282763,
