@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-09-29T20:23:17+01:00",
+      "updated_at": "2025-09-29T22:11:09+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Sleep Sprays & Pillow Mists, White Noise Machines, Blackout curtains",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998698680651,
+          "title": "White Noise for ADHD: Improving Focus and Sleep",
+          "created_at": "2025-09-29T22:11:09+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-09-29T22:11:09+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "white-noise-for-adhd-improving-focus-and-sleep",
+          "tags": "White Noise Machines",
+          "admin_graphql_api_id": "gid://shopify/Article/998698680651"
+        },
         {
           "id": 998693667147,
           "title": "How to Choose White Noise Machine for Your Sleep Style",
