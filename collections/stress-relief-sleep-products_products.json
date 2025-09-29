@@ -14027,8 +14027,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "id": 53252706828619,
           "product_id": 10823805174091,
+          "id": 53252706828619,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -14057,8 +14057,8 @@
       ],
       "options": [
         {
-          "id": 13449536799051,
           "product_id": 10823805174091,
+          "id": 13449536799051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14066,8 +14066,8 @@
           ]
         },
         {
-          "id": 13449536831819,
           "product_id": 10823805174091,
+          "id": 13449536831819,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -67354,8 +67354,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068314955",
       "variants": [
         {
-          "product_id": 10825068314955,
           "id": 53256743092555,
+          "product_id": 10825068314955,
           "title": "Black",
           "price": "32.45",
           "position": 1,
@@ -67382,8 +67382,8 @@
           "image_id": 64365476249931
         },
         {
-          "product_id": 10825068314955,
           "id": 53256743125323,
+          "product_id": 10825068314955,
           "title": "Gray",
           "price": "32.45",
           "position": 2,
@@ -67410,8 +67410,8 @@
           "image_id": 64365476282699
         },
         {
-          "product_id": 10825068314955,
           "id": 53256743158091,
+          "product_id": 10825068314955,
           "title": "Pink",
           "price": "32.45",
           "position": 3,
@@ -67440,8 +67440,8 @@
       ],
       "options": [
         {
-          "product_id": 10825068314955,
           "id": 13450951950667,
+          "product_id": 10825068314955,
           "name": "format",
           "position": 1,
           "values": [
