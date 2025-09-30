@@ -48476,8 +48476,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066250571",
       "variants": [
         {
-          "id": 53256709407051,
           "product_id": 10825066250571,
+          "id": 53256709407051,
           "title": "Peacock blue",
           "price": "33.79",
           "position": 1,
@@ -48504,8 +48504,8 @@
           "image_id": 64365450264907
         },
         {
-          "id": 53256709439819,
           "product_id": 10825066250571,
+          "id": 53256709439819,
           "title": "Zhangqing",
           "price": "33.79",
           "position": 2,
@@ -48532,8 +48532,8 @@
           "image_id": 64365450297675
         },
         {
-          "id": 53256709472587,
           "product_id": 10825066250571,
+          "id": 53256709472587,
           "title": "Black",
           "price": "33.79",
           "position": 3,
@@ -48560,8 +48560,8 @@
           "image_id": 64365450330443
         },
         {
-          "id": 53256709505355,
           "product_id": 10825066250571,
+          "id": 53256709505355,
           "title": "Grey",
           "price": "33.79",
           "position": 4,
@@ -48590,8 +48590,8 @@
       ],
       "options": [
         {
-          "id": 13450948477259,
           "product_id": 10825066250571,
+          "id": 13450948477259,
           "name": "Color",
           "position": 1,
           "values": [
