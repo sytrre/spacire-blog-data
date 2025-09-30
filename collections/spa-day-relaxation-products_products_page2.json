@@ -67331,8 +67331,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044918603",
       "variants": [
         {
-          "product_id": 10825044918603,
           "id": 53256580006219,
+          "product_id": 10825044918603,
           "title": "Black / USB",
           "price": "43.06",
           "position": 1,
@@ -67361,8 +67361,8 @@
       ],
       "options": [
         {
-          "product_id": 10825044918603,
           "id": 13450920591691,
+          "product_id": 10825044918603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67370,8 +67370,8 @@
           ]
         },
         {
-          "product_id": 10825044918603,
           "id": 13450920624459,
+          "product_id": 10825044918603,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -73478,8 +73478,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771428852043",
       "variants": [
         {
-          "id": 53310178558283,
           "product_id": 14771428852043,
+          "id": 53310178558283,
           "title": "Pink / 75X55CM",
           "price": "72.56",
           "position": 1,
@@ -73506,8 +73506,8 @@
           "image_id": 64593319428427
         },
         {
-          "id": 53310178591051,
           "product_id": 14771428852043,
+          "id": 53310178591051,
           "title": "Gray / 75X55CM",
           "price": "72.56",
           "position": 2,
@@ -73534,8 +73534,8 @@
           "image_id": 64593319461195
         },
         {
-          "id": 53310178623819,
           "product_id": 14771428852043,
+          "id": 53310178623819,
           "title": "Dark Blue / 75X55CM",
           "price": "72.56",
           "position": 3,
@@ -73562,8 +73562,8 @@
           "image_id": 64593319493963
         },
         {
-          "id": 53310178656587,
           "product_id": 14771428852043,
+          "id": 53310178656587,
           "title": "Water Blue / 75X55CM",
           "price": "72.56",
           "position": 4,
@@ -73590,8 +73590,8 @@
           "image_id": 64593319526731
         },
         {
-          "id": 53310178689355,
           "product_id": 14771428852043,
+          "id": 53310178689355,
           "title": "Purple / 75X55CM",
           "price": "72.56",
           "position": 5,
@@ -73620,8 +73620,8 @@
       ],
       "options": [
         {
-          "id": 17115959460171,
           "product_id": 14771428852043,
+          "id": 17115959460171,
           "name": "Color",
           "position": 1,
           "values": [
@@ -73633,8 +73633,8 @@
           ]
         },
         {
-          "id": 17115959492939,
           "product_id": 14771428852043,
+          "id": 17115959492939,
           "name": "Size",
           "position": 2,
           "values": [
