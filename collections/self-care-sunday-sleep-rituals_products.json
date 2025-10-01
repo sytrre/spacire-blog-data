@@ -272,8 +272,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962277707",
       "variants": [
         {
-          "id": 53256233255243,
           "product_id": 10824962277707,
+          "id": 53256233255243,
           "title": "20ml",
           "price": "20.81",
           "position": 1,
@@ -302,8 +302,8 @@
       ],
       "options": [
         {
-          "id": 13450823041355,
           "product_id": 10824962277707,
+          "id": 13450823041355,
           "name": "Product Specifications",
           "position": 1,
           "values": [
@@ -3406,8 +3406,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824959983947",
       "variants": [
         {
-          "id": 53256218673483,
           "product_id": 10824959983947,
+          "id": 53256218673483,
           "title": "30ml",
           "price": "21.12",
           "position": 1,
@@ -3436,8 +3436,8 @@
       ],
       "options": [
         {
-          "id": 13450820256075,
           "product_id": 10824959983947,
+          "id": 13450820256075,
           "name": "capacity",
           "position": 1,
           "values": [
