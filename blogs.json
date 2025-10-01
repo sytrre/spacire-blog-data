@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-01T12:41:11+01:00",
+      "updated_at": "2025-10-01T14:36:18+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -366,12 +366,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T13:54:50+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T14:36:18+01:00",
+          "summary_html": "<p>Creating the perfect sleep environment goes beyond a single solution. Combining pillow sprays with aids like masks, white noise, and weighted blankets addresses multiple sleep disruptors at once. This multi-sensory approach can reduce sleep onset time, improve sleep quality, and provide deeper rest. Learn the science of sleep aid synergy, the best combinations for different issues like insomnia or anxiety, and expert tips for timing and layering to build your personal sleep sanctuary.</p>",
           "template_suffix": "article",
           "handle": "combining-sleep-sprays-with-other-sleep-aids-for-maximum-effect",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998677709131"
+          "admin_graphql_api_id": "gid://shopify/Article/998677709131",
+          "image": {
+            "created_at": "2025-10-01T14:36:17+01:00",
+            "alt": "multi sensory approach to sleep improvement",
+            "width": 592,
+            "height": 593,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_ee8b7b0e-5f30-478a-b089-3956ffdfcdea.png?v=1759325778"
+          }
         },
         {
           "id": 998675513675,
@@ -381,12 +388,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T12:39:53+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T14:28:56+01:00",
+          "summary_html": "<p>Wondering if your pillow spray is still effective? Most unopened sprays last 2–3 years, while opened bottles stay potent for 6–12 months depending on ingredients and storage. Natural formulations degrade faster than synthetic ones, but proper storage—cool, dark places away from heat and light—can extend freshness by up to 50%. Learn how to recognize expiration signs, maximize shelf life, and safely replace your sleep sprays for consistent relaxation.</p>",
           "template_suffix": "article",
           "handle": "how-long-does-pillow-spray-last-storage-and-shelf-life",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998675513675"
+          "admin_graphql_api_id": "gid://shopify/Article/998675513675",
+          "image": {
+            "created_at": "2025-10-01T14:28:54+01:00",
+            "alt": "atural vs synthetic pillow spray shelf life",
+            "width": 600,
+            "height": 600,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_828a19bc-9ea9-4978-b7e4-f77838d53f2b.png?v=1759325336"
+          }
         },
         {
           "id": 998662472011,
@@ -396,12 +410,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T02:23:38+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T14:19:56+01:00",
+          "summary_html": "<p>Tired of chemical sleep aids? Organic sleep sprays use pure essential oils like lavender, chamomile, and sandalwood to naturally reduce anxiety, improve sleep quality, and promote relaxation. Backed by research showing up to 71% improvement in rest, these non-habit-forming, chemical-free solutions create a sleep sanctuary while supporting your health and the environment. Discover the best organic sleep sprays from £20.81 to £24.33.</p>",
           "template_suffix": "article",
           "handle": "organic-sleep-sprays-chemical-free-sleep-solutions",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998662472011"
+          "admin_graphql_api_id": "gid://shopify/Article/998662472011",
+          "image": {
+            "created_at": "2025-10-01T14:19:54+01:00",
+            "alt": "non habit forming alternative to sleep medication",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_8758d0a9-960d-4114-ac3a-79614d830c2f.jpg?v=1759324796"
+          }
         },
         {
           "id": 998662406475,
@@ -411,12 +432,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T02:00:51+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T14:13:17+01:00",
+          "summary_html": "<p>Struggling with insomnia? Clinical studies show aromatherapy sleep sprays can improve sleep quality by 31–45%, reduce night awakenings, and shorten sleep onset by more than 20 minutes. Backed by randomized controlled trials, natural ingredients like lavender, chamomile, and eucalyptus promote melatonin production, calm the nervous system, and provide safe, non-habit-forming relief. Discover the science, effectiveness, and best evidence-based sleep sprays starting from £20.95.</p>",
           "template_suffix": "article",
           "handle": "sleep-spray-for-insomnia-clinical-evidence-review",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998662406475"
+          "admin_graphql_api_id": "gid://shopify/Article/998662406475",
+          "image": {
+            "created_at": "2025-10-01T14:13:16+01:00",
+            "alt": "natural insomnia remedies with aromatherapy sprays",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_ebe3ca31-6a00-4e1d-b077-69cb2733f3c8.jpg?v=1759324397"
+          }
         },
         {
           "id": 998659916107,
@@ -426,18 +454,18 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-01T12:41:11+01:00",
+          "updated_at": "2025-10-01T13:00:01+01:00",
           "summary_html": "<p data-start=\"1074\" data-end=\"1515\">Transform your bedroom into a true sleep sanctuary with the power of room and linen sprays. By layering scents across six strategic zones—pillows, curtains, linens, furniture, air, and entry points—you create a complete aromatherapy environment that improves sleep quality by 45%. Professional-grade sprays last 6–8 hours, combining ambient room misting with fabric treatments for deeper relaxation, reduced stress, and faster sleep onset.</p>",
           "template_suffix": "article",
           "handle": "room-and-linen-sprays-creating-complete-sleep-sanctuary",
           "tags": "Sleep Sprays & Pillow Mists",
           "admin_graphql_api_id": "gid://shopify/Article/998659916107",
           "image": {
-            "created_at": "2025-10-01T12:41:10+01:00",
+            "created_at": "2025-10-01T13:00:00+01:00",
             "alt": "best room sprays for creating a calming sleep space",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_de9c2fb7-aca6-41ee-af82-ccd95985cd18.png?v=1759318871"
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_7c26b755-a8b2-4745-986b-fe0bfeac50a0.png?v=1759320001"
           }
         },
         {
@@ -470,12 +498,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T01:35:44+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T14:06:45+01:00",
+          "summary_html": "<p>Not all sleep sprays are safe—many contain hidden toxins like parabens, phthalates, and synthetic fragrances that can trigger allergies, hormonal disruption, and respiratory problems. This guide reveals the most dangerous sleep spray ingredients, how to read labels, and the safest natural alternatives like lavender, chamomile, and aloe vera. Discover our carefully selected collection of chemical-free sprays (£20.95–£24.10) for better, safer sleep.</p>",
           "template_suffix": "article",
           "handle": "sleep-spray-ingredients-to-avoid-safety-guide",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998659522891"
+          "admin_graphql_api_id": "gid://shopify/Article/998659522891",
+          "image": {
+            "created_at": "2025-10-01T14:06:43+01:00",
+            "alt": "health risks of parabens and phthalates in sprays",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_bf7f4307-3078-41c7-ac14-d377880247b8.jpg?v=1759324005"
+          }
         },
         {
           "id": 998659326283,
@@ -528,8 +563,8 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": null,
-          "updated_at": "2025-10-01T12:07:10+01:00",
+          "published_at": "2025-10-01T14:00:08+01:00",
+          "updated_at": "2025-10-01T14:00:08+01:00",
           "summary_html": "<p>Struggling with restless nights? Essential oil sleep sprays combine lavender, chamomile, sandalwood, and other botanicals to calm the mind, reduce anxiety, and promote deep, restorative sleep. Backed by clinical studies, these natural sprays shorten sleep onset, extend sleep duration, and improve overall sleep quality—helping you create a soothing nighttime ritual that transforms your bedroom into a true sleep sanctuary.</p>",
           "template_suffix": "article",
           "handle": "essential-oil-sleep-sprays-which-scents-promote-deep-sleep",
