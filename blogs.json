@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-01T12:24:58+01:00",
+      "updated_at": "2025-10-01T12:41:11+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -426,12 +426,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-28T19:36:59+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T12:41:11+01:00",
+          "summary_html": "<p data-start=\"1074\" data-end=\"1515\">Transform your bedroom into a true sleep sanctuary with the power of room and linen sprays. By layering scents across six strategic zones—pillows, curtains, linens, furniture, air, and entry points—you create a complete aromatherapy environment that improves sleep quality by 45%. Professional-grade sprays last 6–8 hours, combining ambient room misting with fabric treatments for deeper relaxation, reduced stress, and faster sleep onset.</p>",
           "template_suffix": "article",
           "handle": "room-and-linen-sprays-creating-complete-sleep-sanctuary",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998659916107"
+          "admin_graphql_api_id": "gid://shopify/Article/998659916107",
+          "image": {
+            "created_at": "2025-10-01T12:41:10+01:00",
+            "alt": "best room sprays for creating a calming sleep space",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_de9c2fb7-aca6-41ee-af82-ccd95985cd18.png?v=1759318871"
+          }
         },
         {
           "id": 998659588427,
@@ -441,12 +448,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-28T18:32:49+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-01T12:33:01+01:00",
+          "summary_html": "<p>Eucalyptus mint sleep sprays provide powerful respiratory support for deeper, more restful nights. Backed by clinical research, these sprays combine eucalyptol and menthol to clear nasal passages, reduce airway inflammation, and ease snoring within minutes. With antimicrobial properties that eliminate airborne irritants, eucalyptus mint sprays create a cleaner, healthier sleep environment—perfect for allergy sufferers, athletes, and anyone seeking natural nighttime breathing relief.</p>",
           "template_suffix": "article",
           "handle": "eucalyptus-mint-sleep-spray-breathing-and-sleep-benefits",
           "tags": "Sleep Sprays & Pillow Mists",
-          "admin_graphql_api_id": "gid://shopify/Article/998659588427"
+          "admin_graphql_api_id": "gid://shopify/Article/998659588427",
+          "image": {
+            "created_at": "2025-10-01T12:32:59+01:00",
+            "alt": "natural antimicrobial sleep spray with eucalyptus",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_b39408c8-916b-4f5c-8606-f0c25ffdbaea.png?v=1759318381"
+          }
         },
         {
           "id": 998659522891,
@@ -471,18 +485,18 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-01T12:24:58+01:00",
+          "updated_at": "2025-10-01T12:32:42+01:00",
           "summary_html": "<p>Helping children fall asleep can be a challenge, but natural pillow sprays provide a gentle, safe solution. Specially formulated with child-friendly ingredients like lavender, chamomile, and aloe vera, these sprays create calming bedtime rituals without harsh chemicals. Designed for sensitive systems, our £20–£24 kids’ pillow sprays support healthy sleep patterns for toddlers and young children while building positive nighttime routines.</p>",
           "template_suffix": "article",
           "handle": "pillow-spray-for-kids-safe-aromatherapy-for-children",
           "tags": "Sleep Sprays & Pillow Mists",
           "admin_graphql_api_id": "gid://shopify/Article/998659326283",
           "image": {
-            "created_at": "2025-10-01T12:24:57+01:00",
+            "created_at": "2025-10-01T12:32:41+01:00",
             "alt": "pillow mist with aloe vera safe for sensitive children",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_7ce9a1a1-c586-4ba5-9158-c2047a15c347.jpg?v=1759317898"
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_9eb37743-f5ff-4e00-ba56-1527270fc8d5.jpg?v=1759318362"
           }
         },
         {
