@@ -7582,8 +7582,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -7610,8 +7610,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -7638,8 +7638,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -7666,8 +7666,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -7696,8 +7696,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7708,8 +7708,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -20867,8 +20867,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772519043403",
       "variants": [
         {
-          "product_id": 14772519043403,
           "id": 53314498068811,
+          "product_id": 14772519043403,
           "title": "6cm / 70 x 40",
           "price": "58.29",
           "position": 1,
@@ -20895,8 +20895,8 @@
           "image_id": 64611069919563
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498101579,
+          "product_id": 14772519043403,
           "title": "8cm / 70 x 40",
           "price": "59.27",
           "position": 2,
@@ -20923,8 +20923,8 @@
           "image_id": 64611069952331
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498134347,
+          "product_id": 14772519043403,
           "title": "10cm / 70 x 40",
           "price": "60.51",
           "position": 3,
@@ -20951,8 +20951,8 @@
           "image_id": 64611069985099
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498167115,
+          "product_id": 14772519043403,
           "title": "12cm / 70 x 40",
           "price": "61.75",
           "position": 4,
@@ -20979,8 +20979,8 @@
           "image_id": 64611070017867
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498199883,
+          "product_id": 14772519043403,
           "title": "6cm With Coat / 70 x 40",
           "price": "60.26",
           "position": 5,
@@ -21007,8 +21007,8 @@
           "image_id": 64611070050635
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498232651,
+          "product_id": 14772519043403,
           "title": "8cm With Coat / 70 x 40",
           "price": "61.25",
           "position": 6,
@@ -21035,8 +21035,8 @@
           "image_id": 64611070050635
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498265419,
+          "product_id": 14772519043403,
           "title": "10cm With Coat / 70 x 40",
           "price": "62.49",
           "position": 7,
@@ -21063,8 +21063,8 @@
           "image_id": 64611070050635
         },
         {
-          "product_id": 14772519043403,
           "id": 53314498298187,
+          "product_id": 14772519043403,
           "title": "12cm With Coat / 70 x 40",
           "price": "63.72",
           "position": 8,
@@ -21093,8 +21093,8 @@
       ],
       "options": [
         {
-          "product_id": 14772519043403,
           "id": 17117210444107,
+          "product_id": 14772519043403,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -21109,8 +21109,8 @@
           ]
         },
         {
-          "product_id": 14772519043403,
           "id": 17117210476875,
+          "product_id": 14772519043403,
           "name": "Size",
           "position": 2,
           "values": [
