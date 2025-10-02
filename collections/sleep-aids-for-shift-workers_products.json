@@ -67879,8 +67879,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087811915",
       "variants": [
         {
-          "product_id": 10825087811915,
           "id": 53256852963659,
+          "product_id": 10825087811915,
           "title": "White / USB",
           "price": "410.41",
           "position": 1,
@@ -67909,8 +67909,8 @@
       ],
       "options": [
         {
-          "product_id": 10825087811915,
           "id": 13450979475787,
+          "product_id": 10825087811915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67918,8 +67918,8 @@
           ]
         },
         {
-          "product_id": 10825087811915,
           "id": 13450979508555,
+          "product_id": 10825087811915,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -92324,8 +92324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159344459",
       "variants": [
         {
-          "product_id": 10825159344459,
           "id": 53257351201099,
+          "product_id": 10825159344459,
           "title": "10 Pieces In A Box",
           "price": "33.58",
           "position": 1,
@@ -92354,8 +92354,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159344459,
           "id": 13451086594379,
+          "product_id": 10825159344459,
           "name": "Product Specifications",
           "position": 1,
           "values": [
@@ -118358,8 +118358,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050161483",
       "variants": [
         {
-          "product_id": 10825050161483,
           "id": 53256601665867,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Black",
           "price": "31.43",
           "position": 1,
@@ -118386,8 +118386,8 @@
           "image_id": 64365250052427
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601698635,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Blue",
           "price": "31.43",
           "position": 2,
@@ -118414,8 +118414,8 @@
           "image_id": 64365250085195
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601731403,
+          "product_id": 10825050161483,
           "title": "PE Bag Packaging / Purplish Red",
           "price": "31.43",
           "position": 3,
@@ -118442,8 +118442,8 @@
           "image_id": 64365250117963
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601764171,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Black",
           "price": "31.57",
           "position": 4,
@@ -118470,8 +118470,8 @@
           "image_id": 64365250052427
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601796939,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Blue",
           "price": "31.57",
           "position": 5,
@@ -118498,8 +118498,8 @@
           "image_id": 64365250085195
         },
         {
-          "product_id": 10825050161483,
           "id": 53256601829707,
+          "product_id": 10825050161483,
           "title": "Color Box Packaging / Purplish Red",
           "price": "31.59",
           "position": 6,
@@ -118528,8 +118528,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050161483,
           "id": 13450926195019,
+          "product_id": 10825050161483,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -118538,8 +118538,8 @@
           ]
         },
         {
-          "product_id": 10825050161483,
           "id": 13450926227787,
+          "product_id": 10825050161483,
           "name": "Color",
           "position": 2,
           "values": [
