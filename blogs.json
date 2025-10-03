@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-02T15:30:02+01:00",
+      "updated_at": "2025-10-03T12:20:42+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -336,12 +336,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T14:50:47+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-03T12:20:42+01:00",
+          "summary_html": "<p>Struggling with sleep disruptions? Discover the science behind white, pink, and brown noise, and learn which sound is best for your needs. White noise helps light sleepers in noisy environments, pink noise enhances deep sleep and memory, while brown noise reduces anxiety and supports sensory sensitivities. Backed by clinical studies, this guide explains frequency spectrums, sleep science, and expert recommendations, plus the best sound machines for every budget.</p>",
           "template_suffix": "article",
           "handle": "white-noise-vs-pink-noise-vs-brown-noise-which-helps-sleep",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998679970123"
+          "admin_graphql_api_id": "gid://shopify/Article/998679970123",
+          "image": {
+            "created_at": "2025-10-03T12:20:41+01:00",
+            "alt": "pink noise study improving memory consolidation",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_ff5ea3be-43a7-4788-bccf-ce14f711fc67.jpg?v=1759490442"
+          }
         },
         {
           "id": 998679347531,
@@ -351,12 +358,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T14:34:11+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-03T12:17:10+01:00",
+          "summary_html": "<p data-start=\"1014\" data-end=\"1403\">White noise machines are proven to improve sleep by masking disruptive sounds and promoting relaxation. With options ranging from portable models to advanced smart systems, Spacire offers solutions for every budget and need. Learn how white noise supports deeper sleep, the best features to look for, and which machines work best for babies, shift workers, travelers, and light sleepers.</p>",
           "template_suffix": "article",
           "handle": "best-white-noise-machines-ultimate-buying-guide",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998679347531"
+          "admin_graphql_api_id": "gid://shopify/Article/998679347531",
+          "image": {
+            "created_at": "2025-10-03T12:17:09+01:00",
+            "alt": "premium smart white noise systems review",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_35b56b48-19f0-41b6-8f06-0ca220e92d56.jpg?v=1759490230"
+          }
         },
         {
           "id": 998677709131,
