@@ -1,11 +1,4 @@
 {
-  "collection": {
-    "id": 666413400395,
-    "handle": "valentines-day-couples-sleep-gifts",
-    "title": "Valentine's Day couples sleep gifts",
-    "body_html": "<p>Perfect valentine's day couples sleep gifts for anyone who values quality sleep. Curated selection of premium sleep wellness products that make meaningful, thoughtful presents.</p>",
-    "products_count": 523
-  },
   "products": [
     {
       "id": 10825103212875,
@@ -99387,6 +99380,106 @@
       }
     },
     {
+      "id": 14815189860683,
+      "title": "WoodSleep Shade Automator – Voice Controlled Window Blind Motor",
+      "body_html": "<p>Upgrade your home with the WoodSleep Shade Automator, the ultimate smart home companion for effortless window treatment control. Compatible with voice assistants and smart home systems, this intelligent blind motor automates the raising and lowering of your window blinds, offering unparalleled convenience, light management, and modern sophistication.</p>\n<p>Designed for seamless integration, the WoodSleep automator is perfect for bedrooms, home offices, or media rooms. Set schedules for the perfect wake-up light, control via app, or use simple voice commands with compatible smart assistants to enhance your comfort and improve your home's energy efficiency.</p>\n<div style=\"text-align: left;\"><img style=\"float: none;\" alt=\"WoodSleep Magnesium Sleep Oil packaging and dropper bottle on a white background\" src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/e548febf-b0ec-452a-b87a-cad01947dde3.jpg?v=1758903003\"></div>\n<p>✨ Key Features:</p>\n<ul>\n<li>Voice Control Convenience – Effortlessly raise or lower blinds using simple commands with Alexa, Google Assistant, and Siri Shortcuts.</li>\n<li>Smart App &amp; Scheduling – Program daily open/close times directly from your smartphone for a perfectly automated routine.</li>\n<li>Universal Compatibility – Easy-to-install motor designed to work with most standard corded window blinds.</li>\n<li>Quiet, Powerful Motor – Enjoy smooth, near-silent operation that won’t disrupt your peace.</li>\n<li>Sunlight Management – Protect your floors and furniture from harsh UV rays by automating blind positions throughout the day.</li>\n</ul>\n<p> </p>\n<p>Experience a new level of comfort and control with the WoodSleep Shade Automator, where intelligent design meets everyday tranquility.</p>\n<p><br></p>",
+      "vendor": "Spacire",
+      "product_type": "0",
+      "created_at": "2025-09-26T17:09:58+01:00",
+      "handle": "woodsleep-shade-automator-voice-controlled-window-blind-motor",
+      "updated_at": "2025-09-27T05:10:08+01:00",
+      "published_at": "2025-09-26T17:12:26+01:00",
+      "template_suffix": null,
+      "published_scope": "global",
+      "tags": "Magnesium Oil Sleep, Spacire",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/14815189860683",
+      "variants": [
+        {
+          "id": 53483076878667,
+          "product_id": 14815189860683,
+          "title": "Sleep oil",
+          "price": "20.95",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "40.95",
+          "option1": "Sleep oil",
+          "option2": null,
+          "option3": null,
+          "created_at": "2025-09-26T17:10:01+01:00",
+          "updated_at": "2025-09-26T17:12:05+01:00",
+          "taxable": false,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 70,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CJST206397401AZ",
+          "weight": 70.0,
+          "weight_unit": "g",
+          "inventory_item_id": 55445774008651,
+          "inventory_quantity": 11664,
+          "old_inventory_quantity": 11664,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/53483076878667",
+          "image_id": 65865426305355
+        }
+      ],
+      "options": [
+        {
+          "id": 17167687975243,
+          "product_id": 14815189860683,
+          "name": "style",
+          "position": 1,
+          "values": [
+            "Sleep oil"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 65865426272587,
+          "alt": "WoodSleep Magnesium Sleep Oil packaging and dropper bottle on a white background",
+          "position": 1,
+          "product_id": 14815189860683,
+          "created_at": "2025-09-26T17:10:00+01:00",
+          "updated_at": "2025-09-26T17:10:57+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/65865426272587",
+          "width": 986,
+          "height": 986,
+          "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/e548febf-b0ec-452a-b87a-cad01947dde3.jpg?v=1758903003",
+          "variant_ids": []
+        },
+        {
+          "id": 65865426305355,
+          "alt": "WoodSleep Magnesium Sleep Oil packaging and dropper bottle on a white background",
+          "position": 2,
+          "product_id": 14815189860683,
+          "created_at": "2025-09-26T17:10:01+01:00",
+          "updated_at": "2025-09-26T17:11:10+01:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/65865426305355",
+          "width": 986,
+          "height": 986,
+          "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/e548febf-b0ec-452a-b87a-cad01947dde3_dfb1196c-a4a7-4157-8a7f-1a2bb42b8e33.jpg?v=1758903004",
+          "variant_ids": [
+            53483076878667
+          ]
+        }
+      ],
+      "image": {
+        "id": 65865426272587,
+        "alt": "WoodSleep Magnesium Sleep Oil packaging and dropper bottle on a white background",
+        "position": 1,
+        "product_id": 14815189860683,
+        "created_at": "2025-09-26T17:10:00+01:00",
+        "updated_at": "2025-09-26T17:10:57+01:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/65865426272587",
+        "width": 986,
+        "height": 986,
+        "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/e548febf-b0ec-452a-b87a-cad01947dde3.jpg?v=1758903003",
+        "variant_ids": []
+      }
+    },
+    {
       "id": 14774904062283,
       "title": "WoolLoom Summer Cool Pillow – Breathable Memory Foam Comfort",
       "body_html": "<p data-start=\"532\" data-end=\"820\">Beat the heat while enjoying superior support with the <strong data-start=\"587\" data-end=\"630\">WoolLoom Summer Cool Memory Foam Pillow</strong>. Designed with <strong data-start=\"646\" data-end=\"679\">breathable cooling technology</strong>, this pillow keeps you fresh and comfortable during hot nights while providing <strong data-start=\"759\" data-end=\"792\">ergonomic memory foam support</strong> for better sleep posture.</p>\n<p data-start=\"822\" data-end=\"1022\">Perfect for <strong data-start=\"834\" data-end=\"848\">summer use</strong>, the WoolLoom pillow combines <strong data-start=\"879\" data-end=\"905\">cooling airflow fabric</strong> with premium memory foam to reduce heat build-up, relieve pressure points, and promote deeper, more restful sleep.</p>\n<h4 data-start=\"1024\" data-end=\"1046\">⭐ Key Features:</h4>\n<ul data-start=\"1047\" data-end=\"1439\">\n<li data-start=\"1047\" data-end=\"1117\">\n<p data-start=\"1049\" data-end=\"1117\"><strong data-start=\"1049\" data-end=\"1068\">Cooling Comfort</strong> – Breathable design keeps you fresh all night.</p>\n</li>\n<li data-start=\"1118\" data-end=\"1201\">\n<p data-start=\"1120\" data-end=\"1201\"><strong data-start=\"1120\" data-end=\"1143\">Memory Foam Support</strong> – Adapts to your head and neck for ergonomic alignment.</p>\n</li>\n<li data-start=\"1202\" data-end=\"1286\">\n<p data-start=\"1204\" data-end=\"1286\"><strong data-start=\"1204\" data-end=\"1220\">Summer Ready</strong> – Specially designed for hot weather and air-conditioned rooms.</p>\n</li>\n<li data-start=\"1287\" data-end=\"1355\">\n<p data-start=\"1289\" data-end=\"1355\"><strong data-start=\"1289\" data-end=\"1308\">Pressure Relief</strong> – Helps reduce neck and shoulder discomfort.</p>\n</li>\n<li data-start=\"1356\" data-end=\"1439\">\n<p data-start=\"1358\" data-end=\"1439\"><strong data-start=\"1358\" data-end=\"1381\">Durable &amp; Easy Care</strong> – Long-lasting comfort with a removable washable cover.</p>\n</li>\n</ul>\n<p data-start=\"1441\" data-end=\"1577\">Stay refreshed and supported with the <strong data-start=\"1479\" data-end=\"1522\">WoolLoom Summer Cool Memory Foam Pillow</strong> – the smart choice for hot nights and restful sleep.</p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/39f96152-d33a-4619-8deb-efdb5778ed32.jpg?v=1757129820\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/afa24e90-446f-46f7-a81f-f674798de054.jpg?v=1757129821\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/e27a3078-0fef-4d07-bad2-2fdebf6e0b78.jpg?v=1757129814\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/f450f139-e6bc-4c02-a243-f2cc51d7429f.jpg?v=1757129811\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/76f2fee0-cd09-4e64-b99f-ff6ef55893d0.jpg?v=1757129810\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/b113a83c-871b-48ff-9bba-aad3b5ee7c73.jpg?v=1757129823\" alt=\"WoolLoom Summer Cool Pillow\"></p>\n<p data-start=\"1441\" data-end=\"1577\"><img src=\"https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ae91ef4b-2e6c-4a3a-9f59-9bff43e3ae49.jpg?v=1757129823\" alt=\"WoolLoom Summer Cool Pillow\"></p>",
@@ -99924,117 +100017,17 @@
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/316878640796.jpg?v=1757080094",
         "variant_ids": []
       }
-    },
-    {
-      "id": 10825157640523,
-      "title": "XiMonth Anti-Snoring Sleep Patch 30pcs Cotton Sleep Stickers for Quiet Restful Nights & Relaxation",
-      "body_html": "<p><strong>XiMonth Anti-Snoring Sleep Patch 30pcs Cotton Sleep Stickers for Quiet Restful Nights &amp; Relaxation</strong></p>\n<p data-start=\"456\" data-end=\"686\">Reduce snoring and enjoy a peaceful night with the <strong data-start=\"507\" data-end=\"543\">XiMonth Anti-Snoring Sleep Patch</strong>. Made from soft <strong data-start=\"560\" data-end=\"576\">cotton cloth</strong>, these patches are gentle on the skin and easy to apply, helping to <strong data-start=\"645\" data-end=\"683\">promote quiet, uninterrupted sleep</strong>.</p>\n<p data-start=\"688\" data-end=\"926\">Lightweight and breathable, the patch adheres comfortably overnight, making it ideal for anyone seeking a <strong data-start=\"794\" data-end=\"839\">natural, non-invasive solution to snoring</strong>. Each pack contains <strong data-start=\"860\" data-end=\"874\">30 patches</strong>, perfect for daily use or extended sleep support.</p>\n<p data-start=\"933\" data-end=\"950\"><strong data-start=\"933\" data-end=\"948\">How to Use:</strong></p>\n<ol data-start=\"951\" data-end=\"1140\">\n<li data-start=\"951\" data-end=\"1000\">\n<p data-start=\"954\" data-end=\"1000\">Clean and dry the nose area before applying.</p>\n</li>\n<li data-start=\"1001\" data-end=\"1064\">\n<p data-start=\"1004\" data-end=\"1064\">Peel off the patch and apply it to the bridge of the nose.</p>\n</li>\n<li data-start=\"1065\" data-end=\"1100\">\n<p data-start=\"1068\" data-end=\"1100\">Wear overnight while sleeping.</p>\n</li>\n<li data-start=\"1101\" data-end=\"1140\">\n<p data-start=\"1104\" data-end=\"1140\">Remove and discard in the morning.</p>\n</li>\n</ol>\n<p data-start=\"1147\" data-end=\"1168\"><strong data-start=\"1147\" data-end=\"1166\">Specifications:</strong></p>\n<ul data-start=\"1169\" data-end=\"1297\">\n<li data-start=\"1169\" data-end=\"1207\">\n<p data-start=\"1171\" data-end=\"1207\"><strong data-start=\"1171\" data-end=\"1180\">Type:</strong> Anti-Snoring Sleep Patch</p>\n</li>\n<li data-start=\"1208\" data-end=\"1238\">\n<p data-start=\"1210\" data-end=\"1238\"><strong data-start=\"1210\" data-end=\"1223\">Material:</strong> Cotton Cloth</p>\n</li>\n<li data-start=\"1239\" data-end=\"1264\">\n<p data-start=\"1241\" data-end=\"1264\"><strong data-start=\"1241\" data-end=\"1250\">Size:</strong> 10.5 × 15cm</p>\n</li>\n<li data-start=\"1265\" data-end=\"1297\">\n<p data-start=\"1267\" data-end=\"1297\"><strong data-start=\"1267\" data-end=\"1280\">Quantity:</strong> 30pcs per pack</p>\n</li>\n</ul>\n<p data-start=\"1304\" data-end=\"1329\"><strong data-start=\"1304\" data-end=\"1327\">Why You’ll Love It:</strong></p>\n<ul data-start=\"1330\" data-end=\"1527\">\n<li data-start=\"1330\" data-end=\"1364\">\n<p data-start=\"1332\" data-end=\"1364\">Helps reduce snoring naturally</p>\n</li>\n<li data-start=\"1365\" data-end=\"1407\">\n<p data-start=\"1367\" data-end=\"1407\">Gentle and comfortable cotton material</p>\n</li>\n<li data-start=\"1408\" data-end=\"1456\">\n<p data-start=\"1410\" data-end=\"1456\">Lightweight and breathable for overnight use</p>\n</li>\n<li data-start=\"1457\" data-end=\"1485\">\n<p data-start=\"1459\" data-end=\"1485\">Easy to apply and remove</p>\n</li>\n<li data-start=\"1486\" data-end=\"1527\">\n<p data-start=\"1488\" data-end=\"1527\">30pcs pack for daily or long-term use</p>\n</li>\n</ul>\n<p data-start=\"1534\" data-end=\"1613\"><strong data-start=\"1534\" data-end=\"1555\">Package Contents:</strong><br data-start=\"1555\" data-end=\"1558\">1 × Box of XiMonth Anti-Snoring Sleep Patches (30pcs)</p>\n<p><img src=\"https://oss-cf.cjdropshipping.com/product/2024/09/19/06/87e46542-e685-4e83-a4dc-d000f325ee68.jpeg\" style=\"max-width: 100%;\"></p>",
-      "vendor": "Spacire",
-      "product_type": "Sleep Patch",
-      "created_at": "2025-08-27T06:10:43+01:00",
-      "handle": "ximonth-anti-snoring-sleep-patch-30pcs-cotton-sleep-stickers-for-quiet-restful-nights-and-relaxation",
-      "updated_at": "2025-09-15T18:21:52+01:00",
-      "published_at": "2025-08-27T06:10:47+01:00",
-      "template_suffix": null,
-      "published_scope": "global",
-      "tags": "Birthday gifts for sleep lovers, Black Friday sleep wellness deals, breathable sleep sticker, Christmas gifts for better sleep, cotton sleep sticker, Cyber Monday relaxation gifts, Father's Day stress relief gifts, Hotel quality sleep at home, Insomnia relief products, Mother's Day self care sleep gifts, Natural sleep improvement products, natural snoring aid, overnight sleep patch, quiet sleep patch, restful sleep patch, Sleep aids for better rest, Sleep aids for busy professionals, Sleep aids for depression and anxiety, Sleep aids for shift workers, Sleep gifts for new parents, Sleep quality improvement tools, Sleep wellness essentials, sleep wellness sticker, snore reduction patch, snore relief patch, Spa day relaxation products, Valentine's Day couples sleep gifts, Wedding registry sleep essentials",
-      "status": "active",
-      "admin_graphql_api_id": "gid://shopify/Product/10825157640523",
-      "variants": [
-        {
-          "id": 53257327149387,
-          "product_id": 10825157640523,
-          "title": "30PIECES",
-          "price": "31.38",
-          "position": 1,
-          "inventory_policy": "deny",
-          "compare_at_price": null,
-          "option1": "30PIECES",
-          "option2": null,
-          "option3": null,
-          "created_at": "2025-08-27T06:10:45+01:00",
-          "updated_at": "2025-09-10T07:07:27+01:00",
-          "taxable": true,
-          "barcode": null,
-          "fulfillment_service": "manual",
-          "grams": 39,
-          "inventory_management": "shopify",
-          "requires_shipping": true,
-          "sku": "CJJT214150201AZ",
-          "weight": 39.0,
-          "weight_unit": "g",
-          "inventory_item_id": 55219066863947,
-          "inventory_quantity": 26092,
-          "old_inventory_quantity": 26092,
-          "admin_graphql_api_id": "gid://shopify/ProductVariant/53257327149387",
-          "image_id": 64366961099083
-        }
-      ],
-      "options": [
-        {
-          "id": 13451083907403,
-          "product_id": 10825157640523,
-          "name": "style",
-          "position": 1,
-          "values": [
-            "30PIECES"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "id": 64366960935243,
-          "alt": "XiMonth Anti-Snoring Sleep Patch 30pcs Cotton Sleep Stickers for Quiet Restful Nights & Relaxation",
-          "position": 1,
-          "product_id": 10825157640523,
-          "created_at": "2025-08-27T06:10:45+01:00",
-          "updated_at": "2025-09-05T18:20:08+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64366960935243",
-          "width": 1600,
-          "height": 1600,
-          "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/27bd7d43-8302-4ccf-ae34-cac09044a238.jpg?v=1756485673",
-          "variant_ids": []
-        },
-        {
-          "id": 64366961099083,
-          "alt": "Ccf Sleep Patch for Better Sleep",
-          "position": 2,
-          "product_id": 10825157640523,
-          "created_at": "2025-08-27T06:10:45+01:00",
-          "updated_at": "2025-08-29T17:41:14+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64366961099083",
-          "width": 1600,
-          "height": 1600,
-          "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/27bd7d43-8302-4ccf-ae34-cac09044a238_cc6282a0-a056-4bbe-8d72-cbe40c453d46.jpg?v=1756485674",
-          "variant_ids": [
-            53257327149387
-          ]
-        }
-      ],
-      "image": {
-        "id": 64366960935243,
-        "alt": "XiMonth Anti-Snoring Sleep Patch 30pcs Cotton Sleep Stickers for Quiet Restful Nights & Relaxation",
-        "position": 1,
-        "product_id": 10825157640523,
-        "created_at": "2025-08-27T06:10:45+01:00",
-        "updated_at": "2025-09-05T18:20:08+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64366960935243",
-        "width": 1600,
-        "height": 1600,
-        "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/27bd7d43-8302-4ccf-ae34-cac09044a238.jpg?v=1756485673",
-        "variant_ids": []
-      }
     }
   ],
   "pagination": {
     "current_page": 2,
     "total_pages": 3,
-    "products_per_page": 250,
-    "total_products": 523,
-    "products_in_page": 250,
+    "items_per_page": 250,
+    "total_items": 524,
+    "items_in_page": 250,
     "has_next_page": true,
     "has_previous_page": true,
-    "next_page_file": "valentines-day-couples-sleep-gifts_products_page3.json",
-    "previous_page_file": "valentines-day-couples-sleep-gifts_products.json"
+    "next_page_file": "products_page3.json",
+    "previous_page_file": "products.json"
   }
 }
