@@ -559,8 +559,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189583691",
       "variants": [
         {
-          "id": 53331896009035,
           "product_id": 14776189583691,
+          "id": 53331896009035,
           "title": "Curtain / 31",
           "price": "32.43",
           "position": 1,
@@ -587,8 +587,8 @@
           "image_id": null
         },
         {
-          "id": 53331896041803,
           "product_id": 14776189583691,
+          "id": 53331896041803,
           "title": "Curtain / 30",
           "price": "32.43",
           "position": 2,
@@ -615,8 +615,8 @@
           "image_id": null
         },
         {
-          "id": 53331896074571,
           "product_id": 14776189583691,
+          "id": 53331896074571,
           "title": "Curtain / 34",
           "price": "32.43",
           "position": 3,
@@ -643,8 +643,8 @@
           "image_id": null
         },
         {
-          "id": 53331896107339,
           "product_id": 14776189583691,
+          "id": 53331896107339,
           "title": "Curtain / 25",
           "price": "32.43",
           "position": 4,
@@ -671,8 +671,8 @@
           "image_id": null
         },
         {
-          "id": 53331896140107,
           "product_id": 14776189583691,
+          "id": 53331896140107,
           "title": "Curtain / 23",
           "price": "32.43",
           "position": 5,
@@ -699,8 +699,8 @@
           "image_id": null
         },
         {
-          "id": 53331896172875,
           "product_id": 14776189583691,
+          "id": 53331896172875,
           "title": "Curtain / 24",
           "price": "32.43",
           "position": 6,
@@ -727,8 +727,8 @@
           "image_id": null
         },
         {
-          "id": 53331896205643,
           "product_id": 14776189583691,
+          "id": 53331896205643,
           "title": "Curtain / 26",
           "price": "32.43",
           "position": 7,
@@ -757,8 +757,8 @@
       ],
       "options": [
         {
-          "id": 17121696710987,
           "product_id": 14776189583691,
+          "id": 17121696710987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -766,8 +766,8 @@
           ]
         },
         {
-          "id": 17121696743755,
           "product_id": 14776189583691,
+          "id": 17121696743755,
           "name": "Style",
           "position": 2,
           "values": [
@@ -74201,8 +74201,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047323979",
       "variants": [
         {
-          "id": 53327244591435,
           "product_id": 14775047323979,
+          "id": 53327244591435,
           "title": "Deep Grey",
           "price": "43.96",
           "position": 1,
@@ -74229,8 +74229,8 @@
           "image_id": 64648552448331
         },
         {
-          "id": 53327244624203,
           "product_id": 14775047323979,
+          "id": 53327244624203,
           "title": "Light Grey",
           "price": "43.96",
           "position": 2,
@@ -74257,8 +74257,8 @@
           "image_id": 64648552481099
         },
         {
-          "id": 53327244656971,
           "product_id": 14775047323979,
+          "id": 53327244656971,
           "title": "Royal Blue",
           "price": "43.96",
           "position": 3,
@@ -74287,8 +74287,8 @@
       ],
       "options": [
         {
-          "id": 17120337658187,
           "product_id": 14775047323979,
+          "id": 17120337658187,
           "name": "Color",
           "position": 1,
           "values": [
@@ -96078,8 +96078,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773677326667",
       "variants": [
         {
-          "id": 53317771526475,
           "product_id": 14773677326667,
+          "id": 53317771526475,
           "title": "Beige / 100x150CM",
           "price": "41.69",
           "position": 1,
@@ -96106,8 +96106,8 @@
           "image_id": 64625018831179
         },
         {
-          "id": 53317771559243,
           "product_id": 14773677326667,
+          "id": 53317771559243,
           "title": "Beige / 70x100CM",
           "price": "40.38",
           "position": 2,
@@ -96134,8 +96134,8 @@
           "image_id": 64625018831179
         },
         {
-          "id": 53317771592011,
           "product_id": 14773677326667,
+          "id": 53317771592011,
           "title": "Lake Blue / 100x150CM",
           "price": "41.69",
           "position": 3,
@@ -96162,8 +96162,8 @@
           "image_id": 64625018863947
         },
         {
-          "id": 53317771624779,
           "product_id": 14773677326667,
+          "id": 53317771624779,
           "title": "Lake Blue / 70x100CM",
           "price": "40.38",
           "position": 4,
@@ -96192,8 +96192,8 @@
       ],
       "options": [
         {
-          "id": 17118500356427,
           "product_id": 14773677326667,
+          "id": 17118500356427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -96202,8 +96202,8 @@
           ]
         },
         {
-          "id": 17118500389195,
           "product_id": 14773677326667,
+          "id": 17118500389195,
           "name": "Size",
           "position": 2,
           "values": [
