@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-03T12:37:25+01:00",
+      "updated_at": "2025-10-03T13:00:50+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -291,12 +291,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T19:03:24+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-03T13:00:50+01:00",
+          "summary_html": "<p>Portable white noise machines are a must-have for travelers battling noisy hotels, flights, or jet lag. Weighing under 400g with USB-rechargeable batteries lasting up to 20 hours, these compact devices fit easily in luggage while delivering powerful sound therapy. With options ranging from budget-friendly models at £51.99 to premium Bluetooth-enabled units at £390.44, they provide customizable soundscapes, night lights, and smart app control to ensure restful sleep anywhere in the world.</p>",
           "template_suffix": "article",
           "handle": "portable-white-noise-machines-for-travel-compact-solutions",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998689964363"
+          "admin_graphql_api_id": "gid://shopify/Article/998689964363",
+          "image": {
+            "created_at": "2025-10-03T13:00:49+01:00",
+            "alt": "Traveler using white noise machine on airplane",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A3_0ae79be2-c971-40b4-a11a-adfe66964610.jpg?v=1759492850"
+          }
         },
         {
           "id": 998689309003,
@@ -306,12 +313,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T18:49:14+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-03T12:45:10+01:00",
+          "summary_html": "<p>Smart sound machines have evolved beyond basic white noise, offering Bluetooth connectivity, app control, wireless charging, and smart home integration. From budget-friendly models under £50 to premium devices with AI-powered sleep coaching, these machines create personalized soundscapes that improve rest, track sleep, and sync with voice assistants. Perfect for families, frequent travelers, or tech-savvy sleepers, they deliver hotel-quality sleep at home.</p>",
           "template_suffix": "article",
           "handle": "smart-sound-machines-app-controlled-sleep-technology-guide",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998689309003"
+          "admin_graphql_api_id": "gid://shopify/Article/998689309003",
+          "image": {
+            "created_at": "2025-10-03T12:45:08+01:00",
+            "alt": "Smart sound machine setup beside a bed",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A2_650e3671-a8c8-4078-89a4-725e910e9b3a.png?v=1759491910"
+          }
         },
         {
           "id": 998681706827,
