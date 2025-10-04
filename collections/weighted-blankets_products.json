@@ -3166,8 +3166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "id": 53325483671883,
           "product_id": 14774885876043,
+          "id": 53325483671883,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -3194,8 +3194,8 @@
           "image_id": 64643911024971
         },
         {
-          "id": 53325483704651,
           "product_id": 14774885876043,
+          "id": 53325483704651,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -3222,8 +3222,8 @@
           "image_id": 64643911024971
         },
         {
-          "id": 53325483737419,
           "product_id": 14774885876043,
+          "id": 53325483737419,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -3252,8 +3252,8 @@
       ],
       "options": [
         {
-          "id": 17120122995019,
           "product_id": 14774885876043,
+          "id": 17120122995019,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -3263,8 +3263,8 @@
           ]
         },
         {
-          "id": 17120123027787,
           "product_id": 14774885876043,
+          "id": 17120123027787,
           "name": "Color",
           "position": 2,
           "values": [
