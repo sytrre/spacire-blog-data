@@ -8150,8 +8150,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045999947",
       "variants": [
         {
-          "id": 53256583807307,
           "product_id": 10825045999947,
+          "id": 53256583807307,
           "title": "Grey",
           "price": "31.41",
           "position": 1,
@@ -8178,8 +8178,8 @@
           "image_id": 64365205389643
         },
         {
-          "id": 53256583840075,
           "product_id": 10825045999947,
+          "id": 53256583840075,
           "title": "Black",
           "price": "31.41",
           "position": 2,
@@ -8208,8 +8208,8 @@
       ],
       "options": [
         {
-          "id": 13450921738571,
           "product_id": 10825045999947,
+          "id": 13450921738571,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18325,8 +18325,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "product_id": 14774885876043,
           "id": 53325483671883,
+          "product_id": 14774885876043,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -18353,8 +18353,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483704651,
+          "product_id": 14774885876043,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -18381,8 +18381,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483737419,
+          "product_id": 14774885876043,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -18411,8 +18411,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885876043,
           "id": 17120122995019,
+          "product_id": 14774885876043,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -18422,8 +18422,8 @@
           ]
         },
         {
-          "product_id": 14774885876043,
           "id": 17120123027787,
+          "product_id": 14774885876043,
           "name": "Color",
           "position": 2,
           "values": [
@@ -93064,8 +93064,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "id": 53256408367435,
           "product_id": 10825005203787,
+          "id": 53256408367435,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -93094,8 +93094,8 @@
       ],
       "options": [
         {
-          "id": 13450870784331,
           "product_id": 10825005203787,
+          "id": 13450870784331,
           "name": "capacity",
           "position": 1,
           "values": [
