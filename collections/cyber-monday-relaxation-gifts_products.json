@@ -4180,8 +4180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -4208,8 +4208,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -4236,8 +4236,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -4264,8 +4264,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -4294,8 +4294,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4306,8 +4306,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -18325,8 +18325,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "product_id": 14774885876043,
           "id": 53325483671883,
+          "product_id": 14774885876043,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -18353,8 +18353,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483704651,
+          "product_id": 14774885876043,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -18381,8 +18381,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483737419,
+          "product_id": 14774885876043,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -18411,8 +18411,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885876043,
           "id": 17120122995019,
+          "product_id": 14774885876043,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -18422,8 +18422,8 @@
           ]
         },
         {
-          "product_id": 14774885876043,
           "id": 17120123027787,
+          "product_id": 14774885876043,
           "name": "Color",
           "position": 2,
           "values": [
