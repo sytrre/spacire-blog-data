@@ -68166,8 +68166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "id": 53256805089611,
           "product_id": 10825080734027,
+          "id": 53256805089611,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -68194,8 +68194,8 @@
           "image_id": 64365601521995
         },
         {
-          "id": 53256805122379,
           "product_id": 10825080734027,
+          "id": 53256805122379,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -68224,8 +68224,8 @@
       ],
       "options": [
         {
-          "id": 13450968596811,
           "product_id": 10825080734027,
+          "id": 13450968596811,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -93064,8 +93064,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "product_id": 10825005203787,
           "id": 53256408367435,
+          "product_id": 10825005203787,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -93094,8 +93094,8 @@
       ],
       "options": [
         {
-          "product_id": 10825005203787,
           "id": 13450870784331,
+          "product_id": 10825005203787,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -93329,8 +93329,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159180619",
       "variants": [
         {
-          "product_id": 10825159180619,
           "id": 53257350152523,
+          "product_id": 10825159180619,
           "title": "Blue",
           "price": "33.57",
           "position": 1,
@@ -93359,8 +93359,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159180619,
           "id": 13451086430539,
+          "product_id": 10825159180619,
           "name": "Color",
           "position": 1,
           "values": [
