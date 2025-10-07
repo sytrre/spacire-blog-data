@@ -64275,8 +64275,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106096459",
       "variants": [
         {
-          "product_id": 10825106096459,
           "id": 53256911520075,
+          "product_id": 10825106096459,
           "title": "White / 5W",
           "price": "441.62",
           "position": 1,
@@ -64305,8 +64305,8 @@
       ],
       "options": [
         {
-          "product_id": 10825106096459,
           "id": 13451007918411,
+          "product_id": 10825106096459,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -64314,8 +64314,8 @@
           ]
         },
         {
-          "product_id": 10825106096459,
           "id": 13451007951179,
+          "product_id": 10825106096459,
           "name": "Light Source Power",
           "position": 2,
           "values": [
