@@ -12948,8 +12948,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "id": 53252706828619,
           "product_id": 10823805174091,
+          "id": 53252706828619,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -12978,8 +12978,8 @@
       ],
       "options": [
         {
-          "id": 13449536799051,
           "product_id": 10823805174091,
+          "id": 13449536799051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12987,8 +12987,8 @@
           ]
         },
         {
-          "id": 13449536831819,
           "product_id": 10823805174091,
+          "id": 13449536831819,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -15187,8 +15187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "id": 53256763375947,
           "product_id": 10825071165771,
+          "id": 53256763375947,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -15217,8 +15217,8 @@
       ],
       "options": [
         {
-          "id": 13450956013899,
           "product_id": 10825071165771,
+          "id": 13450956013899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32066,8 +32066,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -32096,8 +32096,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -32105,8 +32105,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -39140,8 +39140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -39170,8 +39170,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44007,8 +44007,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823620198731",
       "variants": [
         {
-          "product_id": 10823620198731,
           "id": 53251763700043,
+          "product_id": 10823620198731,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -44035,8 +44035,8 @@
           "image_id": 64329604170059
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763732811,
+          "product_id": 10823620198731,
           "title": "Carbon ash",
           "price": "27.99",
           "position": 2,
@@ -44063,8 +44063,8 @@
           "image_id": 64329604202827
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763765579,
+          "product_id": 10823620198731,
           "title": "Gray",
           "price": "27.99",
           "position": 3,
@@ -44091,8 +44091,8 @@
           "image_id": 64329604235595
         },
         {
-          "product_id": 10823620198731,
           "id": 53251763798347,
+          "product_id": 10823620198731,
           "title": "Pink",
           "price": "27.99",
           "position": 4,
@@ -44121,8 +44121,8 @@
       ],
       "options": [
         {
-          "product_id": 10823620198731,
           "id": 13449257091403,
+          "product_id": 10823620198731,
           "name": "Color",
           "position": 1,
           "values": [

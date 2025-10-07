@@ -22963,8 +22963,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "id": 53252706828619,
           "product_id": 10823805174091,
+          "id": 53252706828619,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -22993,8 +22993,8 @@
       ],
       "options": [
         {
-          "id": 13449536799051,
           "product_id": 10823805174091,
+          "id": 13449536799051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23002,8 +23002,8 @@
           ]
         },
         {
-          "id": 13449536831819,
           "product_id": 10823805174091,
+          "id": 13449536831819,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -28322,8 +28322,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "id": 53256763375947,
           "product_id": 10825071165771,
+          "id": 53256763375947,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -28352,8 +28352,8 @@
       ],
       "options": [
         {
-          "id": 13450956013899,
           "product_id": 10825071165771,
+          "id": 13450956013899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -45683,8 +45683,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954334027",
       "variants": [
         {
-          "id": 53253609226571,
           "product_id": 10823954334027,
+          "id": 53253609226571,
           "title": "White / USB",
           "price": "33.49",
           "position": 1,
@@ -45713,8 +45713,8 @@
       ],
       "options": [
         {
-          "id": 13449723117899,
           "product_id": 10823954334027,
+          "id": 13449723117899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -45722,8 +45722,8 @@
           ]
         },
         {
-          "id": 13449723150667,
           "product_id": 10823954334027,
+          "id": 13449723150667,
           "name": "format",
           "position": 2,
           "values": [
@@ -97343,8 +97343,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -97373,8 +97373,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -97382,8 +97382,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -117613,8 +117613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775069770059",
       "variants": [
         {
-          "id": 53327361474891,
           "product_id": 14775069770059,
+          "id": 53327361474891,
           "title": "Magnetic Cloth Dark Gray / 44x38x12cm",
           "price": "48.02",
           "position": 1,
@@ -117641,8 +117641,8 @@
           "image_id": 64649704276299
         },
         {
-          "id": 53327361507659,
           "product_id": 14775069770059,
+          "id": 53327361507659,
           "title": "Magnetic Cloth Light Gray / 44x38x12cm",
           "price": "48.02",
           "position": 2,
@@ -117669,8 +117669,8 @@
           "image_id": 64649704309067
         },
         {
-          "id": 53327361540427,
           "product_id": 14775069770059,
+          "id": 53327361540427,
           "title": "Magnetic Cloth Color Matching / 44x38x12cm",
           "price": "48.02",
           "position": 3,
@@ -117697,8 +117697,8 @@
           "image_id": 64649704341835
         },
         {
-          "id": 53327361573195,
           "product_id": 14775069770059,
+          "id": 53327361573195,
           "title": "Set1 / 44x38x12cm",
           "price": "54.34",
           "position": 4,
@@ -117725,8 +117725,8 @@
           "image_id": 64649704374603
         },
         {
-          "id": 53327361605963,
           "product_id": 14775069770059,
+          "id": 53327361605963,
           "title": "Set2 / 44x38x12cm",
           "price": "54.10",
           "position": 5,
@@ -117755,8 +117755,8 @@
       ],
       "options": [
         {
-          "id": 17120365543755,
           "product_id": 14775069770059,
+          "id": 17120365543755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -117768,8 +117768,8 @@
           ]
         },
         {
-          "id": 17120365576523,
           "product_id": 14775069770059,
+          "id": 17120365576523,
           "name": "Size",
           "position": 2,
           "values": [
