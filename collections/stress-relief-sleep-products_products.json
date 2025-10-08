@@ -14027,8 +14027,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "product_id": 10823805174091,
           "id": 53252706828619,
+          "product_id": 10823805174091,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -14057,8 +14057,8 @@
       ],
       "options": [
         {
-          "product_id": 10823805174091,
           "id": 13449536799051,
+          "product_id": 10823805174091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14066,8 +14066,8 @@
           ]
         },
         {
-          "product_id": 10823805174091,
           "id": 13449536831819,
+          "product_id": 10823805174091,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -16869,8 +16869,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "product_id": 10825071165771,
           "id": 53256763375947,
+          "product_id": 10825071165771,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -16899,8 +16899,8 @@
       ],
       "options": [
         {
-          "product_id": 10825071165771,
           "id": 13450956013899,
+          "product_id": 10825071165771,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34709,8 +34709,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "product_id": 10825031188811,
           "id": 53256535900491,
+          "product_id": 10825031188811,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -34739,8 +34739,8 @@
       ],
       "options": [
         {
-          "product_id": 10825031188811,
           "id": 13450901717323,
+          "product_id": 10825031188811,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -34748,8 +34748,8 @@
           ]
         },
         {
-          "product_id": 10825031188811,
           "id": 13450901750091,
+          "product_id": 10825031188811,
           "name": "Power",
           "position": 2,
           "values": [
@@ -41883,8 +41883,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "product_id": 10825050194251,
           "id": 53256602091851,
+          "product_id": 10825050194251,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -41913,8 +41913,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050194251,
           "id": 13450926260555,
+          "product_id": 10825050194251,
           "name": "Color",
           "position": 1,
           "values": [
