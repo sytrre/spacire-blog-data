@@ -17543,8 +17543,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771563528523",
       "variants": [
         {
-          "product_id": 14771563528523,
           "id": 53310479302987,
+          "product_id": 14771563528523,
           "title": "White / 40x65cm",
           "price": "40.79",
           "position": 1,
@@ -17573,8 +17573,8 @@
       ],
       "options": [
         {
-          "product_id": 14771563528523,
           "id": 17116099445067,
+          "product_id": 14771563528523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17582,8 +17582,8 @@
           ]
         },
         {
-          "product_id": 14771563528523,
           "id": 17116099477835,
+          "product_id": 14771563528523,
           "name": "Size Specification",
           "position": 2,
           "values": [
