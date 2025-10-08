@@ -26189,8 +26189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773403582795",
       "variants": [
         {
-          "id": 53317155619147,
           "product_id": 14773403582795,
+          "id": 53317155619147,
           "title": "Bean paste powder / 130x170CM",
           "price": "49.12",
           "position": 1,
@@ -26217,8 +26217,8 @@
           "image_id": 64620961464651
         },
         {
-          "id": 53317155651915,
           "product_id": 14773403582795,
+          "id": 53317155651915,
           "title": "Sea blue / 130x170CM",
           "price": "49.12",
           "position": 2,
@@ -26247,8 +26247,8 @@
       ],
       "options": [
         {
-          "id": 17118208950603,
           "product_id": 14773403582795,
+          "id": 17118208950603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26257,8 +26257,8 @@
           ]
         },
         {
-          "id": 17118208983371,
           "product_id": 14773403582795,
+          "id": 17118208983371,
           "name": "Size",
           "position": 2,
           "values": [
@@ -117620,8 +117620,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775069770059",
       "variants": [
         {
-          "product_id": 14775069770059,
           "id": 53327361474891,
+          "product_id": 14775069770059,
           "title": "Magnetic Cloth Dark Gray / 44x38x12cm",
           "price": "48.02",
           "position": 1,
@@ -117648,8 +117648,8 @@
           "image_id": 64649704276299
         },
         {
-          "product_id": 14775069770059,
           "id": 53327361507659,
+          "product_id": 14775069770059,
           "title": "Magnetic Cloth Light Gray / 44x38x12cm",
           "price": "48.02",
           "position": 2,
@@ -117676,8 +117676,8 @@
           "image_id": 64649704309067
         },
         {
-          "product_id": 14775069770059,
           "id": 53327361540427,
+          "product_id": 14775069770059,
           "title": "Magnetic Cloth Color Matching / 44x38x12cm",
           "price": "48.02",
           "position": 3,
@@ -117704,8 +117704,8 @@
           "image_id": 64649704341835
         },
         {
-          "product_id": 14775069770059,
           "id": 53327361573195,
+          "product_id": 14775069770059,
           "title": "Set1 / 44x38x12cm",
           "price": "54.34",
           "position": 4,
@@ -117732,8 +117732,8 @@
           "image_id": 64649704374603
         },
         {
-          "product_id": 14775069770059,
           "id": 53327361605963,
+          "product_id": 14775069770059,
           "title": "Set2 / 44x38x12cm",
           "price": "54.10",
           "position": 5,
@@ -117762,8 +117762,8 @@
       ],
       "options": [
         {
-          "product_id": 14775069770059,
           "id": 17120365543755,
+          "product_id": 14775069770059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -117775,8 +117775,8 @@
           ]
         },
         {
-          "product_id": 14775069770059,
           "id": 17120365576523,
+          "product_id": 14775069770059,
           "name": "Size",
           "position": 2,
           "values": [
