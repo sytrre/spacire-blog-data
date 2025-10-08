@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904029515",
       "variants": [
         {
-          "id": 53325628408139,
           "product_id": 14774904029515,
+          "id": 53325628408139,
           "title": "White / 48X74cm",
           "price": "26.91",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64644456579403
         },
         {
-          "id": 53325628440907,
           "product_id": 14774904029515,
+          "id": 53325628440907,
           "title": "Grey / 48X74cm",
           "price": "26.38",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64644456612171
         },
         {
-          "id": 53325628473675,
           "product_id": 14774904029515,
+          "id": 53325628473675,
           "title": "Pink / 48X74cm",
           "price": "26.38",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64644456644939
         },
         {
-          "id": 53325628506443,
           "product_id": 14774904029515,
+          "id": 53325628506443,
           "title": "Yellow / 48X74cm",
           "price": "26.38",
           "position": 4,
@@ -136,8 +136,8 @@
           "image_id": 64644456677707
         },
         {
-          "id": 53325628539211,
           "product_id": 14774904029515,
+          "id": 53325628539211,
           "title": "Coffee / 48X74cm",
           "price": "26.38",
           "position": 5,
@@ -166,8 +166,8 @@
       ],
       "options": [
         {
-          "id": 17120142950731,
           "product_id": 14774904029515,
+          "id": 17120142950731,
           "name": "Color",
           "position": 1,
           "values": [
@@ -179,8 +179,8 @@
           ]
         },
         {
-          "id": 17120142983499,
           "product_id": 14774904029515,
+          "id": 17120142983499,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
