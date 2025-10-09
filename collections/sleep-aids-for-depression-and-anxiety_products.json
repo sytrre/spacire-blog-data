@@ -9407,8 +9407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904029515",
       "variants": [
         {
-          "product_id": 14774904029515,
           "id": 53325628408139,
+          "product_id": 14774904029515,
           "title": "White / 48X74cm",
           "price": "26.91",
           "position": 1,
@@ -9435,8 +9435,8 @@
           "image_id": 64644456579403
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628440907,
+          "product_id": 14774904029515,
           "title": "Grey / 48X74cm",
           "price": "26.38",
           "position": 2,
@@ -9463,8 +9463,8 @@
           "image_id": 64644456612171
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628473675,
+          "product_id": 14774904029515,
           "title": "Pink / 48X74cm",
           "price": "26.38",
           "position": 3,
@@ -9491,8 +9491,8 @@
           "image_id": 64644456644939
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628506443,
+          "product_id": 14774904029515,
           "title": "Yellow / 48X74cm",
           "price": "26.38",
           "position": 4,
@@ -9519,8 +9519,8 @@
           "image_id": 64644456677707
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628539211,
+          "product_id": 14774904029515,
           "title": "Coffee / 48X74cm",
           "price": "26.38",
           "position": 5,
@@ -9549,8 +9549,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904029515,
           "id": 17120142950731,
+          "product_id": 14774904029515,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9562,8 +9562,8 @@
           ]
         },
         {
-          "product_id": 14774904029515,
           "id": 17120142983499,
+          "product_id": 14774904029515,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -34684,8 +34684,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774078079307",
       "variants": [
         {
-          "product_id": 14774078079307,
           "id": 53320560607563,
+          "product_id": 14774078079307,
           "title": "Black / 200cmx150cm",
           "price": "94.97",
           "position": 1,
@@ -34712,8 +34712,8 @@
           "image_id": 64633502990667
         },
         {
-          "product_id": 14774078079307,
           "id": 53320560640331,
+          "product_id": 14774078079307,
           "title": "Black / 240cmx70cm",
           "price": "80.19",
           "position": 2,
@@ -34740,8 +34740,8 @@
           "image_id": 64633502990667
         },
         {
-          "product_id": 14774078079307,
           "id": 53320560673099,
+          "product_id": 14774078079307,
           "title": "Black / 180cmx150cm",
           "price": "91.89",
           "position": 3,
@@ -34768,8 +34768,8 @@
           "image_id": 64633502990667
         },
         {
-          "product_id": 14774078079307,
           "id": 53320560705867,
+          "product_id": 14774078079307,
           "title": "Black / 220cmx75cm",
           "price": "81.41",
           "position": 4,
@@ -34798,8 +34798,8 @@
       ],
       "options": [
         {
-          "product_id": 14774078079307,
           "id": 17119058231627,
+          "product_id": 14774078079307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34807,8 +34807,8 @@
           ]
         },
         {
-          "product_id": 14774078079307,
           "id": 17119058264395,
+          "product_id": 14774078079307,
           "name": "Dimensions",
           "position": 2,
           "values": [
