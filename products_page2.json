@@ -99396,8 +99396,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14815189860683",
       "variants": [
         {
-          "product_id": 14815189860683,
           "id": 53483076878667,
+          "product_id": 14815189860683,
           "title": "Sleep oil",
           "price": "20.95",
           "position": 1,
@@ -99426,8 +99426,8 @@
       ],
       "options": [
         {
-          "product_id": 14815189860683,
           "id": 17167687975243,
+          "product_id": 14815189860683,
           "name": "style",
           "position": 1,
           "values": [
