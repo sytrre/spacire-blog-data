@@ -39477,8 +39477,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659225419",
       "variants": [
         {
-          "id": 53251954966859,
           "product_id": 10823659225419,
+          "id": 53251954966859,
           "title": "White / A13 / USB",
           "price": "59.99",
           "position": 1,
@@ -39505,8 +39505,8 @@
           "image_id": 64329977037131
         },
         {
-          "id": 53251954999627,
           "product_id": 10823659225419,
+          "id": 53251954999627,
           "title": "White / A15 / USB",
           "price": "44.99",
           "position": 2,
@@ -39535,8 +39535,8 @@
       ],
       "options": [
         {
-          "id": 13449301786955,
           "product_id": 10823659225419,
+          "id": 13449301786955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -39544,8 +39544,8 @@
           ]
         },
         {
-          "id": 13449301819723,
           "product_id": 10823659225419,
+          "id": 13449301819723,
           "name": "style",
           "position": 2,
           "values": [
@@ -39554,8 +39554,8 @@
           ]
         },
         {
-          "id": 13449301852491,
           "product_id": 10823659225419,
+          "id": 13449301852491,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
