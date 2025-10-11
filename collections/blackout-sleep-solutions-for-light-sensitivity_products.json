@@ -8369,8 +8369,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "product_id": 10825056452939,
           "id": 53256627061067,
+          "product_id": 10825056452939,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -8399,8 +8399,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056452939,
           "id": 13450933338443,
+          "product_id": 10825056452939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8408,8 +8408,8 @@
           ]
         },
         {
-          "product_id": 10825056452939,
           "id": 13450933371211,
+          "product_id": 10825056452939,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -40156,8 +40156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "product_id": 10823815659851,
           "id": 53252755915083,
+          "product_id": 10823815659851,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -40186,8 +40186,8 @@
       ],
       "options": [
         {
-          "product_id": 10823815659851,
           "id": 13449548726603,
+          "product_id": 10823815659851,
           "name": "Color",
           "position": 1,
           "values": [
