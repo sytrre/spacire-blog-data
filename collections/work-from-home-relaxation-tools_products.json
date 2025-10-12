@@ -2900,8 +2900,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -2930,8 +2930,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2939,8 +2939,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
