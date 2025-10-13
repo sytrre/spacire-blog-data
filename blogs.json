@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-13T12:37:01+01:00",
+      "updated_at": "2025-10-13T13:52:46+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Blackout curtains",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998881821003,
+          "title": "Complete Guide to Blackout Curtains: Types, Benefits & Installation",
+          "created_at": "2025-10-13T13:52:46+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-13T13:52:46+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "complete-guide-to-blackout-curtains-types-benefits-installation",
+          "tags": "Blackout curtains",
+          "admin_graphql_api_id": "gid://shopify/Article/998881821003"
+        },
         {
           "id": 998714573131,
           "title": "Weighted Blankets for Couples: Sharing Solutions",
