@@ -64092,8 +64092,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743045963",
       "variants": [
         {
-          "product_id": 10823743045963,
           "id": 53252370202955,
+          "product_id": 10823743045963,
           "title": "Late Night Black",
           "price": "69.99",
           "position": 1,
@@ -64120,8 +64120,8 @@
           "image_id": 64331629232459
         },
         {
-          "product_id": 10823743045963,
           "id": 53252370235723,
+          "product_id": 10823743045963,
           "title": "Midnight Gray",
           "price": "69.99",
           "position": 2,
@@ -64150,8 +64150,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743045963,
           "id": 13449443279179,
+          "product_id": 10823743045963,
           "name": "Color",
           "position": 1,
           "values": [
