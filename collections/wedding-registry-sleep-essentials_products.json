@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794688331",
       "variants": [
         {
-          "id": 53252663083339,
           "product_id": 10823794688331,
+          "id": 53252663083339,
           "title": "Silver",
           "price": "44.99",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64332501745995
         },
         {
-          "id": 53252663116107,
           "product_id": 10823794688331,
+          "id": 53252663116107,
           "title": "White",
           "price": "44.99",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13449524478283,
           "product_id": 10823794688331,
+          "id": 13449524478283,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8150,8 +8150,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045999947",
       "variants": [
         {
-          "id": 53256583807307,
           "product_id": 10825045999947,
+          "id": 53256583807307,
           "title": "Grey",
           "price": "31.41",
           "position": 1,
@@ -8178,8 +8178,8 @@
           "image_id": 64365205389643
         },
         {
-          "id": 53256583840075,
           "product_id": 10825045999947,
+          "id": 53256583840075,
           "title": "Black",
           "price": "31.41",
           "position": 2,
@@ -8208,8 +8208,8 @@
       ],
       "options": [
         {
-          "id": 13450921738571,
           "product_id": 10825045999947,
+          "id": 13450921738571,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12821,8 +12821,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772563738955",
       "variants": [
         {
-          "id": 53314611773771,
           "product_id": 14772563738955,
+          "id": 53314611773771,
           "title": "Independent Carton Packaging",
           "price": "51.17",
           "position": 1,
@@ -12851,8 +12851,8 @@
       ],
       "options": [
         {
-          "id": 17117259989323,
           "product_id": 14772563738955,
+          "id": 17117259989323,
           "name": "Size Specification",
           "position": 1,
           "values": [
