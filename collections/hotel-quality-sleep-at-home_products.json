@@ -35162,8 +35162,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047998795",
       "variants": [
         {
-          "product_id": 10825047998795,
           "id": 53256594129227,
+          "product_id": 10825047998795,
           "title": "Black and white panda",
           "price": "30.99",
           "position": 1,
@@ -35190,8 +35190,8 @@
           "image_id": 64365228917067
         },
         {
-          "product_id": 10825047998795,
           "id": 53256594161995,
+          "product_id": 10825047998795,
           "title": "Grey crown bear",
           "price": "30.99",
           "position": 2,
@@ -35218,8 +35218,8 @@
           "image_id": 64365228949835
         },
         {
-          "product_id": 10825047998795,
           "id": 53256594194763,
+          "product_id": 10825047998795,
           "title": "Pink mouse",
           "price": "30.99",
           "position": 3,
@@ -35248,8 +35248,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047998795,
           "id": 13450923868491,
+          "product_id": 10825047998795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -93164,8 +93164,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159049547",
       "variants": [
         {
-          "id": 53257349857611,
           "product_id": 10825159049547,
+          "id": 53257349857611,
           "title": "48pcs",
           "price": "30.77",
           "position": 1,
@@ -93194,8 +93194,8 @@
       ],
       "options": [
         {
-          "id": 13451086299467,
           "product_id": 10825159049547,
+          "id": 13451086299467,
           "name": "Net Content",
           "position": 1,
           "values": [
