@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-14T12:48:22+01:00",
+      "updated_at": "2025-10-14T13:03:32+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Blackout Blinds, Deep Pressure Therapy",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998894043467,
+          "title": "Travel Weighted Blankets: Portable Anxiety Relief for Better Sleep On the Go",
+          "created_at": "2025-10-14T13:03:32+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-14T13:03:32+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "travel-weighted-blankets-portable-anxiety-relief-for-better-sleep-on-the-go",
+          "tags": "Deep Pressure Therapy, Weighted Blankets",
+          "admin_graphql_api_id": "gid://shopify/Article/998894043467"
+        },
         {
           "id": 998893879627,
           "title": "Weighted Blankets for Restless Leg Syndrome: Therapeutic Relief Through Deep Pressure",
