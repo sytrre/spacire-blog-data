@@ -12269,8 +12269,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823676428619",
       "variants": [
         {
-          "id": 53252001857867,
           "product_id": 10823676428619,
+          "id": 53252001857867,
           "title": "Default",
           "price": "55.99",
           "position": 1,
@@ -12299,8 +12299,8 @@
       ],
       "options": [
         {
-          "id": 13449321382219,
           "product_id": 10823676428619,
+          "id": 13449321382219,
           "name": "CJ default",
           "position": 1,
           "values": [
@@ -14449,8 +14449,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "id": 53253498896715,
           "product_id": 10823912358219,
+          "id": 53253498896715,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -14477,8 +14477,8 @@
           "image_id": 64334872019275
         },
         {
-          "id": 53253498929483,
           "product_id": 10823912358219,
+          "id": 53253498929483,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -14507,8 +14507,8 @@
       ],
       "options": [
         {
-          "id": 13449676718411,
           "product_id": 10823912358219,
+          "id": 13449676718411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24688,8 +24688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904160587",
       "variants": [
         {
-          "product_id": 14774904160587,
           "id": 53325630603595,
+          "product_id": 14774904160587,
           "title": "L",
           "price": "27.83",
           "position": 1,
@@ -24716,8 +24716,8 @@
           "image_id": 64644462772555
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630636363,
+          "product_id": 14774904160587,
           "title": "M",
           "price": "26.72",
           "position": 2,
@@ -24744,8 +24744,8 @@
           "image_id": 64644462805323
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630669131,
+          "product_id": 14774904160587,
           "title": "Upgrade",
           "price": "31.17",
           "position": 3,
@@ -24772,8 +24772,8 @@
           "image_id": 64644462838091
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630701899,
+          "product_id": 14774904160587,
           "title": "S",
           "price": "25.61",
           "position": 4,
@@ -24802,8 +24802,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904160587,
           "id": 17120143212875,
+          "product_id": 14774904160587,
           "name": "Size",
           "position": 1,
           "values": [
@@ -32112,8 +32112,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -32142,8 +32142,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67644,8 +67644,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823619936587",
       "variants": [
         {
-          "id": 53251753935179,
           "product_id": 10823619936587,
+          "id": 53251753935179,
           "title": "Black",
           "price": "36.49",
           "position": 1,
@@ -67674,8 +67674,8 @@
       ],
       "options": [
         {
-          "id": 13449256632651,
           "product_id": 10823619936587,
+          "id": 13449256632651,
           "name": "Color",
           "position": 1,
           "values": [
@@ -94429,8 +94429,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "product_id": 10823681016139,
           "id": 53252019913035,
+          "product_id": 10823681016139,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -94457,8 +94457,8 @@
           "image_id": 64330808787275
         },
         {
-          "product_id": 10823681016139,
           "id": 53252019945803,
+          "product_id": 10823681016139,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -94487,8 +94487,8 @@
       ],
       "options": [
         {
-          "product_id": 10823681016139,
           "id": 13449326625099,
+          "product_id": 10823681016139,
           "name": "Color",
           "position": 1,
           "values": [
@@ -94497,8 +94497,8 @@
           ]
         },
         {
-          "product_id": 10823681016139,
           "id": 13449326657867,
+          "product_id": 10823681016139,
           "name": "Model",
           "position": 2,
           "values": [
