@@ -61603,8 +61603,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099673931",
       "variants": [
         {
-          "id": 53256899526987,
           "product_id": 10825099673931,
+          "id": 53256899526987,
           "title": "FS301 Bluetooth White",
           "price": "504.12",
           "position": 1,
@@ -61633,8 +61633,8 @@
       ],
       "options": [
         {
-          "id": 13450999824715,
           "product_id": 10825099673931,
+          "id": 13450999824715,
           "name": "Color",
           "position": 1,
           "values": [
