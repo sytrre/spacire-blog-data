@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-15T17:08:05+01:00",
+      "updated_at": "2025-10-15T17:21:29+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Bedroom Environment, Sleep Hygiene, Blackout Blinds, Insomnia & Sleep Disorders, Deep Pressure Therapy",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998909608267,
+          "title": "Chronic vs Acute Insomnia: Different Approaches",
+          "created_at": "2025-10-15T17:21:29+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-15T17:21:29+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "chronic-vs-acute-insomnia-different-approaches",
+          "tags": "Insomnia & Sleep Disorders",
+          "admin_graphql_api_id": "gid://shopify/Article/998909608267"
+        },
         {
           "id": 998908854603,
           "title": "Insomnia During Pregnancy: Safe Sleep Solutions",
