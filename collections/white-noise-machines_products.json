@@ -4597,8 +4597,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825082175819",
       "variants": [
         {
-          "product_id": 10825082175819,
           "id": 53256814395723,
+          "product_id": 10825082175819,
           "title": "Silver",
           "price": "504.07",
           "position": 1,
@@ -4627,8 +4627,8 @@
       ],
       "options": [
         {
-          "product_id": 10825082175819,
           "id": 13450970726731,
+          "product_id": 10825082175819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8896,8 +8896,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794229579",
       "variants": [
         {
-          "id": 53252658856267,
           "product_id": 10823794229579,
+          "id": 53252658856267,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -8926,8 +8926,8 @@
       ],
       "options": [
         {
-          "id": 13449524019531,
           "product_id": 10823794229579,
+          "id": 13449524019531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13580,8 +13580,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "id": 53253533860171,
           "product_id": 10823922745675,
+          "id": 53253533860171,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -13610,8 +13610,8 @@
       ],
       "options": [
         {
-          "id": 13449688219979,
           "product_id": 10823922745675,
+          "id": 13449688219979,
           "name": "style",
           "position": 1,
           "values": [
@@ -13619,8 +13619,8 @@
           ]
         },
         {
-          "id": 13449688252747,
           "product_id": 10823922745675,
+          "id": 13449688252747,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -13741,8 +13741,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "id": 53256907456843,
           "product_id": 10825103278411,
+          "id": 53256907456843,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -13769,8 +13769,8 @@
           "image_id": 64365801996619
         },
         {
-          "id": 53256907489611,
           "product_id": 10825103278411,
+          "id": 53256907489611,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -13799,8 +13799,8 @@
       ],
       "options": [
         {
-          "id": 13451004838219,
           "product_id": 10825103278411,
+          "id": 13451004838219,
           "name": "Color",
           "position": 1,
           "values": [
