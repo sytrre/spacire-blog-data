@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-15T15:33:15+01:00",
+      "updated_at": "2025-10-15T15:46:10+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Bedroom Environment, Sleep Hygiene, Blackout Blinds, Deep Pressure Therapy",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998908100939,
+          "title": "Feng Shui for Sleep: Eastern Principles for Western Bedrooms",
+          "created_at": "2025-10-15T15:46:10+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-15T15:46:10+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "feng-shui-for-sleep-eastern-principles-for-western-bedrooms",
+          "tags": "Bedroom Environment, Sleep Hygiene",
+          "admin_graphql_api_id": "gid://shopify/Article/998908100939"
+        },
         {
           "id": 998908068171,
           "title": "Sleep Sanctuary on a Budget: Affordable Improvements",
