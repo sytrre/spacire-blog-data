@@ -13428,8 +13428,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823676428619",
       "variants": [
         {
-          "product_id": 10823676428619,
           "id": 53252001857867,
+          "product_id": 10823676428619,
           "title": "Default",
           "price": "55.99",
           "position": 1,
@@ -13458,8 +13458,8 @@
       ],
       "options": [
         {
-          "product_id": 10823676428619,
           "id": 13449321382219,
+          "product_id": 10823676428619,
           "name": "CJ default",
           "position": 1,
           "values": [
