@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-15T14:10:41+01:00",
+      "updated_at": "2025-10-15T14:32:53+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Bedroom Environment, Sleep Hygiene, Blackout Blinds, Deep Pressure Therapy",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998907248971,
+          "title": "Bedroom Air Quality and Sleep: Ventilation and Purification",
+          "created_at": "2025-10-15T14:32:53+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-15T14:32:53+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "bedroom-air-quality-and-sleep-ventilation-and-purification",
+          "tags": "Bedroom Environment, Sleep Hygiene",
+          "admin_graphql_api_id": "gid://shopify/Article/998907248971"
+        },
         {
           "id": 998906986827,
           "title": "Pre-Sleep Routine: Building Habits for Better Sleep",
