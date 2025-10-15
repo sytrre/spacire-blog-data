@@ -958,8 +958,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771430588747",
       "variants": [
         {
-          "id": 53310182326603,
           "product_id": 14771430588747,
+          "id": 53310182326603,
           "title": "Grey / 38x24cm",
           "price": "15.92",
           "position": 1,
@@ -986,8 +986,8 @@
           "image_id": 64593346036043
         },
         {
-          "id": 53310182359371,
           "product_id": 14771430588747,
+          "id": 53310182359371,
           "title": "Red / 38x24cm",
           "price": "15.92",
           "position": 2,
@@ -1014,8 +1014,8 @@
           "image_id": 64593346068811
         },
         {
-          "id": 53310182392139,
           "product_id": 14771430588747,
+          "id": 53310182392139,
           "title": "Dark Blue / 38x24cm",
           "price": "15.92",
           "position": 3,
@@ -1042,8 +1042,8 @@
           "image_id": 64593346101579
         },
         {
-          "id": 53310182424907,
           "product_id": 14771430588747,
+          "id": 53310182424907,
           "title": "Royal Blue / 38x24cm",
           "price": "15.92",
           "position": 4,
@@ -1072,8 +1072,8 @@
       ],
       "options": [
         {
-          "id": 17115961295179,
           "product_id": 14771430588747,
+          "id": 17115961295179,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1084,8 +1084,8 @@
           ]
         },
         {
-          "id": 17115961327947,
           "product_id": 14771430588747,
+          "id": 17115961327947,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -34235,8 +34235,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772565508427",
       "variants": [
         {
-          "product_id": 14772565508427,
           "id": 53314614919499,
+          "product_id": 14772565508427,
           "title": "Green Single Pack / 48X74CM",
           "price": "38.63",
           "position": 1,
@@ -34263,8 +34263,8 @@
           "image_id": 64611847930187
         },
         {
-          "product_id": 14772565508427,
           "id": 53314614952267,
+          "product_id": 14772565508427,
           "title": "Purple Single Pack / 48X74CM",
           "price": "38.63",
           "position": 2,
@@ -34293,8 +34293,8 @@
       ],
       "options": [
         {
-          "product_id": 14772565508427,
           "id": 17117261791563,
+          "product_id": 14772565508427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34303,8 +34303,8 @@
           ]
         },
         {
-          "product_id": 14772565508427,
           "id": 17117261824331,
+          "product_id": 14772565508427,
           "name": "Size Specification",
           "position": 2,
           "values": [
