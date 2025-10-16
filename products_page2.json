@@ -25534,8 +25534,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823620198731",
       "variants": [
         {
-          "id": 53251763700043,
           "product_id": 10823620198731,
+          "id": 53251763700043,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -25562,8 +25562,8 @@
           "image_id": 64329604170059
         },
         {
-          "id": 53251763732811,
           "product_id": 10823620198731,
+          "id": 53251763732811,
           "title": "Carbon ash",
           "price": "27.99",
           "position": 2,
@@ -25590,8 +25590,8 @@
           "image_id": 64329604202827
         },
         {
-          "id": 53251763765579,
           "product_id": 10823620198731,
+          "id": 53251763765579,
           "title": "Gray",
           "price": "27.99",
           "position": 3,
@@ -25618,8 +25618,8 @@
           "image_id": 64329604235595
         },
         {
-          "id": 53251763798347,
           "product_id": 10823620198731,
+          "id": 53251763798347,
           "title": "Pink",
           "price": "27.99",
           "position": 4,
@@ -25648,8 +25648,8 @@
       ],
       "options": [
         {
-          "id": 13449257091403,
           "product_id": 10823620198731,
+          "id": 13449257091403,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67637,8 +67637,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823619936587",
       "variants": [
         {
-          "product_id": 10823619936587,
           "id": 53251753935179,
+          "product_id": 10823619936587,
           "title": "Black",
           "price": "36.49",
           "position": 1,
@@ -67667,8 +67667,8 @@
       ],
       "options": [
         {
-          "product_id": 10823619936587,
           "id": 13449256632651,
+          "product_id": 10823619936587,
           "name": "Color",
           "position": 1,
           "values": [
