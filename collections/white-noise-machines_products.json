@@ -10492,8 +10492,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823678820683",
       "variants": [
         {
-          "product_id": 10823678820683,
           "id": 53252007199051,
+          "product_id": 10823678820683,
           "title": "Light Gray",
           "price": "38.99",
           "position": 1,
@@ -10522,8 +10522,8 @@
       ],
       "options": [
         {
-          "product_id": 10823678820683,
           "id": 13449324069195,
+          "product_id": 10823678820683,
           "name": "Color",
           "position": 1,
           "values": [
