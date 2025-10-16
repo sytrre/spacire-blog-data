@@ -671,8 +671,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771303481675",
       "variants": [
         {
-          "product_id": 14771303481675,
           "id": 53309979361611,
+          "product_id": 14771303481675,
           "title": "White / 61x35x11cm",
           "price": "47.57",
           "position": 1,
@@ -701,8 +701,8 @@
       ],
       "options": [
         {
-          "product_id": 14771303481675,
           "id": 17115830616395,
+          "product_id": 14771303481675,
           "name": "Color",
           "position": 1,
           "values": [
@@ -710,8 +710,8 @@
           ]
         },
         {
-          "product_id": 14771303481675,
           "id": 17115830649163,
+          "product_id": 14771303481675,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
