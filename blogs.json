@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-16T13:27:41+01:00",
+      "updated_at": "2025-10-16T13:41:48+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Bedroom Environment, Sleep Hygiene, Insomnia & Sleep Disorders, Blackout Blinds, Deep Pressure Therapy, Travel Sleep Solutions",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998918095179,
+          "title": "Beating Jet Lag: Science-Based Prevention and Recovery",
+          "created_at": "2025-10-16T13:41:48+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-16T13:41:48+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "beating-jet-lag-science-based-prevention-and-recovery",
+          "tags": "Travel Sleep Solutions",
+          "admin_graphql_api_id": "gid://shopify/Article/998918095179"
+        },
         {
           "id": 998917767499,
           "title": "Complete Travel Sleep Kit: Essential Items Checklist",
