@@ -15187,8 +15187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "product_id": 10825071165771,
           "id": 53256763375947,
+          "product_id": 10825071165771,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -15217,8 +15217,8 @@
       ],
       "options": [
         {
-          "product_id": 10825071165771,
           "id": 13450956013899,
+          "product_id": 10825071165771,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59621,8 +59621,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "id": 53256673198411,
           "product_id": 10825063203147,
+          "id": 53256673198411,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -59649,8 +59649,8 @@
           "image_id": 64365414646091
         },
         {
-          "id": 53256673231179,
           "product_id": 10825063203147,
+          "id": 53256673231179,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -59679,8 +59679,8 @@
       ],
       "options": [
         {
-          "id": 13450943430987,
           "product_id": 10825063203147,
+          "id": 13450943430987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59689,8 +59689,8 @@
           ]
         },
         {
-          "id": 13450943463755,
           "product_id": 10825063203147,
+          "id": 13450943463755,
           "name": "Specifications",
           "position": 2,
           "values": [
