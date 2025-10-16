@@ -13741,8 +13741,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "product_id": 10825103278411,
           "id": 53256907456843,
+          "product_id": 10825103278411,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -13769,8 +13769,8 @@
           "image_id": 64365801996619
         },
         {
-          "product_id": 10825103278411,
           "id": 53256907489611,
+          "product_id": 10825103278411,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -13799,8 +13799,8 @@
       ],
       "options": [
         {
-          "product_id": 10825103278411,
           "id": 13451004838219,
+          "product_id": 10825103278411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17829,8 +17829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "id": 53252200071499,
           "product_id": 10823718011211,
+          "id": 53252200071499,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17859,8 +17859,8 @@
       ],
       "options": [
         {
-          "id": 13449389080907,
           "product_id": 10823718011211,
+          "id": 13449389080907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17868,8 +17868,8 @@
           ]
         },
         {
-          "id": 13449389113675,
           "product_id": 10823718011211,
+          "id": 13449389113675,
           "name": "Power source",
           "position": 2,
           "values": [
