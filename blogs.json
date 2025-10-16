@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-16T16:43:19+01:00",
+      "updated_at": "2025-10-16T16:55:44+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -13,6 +13,21 @@
       "tags": "Sleep Masks, Blackout curtains, Sleep Sprays & Pillow Mists, White Noise Machines, Weighted Blankets, Bedroom Environment, Sleep Hygiene, Insomnia & Sleep Disorders, Travel Sleep Solutions, Blackout Blinds, Deep Pressure Therapy",
       "admin_graphql_api_id": "gid://shopify/Blog/119487070539",
       "articles": [
+        {
+          "id": 998920814923,
+          "title": "Travel Sleep Safety: Protecting Yourself While Sleeping",
+          "created_at": "2025-10-16T16:55:44+01:00",
+          "blog_id": 119487070539,
+          "author": "Valentine O",
+          "user_id": 123678196043,
+          "published_at": null,
+          "updated_at": "2025-10-16T16:55:44+01:00",
+          "summary_html": "",
+          "template_suffix": "article",
+          "handle": "travel-sleep-safety-protecting-yourself-while-sleeping",
+          "tags": "Travel Sleep Solutions",
+          "admin_graphql_api_id": "gid://shopify/Article/998920814923"
+        },
         {
           "id": 998920454475,
           "title": "Red-Eye Flight Sleep Strategy: Maximizing Rest",
