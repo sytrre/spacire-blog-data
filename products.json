@@ -12953,8 +12953,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825096134987",
       "variants": [
         {
-          "product_id": 10825096134987,
           "id": 53256893628747,
+          "product_id": 10825096134987,
           "title": "Photo Color / 220V US",
           "price": "1197.40",
           "position": 1,
@@ -12983,8 +12983,8 @@
       ],
       "options": [
         {
-          "product_id": 10825096134987,
           "id": 13450994155851,
+          "product_id": 10825096134987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12992,8 +12992,8 @@
           ]
         },
         {
-          "product_id": 10825096134987,
           "id": 13450994188619,
+          "product_id": 10825096134987,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -37261,8 +37261,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775317037387",
       "variants": [
         {
-          "id": 53327873048907,
           "product_id": 14775317037387,
+          "id": 53327873048907,
           "title": "Orange White / 664X403X146mm",
           "price": "40.68",
           "position": 1,
@@ -37289,8 +37289,8 @@
           "image_id": 64651467161931
         },
         {
-          "id": 53327873081675,
           "product_id": 14775317037387,
+          "id": 53327873081675,
           "title": "Gray And White / 664X403X146mm",
           "price": "40.68",
           "position": 2,
@@ -37319,8 +37319,8 @@
       ],
       "options": [
         {
-          "id": 17120626049355,
           "product_id": 14775317037387,
+          "id": 17120626049355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37329,8 +37329,8 @@
           ]
         },
         {
-          "id": 17120626082123,
           "product_id": 14775317037387,
+          "id": 17120626082123,
           "name": "Size",
           "position": 2,
           "values": [
@@ -103595,8 +103595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158852939",
       "variants": [
         {
-          "id": 53257349103947,
           "product_id": 10825158852939,
+          "id": 53257349103947,
           "title": "White / Usb",
           "price": "39.26",
           "position": 1,
@@ -103625,8 +103625,8 @@
       ],
       "options": [
         {
-          "id": 13451086037323,
           "product_id": 10825158852939,
+          "id": 13451086037323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -103634,8 +103634,8 @@
           ]
         },
         {
-          "id": 13451086070091,
           "product_id": 10825158852939,
+          "id": 13451086070091,
           "name": "Model",
           "position": 2,
           "values": [
@@ -118662,8 +118662,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823910293835",
       "variants": [
         {
-          "product_id": 10823910293835,
           "id": 53253482512715,
+          "product_id": 10823910293835,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -118692,8 +118692,8 @@
       ],
       "options": [
         {
-          "product_id": 10823910293835,
           "id": 13449674064203,
+          "product_id": 10823910293835,
           "name": "Color",
           "position": 1,
           "values": [
