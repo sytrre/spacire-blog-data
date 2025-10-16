@@ -13713,8 +13713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "product_id": 10823922745675,
           "id": 53253533860171,
+          "product_id": 10823922745675,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -13743,8 +13743,8 @@
       ],
       "options": [
         {
-          "product_id": 10823922745675,
           "id": 13449688219979,
+          "product_id": 10823922745675,
           "name": "style",
           "position": 1,
           "values": [
@@ -13752,8 +13752,8 @@
           ]
         },
         {
-          "product_id": 10823922745675,
           "id": 13449688252747,
+          "product_id": 10823922745675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14442,8 +14442,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -14470,8 +14470,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -14500,8 +14500,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24939,8 +24939,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771202359627",
       "variants": [
         {
-          "id": 53309796909387,
           "product_id": 14771202359627,
+          "id": 53309796909387,
           "title": "Rabbit / 40x 35cm",
           "price": "28.59",
           "position": 1,
@@ -24967,8 +24967,8 @@
           "image_id": 64591504343371
         },
         {
-          "id": 53309796942155,
           "product_id": 14771202359627,
+          "id": 53309796942155,
           "title": "Owl / 40x 35cm",
           "price": "28.59",
           "position": 2,
@@ -24995,8 +24995,8 @@
           "image_id": 64591504376139
         },
         {
-          "id": 53309796974923,
           "product_id": 14771202359627,
+          "id": 53309796974923,
           "title": "Chick / 40x 35cm",
           "price": "28.59",
           "position": 3,
@@ -25023,8 +25023,8 @@
           "image_id": 64591504408907
         },
         {
-          "id": 53309797007691,
           "product_id": 14771202359627,
+          "id": 53309797007691,
           "title": "Dinosaur / 40x 35cm",
           "price": "28.59",
           "position": 4,
@@ -25051,8 +25051,8 @@
           "image_id": 64591504441675
         },
         {
-          "id": 53309797040459,
           "product_id": 14771202359627,
+          "id": 53309797040459,
           "title": "Koala / 40x 35cm",
           "price": "28.59",
           "position": 5,
@@ -25081,8 +25081,8 @@
       ],
       "options": [
         {
-          "id": 17115727331659,
           "product_id": 14771202359627,
+          "id": 17115727331659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25094,8 +25094,8 @@
           ]
         },
         {
-          "id": 17115727364427,
           "product_id": 14771202359627,
+          "id": 17115727364427,
           "name": "Size",
           "position": 2,
           "values": [
