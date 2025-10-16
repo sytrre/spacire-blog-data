@@ -30726,8 +30726,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791345995",
       "variants": [
         {
-          "id": 53252639916363,
           "product_id": 10823791345995,
+          "id": 53252639916363,
           "title": "Black / Eye Mask And Thread",
           "price": "25.49",
           "position": 1,
@@ -30754,8 +30754,8 @@
           "image_id": 64332411339083
         },
         {
-          "id": 53252639949131,
           "product_id": 10823791345995,
+          "id": 53252639949131,
           "title": "Navy Blue / Eye Mask And Thread",
           "price": "25.49",
           "position": 2,
@@ -30782,8 +30782,8 @@
           "image_id": 64332411371851
         },
         {
-          "id": 53252639981899,
           "product_id": 10823791345995,
+          "id": 53252639981899,
           "title": "Peacock Green / Eye Mask And Thread",
           "price": "25.49",
           "position": 3,
@@ -30810,8 +30810,8 @@
           "image_id": 64332411404619
         },
         {
-          "id": 53252640014667,
           "product_id": 10823791345995,
+          "id": 53252640014667,
           "title": "Pink / Eye Mask And Thread",
           "price": "25.49",
           "position": 4,
@@ -30840,8 +30840,8 @@
       ],
       "options": [
         {
-          "id": 13449519923531,
           "product_id": 10823791345995,
+          "id": 13449519923531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -30852,8 +30852,8 @@
           ]
         },
         {
-          "id": 13449519956299,
           "product_id": 10823791345995,
+          "id": 13449519956299,
           "name": "format",
           "position": 2,
           "values": [

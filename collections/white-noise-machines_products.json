@@ -13428,8 +13428,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823676428619",
       "variants": [
         {
-          "product_id": 10823676428619,
           "id": 53252001857867,
+          "product_id": 10823676428619,
           "title": "Default",
           "price": "55.99",
           "position": 1,
@@ -13458,8 +13458,8 @@
       ],
       "options": [
         {
-          "product_id": 10823676428619,
           "id": 13449321382219,
+          "product_id": 10823676428619,
           "name": "CJ default",
           "position": 1,
           "values": [
@@ -13741,8 +13741,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "id": 53256907456843,
           "product_id": 10825103278411,
+          "id": 53256907456843,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -13769,8 +13769,8 @@
           "image_id": 64365801996619
         },
         {
-          "id": 53256907489611,
           "product_id": 10825103278411,
+          "id": 53256907489611,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -13799,8 +13799,8 @@
       ],
       "options": [
         {
-          "id": 13451004838219,
           "product_id": 10825103278411,
+          "id": 13451004838219,
           "name": "Color",
           "position": 1,
           "values": [
