@@ -6929,8 +6929,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158525259",
       "variants": [
         {
-          "product_id": 10825158525259,
           "id": 53257345368395,
+          "product_id": 10825158525259,
           "title": "Rabbit",
           "price": "34.35",
           "position": 1,
@@ -6957,8 +6957,8 @@
           "image_id": 64366993834315
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345401163,
+          "product_id": 10825158525259,
           "title": "Blue monster",
           "price": "34.35",
           "position": 2,
@@ -6985,8 +6985,8 @@
           "image_id": 64366993867083
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345433931,
+          "product_id": 10825158525259,
           "title": "Joe Minibus",
           "price": "34.35",
           "position": 3,
@@ -7013,8 +7013,8 @@
           "image_id": 64366993899851
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345466699,
+          "product_id": 10825158525259,
           "title": "Little new",
           "price": "34.35",
           "position": 4,
@@ -7041,8 +7041,8 @@
           "image_id": 64366993932619
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345499467,
+          "product_id": 10825158525259,
           "title": "Piestar",
           "price": "34.35",
           "position": 5,
@@ -7071,8 +7071,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158525259,
           "id": 13451085644107,
+          "product_id": 10825158525259,
           "name": "Style",
           "position": 1,
           "values": [

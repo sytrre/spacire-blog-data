@@ -15514,8 +15514,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771430588747",
       "variants": [
         {
-          "product_id": 14771430588747,
           "id": 53310182326603,
+          "product_id": 14771430588747,
           "title": "Grey / 38x24cm",
           "price": "15.92",
           "position": 1,
@@ -15542,8 +15542,8 @@
           "image_id": 64593346036043
         },
         {
-          "product_id": 14771430588747,
           "id": 53310182359371,
+          "product_id": 14771430588747,
           "title": "Red / 38x24cm",
           "price": "15.92",
           "position": 2,
@@ -15570,8 +15570,8 @@
           "image_id": 64593346068811
         },
         {
-          "product_id": 14771430588747,
           "id": 53310182392139,
+          "product_id": 14771430588747,
           "title": "Dark Blue / 38x24cm",
           "price": "15.92",
           "position": 3,
@@ -15598,8 +15598,8 @@
           "image_id": 64593346101579
         },
         {
-          "product_id": 14771430588747,
           "id": 53310182424907,
+          "product_id": 14771430588747,
           "title": "Royal Blue / 38x24cm",
           "price": "15.92",
           "position": 4,
@@ -15628,8 +15628,8 @@
       ],
       "options": [
         {
-          "product_id": 14771430588747,
           "id": 17115961295179,
+          "product_id": 14771430588747,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15640,8 +15640,8 @@
           ]
         },
         {
-          "product_id": 14771430588747,
           "id": 17115961327947,
+          "product_id": 14771430588747,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -51614,8 +51614,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158525259",
       "variants": [
         {
-          "product_id": 10825158525259,
           "id": 53257345368395,
+          "product_id": 10825158525259,
           "title": "Rabbit",
           "price": "34.35",
           "position": 1,
@@ -51642,8 +51642,8 @@
           "image_id": 64366993834315
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345401163,
+          "product_id": 10825158525259,
           "title": "Blue monster",
           "price": "34.35",
           "position": 2,
@@ -51670,8 +51670,8 @@
           "image_id": 64366993867083
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345433931,
+          "product_id": 10825158525259,
           "title": "Joe Minibus",
           "price": "34.35",
           "position": 3,
@@ -51698,8 +51698,8 @@
           "image_id": 64366993899851
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345466699,
+          "product_id": 10825158525259,
           "title": "Little new",
           "price": "34.35",
           "position": 4,
@@ -51726,8 +51726,8 @@
           "image_id": 64366993932619
         },
         {
-          "product_id": 10825158525259,
           "id": 53257345499467,
+          "product_id": 10825158525259,
           "title": "Piestar",
           "price": "34.35",
           "position": 5,
@@ -51756,8 +51756,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158525259,
           "id": 13451085644107,
+          "product_id": 10825158525259,
           "name": "Style",
           "position": 1,
           "values": [
