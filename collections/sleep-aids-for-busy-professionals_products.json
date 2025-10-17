@@ -69260,8 +69260,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771301384523",
       "variants": [
         {
-          "product_id": 14771301384523,
           "id": 53309973922123,
+          "product_id": 14771301384523,
           "title": "C",
           "price": "64.13",
           "position": 1,
@@ -69288,8 +69288,8 @@
           "image_id": 64592338944331
         },
         {
-          "product_id": 14771301384523,
           "id": 53309973954891,
+          "product_id": 14771301384523,
           "title": "A",
           "price": "64.13",
           "position": 2,
@@ -69316,8 +69316,8 @@
           "image_id": 64592338977099
         },
         {
-          "product_id": 14771301384523,
           "id": 53309973987659,
+          "product_id": 14771301384523,
           "title": "B",
           "price": "64.13",
           "position": 3,
@@ -69344,8 +69344,8 @@
           "image_id": 64592339009867
         },
         {
-          "product_id": 14771301384523,
           "id": 53309974020427,
+          "product_id": 14771301384523,
           "title": "D",
           "price": "64.13",
           "position": 4,
@@ -69372,8 +69372,8 @@
           "image_id": 64592339042635
         },
         {
-          "product_id": 14771301384523,
           "id": 53309974053195,
+          "product_id": 14771301384523,
           "title": "E",
           "price": "64.13",
           "position": 5,
@@ -69402,8 +69402,8 @@
       ],
       "options": [
         {
-          "product_id": 14771301384523,
           "id": 17115828453707,
+          "product_id": 14771301384523,
           "name": "Style",
           "position": 1,
           "values": [
@@ -97350,8 +97350,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -97380,8 +97380,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -97389,8 +97389,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -114294,8 +114294,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823633076555",
       "variants": [
         {
-          "id": 53251870359883,
           "product_id": 10823633076555,
+          "id": 53251870359883,
           "title": "Black / USB",
           "price": "43.49",
           "position": 1,
@@ -114324,8 +114324,8 @@
       ],
       "options": [
         {
-          "id": 13449274294603,
           "product_id": 10823633076555,
+          "id": 13449274294603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -114333,8 +114333,8 @@
           ]
         },
         {
-          "id": 13449274327371,
           "product_id": 10823633076555,
+          "id": 13449274327371,
           "name": "power",
           "position": 2,
           "values": [
