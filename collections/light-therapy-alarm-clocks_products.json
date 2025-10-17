@@ -5088,8 +5088,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "product_id": 10825080734027,
           "id": 53256805089611,
+          "product_id": 10825080734027,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -5116,8 +5116,8 @@
           "image_id": 64365601521995
         },
         {
-          "product_id": 10825080734027,
           "id": 53256805122379,
+          "product_id": 10825080734027,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -5146,8 +5146,8 @@
       ],
       "options": [
         {
-          "product_id": 10825080734027,
           "id": 13450968596811,
+          "product_id": 10825080734027,
           "name": "Specifications",
           "position": 1,
           "values": [
