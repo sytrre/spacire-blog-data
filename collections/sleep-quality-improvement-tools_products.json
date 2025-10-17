@@ -9705,8 +9705,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823869497675",
       "variants": [
         {
-          "product_id": 10823869497675,
           "id": 53253016977739,
+          "product_id": 10823869497675,
           "title": "Brown",
           "price": "39.49",
           "position": 1,
@@ -9735,8 +9735,8 @@
       ],
       "options": [
         {
-          "product_id": 10823869497675,
           "id": 13449611477323,
+          "product_id": 10823869497675,
           "name": "Color",
           "position": 1,
           "values": [
@@ -100674,8 +100674,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159115083",
       "variants": [
         {
-          "product_id": 10825159115083,
           "id": 53257349923147,
+          "product_id": 10825159115083,
           "title": "28 PATCHES",
           "price": "33.59",
           "position": 1,
@@ -100704,8 +100704,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159115083,
           "id": 13451086365003,
+          "product_id": 10825159115083,
           "name": "style",
           "position": 1,
           "values": [
