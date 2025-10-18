@@ -9107,8 +9107,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773847883",
       "variants": [
         {
-          "product_id": 10823773847883,
           "id": 53252561437003,
+          "product_id": 10823773847883,
           "title": "White / 115x115x66mm",
           "price": "44.49",
           "position": 1,
@@ -9137,8 +9137,8 @@
       ],
       "options": [
         {
-          "product_id": 10823773847883,
           "id": 13449497936203,
+          "product_id": 10823773847883,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9146,8 +9146,8 @@
           ]
         },
         {
-          "product_id": 10823773847883,
           "id": 13449497968971,
+          "product_id": 10823773847883,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -68166,8 +68166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "product_id": 10825080734027,
           "id": 53256805089611,
+          "product_id": 10825080734027,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -68194,8 +68194,8 @@
           "image_id": 64365601521995
         },
         {
-          "product_id": 10825080734027,
           "id": 53256805122379,
+          "product_id": 10825080734027,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -68224,8 +68224,8 @@
       ],
       "options": [
         {
-          "product_id": 10825080734027,
           "id": 13450968596811,
+          "product_id": 10825080734027,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -90476,8 +90476,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659848011",
       "variants": [
         {
-          "product_id": 10823659848011,
           "id": 53251955753291,
+          "product_id": 10823659848011,
           "title": "Grey blue",
           "price": "47.99",
           "position": 1,
@@ -90504,8 +90504,8 @@
           "image_id": 64329980346699
         },
         {
-          "product_id": 10823659848011,
           "id": 53251955786059,
+          "product_id": 10823659848011,
           "title": "Grey red",
           "price": "47.99",
           "position": 2,
@@ -90534,8 +90534,8 @@
       ],
       "options": [
         {
-          "product_id": 10823659848011,
           "id": 13449302507851,
+          "product_id": 10823659848011,
           "name": "Color",
           "position": 1,
           "values": [

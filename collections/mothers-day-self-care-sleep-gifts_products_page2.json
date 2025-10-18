@@ -559,8 +559,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189583691",
       "variants": [
         {
-          "product_id": 14776189583691,
           "id": 53331896009035,
+          "product_id": 14776189583691,
           "title": "Curtain / 31",
           "price": "32.43",
           "position": 1,
@@ -587,8 +587,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896041803,
+          "product_id": 14776189583691,
           "title": "Curtain / 30",
           "price": "32.43",
           "position": 2,
@@ -615,8 +615,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896074571,
+          "product_id": 14776189583691,
           "title": "Curtain / 34",
           "price": "32.43",
           "position": 3,
@@ -643,8 +643,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896107339,
+          "product_id": 14776189583691,
           "title": "Curtain / 25",
           "price": "32.43",
           "position": 4,
@@ -671,8 +671,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896140107,
+          "product_id": 14776189583691,
           "title": "Curtain / 23",
           "price": "32.43",
           "position": 5,
@@ -699,8 +699,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896172875,
+          "product_id": 14776189583691,
           "title": "Curtain / 24",
           "price": "32.43",
           "position": 6,
@@ -727,8 +727,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896205643,
+          "product_id": 14776189583691,
           "title": "Curtain / 26",
           "price": "32.43",
           "position": 7,
@@ -757,8 +757,8 @@
       ],
       "options": [
         {
-          "product_id": 14776189583691,
           "id": 17121696710987,
+          "product_id": 14776189583691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -766,8 +766,8 @@
           ]
         },
         {
-          "product_id": 14776189583691,
           "id": 17121696743755,
+          "product_id": 14776189583691,
           "name": "Style",
           "position": 2,
           "values": [
@@ -14449,8 +14449,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -14477,8 +14477,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -14507,8 +14507,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28575,8 +28575,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "product_id": 10825089614155,
           "id": 53256870297931,
+          "product_id": 10825089614155,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -28603,8 +28603,8 @@
           "image_id": 64365692289355
         },
         {
-          "product_id": 10825089614155,
           "id": 53256870330699,
+          "product_id": 10825089614155,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -28633,8 +28633,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089614155,
           "id": 13450982129995,
+          "product_id": 10825089614155,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90685,8 +90685,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773585838411",
       "variants": [
         {
-          "product_id": 14773585838411,
           "id": 53317507809611,
+          "product_id": 14773585838411,
           "title": "Pink / 130x170",
           "price": "51.79",
           "position": 1,
@@ -90713,8 +90713,8 @@
           "image_id": 64623521595723
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507842379,
+          "product_id": 14773585838411,
           "title": "Yellow / 130x170",
           "price": "51.79",
           "position": 2,
@@ -90741,8 +90741,8 @@
           "image_id": 64623521628491
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507875147,
+          "product_id": 14773585838411,
           "title": "Gray / 130x170",
           "price": "51.79",
           "position": 3,
@@ -90769,8 +90769,8 @@
           "image_id": 64623521661259
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507907915,
+          "product_id": 14773585838411,
           "title": "Orange / 130x170",
           "price": "51.79",
           "position": 4,
@@ -90799,8 +90799,8 @@
       ],
       "options": [
         {
-          "product_id": 14773585838411,
           "id": 17118399529291,
+          "product_id": 14773585838411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90811,8 +90811,8 @@
           ]
         },
         {
-          "product_id": 14773585838411,
           "id": 17118399562059,
+          "product_id": 14773585838411,
           "name": "Size",
           "position": 2,
           "values": [

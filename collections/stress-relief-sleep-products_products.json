@@ -33929,8 +33929,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659848011",
       "variants": [
         {
-          "product_id": 10823659848011,
           "id": 53251955753291,
+          "product_id": 10823659848011,
           "title": "Grey blue",
           "price": "47.99",
           "position": 1,
@@ -33957,8 +33957,8 @@
           "image_id": 64329980346699
         },
         {
-          "product_id": 10823659848011,
           "id": 53251955786059,
+          "product_id": 10823659848011,
           "title": "Grey red",
           "price": "47.99",
           "position": 2,
@@ -33987,8 +33987,8 @@
       ],
       "options": [
         {
-          "product_id": 10823659848011,
           "id": 13449302507851,
+          "product_id": 10823659848011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44879,8 +44879,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -44907,8 +44907,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -44937,8 +44937,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67054,8 +67054,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "id": 53256408170827,
           "product_id": 10825004908875,
+          "id": 53256408170827,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -67084,8 +67084,8 @@
       ],
       "options": [
         {
-          "id": 13450870489419,
           "product_id": 10825004908875,
+          "id": 13450870489419,
           "name": "format",
           "position": 1,
           "values": [
