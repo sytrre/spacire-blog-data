@@ -114287,8 +114287,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823633076555",
       "variants": [
         {
-          "product_id": 10823633076555,
           "id": 53251870359883,
+          "product_id": 10823633076555,
           "title": "Black / USB",
           "price": "43.49",
           "position": 1,
@@ -114317,8 +114317,8 @@
       ],
       "options": [
         {
-          "product_id": 10823633076555,
           "id": 13449274294603,
+          "product_id": 10823633076555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -114326,8 +114326,8 @@
           ]
         },
         {
-          "product_id": 10823633076555,
           "id": 13449274327371,
+          "product_id": 10823633076555,
           "name": "power",
           "position": 2,
           "values": [
