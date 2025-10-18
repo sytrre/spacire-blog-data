@@ -62152,8 +62152,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772334887243",
       "variants": [
         {
-          "id": 53313882816843,
           "product_id": 14772334887243,
+          "id": 53313882816843,
           "title": "Dark Gray / Twin",
           "price": "101.50",
           "position": 1,
@@ -62180,8 +62180,8 @@
           "image_id": 64605302161739
         },
         {
-          "id": 53313882849611,
           "product_id": 14772334887243,
+          "id": 53313882849611,
           "title": "Dark Gray / Queen",
           "price": "102.73",
           "position": 2,
@@ -62208,8 +62208,8 @@
           "image_id": 64605302161739
         },
         {
-          "id": 53313882882379,
           "product_id": 14772334887243,
+          "id": 53313882882379,
           "title": "Dark Gray / King",
           "price": "103.72",
           "position": 3,
@@ -62236,8 +62236,8 @@
           "image_id": 64605302161739
         },
         {
-          "id": 53313882915147,
           "product_id": 14772334887243,
+          "id": 53313882915147,
           "title": "Purplish Blue / Twin",
           "price": "101.50",
           "position": 4,
@@ -62264,8 +62264,8 @@
           "image_id": 64605302194507
         },
         {
-          "id": 53313882947915,
           "product_id": 14772334887243,
+          "id": 53313882947915,
           "title": "Purplish Blue / Queen",
           "price": "102.73",
           "position": 5,
@@ -62292,8 +62292,8 @@
           "image_id": 64605302194507
         },
         {
-          "id": 53313882980683,
           "product_id": 14772334887243,
+          "id": 53313882980683,
           "title": "Purplish Blue / King",
           "price": "103.72",
           "position": 6,
@@ -62322,8 +62322,8 @@
       ],
       "options": [
         {
-          "id": 17116981920075,
           "product_id": 14772334887243,
+          "id": 17116981920075,
           "name": "Pattern",
           "position": 1,
           "values": [
@@ -62332,8 +62332,8 @@
           ]
         },
         {
-          "id": 17116981952843,
           "product_id": 14772334887243,
+          "id": 17116981952843,
           "name": "Size Specification",
           "position": 2,
           "values": [
