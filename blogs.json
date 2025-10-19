@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-19T13:55:38+01:00",
+      "updated_at": "2025-10-19T14:18:50+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1236,12 +1236,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T08:19:09+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:18:50+01:00",
+          "summary_html": "<p>Struggling to sleep while traveling? Discover how portable blackout blinds can transform any hotel or Airbnb room into a dark, sleep-friendly sanctuary. This guide covers top-rated travel blackout solutions for 2025, including installation tips, product comparisons, DIY hacks, and expert-backed sleep insights to help you sleep deeper wherever you go.</p>",
           "template_suffix": "article",
           "handle": "travel-blackout-blinds-portable-solutions-for-hotels-and-airbnbs",
           "tags": "Blackout Blinds, Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998890242379"
+          "admin_graphql_api_id": "gid://shopify/Article/998890242379",
+          "image": {
+            "created_at": "2025-10-19T14:18:49+01:00",
+            "alt": "Portable blackout blind being installed.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_dbe6a05b-33a4-40f7-a887-fe2cc98c36de.jpg?v=1760879930"
+          }
         },
         {
           "id": 998883033419,
