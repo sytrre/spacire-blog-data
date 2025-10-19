@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-19T14:30:32+01:00",
+      "updated_at": "2025-10-19T14:56:50+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1146,12 +1146,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T09:56:14+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:56:50+01:00",
+          "summary_html": "<p><strong data-start=\"186\" data-end=\"257\">Struggling to block sunlight from arched, bay, or skylight windows?</strong> Discover blackout curtain and blind solutions for every odd-shaped window—whether you rent, own, or need a quick DIY fix. This comprehensive guide covers everything from affordable magnetic covers to custom installations, helping you achieve better sleep, no matter your window shape or budget.</p>",
           "template_suffix": "article",
           "handle": "blackout-solutions-for-odd-shaped-windows-complete-guide-to-perfect-darkness",
           "tags": "Blackout Blinds, Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998891290955"
+          "admin_graphql_api_id": "gid://shopify/Article/998891290955",
+          "image": {
+            "created_at": "2025-10-19T14:56:49+01:00",
+            "alt": "Woman smiling, satisfied with new blackout curtains in bedroom",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_d5c7e536-3767-443c-9a36-11420252bc9f.jpg?v=1760882210"
+          }
         },
         {
           "id": 998891192651,
@@ -1161,12 +1168,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T09:39:59+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:50:48+01:00",
+          "summary_html": "<p>Discover how energy-efficient blackout curtains can dramatically cut your heating and cooling bills by up to 25% annually—while improving sleep, reducing noise, and blocking harmful UV rays. This comprehensive guide breaks down real-world ROI examples, installation best practices, and comparisons with other window solutions. Whether you’re in a rental, on a budget, or simply want better comfort and energy savings, thermal blackout curtains deliver exceptional long-term value.</p>",
           "template_suffix": "article",
           "handle": "energy-efficient-window-treatments-blackout-curtains-roi",
           "tags": "Blackout Blinds, Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998891192651"
+          "admin_graphql_api_id": "gid://shopify/Article/998891192651",
+          "image": {
+            "created_at": "2025-10-19T14:50:47+01:00",
+            "alt": "Woman hand-washing blackout curtains in green and white laundry room",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_9295de03-6a91-41e0-b179-3a27850b8467.jpg?v=1760881848"
+          }
         },
         {
           "id": 998890864971,
@@ -1176,12 +1190,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T09:21:41+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:44:19+01:00",
+          "summary_html": "<p data-start=\"149\" data-end=\"596\">Blackout curtains are essential for better sleep, but without proper care, they lose their effectiveness fast. This expert guide walks you through every step of blackout curtain maintenance—from fabric-specific washing instructions to stain removal tips, drying techniques, and professional care advice. Whether you're dealing with dust, pet stains, or coating damage, learn how to extend your curtains’ lifespan and keep your room perfectly dark.</p>",
           "template_suffix": "article",
           "handle": "blackout-curtains-maintenance-cleaning-and-care-guide",
           "tags": "Blackout Blinds, Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998890864971"
+          "admin_graphql_api_id": "gid://shopify/Article/998890864971",
+          "image": {
+            "created_at": "2025-10-19T14:44:18+01:00",
+            "alt": "maid cleaning hotel blackout curtains.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_79ca0fb1-4c38-4080-8c45-f686bb4a272f.png?v=1760881459"
+          }
         },
         {
           "id": 998890668363,
@@ -1191,12 +1212,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T09:08:21+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:38:21+01:00",
+          "summary_html": "<p>Struggling with poor sleep despite your best efforts? Discover how a properly layered curtain system can block up to 99.9% of external light—creating the total darkness your body needs for deep, restorative rest. This comprehensive guide explains the science behind light and sleep, breaks down the ideal three-layer curtain setup, and offers practical DIY tips and product recommendations to help you transform your bedroom into a true sleep sanctuary.</p>",
           "template_suffix": "article",
           "handle": "how-to-layer-curtains-for-maximum-light-blocking",
           "tags": "Blackout Blinds, Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998890668363"
+          "admin_graphql_api_id": "gid://shopify/Article/998890668363",
+          "image": {
+            "created_at": "2025-10-19T14:38:21+01:00",
+            "alt": "Hotel manager layering curtains for maximum light blocking",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_a50a6dca-5de7-4013-8f4f-893627509967.jpg?v=1760881101"
+          }
         },
         {
           "id": 998890537291,
