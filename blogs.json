@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-19T14:18:50+01:00",
+      "updated_at": "2025-10-19T14:30:32+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1206,12 +1206,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T08:45:17+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:30:32+01:00",
+          "summary_html": "<p>Shift workers often struggle with poor sleep due to circadian rhythm disruption and daytime light exposure. This comprehensive guide explores how high-quality blackout curtains—ranging from £32.43 to £54.30—can dramatically improve sleep quality by blocking 95-99% of light. Discover the best blackout curtains for every budget and window size, learn installation tips to eliminate light leaks, and explore complementary sleep strategies including masks, white noise, and aromatherapy. Backed by scientific research, this guide offers shift workers practical, affordable solutions for deeper, healthier rest.</p>",
           "template_suffix": "article",
           "handle": "blackout-curtains-for-shift-workers-creating-daytime-darkness",
           "tags": "Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998890537291"
+          "admin_graphql_api_id": "gid://shopify/Article/998890537291",
+          "image": {
+            "created_at": "2025-10-19T14:30:30+01:00",
+            "alt": "Shift workers sleeping in pods.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_09cf9550-d723-4d30-8eaa-fb1a9175553d.png?v=1760880632"
+          }
         },
         {
           "id": 998890275147,
@@ -1221,12 +1228,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T08:33:08+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-19T14:25:39+01:00",
+          "summary_html": "<p><strong data-start=\"117\" data-end=\"155\">Do blackout curtains reduce noise?</strong> While best known for blocking light, blackout curtains also offer moderate sound-dampening benefits. In this in-depth guide, we explore how they absorb and deflect sound waves, compare noise reduction across curtain types, and share expert installation tips to maximize acoustic performance. Discover which materials and designs work best, what noise they can and can't block, and how to combine them with other soundproofing strategies for a quieter, more restful space.</p>",
           "template_suffix": "article",
           "handle": "do-blackout-curtains-reduce-noise-complete-sound-guide",
           "tags": "Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998890275147"
+          "admin_graphql_api_id": "gid://shopify/Article/998890275147",
+          "image": {
+            "created_at": "2025-10-19T14:25:38+01:00",
+            "alt": "A woman using blackout curtains for noise reduction.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_910412ff-115a-4869-8bf4-ec156d8fdbd7.png?v=1760880339"
+          }
         },
         {
           "id": 998890242379,
