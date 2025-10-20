@@ -63421,8 +63421,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825086173515",
       "variants": [
         {
-          "product_id": 10825086173515,
           "id": 53256844935499,
+          "product_id": 10825086173515,
           "title": "American Standard Power Supply / 12W",
           "price": "344.80",
           "position": 1,
@@ -63449,8 +63449,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256844968267,
+          "product_id": 10825086173515,
           "title": "European Power Supply / 12W",
           "price": "344.80",
           "position": 2,
@@ -63477,8 +63477,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256845001035,
+          "product_id": 10825086173515,
           "title": "Bs Power Supply / 12W",
           "price": "344.80",
           "position": 3,
@@ -63505,8 +63505,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256845033803,
+          "product_id": 10825086173515,
           "title": "Australian Regulations / 12W",
           "price": "344.80",
           "position": 4,
@@ -63535,8 +63535,8 @@
       ],
       "options": [
         {
-          "product_id": 10825086173515,
           "id": 13450976887115,
+          "product_id": 10825086173515,
           "name": "Light Color",
           "position": 1,
           "values": [
@@ -63547,8 +63547,8 @@
           ]
         },
         {
-          "product_id": 10825086173515,
           "id": 13450976919883,
+          "product_id": 10825086173515,
           "name": "power",
           "position": 2,
           "values": [
