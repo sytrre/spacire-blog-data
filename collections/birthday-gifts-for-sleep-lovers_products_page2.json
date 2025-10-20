@@ -14449,8 +14449,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "id": 53253498896715,
           "product_id": 10823912358219,
+          "id": 53253498896715,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -14477,8 +14477,8 @@
           "image_id": 64334872019275
         },
         {
-          "id": 53253498929483,
           "product_id": 10823912358219,
+          "id": 53253498929483,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -14507,8 +14507,8 @@
       ],
       "options": [
         {
-          "id": 13449676718411,
           "product_id": 10823912358219,
+          "id": 13449676718411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19714,8 +19714,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775152312651",
       "variants": [
         {
-          "product_id": 14775152312651,
           "id": 53327490646347,
+          "product_id": 14775152312651,
           "title": "Dinosaur Paradise / Free Size",
           "price": "33.05",
           "position": 1,
@@ -19742,8 +19742,8 @@
           "image_id": 64650417766731
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490679115,
+          "product_id": 14775152312651,
           "title": "Universe Star / Free Size",
           "price": "33.05",
           "position": 2,
@@ -19770,8 +19770,8 @@
           "image_id": 64650417799499
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490711883,
+          "product_id": 14775152312651,
           "title": "Colorful Ocean / Free Size",
           "price": "33.05",
           "position": 3,
@@ -19798,8 +19798,8 @@
           "image_id": 64650417832267
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490744651,
+          "product_id": 14775152312651,
           "title": "Happy Little Bee / Free Size",
           "price": "33.05",
           "position": 4,
@@ -19826,8 +19826,8 @@
           "image_id": 64650417865035
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490777419,
+          "product_id": 14775152312651,
           "title": "Geometric Stripes / Free Size",
           "price": "33.05",
           "position": 5,
@@ -19856,8 +19856,8 @@
       ],
       "options": [
         {
-          "product_id": 14775152312651,
           "id": 17120448545099,
+          "product_id": 14775152312651,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19869,8 +19869,8 @@
           ]
         },
         {
-          "product_id": 14775152312651,
           "id": 17120448577867,
+          "product_id": 14775152312651,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -35801,8 +35801,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -35829,8 +35829,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -35859,8 +35859,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [

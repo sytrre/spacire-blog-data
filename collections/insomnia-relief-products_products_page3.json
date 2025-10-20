@@ -1198,8 +1198,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159147851",
       "variants": [
         {
-          "id": 53257349988683,
           "product_id": 10825159147851,
+          "id": 53257349988683,
           "title": "Purple",
           "price": "31.75",
           "position": 1,
@@ -1228,8 +1228,8 @@
       ],
       "options": [
         {
-          "id": 13451086397771,
           "product_id": 10825159147851,
+          "id": 13451086397771,
           "name": "Color",
           "position": 1,
           "values": [

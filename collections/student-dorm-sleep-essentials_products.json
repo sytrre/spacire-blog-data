@@ -23085,8 +23085,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051472203",
       "variants": [
         {
-          "id": 53256606613835,
           "product_id": 10825051472203,
+          "id": 53256606613835,
           "title": "Gray",
           "price": "34.20",
           "position": 1,
@@ -23115,8 +23115,8 @@
       ],
       "options": [
         {
-          "id": 13450927669579,
           "product_id": 10825051472203,
+          "id": 13450927669579,
           "name": "Color",
           "position": 1,
           "values": [
@@ -33103,8 +33103,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "id": 53252393304395,
           "product_id": 10823745110347,
+          "id": 53252393304395,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -33133,8 +33133,8 @@
       ],
       "options": [
         {
-          "id": 13449447899467,
           "product_id": 10823745110347,
+          "id": 13449447899467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -33142,8 +33142,8 @@
           ]
         },
         {
-          "id": 13449447932235,
           "product_id": 10823745110347,
+          "id": 13449447932235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -45978,8 +45978,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "id": 53253498896715,
           "product_id": 10823912358219,
+          "id": 53253498896715,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -46006,8 +46006,8 @@
           "image_id": 64334872019275
         },
         {
-          "id": 53253498929483,
           "product_id": 10823912358219,
+          "id": 53253498929483,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -46036,8 +46036,8 @@
       ],
       "options": [
         {
-          "id": 13449676718411,
           "product_id": 10823912358219,
+          "id": 13449676718411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52095,8 +52095,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -52123,8 +52123,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -52153,8 +52153,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [
