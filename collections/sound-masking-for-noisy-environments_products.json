@@ -12468,8 +12468,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954727243",
       "variants": [
         {
-          "product_id": 10823954727243,
           "id": 53253610045771,
+          "product_id": 10823954727243,
           "title": "White / USB",
           "price": "98.49",
           "position": 1,
@@ -12498,8 +12498,8 @@
       ],
       "options": [
         {
-          "product_id": 10823954727243,
           "id": 13449723674955,
+          "product_id": 10823954727243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12507,8 +12507,8 @@
           ]
         },
         {
-          "product_id": 10823954727243,
           "id": 13449723707723,
+          "product_id": 10823954727243,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -15740,8 +15740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "product_id": 10823797440843,
           "id": 53252672782667,
+          "product_id": 10823797440843,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -15768,8 +15768,8 @@
           "image_id": 64332537299275
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672815435,
+          "product_id": 10823797440843,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -15796,8 +15796,8 @@
           "image_id": 64332537332043
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672848203,
+          "product_id": 10823797440843,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -15824,8 +15824,8 @@
           "image_id": 64332537364811
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672880971,
+          "product_id": 10823797440843,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -15854,8 +15854,8 @@
       ],
       "options": [
         {
-          "product_id": 10823797440843,
           "id": 13449527624011,
+          "product_id": 10823797440843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15866,8 +15866,8 @@
           ]
         },
         {
-          "product_id": 10823797440843,
           "id": 13449527656779,
+          "product_id": 10823797440843,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
