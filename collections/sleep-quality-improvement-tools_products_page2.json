@@ -34601,8 +34601,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051832651",
       "variants": [
         {
-          "product_id": 10825051832651,
           "id": 53256607826251,
+          "product_id": 10825051832651,
           "title": "white",
           "price": "30.64",
           "position": 1,
@@ -34629,8 +34629,8 @@
           "image_id": 64365268697419
         },
         {
-          "product_id": 10825051832651,
           "id": 53256607859019,
+          "product_id": 10825051832651,
           "title": "gules",
           "price": "30.64",
           "position": 2,
@@ -34657,8 +34657,8 @@
           "image_id": 64365268730187
         },
         {
-          "product_id": 10825051832651,
           "id": 53256607891787,
+          "product_id": 10825051832651,
           "title": "Light green",
           "price": "30.64",
           "position": 3,
@@ -34685,8 +34685,8 @@
           "image_id": 64365268762955
         },
         {
-          "product_id": 10825051832651,
           "id": 53256607924555,
+          "product_id": 10825051832651,
           "title": "black",
           "price": "30.64",
           "position": 4,
@@ -34713,8 +34713,8 @@
           "image_id": 64365268795723
         },
         {
-          "product_id": 10825051832651,
           "id": 53256607957323,
+          "product_id": 10825051832651,
           "title": "Blackish green",
           "price": "30.64",
           "position": 5,
@@ -34741,8 +34741,8 @@
           "image_id": 64365268828491
         },
         {
-          "product_id": 10825051832651,
           "id": 53256607990091,
+          "product_id": 10825051832651,
           "title": "Blue color",
           "price": "30.64",
           "position": 6,
@@ -34769,8 +34769,8 @@
           "image_id": 64365268861259
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608022859,
+          "product_id": 10825051832651,
           "title": "Watermelon Red",
           "price": "30.64",
           "position": 7,
@@ -34797,8 +34797,8 @@
           "image_id": 64365268894027
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608055627,
+          "product_id": 10825051832651,
           "title": "Beige",
           "price": "30.64",
           "position": 8,
@@ -34825,8 +34825,8 @@
           "image_id": 64365268926795
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608088395,
+          "product_id": 10825051832651,
           "title": "Pink",
           "price": "30.64",
           "position": 9,
@@ -34853,8 +34853,8 @@
           "image_id": 64365268959563
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608121163,
+          "product_id": 10825051832651,
           "title": "Red",
           "price": "30.64",
           "position": 10,
@@ -34881,8 +34881,8 @@
           "image_id": 64365268992331
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608153931,
+          "product_id": 10825051832651,
           "title": "Wathet",
           "price": "30.64",
           "position": 11,
@@ -34909,8 +34909,8 @@
           "image_id": 64365269025099
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608186699,
+          "product_id": 10825051832651,
           "title": "Golden",
           "price": "30.64",
           "position": 12,
@@ -34937,8 +34937,8 @@
           "image_id": 64365269057867
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608219467,
+          "product_id": 10825051832651,
           "title": "Lilac colour",
           "price": "30.64",
           "position": 13,
@@ -34965,8 +34965,8 @@
           "image_id": 64365269090635
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608252235,
+          "product_id": 10825051832651,
           "title": "gray",
           "price": "30.64",
           "position": 14,
@@ -34993,8 +34993,8 @@
           "image_id": 64365269123403
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608285003,
+          "product_id": 10825051832651,
           "title": "Royal Blue",
           "price": "30.64",
           "position": 15,
@@ -35021,8 +35021,8 @@
           "image_id": 64365269156171
         },
         {
-          "product_id": 10825051832651,
           "id": 53256608317771,
+          "product_id": 10825051832651,
           "title": "Deep purple",
           "price": "30.64",
           "position": 16,
@@ -35051,8 +35051,8 @@
       ],
       "options": [
         {
-          "product_id": 10825051832651,
           "id": 13450928030027,
+          "product_id": 10825051832651,
           "name": "format",
           "position": 1,
           "values": [
@@ -35387,8 +35387,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823925694795",
       "variants": [
         {
-          "id": 53253544411467,
           "product_id": 10823925694795,
+          "id": 53253544411467,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -35415,8 +35415,8 @@
           "image_id": 64335099265355
         },
         {
-          "id": 53253544444235,
           "product_id": 10823925694795,
+          "id": 53253544444235,
           "title": "Grey / USB",
           "price": "27.99",
           "position": 2,
@@ -35443,8 +35443,8 @@
           "image_id": 64335099298123
         },
         {
-          "id": 53253544477003,
           "product_id": 10823925694795,
+          "id": 53253544477003,
           "title": "Purple / USB",
           "price": "27.99",
           "position": 3,
@@ -35473,8 +35473,8 @@
       ],
       "options": [
         {
-          "id": 13449691595083,
           "product_id": 10823925694795,
+          "id": 13449691595083,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35484,8 +35484,8 @@
           ]
         },
         {
-          "id": 13449691627851,
           "product_id": 10823925694795,
+          "id": 13449691627851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -38609,8 +38609,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "product_id": 10825066053963,
           "id": 53256702853451,
+          "product_id": 10825066053963,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -38637,8 +38637,8 @@
           "image_id": 64365446496587
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702886219,
+          "product_id": 10825066053963,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -38665,8 +38665,8 @@
           "image_id": 64365446529355
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702918987,
+          "product_id": 10825066053963,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -38695,8 +38695,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066053963,
           "id": 13450948116811,
+          "product_id": 10825066053963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -93620,8 +93620,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053569355",
       "variants": [
         {
-          "id": 53256615231819,
           "product_id": 10825053569355,
+          "id": 53256615231819,
           "title": "Short with elastic",
           "price": "34.02",
           "position": 1,
@@ -93648,8 +93648,8 @@
           "image_id": 64365292454219
         },
         {
-          "id": 53256615264587,
           "product_id": 10825053569355,
+          "id": 53256615264587,
           "title": "Grey outline",
           "price": "34.11",
           "position": 2,
@@ -93676,8 +93676,8 @@
           "image_id": 64365292486987
         },
         {
-          "id": 53256615297355,
           "product_id": 10825053569355,
+          "id": 53256615297355,
           "title": "Grey outline 2PC",
           "price": "36.70",
           "position": 3,
@@ -93704,8 +93704,8 @@
           "image_id": 64365292519755
         },
         {
-          "id": 53256615330123,
           "product_id": 10825053569355,
+          "id": 53256615330123,
           "title": "Grey outline 3PC",
           "price": "39.11",
           "position": 4,
@@ -93732,8 +93732,8 @@
           "image_id": 64365292552523
         },
         {
-          "id": 53256615362891,
           "product_id": 10825053569355,
+          "id": 53256615362891,
           "title": "Grey outline set",
           "price": "34.47",
           "position": 5,
@@ -93760,8 +93760,8 @@
           "image_id": 64365292585291
         },
         {
-          "id": 53256615395659,
           "product_id": 10825053569355,
+          "id": 53256615395659,
           "title": "Dark gray",
           "price": "34.28",
           "position": 6,
@@ -93790,8 +93790,8 @@
       ],
       "options": [
         {
-          "id": 13450929930571,
           "product_id": 10825053569355,
+          "id": 13450929930571,
           "name": "Color",
           "position": 1,
           "values": [
