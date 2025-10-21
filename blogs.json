@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-21T13:28:15+01:00",
+      "updated_at": "2025-10-21T14:03:24+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -966,12 +966,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T12:38:12+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:51:19+01:00",
+          "summary_html": "<p data-start=\"139\" data-end=\"532\">Creating the perfect sleep environment starts with dialing in the right temperature. Backed by science, this in-depth guide explores the ideal bedroom temperatures for adults, older adults, and infants—along with how temperature, humidity, and even seasonal changes can affect your sleep quality. Learn practical, research-based strategies to improve your rest through smarter climate control.</p>",
           "template_suffix": "article",
           "handle": "optimal-bedroom-temperature-for-sleep-science-based-guidelines",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998905676107"
+          "admin_graphql_api_id": "gid://shopify/Article/998905676107",
+          "image": {
+            "created_at": "2025-10-21T13:51:17+01:00",
+            "alt": "Woman sleeping soundly in a cool bedroom.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_62abec2f-040e-4538-b19c-7a3998caf396.png?v=1761051078"
+          }
         },
         {
           "id": 998905413963,
@@ -981,12 +988,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T12:26:02+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:45:25+01:00",
+          "summary_html": "<p data-start=\"163\" data-end=\"550\">Discover the science-backed secrets to better sleep with this comprehensive guide on sleep hygiene. Learn how optimizing your environment, habits, and daily routine can reduce time to fall asleep by 36% and improve sleep quality by up to 42%. Includes a complete checklist, expert tips, DIY strategies, and product recommendations—designed to help you sleep naturally and wake refreshed.</p>",
           "template_suffix": "article",
           "handle": "complete-sleep-hygiene-checklist-evidence-based-guide",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998905413963"
+          "admin_graphql_api_id": "gid://shopify/Article/998905413963",
+          "image": {
+            "created_at": "2025-10-21T13:45:24+01:00",
+            "alt": "Bedroom with light-blocking curtains, white noise, wake-up light",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_42a79463-dbec-4021-b1b1-7d950dcd1753.jpg?v=1761050725"
+          }
         },
         {
           "id": 998894043467,
@@ -996,12 +1010,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T13:03:32+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:41:44+01:00",
+          "summary_html": "<p>Travel with anxiety doesn’t have to mean sleepless nights. This guide explores compact weighted blankets, sleep masks, and white noise tools that deliver effective anxiety relief on the go. Discover real-world packing tips, science-backed strategies, and the best portable sleep solutions for business travellers, digital nomads, and anxious flyers.</p>",
           "template_suffix": "article",
           "handle": "travel-weighted-blankets-portable-anxiety-relief-for-better-sleep-on-the-go",
           "tags": "Deep Pressure Therapy, Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998894043467"
+          "admin_graphql_api_id": "gid://shopify/Article/998894043467",
+          "image": {
+            "created_at": "2025-10-21T13:41:43+01:00",
+            "alt": "Young woman using travel blanket and eye mask to relax",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_e49a1270-8452-420b-8f9d-ed6349ac28f3.png?v=1761050504"
+          }
         },
         {
           "id": 998893879627,
@@ -1011,12 +1032,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T12:48:22+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:35:01+01:00",
+          "summary_html": "<p>Struggling with the uncomfortable, nightly urge to move your legs? Discover how weighted blankets offer natural relief for Restless Leg Syndrome (RLS) through deep pressure therapy. Backed by emerging research and personal experience, this guide explores the science, safety tips, and best products to ease RLS symptoms and improve sleep—whether you're in the UK, US, or beyond.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-restless-leg-syndrome-therapeutic-relief-through-deep-pressure",
           "tags": "Deep Pressure Therapy, Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998893879627"
+          "admin_graphql_api_id": "gid://shopify/Article/998893879627",
+          "image": {
+            "created_at": "2025-10-21T13:35:00+01:00",
+            "alt": "Weighted blanket deep pressure therapy session in a serene room",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_d6bb3649-9fcc-4caa-8706-d92f83fd4cda.jpg?v=1761050101"
+          }
         },
         {
           "id": 998893748555,
@@ -1631,12 +1659,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T22:27:07+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T14:03:24+01:00",
+          "summary_html": "<p data-start=\"199\" data-end=\"583\">Should your white noise machine run all night or shut off after 60 minutes? This expert-backed guide explores the pros and cons of auto-off timers vs. continuous play, with research on sleep stages, energy consumption, age-specific recommendations, and tips for choosing the best setting for your sleep style. Learn how to balance sound therapy for better rest—without overdependence.</p>",
           "template_suffix": "article",
           "handle": "timer-settings-on-white-noise-machines-all-night-or-auto-off",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998699401547"
+          "admin_graphql_api_id": "gid://shopify/Article/998699401547",
+          "image": {
+            "created_at": "2025-10-21T14:03:23+01:00",
+            "alt": "Mother setting white noise timer, kids playing in bed.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_6cb8e4b0-856d-47fa-9bef-fa9ba7235ba0.png?v=1761051804"
+          }
         },
         {
           "id": 998698680651,
@@ -1646,12 +1681,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T22:11:09+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:58:09+01:00",
+          "summary_html": "<p>Struggling with ADHD focus or sleep issues? White noise therapy offers a powerful, science-backed solution. This guide explores how white, pink, and brown noise can improve attention, reduce anxiety, and help both adults and children with ADHD fall asleep faster. Learn how to implement sound therapy effectively and discover the best white noise machines for your needs—whether you're at home, at work, or on the go.</p>",
           "template_suffix": "article",
           "handle": "white-noise-for-adhd-improving-focus-and-sleep",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998698680651"
+          "admin_graphql_api_id": "gid://shopify/Article/998698680651",
+          "image": {
+            "created_at": "2025-10-21T13:58:07+01:00",
+            "alt": "Headphones, diffuser, and phone with sound waves for ADHD",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_6d342e8a-32cd-4ba6-a511-69a1ed209319.png?v=1761051488"
+          }
         },
         {
           "id": 998693667147,
