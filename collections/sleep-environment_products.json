@@ -16597,8 +16597,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -16627,8 +16627,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -16636,8 +16636,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [
