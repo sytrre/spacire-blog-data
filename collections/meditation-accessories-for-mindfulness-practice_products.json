@@ -474,8 +474,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099706699",
       "variants": [
         {
-          "product_id": 10825099706699,
           "id": 53256899690827,
+          "product_id": 10825099706699,
           "title": "Set",
           "price": "428.72",
           "position": 1,
@@ -504,8 +504,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099706699,
           "id": 13450999857483,
+          "product_id": 10825099706699,
           "name": "style",
           "position": 1,
           "values": [
@@ -3229,8 +3229,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108586827",
       "variants": [
         {
-          "product_id": 10825108586827,
           "id": 53256916664651,
+          "product_id": 10825108586827,
           "title": "White / Saturn Projection",
           "price": "482.61",
           "position": 1,
@@ -3257,8 +3257,8 @@
           "image_id": 64365839581515
         },
         {
-          "product_id": 10825108586827,
           "id": 53256916697419,
+          "product_id": 10825108586827,
           "title": "White / Saturn Earth Color Vortex",
           "price": "537.81",
           "position": 2,
@@ -3285,8 +3285,8 @@
           "image_id": 64365839581515
         },
         {
-          "product_id": 10825108586827,
           "id": 53256916730187,
+          "product_id": 10825108586827,
           "title": "White / Saturn Moon Earth Color Vortex",
           "price": "593.34",
           "position": 3,
@@ -3315,8 +3315,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108586827,
           "id": 13451010670923,
+          "product_id": 10825108586827,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3324,8 +3324,8 @@
           ]
         },
         {
-          "product_id": 10825108586827,
           "id": 13451010703691,
+          "product_id": 10825108586827,
           "name": "Style",
           "position": 2,
           "values": [
