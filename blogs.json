@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-21T05:30:02+01:00",
+      "updated_at": "2025-10-21T13:28:15+01:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1026,12 +1026,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T12:30:31+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:28:15+01:00",
+          "summary_html": "<p>Discover how to choose the perfect weighted blanket for better sleep, reduced anxiety, and improved focus. This comprehensive guide covers everything from ideal weight selection and fabric types to safety tips and expert-backed benefits of deep pressure therapy.</p>",
           "template_suffix": "article",
           "handle": "how-to-choose-your-first-weighted-blanket",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998893748555"
+          "admin_graphql_api_id": "gid://shopify/Article/998893748555",
+          "image": {
+            "created_at": "2025-10-21T13:28:13+01:00",
+            "alt": "woman chooses between two weighted blankets on shelf",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_a4591710-6380-4305-8fb1-5cae8106291d.png?v=1761049695"
+          }
         },
         {
           "id": 998893683019,
@@ -1041,12 +1048,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T12:19:56+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:24:31+01:00",
+          "summary_html": "<p>Living with PTSD often means battling relentless anxiety, hypervigilance, and disrupted sleep—but relief may come in the form of gentle pressure. This in-depth guide explores how weighted blankets can complement traditional PTSD treatment, with research-backed benefits like reduced cortisol, better sleep, and improved emotional regulation. From choosing the right blanket to real-world user insights and safety tips, discover how this simple tool may become a powerful part of your healing journey.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-ptsd-therapeutic-benefits",
           "tags": "Deep Pressure Therapy, Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998893683019"
+          "admin_graphql_api_id": "gid://shopify/Article/998893683019",
+          "image": {
+            "created_at": "2025-10-21T13:24:29+01:00",
+            "alt": "Woman with weighted blanket in therapy session",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_2e08d108-00ca-48dd-85c4-141fe81c40ed.png?v=1761049471"
+          }
         },
         {
           "id": 998893453643,
@@ -1056,12 +1070,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T12:08:00+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:21:00+01:00",
+          "summary_html": "<p>Weighted blankets have been scientifically shown to improve sleep by up to 60%, increase melatonin by 32%, and reduce anxiety by nearly half. This in-depth comparison guide explores the therapeutic benefits of weighted blankets vs regular blankets, including clinical research, pros and cons, safety tips, and product recommendations—helping you choose the right solution for better sleep and overall wellbeing.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-vs-regular-blankets-sleep-quality-comparison",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998893453643"
+          "admin_graphql_api_id": "gid://shopify/Article/998893453643",
+          "image": {
+            "created_at": "2025-10-21T13:20:59+01:00",
+            "alt": "Weighted vs. regular blanket for sleep.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_e711311a-17c9-4e1b-9d4d-6698b4950d6a.jpg?v=1761049260"
+          }
         },
         {
           "id": 998893158731,
@@ -1071,12 +1092,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T11:55:09+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:17:33+01:00",
+          "summary_html": "<p>Weighted blankets can be a powerful natural sleep aid for older adults, offering relief from anxiety, insomnia, and chronic pain. This comprehensive guide explores the science behind deep pressure stimulation, safety precautions, ideal weight selection, and top blanket recommendations for seniors. Learn how to use weighted blankets safely and effectively to enhance sleep and wellbeing in later life.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-seniors-benefits-and-precautions",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998893158731"
+          "admin_graphql_api_id": "gid://shopify/Article/998893158731",
+          "image": {
+            "created_at": "2025-10-21T13:17:32+01:00",
+            "alt": "Seniors sleeping soundly with weighted blanket in bright bedroom",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_5d4ae8e2-1949-45af-9640-1a9835f9db2e.jpg?v=1761049053"
+          }
         },
         {
           "id": 998892732747,
@@ -1086,12 +1114,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T11:25:07+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:12:53+01:00",
+          "summary_html": "<p>Struggling with sleep in hot weather? Discover how summer-weighted blankets combine deep pressure therapy with breathable, cooling materials like bamboo and cotton to help you sleep comfortably even in warm climates. This comprehensive guide covers weight selection, cooling fabrics, top product picks, and expert tips for using weighted blankets safely and effectively during summer.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-in-summer-cooling-options-guide",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998892732747"
+          "admin_graphql_api_id": "gid://shopify/Article/998892732747",
+          "image": {
+            "created_at": "2025-10-21T13:12:52+01:00",
+            "alt": "A woman sleeps under a weighted blanket.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_988591a3-c6e3-4134-9f32-df2c16788aff.png?v=1761048773"
+          }
         },
         {
           "id": 998892601675,
@@ -1101,12 +1136,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T11:11:24+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:09:32+01:00",
+          "summary_html": "<p>Blackout curtains offer more than just darkness—they're powerful tools for year-round climate control and energy efficiency. In this comprehensive guide, explore how the right blackout curtains can lower summer room temperatures by up to 15°C, reduce winter heat loss by 30%, and improve sleep quality in every season. Discover expert installation tips, product recommendations, and energy-saving strategies that turn your bedroom into a true sleep sanctuary.</p>",
           "template_suffix": "article",
           "handle": "seasonal-guide-summer-vs-winter-blackout-curtain-benefits",
           "tags": "Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998892601675"
+          "admin_graphql_api_id": "gid://shopify/Article/998892601675",
+          "image": {
+            "created_at": "2025-10-21T13:09:31+01:00",
+            "alt": "gray blackout curtains in white living room",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_86e77b76-989a-402d-b1ae-c3c03a42e91e.png?v=1761048572"
+          }
         },
         {
           "id": 998892306763,
@@ -1116,12 +1158,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T10:51:37+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:05:50+01:00",
+          "summary_html": "<p>Transform your living room into a true home theater by mastering light control. This in-depth guide explores the critical role blackout curtains play in enhancing contrast, color accuracy, and viewing comfort. Discover expert tips on curtain types, professional installation techniques, DIY solutions, product recommendations, and maintenance strategies for immersive cinematic experiences—wherever you live in the world.</p>",
           "template_suffix": "article",
           "handle": "blackout-curtains-for-home-theaters-professional-setup-guide",
           "tags": "Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998892306763"
+          "admin_graphql_api_id": "gid://shopify/Article/998892306763",
+          "image": {
+            "created_at": "2025-10-21T13:05:48+01:00",
+            "alt": "Blackout curtains for cinematic home theater experience",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_7ba8620f-2c92-43f9-8a7f-8397bc30c487.png?v=1761048350"
+          }
         },
         {
           "id": 998891651403,
@@ -1131,12 +1180,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-14T10:17:53+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-21T13:02:48+01:00",
+          "summary_html": "<p>Window covering cord strangulation is a leading hidden hazard in homes with young children. This comprehensive guide explores essential safety features for choosing child-safe blackout curtains, including cordless systems, flame-resistant materials, and secure installation methods. Learn about age-appropriate guidelines, DIY safety modifications, and recommended products to create a safe and dark sleeping environment for your child. Prioritize safety while optimizing sleep quality with these expert insights.</p>",
           "template_suffix": "article",
           "handle": "child-safe-blackout-curtains-safety-features-guide",
           "tags": "Blackout curtains",
-          "admin_graphql_api_id": "gid://shopify/Article/998891651403"
+          "admin_graphql_api_id": "gid://shopify/Article/998891651403",
+          "image": {
+            "created_at": "2025-10-21T13:02:47+01:00",
+            "alt": "Safety certified blackout curtains and hardware for child protection.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_14519f6f-fb24-458d-87f4-5d803b0a11d6.png?v=1761048168"
+          }
         },
         {
           "id": 998891290955,
@@ -1387,19 +1443,19 @@
           "blog_id": 119487070539,
           "author": "Valentine O",
           "user_id": 123678196043,
-          "published_at": "2025-10-20T05:00:08+01:00",
-          "updated_at": "2025-10-20T05:00:08+01:00",
+          "published_at": null,
+          "updated_at": "2025-10-21T12:40:52+01:00",
           "summary_html": "<p>Struggling with light pollution or restless nights? Discover how blackout curtains can dramatically improve your sleep quality, reduce energy bills, and create a quiet, cozy sleep sanctuary. Backed by scientific research and global user trends, this comprehensive guide covers everything—from choosing the right type to expert installation tips and recommended products. Whether you're a shift worker, a parent, or just need better rest, this is your one-stop resource for sleeping in total darkness.</p>",
           "template_suffix": "article",
           "handle": "complete-guide-to-blackout-curtains-types-benefits-installation",
           "tags": "Blackout curtains",
           "admin_graphql_api_id": "gid://shopify/Article/998881821003",
           "image": {
-            "created_at": "2025-10-19T13:37:34+01:00",
+            "created_at": "2025-10-21T12:40:50+01:00",
             "alt": "Dark room solutions: curtains, blinds, and portable options.",
             "width": 1024,
             "height": 1024,
-            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A2_0ece04b2-124f-4397-8f1b-5a552895a47d.png?v=1760877455"
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A2_1ccbe374-f4ae-46b2-9e96-721e82c5844e.png?v=1761046852"
           }
         },
         {
