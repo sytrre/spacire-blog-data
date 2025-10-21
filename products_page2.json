@@ -95399,8 +95399,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791575371",
       "variants": [
         {
-          "id": 53252640997707,
           "product_id": 10823791575371,
+          "id": 53252640997707,
           "title": "Black / USB",
           "price": "89.99",
           "position": 1,
@@ -95427,8 +95427,8 @@
           "image_id": 64332417139019
         },
         {
-          "id": 53252641030475,
           "product_id": 10823791575371,
+          "id": 53252641030475,
           "title": "Kneading eye massager / USB",
           "price": "89.99",
           "position": 2,
@@ -95455,8 +95455,8 @@
           "image_id": 64332417171787
         },
         {
-          "id": 53252641063243,
           "product_id": 10823791575371,
+          "id": 53252641063243,
           "title": "Pink / USB",
           "price": "89.99",
           "position": 3,
@@ -95483,8 +95483,8 @@
           "image_id": 64332417204555
         },
         {
-          "id": 53252641096011,
           "product_id": 10823791575371,
+          "id": 53252641096011,
           "title": "White / USB",
           "price": "89.99",
           "position": 4,
@@ -95513,8 +95513,8 @@
       ],
       "options": [
         {
-          "id": 13449520283979,
           "product_id": 10823791575371,
+          "id": 13449520283979,
           "name": "style",
           "position": 1,
           "values": [
@@ -95525,8 +95525,8 @@
           ]
         },
         {
-          "id": 13449520316747,
           "product_id": 10823791575371,
+          "id": 13449520316747,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

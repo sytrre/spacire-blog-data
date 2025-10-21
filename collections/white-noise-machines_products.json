@@ -12187,8 +12187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -12215,8 +12215,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -12243,8 +12243,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -12271,8 +12271,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -12301,8 +12301,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12313,8 +12313,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14737,8 +14737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14767,8 +14767,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14776,8 +14776,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
