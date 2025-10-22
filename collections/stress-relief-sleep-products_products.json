@@ -66040,8 +66040,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961687883",
       "variants": [
         {
-          "id": 53256231682379,
           "product_id": 10824961687883,
+          "id": 53256231682379,
           "title": "30ml",
           "price": "20.95",
           "position": 1,
@@ -66070,8 +66070,8 @@
       ],
       "options": [
         {
-          "id": 13450822451531,
           "product_id": 10824961687883,
+          "id": 13450822451531,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -66675,8 +66675,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158984011",
       "variants": [
         {
-          "id": 53257349661003,
           "product_id": 10825158984011,
+          "id": 53257349661003,
           "title": "30 PATCHES",
           "price": "33.57",
           "position": 1,
@@ -66705,8 +66705,8 @@
       ],
       "options": [
         {
-          "id": 13451086233931,
           "product_id": 10825158984011,
+          "id": 13451086233931,
           "name": "quantity",
           "position": 1,
           "values": [
