@@ -89666,8 +89666,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772566262091",
       "variants": [
         {
-          "product_id": 14772566262091,
           "id": 53314616361291,
+          "product_id": 14772566262091,
           "title": "Mint Blue / 42x65cm",
           "price": "37.78",
           "position": 1,
@@ -89694,8 +89694,8 @@
           "image_id": 64611853566283
         },
         {
-          "product_id": 14772566262091,
           "id": 53314616394059,
+          "product_id": 14772566262091,
           "title": "Dark Gray / 42x65cm",
           "price": "37.78",
           "position": 2,
@@ -89722,8 +89722,8 @@
           "image_id": 64611853599051
         },
         {
-          "product_id": 14772566262091,
           "id": 53314616426827,
+          "product_id": 14772566262091,
           "title": "Linen / 42x65cm",
           "price": "37.78",
           "position": 3,
@@ -89752,8 +89752,8 @@
       ],
       "options": [
         {
-          "product_id": 14772566262091,
           "id": 17117262577995,
+          "product_id": 14772566262091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -89763,8 +89763,8 @@
           ]
         },
         {
-          "product_id": 14772566262091,
           "id": 17117262610763,
+          "product_id": 14772566262091,
           "name": "Dimensions",
           "position": 2,
           "values": [
@@ -95699,8 +95699,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051504971",
       "variants": [
         {
-          "id": 53256606875979,
           "product_id": 10825051504971,
+          "id": 53256606875979,
           "title": "Dark green",
           "price": "32.96",
           "position": 1,
@@ -95727,8 +95727,8 @@
           "image_id": 64365264240971
         },
         {
-          "id": 53256606908747,
           "product_id": 10825051504971,
+          "id": 53256606908747,
           "title": "Gray",
           "price": "32.96",
           "position": 2,
@@ -95757,8 +95757,8 @@
       ],
       "options": [
         {
-          "id": 13450927702347,
           "product_id": 10825051504971,
+          "id": 13450927702347,
           "name": "Color",
           "position": 1,
           "values": [
