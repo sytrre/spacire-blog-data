@@ -118814,8 +118814,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659225419",
       "variants": [
         {
-          "product_id": 10823659225419,
           "id": 53251954966859,
+          "product_id": 10823659225419,
           "title": "White / A13 / USB",
           "price": "59.99",
           "position": 1,
@@ -118842,8 +118842,8 @@
           "image_id": 64329977037131
         },
         {
-          "product_id": 10823659225419,
           "id": 53251954999627,
+          "product_id": 10823659225419,
           "title": "White / A15 / USB",
           "price": "44.99",
           "position": 2,
@@ -118872,8 +118872,8 @@
       ],
       "options": [
         {
-          "product_id": 10823659225419,
           "id": 13449301786955,
+          "product_id": 10823659225419,
           "name": "Color",
           "position": 1,
           "values": [
@@ -118881,8 +118881,8 @@
           ]
         },
         {
-          "product_id": 10823659225419,
           "id": 13449301819723,
+          "product_id": 10823659225419,
           "name": "style",
           "position": 2,
           "values": [
@@ -118891,8 +118891,8 @@
           ]
         },
         {
-          "product_id": 10823659225419,
           "id": 13449301852491,
+          "product_id": 10823659225419,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -122029,8 +122029,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776056807755",
       "variants": [
         {
-          "product_id": 14776056807755,
           "id": 53331182027083,
+          "product_id": 14776056807755,
           "title": "Grey / 1mx2.7m",
           "price": "53.45",
           "position": 1,
@@ -122057,8 +122057,8 @@
           "image_id": 64660127187275
         },
         {
-          "product_id": 14776056807755,
           "id": 53331182059851,
+          "product_id": 14776056807755,
           "title": "Beige / 1mx2.7m",
           "price": "53.45",
           "position": 2,
@@ -122085,8 +122085,8 @@
           "image_id": 64660127220043
         },
         {
-          "product_id": 14776056807755,
           "id": 53331182092619,
+          "product_id": 14776056807755,
           "title": "Coffee / 1mx2.7m",
           "price": "53.45",
           "position": 3,
@@ -122115,8 +122115,8 @@
       ],
       "options": [
         {
-          "product_id": 14776056807755,
           "id": 17121533067595,
+          "product_id": 14776056807755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -122126,8 +122126,8 @@
           ]
         },
         {
-          "product_id": 14776056807755,
           "id": 17121533100363,
+          "product_id": 14776056807755,
           "name": "Size",
           "position": 2,
           "values": [
