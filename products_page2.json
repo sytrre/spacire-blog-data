@@ -7582,8 +7582,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "product_id": 10825085354315,
           "id": 53256840741195,
+          "product_id": 10825085354315,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -7610,8 +7610,8 @@
           "image_id": 64365652377931
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840773963,
+          "product_id": 10825085354315,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -7638,8 +7638,8 @@
           "image_id": 64365652410699
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840806731,
+          "product_id": 10825085354315,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -7666,8 +7666,8 @@
           "image_id": 64365652443467
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840839499,
+          "product_id": 10825085354315,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -7696,8 +7696,8 @@
       ],
       "options": [
         {
-          "product_id": 10825085354315,
           "id": 13450975478091,
+          "product_id": 10825085354315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7708,8 +7708,8 @@
           ]
         },
         {
-          "product_id": 10825085354315,
           "id": 13450975510859,
+          "product_id": 10825085354315,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -10148,8 +10148,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "product_id": 10825050194251,
           "id": 53256602091851,
+          "product_id": 10825050194251,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -10178,8 +10178,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050194251,
           "id": 13450926260555,
+          "product_id": 10825050194251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -95399,8 +95399,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791575371",
       "variants": [
         {
-          "product_id": 10823791575371,
           "id": 53252640997707,
+          "product_id": 10823791575371,
           "title": "Black / USB",
           "price": "89.99",
           "position": 1,
@@ -95427,8 +95427,8 @@
           "image_id": 64332417139019
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641030475,
+          "product_id": 10823791575371,
           "title": "Kneading eye massager / USB",
           "price": "89.99",
           "position": 2,
@@ -95455,8 +95455,8 @@
           "image_id": 64332417171787
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641063243,
+          "product_id": 10823791575371,
           "title": "Pink / USB",
           "price": "89.99",
           "position": 3,
@@ -95483,8 +95483,8 @@
           "image_id": 64332417204555
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641096011,
+          "product_id": 10823791575371,
           "title": "White / USB",
           "price": "89.99",
           "position": 4,
@@ -95513,8 +95513,8 @@
       ],
       "options": [
         {
-          "product_id": 10823791575371,
           "id": 13449520283979,
+          "product_id": 10823791575371,
           "name": "style",
           "position": 1,
           "values": [
@@ -95525,8 +95525,8 @@
           ]
         },
         {
-          "product_id": 10823791575371,
           "id": 13449520316747,
+          "product_id": 10823791575371,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
