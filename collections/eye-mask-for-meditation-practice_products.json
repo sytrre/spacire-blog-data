@@ -35687,8 +35687,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659225419",
       "variants": [
         {
-          "id": 53251954966859,
           "product_id": 10823659225419,
+          "id": 53251954966859,
           "title": "White / A13 / USB",
           "price": "59.99",
           "position": 1,
@@ -35715,8 +35715,8 @@
           "image_id": 64329977037131
         },
         {
-          "id": 53251954999627,
           "product_id": 10823659225419,
+          "id": 53251954999627,
           "title": "White / A15 / USB",
           "price": "44.99",
           "position": 2,
@@ -35745,8 +35745,8 @@
       ],
       "options": [
         {
-          "id": 13449301786955,
           "product_id": 10823659225419,
+          "id": 13449301786955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35754,8 +35754,8 @@
           ]
         },
         {
-          "id": 13449301819723,
           "product_id": 10823659225419,
+          "id": 13449301819723,
           "name": "style",
           "position": 2,
           "values": [
@@ -35764,8 +35764,8 @@
           ]
         },
         {
-          "id": 13449301852491,
           "product_id": 10823659225419,
+          "id": 13449301852491,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -60751,8 +60751,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068314955",
       "variants": [
         {
-          "id": 53256743092555,
           "product_id": 10825068314955,
+          "id": 53256743092555,
           "title": "Black",
           "price": "32.45",
           "position": 1,
@@ -60779,8 +60779,8 @@
           "image_id": 64365476249931
         },
         {
-          "id": 53256743125323,
           "product_id": 10825068314955,
+          "id": 53256743125323,
           "title": "Gray",
           "price": "32.45",
           "position": 2,
@@ -60807,8 +60807,8 @@
           "image_id": 64365476282699
         },
         {
-          "id": 53256743158091,
           "product_id": 10825068314955,
+          "id": 53256743158091,
           "title": "Pink",
           "price": "32.45",
           "position": 3,
@@ -60837,8 +60837,8 @@
       ],
       "options": [
         {
-          "id": 13450951950667,
           "product_id": 10825068314955,
+          "id": 13450951950667,
           "name": "format",
           "position": 1,
           "values": [
