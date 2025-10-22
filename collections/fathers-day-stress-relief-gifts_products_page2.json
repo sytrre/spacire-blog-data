@@ -17406,8 +17406,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773401092427",
       "variants": [
         {
-          "id": 53317142020427,
           "product_id": 14773401092427,
+          "id": 53317142020427,
           "title": "Black / B 150x130cm",
           "price": "51.07",
           "position": 1,
@@ -17434,8 +17434,8 @@
           "image_id": 64620892520779
         },
         {
-          "id": 53317142053195,
           "product_id": 14773401092427,
+          "id": 53317142053195,
           "title": "Black / 150x200cm",
           "price": "53.08",
           "position": 2,
@@ -17462,8 +17462,8 @@
           "image_id": 64620892520779
         },
         {
-          "id": 53317142085963,
           "product_id": 14773401092427,
+          "id": 53317142085963,
           "title": "Brown / B 150x130cm",
           "price": "51.07",
           "position": 3,
@@ -17490,8 +17490,8 @@
           "image_id": 64620892553547
         },
         {
-          "id": 53317142118731,
           "product_id": 14773401092427,
+          "id": 53317142118731,
           "title": "Brown / 150x200cm",
           "price": "53.08",
           "position": 4,
@@ -17518,8 +17518,8 @@
           "image_id": 64620892553547
         },
         {
-          "id": 53317142151499,
           "product_id": 14773401092427,
+          "id": 53317142151499,
           "title": "White / B 150x130cm",
           "price": "51.07",
           "position": 5,
@@ -17546,8 +17546,8 @@
           "image_id": 64620892586315
         },
         {
-          "id": 53317142184267,
           "product_id": 14773401092427,
+          "id": 53317142184267,
           "title": "White / 150x200cm",
           "price": "53.08",
           "position": 6,
@@ -17576,8 +17576,8 @@
       ],
       "options": [
         {
-          "id": 17118205870411,
           "product_id": 14773401092427,
+          "id": 17118205870411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17587,8 +17587,8 @@
           ]
         },
         {
-          "id": 17118205903179,
           "product_id": 14773401092427,
+          "id": 17118205903179,
           "name": "Carpet size",
           "position": 2,
           "values": [
@@ -31964,8 +31964,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "product_id": 10823793934667,
           "id": 53252657938763,
+          "product_id": 10823793934667,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -31994,8 +31994,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793934667,
           "id": 13449523659083,
+          "product_id": 10823793934667,
           "name": "style",
           "position": 1,
           "values": [
@@ -32003,8 +32003,8 @@
           ]
         },
         {
-          "product_id": 10823793934667,
           "id": 13449523691851,
+          "product_id": 10823793934667,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
