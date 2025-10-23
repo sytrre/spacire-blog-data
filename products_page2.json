@@ -6182,8 +6182,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081585995",
       "variants": [
         {
-          "id": 53256809709899,
           "product_id": 10825081585995,
+          "id": 53256809709899,
           "title": "Blue Battery Square",
           "price": "128.88",
           "position": 1,
@@ -6210,8 +6210,8 @@
           "image_id": 64365609812299
         },
         {
-          "id": 53256809742667,
           "product_id": 10825081585995,
+          "id": 53256809742667,
           "title": "Pink Square Battery",
           "price": "128.88",
           "position": 2,
@@ -6238,8 +6238,8 @@
           "image_id": 64365609845067
         },
         {
-          "id": 53256809775435,
           "product_id": 10825081585995,
+          "id": 53256809775435,
           "title": "Blue Square Charging",
           "price": "139.92",
           "position": 3,
@@ -6266,8 +6266,8 @@
           "image_id": 64365609877835
         },
         {
-          "id": 53256809808203,
           "product_id": 10825081585995,
+          "id": 53256809808203,
           "title": "Pink Square  Charging",
           "price": "139.92",
           "position": 4,
@@ -6294,8 +6294,8 @@
           "image_id": 64365609910603
         },
         {
-          "id": 53256809840971,
           "product_id": 10825081585995,
+          "id": 53256809840971,
           "title": "Blue Battery Star",
           "price": "128.88",
           "position": 5,
@@ -6322,8 +6322,8 @@
           "image_id": 64365609943371
         },
         {
-          "id": 53256809873739,
           "product_id": 10825081585995,
+          "id": 53256809873739,
           "title": "Purple Star Battery",
           "price": "128.88",
           "position": 6,
@@ -6350,8 +6350,8 @@
           "image_id": 64365609976139
         },
         {
-          "id": 53256809906507,
           "product_id": 10825081585995,
+          "id": 53256809906507,
           "title": "Blue Star Charging",
           "price": "139.92",
           "position": 7,
@@ -6378,8 +6378,8 @@
           "image_id": 64365610008907
         },
         {
-          "id": 53256809939275,
           "product_id": 10825081585995,
+          "id": 53256809939275,
           "title": "Purple Star Charging",
           "price": "139.92",
           "position": 8,
@@ -6406,8 +6406,8 @@
           "image_id": 64365610041675
         },
         {
-          "id": 53256809972043,
           "product_id": 10825081585995,
+          "id": 53256809972043,
           "title": "White Square Battery",
           "price": "128.88",
           "position": 9,
@@ -6434,8 +6434,8 @@
           "image_id": 64365610074443
         },
         {
-          "id": 53256810004811,
           "product_id": 10825081585995,
+          "id": 53256810004811,
           "title": "White Charging Charging",
           "price": "139.92",
           "position": 10,
@@ -6462,8 +6462,8 @@
           "image_id": 64365610107211
         },
         {
-          "id": 53256810037579,
           "product_id": 10825081585995,
+          "id": 53256810037579,
           "title": "White  Star Battery",
           "price": "128.88",
           "position": 11,
@@ -6490,8 +6490,8 @@
           "image_id": 64365610139979
         },
         {
-          "id": 53256810070347,
           "product_id": 10825081585995,
+          "id": 53256810070347,
           "title": "White  Star Charging",
           "price": "139.92",
           "position": 12,
@@ -6520,8 +6520,8 @@
       ],
       "options": [
         {
-          "id": 13450969776459,
           "product_id": 10825081585995,
+          "id": 13450969776459,
           "name": "Color",
           "position": 1,
           "values": [
@@ -70881,8 +70881,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158721867",
       "variants": [
         {
-          "product_id": 10825158721867,
           "id": 53257347531083,
+          "product_id": 10825158721867,
           "title": "White",
           "price": "55.50",
           "position": 1,
@@ -70911,8 +70911,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158721867,
           "id": 13451085873483,
+          "product_id": 10825158721867,
           "name": "Color",
           "position": 1,
           "values": [
