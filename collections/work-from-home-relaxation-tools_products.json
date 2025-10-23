@@ -5583,8 +5583,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158721867",
       "variants": [
         {
-          "product_id": 10825158721867,
           "id": 53257347531083,
+          "product_id": 10825158721867,
           "title": "White",
           "price": "55.50",
           "position": 1,
@@ -5613,8 +5613,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158721867,
           "id": 13451085873483,
+          "product_id": 10825158721867,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6457,7 +6457,7 @@
           "product_id": 10825159246155,
           "created_at": "2025-08-27T06:14:59+01:00",
           "updated_at": "2025-09-05T18:14:00+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64367040430411",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52452405543243",
           "width": 1600,
           "height": 1600,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/aeed146e-16df-4fc5-814e-2adc16e93dba.jpg?v=1756485659",
@@ -6470,7 +6470,7 @@
           "product_id": 10825159246155,
           "created_at": "2025-08-27T06:14:59+01:00",
           "updated_at": "2025-08-29T17:40:59+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64367040463179",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52452405576011",
           "width": 1600,
           "height": 1600,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/aeed146e-16df-4fc5-814e-2adc16e93dba_54d81df4-d3c3-4868-9f0f-676cd559e2b9.jpg?v=1756485659",
@@ -6486,7 +6486,7 @@
         "product_id": 10825159246155,
         "created_at": "2025-08-27T06:14:59+01:00",
         "updated_at": "2025-09-05T18:14:00+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64367040430411",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52452405543243",
         "width": 1600,
         "height": 1600,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/aeed146e-16df-4fc5-814e-2adc16e93dba.jpg?v=1756485659",
