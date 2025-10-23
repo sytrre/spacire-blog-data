@@ -25056,8 +25056,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775144481099",
       "variants": [
         {
-          "id": 53327473705291,
           "product_id": 14775144481099,
+          "id": 53327473705291,
           "title": "Blue",
           "price": "29.47",
           "position": 1,
@@ -25084,8 +25084,8 @@
           "image_id": 64650335453515
         },
         {
-          "id": 53327473738059,
           "product_id": 14775144481099,
+          "id": 53327473738059,
           "title": "Green",
           "price": "29.47",
           "position": 2,
@@ -25112,8 +25112,8 @@
           "image_id": 64650335486283
         },
         {
-          "id": 53327473770827,
           "product_id": 14775144481099,
+          "id": 53327473770827,
           "title": "Pink",
           "price": "29.47",
           "position": 3,
@@ -25142,8 +25142,8 @@
       ],
       "options": [
         {
-          "id": 17120440418635,
           "product_id": 14775144481099,
+          "id": 17120440418635,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52286,8 +52286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775145169227",
       "variants": [
         {
-          "product_id": 14775145169227,
           "id": 53327476130123,
+          "product_id": 14775145169227,
           "title": "45x45cm / Single Pillowcase",
           "price": "31.29",
           "position": 1,
@@ -52314,8 +52314,8 @@
           "image_id": 64650349052235
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476162891,
+          "product_id": 14775145169227,
           "title": "45x45cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 2,
@@ -52342,8 +52342,8 @@
           "image_id": 64650349052235
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476195659,
+          "product_id": 14775145169227,
           "title": "30x50cm / Single Pillowcase",
           "price": "31.29",
           "position": 3,
@@ -52370,8 +52370,8 @@
           "image_id": 64650349085003
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476228427,
+          "product_id": 14775145169227,
           "title": "30x50cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 4,
@@ -52400,8 +52400,8 @@
       ],
       "options": [
         {
-          "product_id": 14775145169227,
           "id": 17120441205067,
+          "product_id": 14775145169227,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52410,8 +52410,8 @@
           ]
         },
         {
-          "product_id": 14775145169227,
           "id": 17120441237835,
+          "product_id": 14775145169227,
           "name": "Style",
           "position": 2,
           "values": [
@@ -93322,8 +93322,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159180619",
       "variants": [
         {
-          "product_id": 10825159180619,
           "id": 53257350152523,
+          "product_id": 10825159180619,
           "title": "Blue",
           "price": "33.57",
           "position": 1,
@@ -93352,8 +93352,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159180619,
           "id": 13451086430539,
+          "product_id": 10825159180619,
           "name": "Color",
           "position": 1,
           "values": [
@@ -97343,8 +97343,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "product_id": 10825031188811,
           "id": 53256535900491,
+          "product_id": 10825031188811,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -97373,8 +97373,8 @@
       ],
       "options": [
         {
-          "product_id": 10825031188811,
           "id": 13450901717323,
+          "product_id": 10825031188811,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -97382,8 +97382,8 @@
           ]
         },
         {
-          "product_id": 10825031188811,
           "id": 13450901750091,
+          "product_id": 10825031188811,
           "name": "Power",
           "position": 2,
           "values": [
