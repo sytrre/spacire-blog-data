@@ -3861,8 +3861,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960999755",
       "variants": [
         {
-          "product_id": 10824960999755,
           "id": 53256229912907,
+          "product_id": 10824960999755,
           "title": "75ml",
           "price": "22.41",
           "position": 1,
@@ -3891,8 +3891,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960999755,
           "id": 13450821697867,
+          "product_id": 10824960999755,
           "name": "Color Classification",
           "position": 1,
           "values": [
