@@ -2180,8 +2180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "id": 53257349398859,
           "product_id": 10825158918475,
+          "id": 53257349398859,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -2210,8 +2210,8 @@
       ],
       "options": [
         {
-          "id": 13451086135627,
           "product_id": 10825158918475,
+          "id": 13451086135627,
           "name": "style",
           "position": 1,
           "values": [
@@ -3653,7 +3653,7 @@
           "product_id": 10825158984011,
           "created_at": "2025-08-27T06:14:05+01:00",
           "updated_at": "2025-08-29T17:41:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64367034433867",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52452399546699",
           "width": 1500,
           "height": 1500,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ddbd61fe-7530-4550-b258-bb16737c63fc.jpg?v=1756485663",
@@ -3666,7 +3666,7 @@
           "product_id": 10825158984011,
           "created_at": "2025-08-27T06:14:05+01:00",
           "updated_at": "2025-08-29T17:41:03+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64367034466635",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52452399612235",
           "width": 1500,
           "height": 1500,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ddbd61fe-7530-4550-b258-bb16737c63fc_06d65038-4aad-4982-ac42-b0740bb6043c.jpg?v=1756485663",
@@ -3682,7 +3682,7 @@
         "product_id": 10825158984011,
         "created_at": "2025-08-27T06:14:05+01:00",
         "updated_at": "2025-08-29T17:41:03+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64367034433867",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52452399546699",
         "width": 1500,
         "height": 1500,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ddbd61fe-7530-4550-b258-bb16737c63fc.jpg?v=1756485663",
