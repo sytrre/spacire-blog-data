@@ -1335,8 +1335,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823772438859",
       "variants": [
         {
-          "product_id": 10823772438859,
           "id": 53252545315147,
+          "product_id": 10823772438859,
           "title": "Gray / Chinese Packaging",
           "price": "40.99",
           "position": 1,
@@ -1363,8 +1363,8 @@
           "image_id": 64332163121483
         },
         {
-          "product_id": 10823772438859,
           "id": 53252545347915,
+          "product_id": 10823772438859,
           "title": "Gray / English Packaging",
           "price": "40.99",
           "position": 2,
@@ -1393,8 +1393,8 @@
       ],
       "options": [
         {
-          "product_id": 10823772438859,
           "id": 13449495642443,
+          "product_id": 10823772438859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1402,8 +1402,8 @@
           ]
         },
         {
-          "product_id": 10823772438859,
           "id": 13449495675211,
+          "product_id": 10823772438859,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -1420,7 +1420,7 @@
           "product_id": 10823772438859,
           "created_at": "2025-08-26T10:20:30+01:00",
           "updated_at": "2025-09-05T19:40:21+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64332162531659",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52436685553995",
           "width": 1500,
           "height": 1500,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/5954f61c-95f1-43a7-8f6f-74f6e4beaba1_trans.jpg?v=1756485976",
@@ -1433,7 +1433,7 @@
           "product_id": 10823772438859,
           "created_at": "2025-08-26T10:20:32+01:00",
           "updated_at": "2025-08-29T17:46:16+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64332162728267",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52436685881675",
           "width": 1500,
           "height": 1500,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/b40d463c-c357-4d5b-85e8-ff6ce181741f_trans.jpg?v=1756485976",
@@ -1446,7 +1446,7 @@
           "product_id": 10823772438859,
           "created_at": "2025-08-26T10:20:34+01:00",
           "updated_at": "2025-08-29T17:46:16+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64332163088715",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52436686242123",
           "width": 1500,
           "height": 1500,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/85d7d94e-ac00-49af-9757-798cd7b4c789_trans.jpg?v=1756485976",
@@ -1459,7 +1459,7 @@
           "product_id": 10823772438859,
           "created_at": "2025-08-26T10:20:34+01:00",
           "updated_at": "2025-08-29T17:46:17+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64332163121483",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52436686307659",
           "width": 1920,
           "height": 1920,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/69676def-fa1c-4adf-a3d4-7bc28d0f6fce.jpg?v=1756485977",
@@ -1476,7 +1476,7 @@
         "product_id": 10823772438859,
         "created_at": "2025-08-26T10:20:30+01:00",
         "updated_at": "2025-09-05T19:40:21+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64332162531659",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52436685553995",
         "width": 1500,
         "height": 1500,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/5954f61c-95f1-43a7-8f6f-74f6e4beaba1_trans.jpg?v=1756485976",

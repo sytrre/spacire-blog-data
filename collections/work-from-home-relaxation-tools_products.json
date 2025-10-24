@@ -2717,8 +2717,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "product_id": 10823955087691,
           "id": 53253611553099,
+          "product_id": 10823955087691,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -2745,8 +2745,8 @@
           "image_id": 64335531671883
         },
         {
-          "product_id": 10823955087691,
           "id": 53253611585867,
+          "product_id": 10823955087691,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -2775,8 +2775,8 @@
       ],
       "options": [
         {
-          "product_id": 10823955087691,
           "id": 13449724100939,
+          "product_id": 10823955087691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2793,7 +2793,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:36+01:00",
           "updated_at": "2025-09-05T19:33:26+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335530852683",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439992467787",
           "width": 1000,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ae922ef3-99ae-449d-aa53-c2c7af866630_trans.jpg?v=1756485928",
@@ -2806,7 +2806,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:40+01:00",
           "updated_at": "2025-08-29T17:45:28+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335531049291",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439992566091",
           "width": 1000,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/fd6a2bb7-de3d-451f-87cb-867169cd91b6_trans.jpg?v=1756485928",
@@ -2819,7 +2819,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:42+01:00",
           "updated_at": "2025-08-29T17:45:28+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335531508043",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439992762699",
           "width": 1000,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ba382a95-7e43-44f1-8791-160ea8574cec_trans.jpg?v=1756485928",
@@ -2832,7 +2832,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:43+01:00",
           "updated_at": "2025-08-29T17:45:28+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335531606347",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439993123147",
           "width": 1000,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/657aa392-5b08-4a7e-8c34-e23a1c7d64c0_trans.jpg?v=1756485928",
@@ -2845,7 +2845,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:44+01:00",
           "updated_at": "2025-08-29T17:45:28+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335531671883",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439993221451",
           "width": 1000,
           "height": 1000,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/715fa913-a4a6-4190-b648-52d82ef85c28_trans.jpg?v=1756485928",
@@ -2860,7 +2860,7 @@
           "product_id": 10823955087691,
           "created_at": "2025-08-26T13:42:44+01:00",
           "updated_at": "2025-08-29T17:45:28+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64335531704651",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439993254219",
           "width": 448,
           "height": 278,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/51d7272a-f1ec-4587-89a5-c60121624918_trans.jpg?v=1756485928",
@@ -2876,7 +2876,7 @@
         "product_id": 10823955087691,
         "created_at": "2025-08-26T13:42:36+01:00",
         "updated_at": "2025-09-05T19:33:26+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64335530852683",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52439992467787",
         "width": 1000,
         "height": 1000,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ae922ef3-99ae-449d-aa53-c2c7af866630_trans.jpg?v=1756485928",
@@ -3932,8 +3932,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -3962,8 +3962,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
