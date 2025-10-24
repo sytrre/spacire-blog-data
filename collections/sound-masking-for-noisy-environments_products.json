@@ -15740,8 +15740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "id": 53252672782667,
           "product_id": 10823797440843,
+          "id": 53252672782667,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -15768,8 +15768,8 @@
           "image_id": 64332537299275
         },
         {
-          "id": 53252672815435,
           "product_id": 10823797440843,
+          "id": 53252672815435,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -15796,8 +15796,8 @@
           "image_id": 64332537332043
         },
         {
-          "id": 53252672848203,
           "product_id": 10823797440843,
+          "id": 53252672848203,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -15824,8 +15824,8 @@
           "image_id": 64332537364811
         },
         {
-          "id": 53252672880971,
           "product_id": 10823797440843,
+          "id": 53252672880971,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -15854,8 +15854,8 @@
       ],
       "options": [
         {
-          "id": 13449527624011,
           "product_id": 10823797440843,
+          "id": 13449527624011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15866,8 +15866,8 @@
           ]
         },
         {
-          "id": 13449527656779,
           "product_id": 10823797440843,
+          "id": 13449527656779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -20337,7 +20337,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:37+01:00",
           "updated_at": "2025-09-05T20:04:44+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334527594827",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439012999499",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/1192292304021.jpg?v=1756485946",
@@ -20350,7 +20350,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:38+01:00",
           "updated_at": "2025-08-29T17:45:46+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334528020811",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439013458251",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2265046322130.jpg?v=1756485946",
@@ -20363,7 +20363,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:39+01:00",
           "updated_at": "2025-08-29T17:45:46+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334528545099",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439013949771",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/1164921844352.jpg?v=1756485946",
@@ -20376,7 +20376,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:41+01:00",
           "updated_at": "2025-08-29T17:45:46+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334528938315",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439014375755",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2335568653618.jpg?v=1756485946",
@@ -20389,7 +20389,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:42+01:00",
           "updated_at": "2025-08-29T17:45:46+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334529233227",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439014637899",
           "width": 672,
           "height": 561,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/1338313460524.jpg?v=1756485946",
@@ -20402,7 +20402,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:44+01:00",
           "updated_at": "2025-08-29T17:45:47+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334529528139",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439014932811",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2102496312708.jpg?v=1756485947",
@@ -20415,7 +20415,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:45+01:00",
           "updated_at": "2025-08-29T17:45:47+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334529757515",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439015194955",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2100296668500.jpg?v=1756485947",
@@ -20428,7 +20428,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:48+01:00",
           "updated_at": "2025-08-29T17:45:47+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334530380107",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439015784779",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2402470579885.jpg?v=1756485947",
@@ -20443,7 +20443,7 @@
           "product_id": 10823898988875,
           "created_at": "2025-08-26T12:29:48+01:00",
           "updated_at": "2025-08-29T17:45:47+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64334530412875",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52439015817547",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/2837410689057.jpg?v=1756485947",
@@ -20459,7 +20459,7 @@
         "product_id": 10823898988875,
         "created_at": "2025-08-26T12:29:37+01:00",
         "updated_at": "2025-09-05T20:04:44+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64334527594827",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52439012999499",
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/1192292304021.jpg?v=1756485946",
