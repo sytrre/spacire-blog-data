@@ -521,7 +521,7 @@
           "product_id": 10825099706699,
           "created_at": "2025-08-27T04:43:01+01:00",
           "updated_at": "2025-09-05T18:47:30+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64365751009611",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52451124609355",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/d2c79d43-574f-47cf-aebb-915d6c96c34c.jpg?v=1756485712",
@@ -534,7 +534,7 @@
           "product_id": 10825099706699,
           "created_at": "2025-08-27T04:43:04+01:00",
           "updated_at": "2025-08-29T17:41:52+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64365751075147",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52451124707659",
           "width": 1001,
           "height": 1001,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/65bddfb7-320a-4415-9700-f09a4c5c0f17.jpg?v=1756485712",
@@ -547,7 +547,7 @@
           "product_id": 10825099706699,
           "created_at": "2025-08-27T04:43:06+01:00",
           "updated_at": "2025-08-29T17:41:52+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64365751173451",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52451124773195",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/7aaed949-a0a6-4e39-a5c6-d5fb0ccb47d7.jpg?v=1756485712",
@@ -560,7 +560,7 @@
           "product_id": 10825099706699,
           "created_at": "2025-08-27T04:43:07+01:00",
           "updated_at": "2025-08-29T17:41:52+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64365751730507",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52451125035339",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/8aa7243e-e63e-4df0-8262-0d2e1944da64.jpg?v=1756485712",
@@ -573,7 +573,7 @@
           "product_id": 10825099706699,
           "created_at": "2025-08-27T04:43:08+01:00",
           "updated_at": "2025-08-29T17:41:52+01:00",
-          "admin_graphql_api_id": "gid://shopify/ProductImage/64365751796043",
+          "admin_graphql_api_id": "gid://shopify/MediaImage/52451125395787",
           "width": 800,
           "height": 800,
           "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/ea50b97f-eaf5-4209-b5fc-a4d1112635e1.jpg?v=1756485712",
@@ -589,7 +589,7 @@
         "product_id": 10825099706699,
         "created_at": "2025-08-27T04:43:01+01:00",
         "updated_at": "2025-09-05T18:47:30+01:00",
-        "admin_graphql_api_id": "gid://shopify/ProductImage/64365751009611",
+        "admin_graphql_api_id": "gid://shopify/MediaImage/52451124609355",
         "width": 800,
         "height": 800,
         "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/files/d2c79d43-574f-47cf-aebb-915d6c96c34c.jpg?v=1756485712",
@@ -18347,8 +18347,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825086173515",
       "variants": [
         {
-          "product_id": 10825086173515,
           "id": 53256844935499,
+          "product_id": 10825086173515,
           "title": "American Standard Power Supply / 12W",
           "price": "344.80",
           "position": 1,
@@ -18375,8 +18375,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256844968267,
+          "product_id": 10825086173515,
           "title": "European Power Supply / 12W",
           "price": "344.80",
           "position": 2,
@@ -18403,8 +18403,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256845001035,
+          "product_id": 10825086173515,
           "title": "Bs Power Supply / 12W",
           "price": "344.80",
           "position": 3,
@@ -18431,8 +18431,8 @@
           "image_id": 64365658898763
         },
         {
-          "product_id": 10825086173515,
           "id": 53256845033803,
+          "product_id": 10825086173515,
           "title": "Australian Regulations / 12W",
           "price": "344.80",
           "position": 4,
@@ -18461,8 +18461,8 @@
       ],
       "options": [
         {
-          "product_id": 10825086173515,
           "id": 13450976887115,
+          "product_id": 10825086173515,
           "name": "Light Color",
           "position": 1,
           "values": [
@@ -18473,8 +18473,8 @@
           ]
         },
         {
-          "product_id": 10825086173515,
           "id": 13450976919883,
+          "product_id": 10825086173515,
           "name": "power",
           "position": 2,
           "values": [
