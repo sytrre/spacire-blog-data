@@ -98624,8 +98624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775048208715",
       "variants": [
         {
-          "id": 53327248589131,
           "product_id": 14775048208715,
+          "id": 53327248589131,
           "title": "White / 40cm",
           "price": "18.15",
           "position": 1,
@@ -98654,8 +98654,8 @@
       ],
       "options": [
         {
-          "id": 17120338968907,
           "product_id": 14775048208715,
+          "id": 17120338968907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98663,8 +98663,8 @@
           ]
         },
         {
-          "id": 17120339001675,
           "product_id": 14775048208715,
+          "id": 17120339001675,
           "name": "Size",
           "position": 2,
           "values": [
