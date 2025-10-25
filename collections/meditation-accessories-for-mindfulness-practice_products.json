@@ -14364,8 +14364,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "product_id": 10823924449611,
           "id": 53253540938059,
+          "product_id": 10823924449611,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14394,8 +14394,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924449611,
           "id": 13449690186059,
+          "product_id": 10823924449611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14677,8 +14677,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -14707,8 +14707,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
