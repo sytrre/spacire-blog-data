@@ -11384,8 +11384,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775150051659",
       "variants": [
         {
-          "product_id": 14775150051659,
           "id": 53327487631691,
+          "product_id": 14775150051659,
           "title": "Grey",
           "price": "51.91",
           "position": 1,
@@ -11412,8 +11412,8 @@
           "image_id": 64650399842635
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487664459,
+          "product_id": 14775150051659,
           "title": "Light Blue",
           "price": "51.76",
           "position": 2,
@@ -11440,8 +11440,8 @@
           "image_id": 64650399875403
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487697227,
+          "product_id": 14775150051659,
           "title": "Pink",
           "price": "51.76",
           "position": 3,
@@ -11468,8 +11468,8 @@
           "image_id": 64650399908171
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487729995,
+          "product_id": 14775150051659,
           "title": "Green",
           "price": "51.76",
           "position": 4,
@@ -11498,8 +11498,8 @@
       ],
       "options": [
         {
-          "product_id": 14775150051659,
           "id": 17120446218571,
+          "product_id": 14775150051659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18325,8 +18325,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "product_id": 14774885876043,
           "id": 53325483671883,
+          "product_id": 14774885876043,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -18353,8 +18353,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483704651,
+          "product_id": 14774885876043,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -18381,8 +18381,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483737419,
+          "product_id": 14774885876043,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -18411,8 +18411,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885876043,
           "id": 17120122995019,
+          "product_id": 14774885876043,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -18422,8 +18422,8 @@
           ]
         },
         {
-          "product_id": 14774885876043,
           "id": 17120123027787,
+          "product_id": 14774885876043,
           "name": "Color",
           "position": 2,
           "values": [
