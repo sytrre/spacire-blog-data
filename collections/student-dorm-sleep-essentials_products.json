@@ -44276,8 +44276,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053536587",
       "variants": [
         {
-          "id": 53256614936907,
           "product_id": 10825053536587,
+          "id": 53256614936907,
           "title": "Black",
           "price": "33.14",
           "position": 1,
@@ -44306,8 +44306,8 @@
       ],
       "options": [
         {
-          "id": 13450929897803,
           "product_id": 10825053536587,
+          "id": 13450929897803,
           "name": "Color",
           "position": 1,
           "values": [
