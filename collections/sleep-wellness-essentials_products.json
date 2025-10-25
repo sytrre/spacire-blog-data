@@ -9255,8 +9255,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742095691",
       "variants": [
         {
-          "product_id": 10823742095691,
           "id": 53252365877579,
+          "product_id": 10823742095691,
           "title": "black",
           "price": "42.49",
           "position": 1,
@@ -9285,8 +9285,8 @@
       ],
       "options": [
         {
-          "product_id": 10823742095691,
           "id": 13449441542475,
+          "product_id": 10823742095691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37268,8 +37268,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775317037387",
       "variants": [
         {
-          "product_id": 14775317037387,
           "id": 53327873048907,
+          "product_id": 14775317037387,
           "title": "Orange White / 664X403X146mm",
           "price": "40.68",
           "position": 1,
@@ -37296,8 +37296,8 @@
           "image_id": 64651467161931
         },
         {
-          "product_id": 14775317037387,
           "id": 53327873081675,
+          "product_id": 14775317037387,
           "title": "Gray And White / 664X403X146mm",
           "price": "40.68",
           "position": 2,
@@ -37326,8 +37326,8 @@
       ],
       "options": [
         {
-          "product_id": 14775317037387,
           "id": 17120626049355,
+          "product_id": 14775317037387,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37336,8 +37336,8 @@
           ]
         },
         {
-          "product_id": 14775317037387,
           "id": 17120626082123,
+          "product_id": 14775317037387,
           "name": "Size",
           "position": 2,
           "values": [
@@ -45203,8 +45203,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044689227",
       "variants": [
         {
-          "product_id": 10825044689227,
           "id": 53256579285323,
+          "product_id": 10825044689227,
           "title": "Black / USB",
           "price": "64.02",
           "position": 1,
@@ -45231,8 +45231,8 @@
           "image_id": 64365193003339
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579318091,
+          "product_id": 10825044689227,
           "title": "Blue / USB",
           "price": "64.02",
           "position": 2,
@@ -45259,8 +45259,8 @@
           "image_id": 64365193036107
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579350859,
+          "product_id": 10825044689227,
           "title": "Grey / USB",
           "price": "64.02",
           "position": 3,
@@ -45287,8 +45287,8 @@
           "image_id": 64365193068875
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579383627,
+          "product_id": 10825044689227,
           "title": "Black 2PC / USB",
           "price": "68.47",
           "position": 4,
@@ -45315,8 +45315,8 @@
           "image_id": 64365193101643
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579416395,
+          "product_id": 10825044689227,
           "title": "Blue 2PC / USB",
           "price": "68.47",
           "position": 5,
@@ -45343,8 +45343,8 @@
           "image_id": 64365193134411
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579449163,
+          "product_id": 10825044689227,
           "title": "Grey 2PC / USB",
           "price": "68.47",
           "position": 6,
@@ -45371,8 +45371,8 @@
           "image_id": 64365193167179
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579481931,
+          "product_id": 10825044689227,
           "title": "Black Set / USB",
           "price": "73.79",
           "position": 7,
@@ -45399,8 +45399,8 @@
           "image_id": 64365193199947
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579514699,
+          "product_id": 10825044689227,
           "title": "Blue Set / USB",
           "price": "73.79",
           "position": 8,
@@ -45427,8 +45427,8 @@
           "image_id": 64365193232715
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579547467,
+          "product_id": 10825044689227,
           "title": "Grey Set / USB",
           "price": "73.79",
           "position": 9,
@@ -45457,8 +45457,8 @@
       ],
       "options": [
         {
-          "product_id": 10825044689227,
           "id": 13450920329547,
+          "product_id": 10825044689227,
           "name": "Color",
           "position": 1,
           "values": [
@@ -45474,8 +45474,8 @@
           ]
         },
         {
-          "product_id": 10825044689227,
           "id": 13450920362315,
+          "product_id": 10825044689227,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -47830,8 +47830,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775151722827",
       "variants": [
         {
-          "product_id": 14775151722827,
           "id": 53327489335627,
+          "product_id": 14775151722827,
           "title": "Pineapple Yellow / 48X74cm",
           "price": "57.16",
           "position": 1,
@@ -47858,8 +47858,8 @@
           "image_id": 64650410099019
         },
         {
-          "product_id": 14775151722827,
           "id": 53327489368395,
+          "product_id": 14775151722827,
           "title": "Classic Gray / 48X74cm",
           "price": "57.16",
           "position": 2,
@@ -47886,8 +47886,8 @@
           "image_id": 64650410131787
         },
         {
-          "product_id": 14775151722827,
           "id": 53327489401163,
+          "product_id": 14775151722827,
           "title": "Elegant White / 48X74cm",
           "price": "57.16",
           "position": 3,
@@ -47916,8 +47916,8 @@
       ],
       "options": [
         {
-          "product_id": 14775151722827,
           "id": 17120447922507,
+          "product_id": 14775151722827,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47927,8 +47927,8 @@
           ]
         },
         {
-          "product_id": 14775151722827,
           "id": 17120447955275,
+          "product_id": 14775151722827,
           "name": "Size Specification",
           "position": 2,
           "values": [
