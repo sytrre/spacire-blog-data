@@ -37975,8 +37975,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825025421643",
       "variants": [
         {
-          "product_id": 10825025421643,
           "id": 53256519057739,
+          "product_id": 10825025421643,
           "title": "Black / Standard style",
           "price": "31.19",
           "position": 1,
@@ -38003,8 +38003,8 @@
           "image_id": 64364937314635
         },
         {
-          "product_id": 10825025421643,
           "id": 53256519090507,
+          "product_id": 10825025421643,
           "title": "Grey / Standard style",
           "price": "31.19",
           "position": 2,
@@ -38031,8 +38031,8 @@
           "image_id": 64364937347403
         },
         {
-          "product_id": 10825025421643,
           "id": 53256519123275,
+          "product_id": 10825025421643,
           "title": "Blue / Standard style",
           "price": "31.19",
           "position": 3,
@@ -38059,8 +38059,8 @@
           "image_id": 64364937380171
         },
         {
-          "product_id": 10825025421643,
           "id": 53256519156043,
+          "product_id": 10825025421643,
           "title": "Pink / Standard style",
           "price": "31.19",
           "position": 4,
@@ -38089,8 +38089,8 @@
       ],
       "options": [
         {
-          "product_id": 10825025421643,
           "id": 13450895589707,
+          "product_id": 10825025421643,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38101,8 +38101,8 @@
           ]
         },
         {
-          "product_id": 10825025421643,
           "id": 13450895622475,
+          "product_id": 10825025421643,
           "name": "style",
           "position": 2,
           "values": [
