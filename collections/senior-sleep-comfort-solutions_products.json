@@ -5267,8 +5267,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775317037387",
       "variants": [
         {
-          "product_id": 14775317037387,
           "id": 53327873048907,
+          "product_id": 14775317037387,
           "title": "Orange White / 664X403X146mm",
           "price": "40.68",
           "position": 1,
@@ -5295,8 +5295,8 @@
           "image_id": 64651467161931
         },
         {
-          "product_id": 14775317037387,
           "id": 53327873081675,
+          "product_id": 14775317037387,
           "title": "Gray And White / 664X403X146mm",
           "price": "40.68",
           "position": 2,
@@ -5325,8 +5325,8 @@
       ],
       "options": [
         {
-          "product_id": 14775317037387,
           "id": 17120626049355,
+          "product_id": 14775317037387,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5335,8 +5335,8 @@
           ]
         },
         {
-          "product_id": 14775317037387,
           "id": 17120626082123,
+          "product_id": 14775317037387,
           "name": "Size",
           "position": 2,
           "values": [
@@ -30241,8 +30241,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775333814603",
       "variants": [
         {
-          "product_id": 14775333814603,
           "id": 53327907553611,
+          "product_id": 14775333814603,
           "title": "USB Thermal Therapy / Gray",
           "price": "49.11",
           "position": 1,
@@ -30269,8 +30269,8 @@
           "image_id": 64651514609995
         },
         {
-          "product_id": 14775333814603,
           "id": 53327907586379,
+          "product_id": 14775333814603,
           "title": "No Thermotherapy / Gray",
           "price": "45.12",
           "position": 2,
@@ -30299,8 +30299,8 @@
       ],
       "options": [
         {
-          "product_id": 14775333814603,
           "id": 17120644006219,
+          "product_id": 14775333814603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -30309,8 +30309,8 @@
           ]
         },
         {
-          "product_id": 14775333814603,
           "id": 17120644038987,
+          "product_id": 14775333814603,
           "name": "Dimensions",
           "position": 2,
           "values": [
