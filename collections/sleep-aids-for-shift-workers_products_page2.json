@@ -36874,8 +36874,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743406411",
       "variants": [
         {
-          "product_id": 10823743406411,
           "id": 53252374888779,
+          "product_id": 10823743406411,
           "title": "Golden",
           "price": "56.99",
           "position": 1,
@@ -36904,8 +36904,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743406411,
           "id": 13449443967307,
+          "product_id": 10823743406411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63002,8 +63002,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "product_id": 10825158918475,
           "id": 53257349398859,
+          "product_id": 10825158918475,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -63032,8 +63032,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158918475,
           "id": 13451086135627,
+          "product_id": 10825158918475,
           "name": "style",
           "position": 1,
           "values": [
