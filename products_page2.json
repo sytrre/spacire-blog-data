@@ -11783,8 +11783,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053536587",
       "variants": [
         {
-          "product_id": 10825053536587,
           "id": 53256614936907,
+          "product_id": 10825053536587,
           "title": "Black",
           "price": "33.14",
           "position": 1,
@@ -11813,8 +11813,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053536587,
           "id": 13450929897803,
+          "product_id": 10825053536587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47664,8 +47664,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772557087051",
       "variants": [
         {
-          "product_id": 14772557087051,
           "id": 53314600534347,
+          "product_id": 14772557087051,
           "title": "Small Rhombus Pillow / 50x30x10cm",
           "price": "42.92",
           "position": 1,
@@ -47692,8 +47692,8 @@
           "image_id": 64611780034891
         },
         {
-          "product_id": 14772557087051,
           "id": 53314600567115,
+          "product_id": 14772557087051,
           "title": "Small Rhombus Pillow / 60x40x12cm",
           "price": "45.95",
           "position": 2,
@@ -47720,8 +47720,8 @@
           "image_id": 64611780034891
         },
         {
-          "product_id": 14772557087051,
           "id": 53314600599883,
+          "product_id": 14772557087051,
           "title": "Small Rhombus Pillow / 60x40x14cm",
           "price": "46.70",
           "position": 3,
@@ -47748,8 +47748,8 @@
           "image_id": 64611780034891
         },
         {
-          "product_id": 14772557087051,
           "id": 53314600632651,
+          "product_id": 14772557087051,
           "title": "Small Rhombus Pillow / 70x40x9cm",
           "price": "47.26",
           "position": 4,
@@ -47776,8 +47776,8 @@
           "image_id": 64611780034891
         },
         {
-          "product_id": 14772557087051,
           "id": 53314600665419,
+          "product_id": 14772557087051,
           "title": "Small Rhombus Pillow / 70x40x12cm",
           "price": "48.58",
           "position": 5,
@@ -47806,8 +47806,8 @@
       ],
       "options": [
         {
-          "product_id": 14772557087051,
           "id": 17117253042507,
+          "product_id": 14772557087051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47815,8 +47815,8 @@
           ]
         },
         {
-          "product_id": 14772557087051,
           "id": 17117253075275,
+          "product_id": 14772557087051,
           "name": "Dimensions",
           "position": 2,
           "values": [
