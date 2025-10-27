@@ -36968,8 +36968,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -36996,8 +36996,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -37024,8 +37024,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -37052,8 +37052,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -37082,8 +37082,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37094,8 +37094,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
