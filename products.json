@@ -51903,8 +51903,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098985803",
       "variants": [
         {
-          "id": 53256897888587,
           "product_id": 10825098985803,
+          "id": 53256897888587,
           "title": "White / USB",
           "price": "670.30",
           "position": 1,
@@ -51933,8 +51933,8 @@
       ],
       "options": [
         {
-          "id": 13450998808907,
           "product_id": 10825098985803,
+          "id": 13450998808907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -51942,8 +51942,8 @@
           ]
         },
         {
-          "id": 13450998841675,
           "product_id": 10825098985803,
+          "id": 13450998841675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
