@@ -5354,8 +5354,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158623563",
       "variants": [
         {
-          "product_id": 10825158623563,
           "id": 53257347039563,
+          "product_id": 10825158623563,
           "title": "Dark grey",
           "price": "34.79",
           "position": 1,
@@ -5382,8 +5382,8 @@
           "image_id": 64367007498571
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347072331,
+          "product_id": 10825158623563,
           "title": "Black",
           "price": "34.79",
           "position": 2,
@@ -5410,8 +5410,8 @@
           "image_id": 64367007531339
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347105099,
+          "product_id": 10825158623563,
           "title": "Pink",
           "price": "34.79",
           "position": 3,
@@ -5438,8 +5438,8 @@
           "image_id": 64367007564107
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347137867,
+          "product_id": 10825158623563,
           "title": "Wine red",
           "price": "34.79",
           "position": 4,
@@ -5466,8 +5466,8 @@
           "image_id": 64367007596875
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347170635,
+          "product_id": 10825158623563,
           "title": "White",
           "price": "34.79",
           "position": 5,
@@ -5494,8 +5494,8 @@
           "image_id": 64367007629643
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347203403,
+          "product_id": 10825158623563,
           "title": "Caramel",
           "price": "34.94",
           "position": 6,
@@ -5522,8 +5522,8 @@
           "image_id": 64367007662411
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347236171,
+          "product_id": 10825158623563,
           "title": "Blue",
           "price": "34.79",
           "position": 7,
@@ -5550,8 +5550,8 @@
           "image_id": 64367007695179
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347268939,
+          "product_id": 10825158623563,
           "title": "Rose gold",
           "price": "34.79",
           "position": 8,
@@ -5578,8 +5578,8 @@
           "image_id": 64367007727947
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347301707,
+          "product_id": 10825158623563,
           "title": "Silver gray",
           "price": "34.79",
           "position": 9,
@@ -5608,8 +5608,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158623563,
           "id": 13451085742411,
+          "product_id": 10825158623563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41329,8 +41329,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056747851",
       "variants": [
         {
-          "id": 53256627618123,
           "product_id": 10825056747851,
+          "id": 53256627618123,
           "title": "Cow Spot",
           "price": "30.93",
           "position": 1,
@@ -41359,8 +41359,8 @@
       ],
       "options": [
         {
-          "id": 13450933666123,
           "product_id": 10825056747851,
+          "id": 13450933666123,
           "name": "Color",
           "position": 1,
           "values": [
@@ -42232,8 +42232,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048949067",
       "variants": [
         {
-          "product_id": 10825048949067,
           "id": 53256598290763,
+          "product_id": 10825048949067,
           "title": "Royal Blue Basic Style",
           "price": "30.39",
           "position": 1,
@@ -42260,8 +42260,8 @@
           "image_id": 64365237829963
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598323531,
+          "product_id": 10825048949067,
           "title": "Navy Blue Basic Style",
           "price": "30.39",
           "position": 2,
@@ -42288,8 +42288,8 @@
           "image_id": 64365237862731
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598356299,
+          "product_id": 10825048949067,
           "title": "Dark Green Basic Style",
           "price": "30.39",
           "position": 3,
@@ -42316,8 +42316,8 @@
           "image_id": 64365237895499
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598389067,
+          "product_id": 10825048949067,
           "title": "Lake Blue Basic Style",
           "price": "30.39",
           "position": 4,
@@ -42344,8 +42344,8 @@
           "image_id": 64365237928267
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598421835,
+          "product_id": 10825048949067,
           "title": "Black Basic Style",
           "price": "30.39",
           "position": 5,
@@ -42372,8 +42372,8 @@
           "image_id": 64365237961035
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598454603,
+          "product_id": 10825048949067,
           "title": "Gray Basic Style",
           "price": "30.39",
           "position": 6,
@@ -42400,8 +42400,8 @@
           "image_id": 64365237993803
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598487371,
+          "product_id": 10825048949067,
           "title": "Wine Red Basic Style",
           "price": "30.39",
           "position": 7,
@@ -42428,8 +42428,8 @@
           "image_id": 64365238026571
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598520139,
+          "product_id": 10825048949067,
           "title": "Brown Basic Style",
           "price": "30.39",
           "position": 8,
@@ -42456,8 +42456,8 @@
           "image_id": 64365238059339
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598552907,
+          "product_id": 10825048949067,
           "title": "Purple Basic Style",
           "price": "30.39",
           "position": 9,
@@ -42484,8 +42484,8 @@
           "image_id": 64365238092107
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598585675,
+          "product_id": 10825048949067,
           "title": "Leopard Print Basic Style",
           "price": "30.39",
           "position": 10,
@@ -42512,8 +42512,8 @@
           "image_id": 64365238124875
         },
         {
-          "product_id": 10825048949067,
           "id": 53256598618443,
+          "product_id": 10825048949067,
           "title": "Little Star Basic Style",
           "price": "30.39",
           "position": 11,
@@ -42542,8 +42542,8 @@
       ],
       "options": [
         {
-          "product_id": 10825048949067,
           "id": 13450924917067,
+          "product_id": 10825048949067,
           "name": "Specifications",
           "position": 1,
           "values": [
