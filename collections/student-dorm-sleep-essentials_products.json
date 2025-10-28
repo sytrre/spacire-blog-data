@@ -29764,8 +29764,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825026011467",
       "variants": [
         {
-          "product_id": 10825026011467,
           "id": 53256520696139,
+          "product_id": 10825026011467,
           "title": "Black Strap",
           "price": "26.79",
           "position": 1,
@@ -29792,8 +29792,8 @@
           "image_id": 64364945539403
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520728907,
+          "product_id": 10825026011467,
           "title": "Gray Strap",
           "price": "26.79",
           "position": 2,
@@ -29820,8 +29820,8 @@
           "image_id": 64364945572171
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520761675,
+          "product_id": 10825026011467,
           "title": "Pink Bandage",
           "price": "26.79",
           "position": 3,
@@ -29848,8 +29848,8 @@
           "image_id": 64364945604939
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520794443,
+          "product_id": 10825026011467,
           "title": "Purple Strap",
           "price": "26.79",
           "position": 4,
@@ -29876,8 +29876,8 @@
           "image_id": 64364945637707
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520827211,
+          "product_id": 10825026011467,
           "title": "Blue Strap",
           "price": "26.79",
           "position": 5,
@@ -29904,8 +29904,8 @@
           "image_id": 64364945670475
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520859979,
+          "product_id": 10825026011467,
           "title": "Dark Green Strap",
           "price": "26.79",
           "position": 6,
@@ -29932,8 +29932,8 @@
           "image_id": 64364945703243
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520892747,
+          "product_id": 10825026011467,
           "title": "Red Strap",
           "price": "26.79",
           "position": 7,
@@ -29960,8 +29960,8 @@
           "image_id": 64364945736011
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520925515,
+          "product_id": 10825026011467,
           "title": "Dark Purple Strap",
           "price": "26.79",
           "position": 8,
@@ -29988,8 +29988,8 @@
           "image_id": 64364945768779
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520958283,
+          "product_id": 10825026011467,
           "title": "White Strap",
           "price": "26.79",
           "position": 9,
@@ -30016,8 +30016,8 @@
           "image_id": 64364945801547
         },
         {
-          "product_id": 10825026011467,
           "id": 53256520991051,
+          "product_id": 10825026011467,
           "title": "Champagne Strap",
           "price": "26.79",
           "position": 10,
@@ -30044,8 +30044,8 @@
           "image_id": 64364945834315
         },
         {
-          "product_id": 10825026011467,
           "id": 53256521023819,
+          "product_id": 10825026011467,
           "title": "Rose Red Strap",
           "price": "26.79",
           "position": 11,
@@ -30074,8 +30074,8 @@
       ],
       "options": [
         {
-          "product_id": 10825026011467,
           "id": 13450896245067,
+          "product_id": 10825026011467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -39477,8 +39477,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659225419",
       "variants": [
         {
-          "product_id": 10823659225419,
           "id": 53251954966859,
+          "product_id": 10823659225419,
           "title": "White / A13 / USB",
           "price": "59.99",
           "position": 1,
@@ -39505,8 +39505,8 @@
           "image_id": 64329977037131
         },
         {
-          "product_id": 10823659225419,
           "id": 53251954999627,
+          "product_id": 10823659225419,
           "title": "White / A15 / USB",
           "price": "44.99",
           "position": 2,
@@ -39535,8 +39535,8 @@
       ],
       "options": [
         {
-          "product_id": 10823659225419,
           "id": 13449301786955,
+          "product_id": 10823659225419,
           "name": "Color",
           "position": 1,
           "values": [
@@ -39544,8 +39544,8 @@
           ]
         },
         {
-          "product_id": 10823659225419,
           "id": 13449301819723,
+          "product_id": 10823659225419,
           "name": "style",
           "position": 2,
           "values": [
@@ -39554,8 +39554,8 @@
           ]
         },
         {
-          "product_id": 10823659225419,
           "id": 13449301852491,
+          "product_id": 10823659225419,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -52095,8 +52095,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -52123,8 +52123,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -52153,8 +52153,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [
