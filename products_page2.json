@@ -2019,8 +2019,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157116235",
       "variants": [
         {
-          "product_id": 10825157116235,
           "id": 53257317548363,
+          "product_id": 10825157116235,
           "title": "White / USB",
           "price": "37.79",
           "position": 1,
@@ -2049,8 +2049,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157116235,
           "id": 13451082924363,
+          "product_id": 10825157116235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2058,8 +2058,8 @@
           ]
         },
         {
-          "product_id": 10825157116235,
           "id": 13451082957131,
+          "product_id": 10825157116235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -64423,8 +64423,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048457547",
       "variants": [
         {
-          "id": 53256596128075,
           "product_id": 10825048457547,
+          "id": 53256596128075,
           "title": "Round / Black",
           "price": "32.98",
           "position": 1,
@@ -64451,8 +64451,8 @@
           "image_id": 64365233340747
         },
         {
-          "id": 53256596160843,
           "product_id": 10825048457547,
+          "id": 53256596160843,
           "title": "Round / Purple",
           "price": "32.98",
           "position": 2,
@@ -64479,8 +64479,8 @@
           "image_id": 64365233373515
         },
         {
-          "id": 53256596193611,
           "product_id": 10825048457547,
+          "id": 53256596193611,
           "title": "Round / Pink",
           "price": "32.98",
           "position": 3,
@@ -64507,8 +64507,8 @@
           "image_id": 64365233406283
         },
         {
-          "id": 53256596226379,
           "product_id": 10825048457547,
+          "id": 53256596226379,
           "title": "Round / Douro",
           "price": "32.98",
           "position": 4,
@@ -64535,8 +64535,8 @@
           "image_id": 64365233439051
         },
         {
-          "id": 53256596259147,
           "product_id": 10825048457547,
+          "id": 53256596259147,
           "title": "Round / Camel",
           "price": "32.98",
           "position": 5,
@@ -64563,8 +64563,8 @@
           "image_id": 64365233471819
         },
         {
-          "id": 53256596291915,
           "product_id": 10825048457547,
+          "id": 53256596291915,
           "title": "Long / Black",
           "price": "32.98",
           "position": 6,
@@ -64591,8 +64591,8 @@
           "image_id": 64365233504587
         },
         {
-          "id": 53256596324683,
           "product_id": 10825048457547,
+          "id": 53256596324683,
           "title": "Long / Purple",
           "price": "32.98",
           "position": 7,
@@ -64619,8 +64619,8 @@
           "image_id": 64365233537355
         },
         {
-          "id": 53256596357451,
           "product_id": 10825048457547,
+          "id": 53256596357451,
           "title": "Long / Pink",
           "price": "32.98",
           "position": 8,
@@ -64647,8 +64647,8 @@
           "image_id": 64365233570123
         },
         {
-          "id": 53256596390219,
           "product_id": 10825048457547,
+          "id": 53256596390219,
           "title": "Long / Douro",
           "price": "32.98",
           "position": 9,
@@ -64675,8 +64675,8 @@
           "image_id": 64365233602891
         },
         {
-          "id": 53256596422987,
           "product_id": 10825048457547,
+          "id": 53256596422987,
           "title": "Long / Camel",
           "price": "32.98",
           "position": 10,
@@ -64705,8 +64705,8 @@
       ],
       "options": [
         {
-          "id": 13450924392779,
           "product_id": 10825048457547,
+          "id": 13450924392779,
           "name": "Type",
           "position": 1,
           "values": [
@@ -64715,8 +64715,8 @@
           ]
         },
         {
-          "id": 13450924425547,
           "product_id": 10825048457547,
+          "id": 13450924425547,
           "name": "Color",
           "position": 2,
           "values": [
@@ -67163,8 +67163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -67193,8 +67193,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -67202,8 +67202,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -80841,8 +80841,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909572939",
       "variants": [
         {
-          "id": 53253481660747,
           "product_id": 10823909572939,
+          "id": 53253481660747,
           "title": "White",
           "price": "131.49",
           "position": 1,
@@ -80871,8 +80871,8 @@
       ],
       "options": [
         {
-          "id": 13449673277771,
           "product_id": 10823909572939,
+          "id": 13449673277771,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90984,8 +90984,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771203113291",
       "variants": [
         {
-          "product_id": 14771203113291,
           "id": 53309799268683,
+          "product_id": 14771203113291,
           "title": "Gray / 60X50cm",
           "price": "37.66",
           "position": 1,
@@ -91012,8 +91012,8 @@
           "image_id": 64591507915083
         },
         {
-          "product_id": 14771203113291,
           "id": 53309799301451,
+          "product_id": 14771203113291,
           "title": "Light Purple / 60X50cm",
           "price": "37.66",
           "position": 2,
@@ -91040,8 +91040,8 @@
           "image_id": 64591507947851
         },
         {
-          "product_id": 14771203113291,
           "id": 53309799334219,
+          "product_id": 14771203113291,
           "title": "Sky Blue / 60X50cm",
           "price": "37.66",
           "position": 3,
@@ -91070,8 +91070,8 @@
       ],
       "options": [
         {
-          "product_id": 14771203113291,
           "id": 17115728118091,
+          "product_id": 14771203113291,
           "name": "Color",
           "position": 1,
           "values": [
@@ -91081,8 +91081,8 @@
           ]
         },
         {
-          "product_id": 14771203113291,
           "id": 17115728150859,
+          "product_id": 14771203113291,
           "name": "Size Specification",
           "position": 2,
           "values": [

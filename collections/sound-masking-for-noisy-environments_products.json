@@ -3229,8 +3229,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108586827",
       "variants": [
         {
-          "product_id": 10825108586827,
           "id": 53256916664651,
+          "product_id": 10825108586827,
           "title": "White / Saturn Projection",
           "price": "482.61",
           "position": 1,
@@ -3257,8 +3257,8 @@
           "image_id": 64365839581515
         },
         {
-          "product_id": 10825108586827,
           "id": 53256916697419,
+          "product_id": 10825108586827,
           "title": "White / Saturn Earth Color Vortex",
           "price": "537.81",
           "position": 2,
@@ -3285,8 +3285,8 @@
           "image_id": 64365839581515
         },
         {
-          "product_id": 10825108586827,
           "id": 53256916730187,
+          "product_id": 10825108586827,
           "title": "White / Saturn Moon Earth Color Vortex",
           "price": "593.34",
           "position": 3,
@@ -3315,8 +3315,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108586827,
           "id": 13451010670923,
+          "product_id": 10825108586827,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3324,8 +3324,8 @@
           ]
         },
         {
-          "product_id": 10825108586827,
           "id": 13451010703691,
+          "product_id": 10825108586827,
           "name": "Style",
           "position": 2,
           "values": [
@@ -9286,8 +9286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "id": 53256803025227,
           "product_id": 10825080078667,
+          "id": 53256803025227,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -9316,8 +9316,8 @@
       ],
       "options": [
         {
-          "id": 13450967777611,
           "product_id": 10825080078667,
+          "id": 13450967777611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9325,8 +9325,8 @@
           ]
         },
         {
-          "id": 13450967810379,
           "product_id": 10825080078667,
+          "id": 13450967810379,
           "name": "power",
           "position": 2,
           "values": [
