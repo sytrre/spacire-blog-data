@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-29T09:30:06+00:00",
+      "updated_at": "2025-10-29T11:32:44+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1614,12 +1614,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T23:27:44+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:32:44+00:00",
+          "summary_html": "<p>The effectiveness of a <strong data-start=\"194\" data-end=\"217\">white noise machine</strong> depends as much on <strong data-start=\"237\" data-end=\"250\">placement</strong> as on sound quality. Studies reveal that positioning your device correctly can improve sleep quality by up to <strong data-start=\"361\" data-end=\"368\">38%</strong> and reduce disturbances by <strong data-start=\"396\" data-end=\"403\">45%</strong>. The ideal setup places the machine <strong data-start=\"440\" data-end=\"467\">6–10 feet from your bed</strong>, at <strong data-start=\"472\" data-end=\"485\">ear level</strong>, and angled toward the <strong data-start=\"509\" data-end=\"531\">center of the room</strong> for even sound coverage. From nurseries to travel setups, strategic positioning ensures a soothing “sound bubble” that masks noise without overpowering your space. Avoid common mistakes—like placing it on nightstands or against walls—to create a perfectly balanced sleep environment that promotes deep, uninterrupted rest.</p>",
           "template_suffix": "article",
           "handle": "white-noise-machine-placement-where-to-position-for-best-results",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998701859147"
+          "admin_graphql_api_id": "gid://shopify/Article/998701859147",
+          "image": {
+            "created_at": "2025-10-29T11:32:43+00:00",
+            "alt": "White noise machine placed in child's bright, white bedroom",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_9383c055-980f-4193-91ff-126a05413cd2.png?v=1761737564"
+          }
         },
         {
           "id": 998700843339,
@@ -1629,12 +1636,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T23:08:03+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:28:26+00:00",
+          "summary_html": "<p>Noise is one of the biggest productivity killers in modern offices, with research showing it can reduce focus by up to <strong data-start=\"277\" data-end=\"284\">66%</strong> and increase stress hormones by <strong data-start=\"317\" data-end=\"324\">34%</strong>. Whether you’re in an open-plan office or working from home, <strong data-start=\"386\" data-end=\"403\">sound masking</strong> offers an effective solution by covering disruptive speech frequencies (250–8000 Hz) and restoring concentration. From <strong data-start=\"523\" data-end=\"563\">budget-friendly white noise machines</strong> to <strong data-start=\"567\" data-end=\"595\">smart Bluetooth speakers</strong>, today’s devices deliver immediate acoustic comfort and privacy. Implementing the right sound environment can boost focus by <strong data-start=\"721\" data-end=\"728\">48%</strong>, reduce distractions, and improve overall wellbeing—transforming your workspace into a true productivity zone.</p>",
           "template_suffix": "article",
           "handle": "sound-masking-for-open-offices-and-work-from-home",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998700843339"
+          "admin_graphql_api_id": "gid://shopify/Article/998700843339",
+          "image": {
+            "created_at": "2025-10-29T11:28:24+00:00",
+            "alt": "Smart sound masking devices enhance office productivity and focus.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_49694cdf-038a-4585-8618-593d66a31c08.png?v=1761737306"
+          }
         },
         {
           "id": 998700319051,
@@ -1644,12 +1658,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-29T22:52:16+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:23:39+00:00",
+          "summary_html": "<p data-start=\"128\" data-end=\"799\">In an increasingly noisy world, millions struggle to achieve restful sleep. The debate between <strong data-start=\"223\" data-end=\"247\">white noise machines</strong> and <strong data-start=\"252\" data-end=\"271\">smartphone apps</strong> continues to grow, as both offer distinct benefits for improving sleep quality. Dedicated machines deliver <strong data-start=\"379\" data-end=\"410\">superior, non-looping sound</strong>, reliability, and phone-free operation, while apps provide <strong data-start=\"470\" data-end=\"513\">portability, affordability, and variety</strong>. From homes in New York and London to hotels in Tokyo, the best choice depends on lifestyle, budget, and personal preferences. Experts recommend a <strong data-start=\"661\" data-end=\"680\">hybrid approach</strong>, combining the consistency of machines with the flexibility of apps for optimal sleep support anywhere in the world.</p>",
           "template_suffix": "article",
           "handle": "white-noise-machines-vs-apps-pros-and-cons-comparison",
           "tags": "White Noise Machines",
-          "admin_graphql_api_id": "gid://shopify/Article/998700319051"
+          "admin_graphql_api_id": "gid://shopify/Article/998700319051",
+          "image": {
+            "created_at": "2025-10-29T11:23:38+00:00",
+            "alt": "Two white noise machines, one in nursery, one on desk.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/S.png?v=1761737019"
+          }
         },
         {
           "id": 998699401547,
