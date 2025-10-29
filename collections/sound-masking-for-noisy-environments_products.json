@@ -8434,8 +8434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "id": 53253611553099,
           "product_id": 10823955087691,
+          "id": 53253611553099,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -8462,8 +8462,8 @@
           "image_id": 64335531671883
         },
         {
-          "id": 53253611585867,
           "product_id": 10823955087691,
+          "id": 53253611585867,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -8492,8 +8492,8 @@
       ],
       "options": [
         {
-          "id": 13449724100939,
           "product_id": 10823955087691,
+          "id": 13449724100939,
           "name": "Color",
           "position": 1,
           "values": [
