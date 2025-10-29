@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-10-29T11:32:44+00:00",
+      "updated_at": "2025-10-29T11:58:58+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -1539,12 +1539,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T05:35:33+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:58:58+00:00",
+          "summary_html": "<p>Yes, you <em data-start=\"158\" data-end=\"163\">can</em> wash a weighted blanket—if you do it correctly. Proper washing techniques protect your blanket’s weight distribution, fabric integrity, and calming benefits. Most weighted blankets can be safely <strong data-start=\"359\" data-end=\"411\">machine washed on a gentle cycle with cold water</strong> and <strong data-start=\"416\" data-end=\"457\">air dried or tumble dried on low heat</strong>. This complete care guide explains how to wash different materials like cotton, minky, and bamboo, how often to clean, and the best drying and storage methods. Learn how to avoid common washing mistakes, extend your blanket’s lifespan, and keep it fresh, hygienic, and effective—no matter where you live, from the <strong data-start=\"772\" data-end=\"818\">US and UK to Australia, Canada, and beyond</strong>.</p>",
           "template_suffix": "article",
           "handle": "can-you-wash-a-weighted-blanket-care-and-maintenance-guide",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998713622859"
+          "admin_graphql_api_id": "gid://shopify/Article/998713622859",
+          "image": {
+            "created_at": "2025-10-29T11:58:56+00:00",
+            "alt": "woman looking worried at washing machine with weighted blankets",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_2f958efa-584c-46b1-97ed-4921ce1129bb.png?v=1761739138"
+          }
         },
         {
           "id": 998713131339,
@@ -1554,12 +1561,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T05:30:29+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:53:00+00:00",
+          "summary_html": "<p>Weighted blankets can be a safe, effective way to help children aged <strong data-start=\"267\" data-end=\"282\">2 and above</strong> sleep better, feel calmer, and manage anxiety naturally. Using <strong data-start=\"346\" data-end=\"375\">deep pressure stimulation</strong>, these blankets provide a gentle, hugging sensation that supports relaxation and emotional regulation—especially helpful for children with <strong data-start=\"515\" data-end=\"564\">autism, ADHD, or sensory processing disorders</strong>. Following the <strong data-start=\"580\" data-end=\"604\">10% body weight rule</strong>, choosing <strong data-start=\"615\" data-end=\"639\">breathable materials</strong>, and ensuring your child can remove the blanket independently are key to safe use. This comprehensive guide explores <strong data-start=\"757\" data-end=\"780\">age recommendations</strong>, <strong data-start=\"782\" data-end=\"797\">safety tips</strong>, <strong data-start=\"799\" data-end=\"822\">scientific benefits</strong>, and <strong data-start=\"828\" data-end=\"855\">expert-approved options</strong> to help parents create a restful, anxiety-free sleep environment for their little ones.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-kids-safety-guidelines-and-benefits",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998713131339"
+          "admin_graphql_api_id": "gid://shopify/Article/998713131339",
+          "image": {
+            "created_at": "2025-10-29T11:52:58+00:00",
+            "alt": "Mom tucks kids with weighted blankets in Hulk room.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_ed891488-0af4-409e-b4bc-5a638c0c2b2a.png?v=1761738780"
+          }
         },
         {
           "id": 998712836427,
@@ -1569,12 +1583,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T05:09:48+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:48:31+00:00",
+          "summary_html": "<p data-start=\"218\" data-end=\"996\">Weighted blankets have become a powerful, research-backed tool for <strong data-start=\"285\" data-end=\"330\">reducing anxiety and promoting relaxation</strong> through <strong data-start=\"339\" data-end=\"374\">deep pressure stimulation (DPT)</strong>. By applying gentle, even pressure across the body, they activate the <strong data-start=\"445\" data-end=\"479\">parasympathetic nervous system</strong>, lowering cortisol levels and increasing serotonin and dopamine for a natural calming effect. Clinical studies show that <strong data-start=\"601\" data-end=\"640\">63% of users report reduced anxiety</strong> within minutes of use. This comprehensive guide explains the <strong data-start=\"702\" data-end=\"742\">science behind deep pressure therapy</strong>, outlines how weighted blankets alleviate anxiety symptoms, and provides <strong data-start=\"816\" data-end=\"842\">expert recommendations</strong> on choosing the right weight, materials, and usage strategies for safe, effective anxiety management—ideal for those seeking non-pharmaceutical relief.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-anxiety-deep-pressure-therapy-explained",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998712836427"
+          "admin_graphql_api_id": "gid://shopify/Article/998712836427",
+          "image": {
+            "created_at": "2025-10-29T11:48:29+00:00",
+            "alt": "woman relaxing with weighted blanket during therapy session",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_f1d2e901-7ae0-4535-81c0-1cb2e9f2ab1a.png?v=1761738511"
+          }
         },
         {
           "id": 998712574283,
@@ -1584,12 +1605,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T04:56:34+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:43:12+00:00",
+          "summary_html": "<p>Choosing the <strong data-start=\"175\" data-end=\"208\">right weighted blanket weight</strong> is key to unlocking its full therapeutic benefits for <strong data-start=\"263\" data-end=\"304\">sleep, anxiety relief, and relaxation</strong>. The general rule is to select a blanket that’s about <strong data-start=\"359\" data-end=\"386\">10% of your body weight</strong>, though comfort often falls within the <strong data-start=\"426\" data-end=\"441\">7–15% range</strong> depending on sleeping position, temperature sensitivity, and personal preference. Heavier options provide deeper pressure stimulation for stress relief, while lighter ones suit side sleepers and first-time users. Safety is crucial—avoid using weighted blankets for children under two or anyone unable to remove them independently. Use our <strong data-start=\"781\" data-end=\"819\">weighted blanket weight calculator</strong> and expert tips to find your perfect match for comfort, safety, and restorative sleep.</p>",
           "template_suffix": "article",
           "handle": "how-heavy-should-a-weighted-blanket-be-calculator-guide",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998712574283"
+          "admin_graphql_api_id": "gid://shopify/Article/998712574283",
+          "image": {
+            "created_at": "2025-10-29T11:43:11+00:00",
+            "alt": "Woman happily covering bed with mint green weighted blanket.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_25f6b4d1-b266-41ce-80ba-907c121cfd17.png?v=1761738192"
+          }
         },
         {
           "id": 998712082763,
@@ -1599,12 +1627,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T04:40:33+01:00",
-          "summary_html": "",
+          "updated_at": "2025-10-29T11:38:18+00:00",
+          "summary_html": "<p><strong data-start=\"159\" data-end=\"180\">Weighted blankets</strong> have transformed sleep therapy worldwide, offering a natural, drug-free solution for <strong data-start=\"266\" data-end=\"306\">anxiety, insomnia, and stress relief</strong>. By applying gentle, even pressure—known as <strong data-start=\"351\" data-end=\"380\">deep pressure stimulation</strong>—they help trigger relaxation hormones, reduce cortisol, and promote deeper, more restorative sleep. Choosing the right blanket involves finding one that’s <strong data-start=\"536\" data-end=\"570\">around 10% of your body weight</strong>, fits your body (not your bed), and matches your preferred fabric—like <strong data-start=\"642\" data-end=\"670\">cotton for breathability</strong> or <strong data-start=\"674\" data-end=\"696\">minky for softness</strong>. Prices typically range between <strong data-start=\"729\" data-end=\"740\">£56–£96</strong>, depending on materials and features. Whether for adults, children, or sensory needs, this guide covers everything you need to find your perfect weighted blanket for ultimate comfort and calm.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-complete-guide-weight-size-material",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998712082763"
+          "admin_graphql_api_id": "gid://shopify/Article/998712082763",
+          "image": {
+            "created_at": "2025-10-29T11:38:16+00:00",
+            "alt": "man and woman adding weighted blankets to bed",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_5741f50c-3ca2-491b-a1b6-dec2b58d0463.png?v=1761737898"
+          }
         },
         {
           "id": 998701859147,

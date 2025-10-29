@@ -13383,8 +13383,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056747851",
       "variants": [
         {
-          "product_id": 10825056747851,
           "id": 53256627618123,
+          "product_id": 10825056747851,
           "title": "Cow Spot",
           "price": "30.93",
           "position": 1,
@@ -13413,8 +13413,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056747851,
           "id": 13450933666123,
+          "product_id": 10825056747851,
           "name": "Color",
           "position": 1,
           "values": [
