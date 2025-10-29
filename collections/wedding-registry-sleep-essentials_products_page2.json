@@ -37802,8 +37802,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "id": 53252672782667,
           "product_id": 10823797440843,
+          "id": 53252672782667,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -37830,8 +37830,8 @@
           "image_id": 64332537299275
         },
         {
-          "id": 53252672815435,
           "product_id": 10823797440843,
+          "id": 53252672815435,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -37858,8 +37858,8 @@
           "image_id": 64332537332043
         },
         {
-          "id": 53252672848203,
           "product_id": 10823797440843,
+          "id": 53252672848203,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -37886,8 +37886,8 @@
           "image_id": 64332537364811
         },
         {
-          "id": 53252672880971,
           "product_id": 10823797440843,
+          "id": 53252672880971,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -37916,8 +37916,8 @@
       ],
       "options": [
         {
-          "id": 13449527624011,
           "product_id": 10823797440843,
+          "id": 13449527624011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37928,8 +37928,8 @@
           ]
         },
         {
-          "id": 13449527656779,
           "product_id": 10823797440843,
+          "id": 13449527656779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -39780,8 +39780,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885515595",
       "variants": [
         {
-          "id": 53325483278667,
           "product_id": 14774885515595,
+          "id": 53325483278667,
           "title": "140x35",
           "price": "16.32",
           "position": 1,
@@ -39808,8 +39808,8 @@
           "image_id": 64643910107467
         },
         {
-          "id": 53325483311435,
           "product_id": 14774885515595,
+          "id": 53325483311435,
           "title": "150x40",
           "price": "16.43",
           "position": 2,
@@ -39836,8 +39836,8 @@
           "image_id": 64643910140235
         },
         {
-          "id": 53325483344203,
           "product_id": 14774885515595,
+          "id": 53325483344203,
           "title": "170x40",
           "price": "16.65",
           "position": 3,
@@ -39864,8 +39864,8 @@
           "image_id": 64643910173003
         },
         {
-          "id": 53325483376971,
           "product_id": 14774885515595,
+          "id": 53325483376971,
           "title": "180x50",
           "price": "16.80",
           "position": 4,
@@ -39894,8 +39894,8 @@
       ],
       "options": [
         {
-          "id": 17120122634571,
           "product_id": 14774885515595,
+          "id": 17120122634571,
           "name": "Size",
           "position": 1,
           "values": [
