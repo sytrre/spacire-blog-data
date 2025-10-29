@@ -9697,8 +9697,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048129867",
       "variants": [
         {
-          "id": 53256594784587,
           "product_id": 10825048129867,
+          "id": 53256594784587,
           "title": "Black / Fixed Neck Pillow Goggle Set",
           "price": "35.97",
           "position": 1,
@@ -9727,8 +9727,8 @@
       ],
       "options": [
         {
-          "id": 13450923999563,
           "product_id": 10825048129867,
+          "id": 13450923999563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9736,8 +9736,8 @@
           ]
         },
         {
-          "id": 13450924032331,
           "product_id": 10825048129867,
+          "id": 13450924032331,
           "name": "Specifications",
           "position": 2,
           "values": [
