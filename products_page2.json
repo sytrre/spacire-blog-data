@@ -2019,8 +2019,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157116235",
       "variants": [
         {
-          "product_id": 10825157116235,
           "id": 53257317548363,
+          "product_id": 10825157116235,
           "title": "White / USB",
           "price": "37.79",
           "position": 1,
@@ -2049,8 +2049,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157116235,
           "id": 13451082924363,
+          "product_id": 10825157116235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2058,8 +2058,8 @@
           ]
         },
         {
-          "product_id": 10825157116235,
           "id": 13451082957131,
+          "product_id": 10825157116235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -28981,8 +28981,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825049375051",
       "variants": [
         {
-          "product_id": 10825049375051,
           "id": 53256599863627,
+          "product_id": 10825049375051,
           "title": "Pink",
           "price": "38.74",
           "position": 1,
@@ -29009,8 +29009,8 @@
           "image_id": 64365244580171
         },
         {
-          "product_id": 10825049375051,
           "id": 53256599896395,
+          "product_id": 10825049375051,
           "title": "Blue",
           "price": "38.74",
           "position": 2,
@@ -29037,8 +29037,8 @@
           "image_id": 64365244612939
         },
         {
-          "product_id": 10825049375051,
           "id": 53256599929163,
+          "product_id": 10825049375051,
           "title": "Purple",
           "price": "38.74",
           "position": 3,
@@ -29065,8 +29065,8 @@
           "image_id": 64365244645707
         },
         {
-          "product_id": 10825049375051,
           "id": 53256599961931,
+          "product_id": 10825049375051,
           "title": "Pink 2Pcs",
           "price": "39.93",
           "position": 4,
@@ -29093,8 +29093,8 @@
           "image_id": 64365244678475
         },
         {
-          "product_id": 10825049375051,
           "id": 53256599994699,
+          "product_id": 10825049375051,
           "title": "Blue 2Pcs",
           "price": "39.93",
           "position": 5,
@@ -29121,8 +29121,8 @@
           "image_id": 64365244711243
         },
         {
-          "product_id": 10825049375051,
           "id": 53256600027467,
+          "product_id": 10825049375051,
           "title": "3Color 3Pcs",
           "price": "41.18",
           "position": 6,
@@ -29151,8 +29151,8 @@
       ],
       "options": [
         {
-          "product_id": 10825049375051,
           "id": 13450925408587,
+          "product_id": 10825049375051,
           "name": "Color",
           "position": 1,
           "values": [
