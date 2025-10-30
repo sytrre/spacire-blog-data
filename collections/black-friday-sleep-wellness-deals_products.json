@@ -12821,8 +12821,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772563738955",
       "variants": [
         {
-          "product_id": 14772563738955,
           "id": 53314611773771,
+          "product_id": 14772563738955,
           "title": "Independent Carton Packaging",
           "price": "51.17",
           "position": 1,
@@ -12851,8 +12851,8 @@
       ],
       "options": [
         {
-          "product_id": 14772563738955,
           "id": 17117259989323,
+          "product_id": 14772563738955,
           "name": "Size Specification",
           "position": 1,
           "values": [
@@ -44899,8 +44899,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960737611",
       "variants": [
         {
-          "id": 53256229355851,
           "product_id": 10824960737611,
+          "id": 53256229355851,
           "title": "30ml",
           "price": "21.69",
           "position": 1,
@@ -44929,8 +44929,8 @@
       ],
       "options": [
         {
-          "id": 13450821435723,
           "product_id": 10824960737611,
+          "id": 13450821435723,
           "name": "capacity",
           "position": 1,
           "values": [
