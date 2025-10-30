@@ -67163,8 +67163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -67193,8 +67193,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -67202,8 +67202,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -68080,8 +68080,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825029091659",
       "variants": [
         {
-          "id": 53256529150283,
           "product_id": 10825029091659,
+          "id": 53256529150283,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -68108,8 +68108,8 @@
           "image_id": 64364992921931
         },
         {
-          "id": 53256529183051,
           "product_id": 10825029091659,
+          "id": 53256529183051,
           "title": "Navy Blue",
           "price": "27.99",
           "position": 2,
@@ -68136,8 +68136,8 @@
           "image_id": 64364992954699
         },
         {
-          "id": 53256529215819,
           "product_id": 10825029091659,
+          "id": 53256529215819,
           "title": "Pink",
           "price": "27.99",
           "position": 3,
@@ -68166,8 +68166,8 @@
       ],
       "options": [
         {
-          "id": 13450899423563,
           "product_id": 10825029091659,
+          "id": 13450899423563,
           "name": "Color",
           "position": 1,
           "values": [
