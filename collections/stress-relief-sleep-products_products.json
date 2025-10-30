@@ -2523,8 +2523,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056125259",
       "variants": [
         {
-          "product_id": 10825056125259,
           "id": 53256626012491,
+          "product_id": 10825056125259,
           "title": "Blue / Ordinary",
           "price": "47.76",
           "position": 1,
@@ -2551,8 +2551,8 @@
           "image_id": 64365328204107
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626045259,
+          "product_id": 10825056125259,
           "title": "Blue / Rechargeable",
           "price": "52.25",
           "position": 2,
@@ -2579,8 +2579,8 @@
           "image_id": 64365328236875
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626078027,
+          "product_id": 10825056125259,
           "title": "Navy Blue / Ordinary",
           "price": "47.76",
           "position": 3,
@@ -2607,8 +2607,8 @@
           "image_id": 64365328269643
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626110795,
+          "product_id": 10825056125259,
           "title": "Navy Blue / Rechargeable",
           "price": "52.25",
           "position": 4,
@@ -2635,8 +2635,8 @@
           "image_id": 64365328302411
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626143563,
+          "product_id": 10825056125259,
           "title": "Pink / Ordinary",
           "price": "47.76",
           "position": 5,
@@ -2663,8 +2663,8 @@
           "image_id": 64365328335179
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626176331,
+          "product_id": 10825056125259,
           "title": "Pink / Rechargeable",
           "price": "52.25",
           "position": 6,
@@ -2691,8 +2691,8 @@
           "image_id": 64365328367947
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626209099,
+          "product_id": 10825056125259,
           "title": "Light Green / Ordinary",
           "price": "47.76",
           "position": 7,
@@ -2719,8 +2719,8 @@
           "image_id": 64365328400715
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626241867,
+          "product_id": 10825056125259,
           "title": "Light Green / Rechargeable",
           "price": "52.25",
           "position": 8,
@@ -2747,8 +2747,8 @@
           "image_id": 64365328433483
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626274635,
+          "product_id": 10825056125259,
           "title": "Green / Ordinary",
           "price": "47.76",
           "position": 9,
@@ -2775,8 +2775,8 @@
           "image_id": 64365328466251
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626307403,
+          "product_id": 10825056125259,
           "title": "Green / Rechargeable",
           "price": "52.25",
           "position": 10,
@@ -2803,8 +2803,8 @@
           "image_id": 64365328499019
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626340171,
+          "product_id": 10825056125259,
           "title": "White / Ordinary",
           "price": "47.76",
           "position": 11,
@@ -2831,8 +2831,8 @@
           "image_id": 64365328531787
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626372939,
+          "product_id": 10825056125259,
           "title": "White / Rechargeable",
           "price": "52.25",
           "position": 12,
@@ -2861,8 +2861,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056125259,
           "id": 13450932977995,
+          "product_id": 10825056125259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2875,8 +2875,8 @@
           ]
         },
         {
-          "product_id": 10825056125259,
           "id": 13450933010763,
+          "product_id": 10825056125259,
           "name": "style",
           "position": 2,
           "values": [
@@ -40897,8 +40897,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -40925,8 +40925,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -40953,8 +40953,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -40981,8 +40981,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -41011,8 +41011,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41023,8 +41023,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -52670,8 +52670,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825030173003",
       "variants": [
         {
-          "product_id": 10825030173003,
           "id": 53256533442891,
+          "product_id": 10825030173003,
           "title": "Free Size / Dark Gray Velcro",
           "price": "28.40",
           "position": 1,
@@ -52698,8 +52698,8 @@
           "image_id": 64365017301323
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533475659,
+          "product_id": 10825030173003,
           "title": "Free Size / Black Velcro",
           "price": "28.40",
           "position": 2,
@@ -52726,8 +52726,8 @@
           "image_id": 64365017334091
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533508427,
+          "product_id": 10825030173003,
           "title": "Free Size / Dark Green Velcro",
           "price": "28.40",
           "position": 3,
@@ -52754,8 +52754,8 @@
           "image_id": 64365017366859
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533541195,
+          "product_id": 10825030173003,
           "title": "Free Size / Shaha Green Velcro",
           "price": "28.40",
           "position": 4,
@@ -52782,8 +52782,8 @@
           "image_id": 64365017399627
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533573963,
+          "product_id": 10825030173003,
           "title": "Free Size / 88 Haze Blue Velcro",
           "price": "28.40",
           "position": 5,
@@ -52810,8 +52810,8 @@
           "image_id": 64365017432395
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533606731,
+          "product_id": 10825030173003,
           "title": "Free Size / 89 Rose Color Velcro",
           "price": "28.40",
           "position": 6,
@@ -52838,8 +52838,8 @@
           "image_id": 64365017465163
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533639499,
+          "product_id": 10825030173003,
           "title": "Free Size / Navy Blue Velcro",
           "price": "28.40",
           "position": 7,
@@ -52866,8 +52866,8 @@
           "image_id": 64365017497931
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533672267,
+          "product_id": 10825030173003,
           "title": "Free Size / Pink Color Velcro",
           "price": "28.40",
           "position": 8,
@@ -52894,8 +52894,8 @@
           "image_id": 64365017530699
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533705035,
+          "product_id": 10825030173003,
           "title": "Free Size / Pink Leopard Print Velcro",
           "price": "28.40",
           "position": 9,
@@ -52922,8 +52922,8 @@
           "image_id": 64365017563467
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533737803,
+          "product_id": 10825030173003,
           "title": "Free Size / Purple Leopard Print Velcro",
           "price": "28.40",
           "position": 10,
@@ -52950,8 +52950,8 @@
           "image_id": 64365017596235
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533770571,
+          "product_id": 10825030173003,
           "title": "Free Size / Brown Leopard Print Velcro",
           "price": "28.40",
           "position": 11,
@@ -52978,8 +52978,8 @@
           "image_id": 64365017629003
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533803339,
+          "product_id": 10825030173003,
           "title": "Free Size / Aurora Printing Velcro",
           "price": "28.40",
           "position": 12,
@@ -53006,8 +53006,8 @@
           "image_id": 64365017661771
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533836107,
+          "product_id": 10825030173003,
           "title": "Free Size / Beige",
           "price": "28.40",
           "position": 13,
@@ -53034,8 +53034,8 @@
           "image_id": 64365017694539
         },
         {
-          "product_id": 10825030173003,
           "id": 53256533868875,
+          "product_id": 10825030173003,
           "title": "Free Size / Whine",
           "price": "28.40",
           "position": 14,
@@ -53064,8 +53064,8 @@
       ],
       "options": [
         {
-          "product_id": 10825030173003,
           "id": 13450900603211,
+          "product_id": 10825030173003,
           "name": "Size",
           "position": 1,
           "values": [
@@ -53073,8 +53073,8 @@
           ]
         },
         {
-          "product_id": 10825030173003,
           "id": 13450900635979,
+          "product_id": 10825030173003,
           "name": "Color",
           "position": 2,
           "values": [
