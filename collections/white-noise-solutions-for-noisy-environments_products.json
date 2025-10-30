@@ -3437,8 +3437,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794557259",
       "variants": [
         {
-          "id": 53252659937611,
           "product_id": 10823794557259,
+          "id": 53252659937611,
           "title": "Classic White",
           "price": "32.99",
           "position": 1,
@@ -3467,8 +3467,8 @@
       ],
       "options": [
         {
-          "id": 13449524347211,
           "product_id": 10823794557259,
+          "id": 13449524347211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11039,8 +11039,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098068299",
       "variants": [
         {
-          "id": 53256896020811,
           "product_id": 10825098068299,
+          "id": 53256896020811,
           "title": "F001 white / USB",
           "price": "555.03",
           "position": 1,
@@ -11067,8 +11067,8 @@
           "image_id": 64365730300235
         },
         {
-          "id": 53256896053579,
           "product_id": 10825098068299,
+          "id": 53256896053579,
           "title": "F001 grey / USB",
           "price": "608.89",
           "position": 2,
@@ -11095,8 +11095,8 @@
           "image_id": 64365730333003
         },
         {
-          "id": 53256896086347,
           "product_id": 10825098068299,
+          "id": 53256896086347,
           "title": "F007 white / USB",
           "price": "981.22",
           "position": 3,
@@ -11123,8 +11123,8 @@
           "image_id": 64365730365771
         },
         {
-          "id": 53256896119115,
           "product_id": 10825098068299,
+          "id": 53256896119115,
           "title": "F008 white / USB",
           "price": "1089.27",
           "position": 4,
@@ -11151,8 +11151,8 @@
           "image_id": 64365730398539
         },
         {
-          "id": 53256896151883,
           "product_id": 10825098068299,
+          "id": 53256896151883,
           "title": "F016 white / USB",
           "price": "1348.54",
           "position": 5,
@@ -11181,8 +11181,8 @@
       ],
       "options": [
         {
-          "id": 13450997629259,
           "product_id": 10825098068299,
+          "id": 13450997629259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11194,8 +11194,8 @@
           ]
         },
         {
-          "id": 13450997662027,
           "product_id": 10825098068299,
+          "id": 13450997662027,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
