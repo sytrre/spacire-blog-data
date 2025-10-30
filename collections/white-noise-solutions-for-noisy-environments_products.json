@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794688331",
       "variants": [
         {
-          "id": 53252663083339,
           "product_id": 10823794688331,
+          "id": 53252663083339,
           "title": "Silver",
           "price": "44.99",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64332501745995
         },
         {
-          "id": 53252663116107,
           "product_id": 10823794688331,
+          "id": 53252663116107,
           "title": "White",
           "price": "44.99",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13449524478283,
           "product_id": 10823794688331,
+          "id": 13449524478283,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8068,8 +8068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "product_id": 10825084240203,
           "id": 53256832352587,
+          "product_id": 10825084240203,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -8096,8 +8096,8 @@
           "image_id": 64365644644683
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832385355,
+          "product_id": 10825084240203,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -8124,8 +8124,8 @@
           "image_id": 64365644677451
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832418123,
+          "product_id": 10825084240203,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -8154,8 +8154,8 @@
       ],
       "options": [
         {
-          "product_id": 10825084240203,
           "id": 13450974003531,
+          "product_id": 10825084240203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8434,8 +8434,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823955087691",
       "variants": [
         {
-          "product_id": 10823955087691,
           "id": 53253611553099,
+          "product_id": 10823955087691,
           "title": "White",
           "price": "79.49",
           "position": 1,
@@ -8462,8 +8462,8 @@
           "image_id": 64335531671883
         },
         {
-          "product_id": 10823955087691,
           "id": 53253611585867,
+          "product_id": 10823955087691,
           "title": "Wood color",
           "price": "79.49",
           "position": 2,
@@ -8492,8 +8492,8 @@
       ],
       "options": [
         {
-          "product_id": 10823955087691,
           "id": 13449724100939,
+          "product_id": 10823955087691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19107,8 +19107,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "product_id": 10823793475915,
           "id": 53252653875531,
+          "product_id": 10823793475915,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19135,8 +19135,8 @@
           "image_id": 64332469698891
         },
         {
-          "product_id": 10823793475915,
           "id": 53252653908299,
+          "product_id": 10823793475915,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19165,8 +19165,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793475915,
           "id": 13449523069259,
+          "product_id": 10823793475915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19174,8 +19174,8 @@
           ]
         },
         {
-          "product_id": 10823793475915,
           "id": 13449523102027,
+          "product_id": 10823793475915,
           "name": "Specifications",
           "position": 2,
           "values": [

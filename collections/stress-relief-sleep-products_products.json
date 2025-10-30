@@ -6968,8 +6968,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825026765131",
       "variants": [
         {
-          "product_id": 10825026765131,
           "id": 53256522957131,
+          "product_id": 10825026765131,
           "title": "USB Pink",
           "price": "33.72",
           "position": 1,
@@ -6996,8 +6996,8 @@
           "image_id": 64364958122315
         },
         {
-          "product_id": 10825026765131,
           "id": 53256522989899,
+          "product_id": 10825026765131,
           "title": "Usb Black",
           "price": "33.72",
           "position": 2,
@@ -7024,8 +7024,8 @@
           "image_id": 64364958155083
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523022667,
+          "product_id": 10825026765131,
           "title": "USB Navy Blue",
           "price": "33.72",
           "position": 3,
@@ -7052,8 +7052,8 @@
           "image_id": 64364958187851
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523055435,
+          "product_id": 10825026765131,
           "title": "USB Gray",
           "price": "33.72",
           "position": 4,
@@ -7080,8 +7080,8 @@
           "image_id": 64364958220619
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523088203,
+          "product_id": 10825026765131,
           "title": "USB Peacock Blue",
           "price": "33.72",
           "position": 5,
@@ -7108,8 +7108,8 @@
           "image_id": 64364958253387
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523120971,
+          "product_id": 10825026765131,
           "title": "Lithium Battery Pink",
           "price": "40.78",
           "position": 6,
@@ -7136,8 +7136,8 @@
           "image_id": 64364958286155
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523153739,
+          "product_id": 10825026765131,
           "title": "Lithium Battery Navy Blue",
           "price": "40.78",
           "position": 7,
@@ -7164,8 +7164,8 @@
           "image_id": 64364958318923
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523186507,
+          "product_id": 10825026765131,
           "title": "Lithium Battery Black",
           "price": "40.78",
           "position": 8,
@@ -7192,8 +7192,8 @@
           "image_id": 64364958351691
         },
         {
-          "product_id": 10825026765131,
           "id": 53256523219275,
+          "product_id": 10825026765131,
           "title": "Lithium Gray",
           "price": "40.78",
           "position": 9,
@@ -7222,8 +7222,8 @@
       ],
       "options": [
         {
-          "product_id": 10825026765131,
           "id": 13450896998731,
+          "product_id": 10825026765131,
           "name": "format",
           "position": 1,
           "values": [
@@ -52155,8 +52155,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885515595",
       "variants": [
         {
-          "product_id": 14774885515595,
           "id": 53325483278667,
+          "product_id": 14774885515595,
           "title": "140x35",
           "price": "16.32",
           "position": 1,
@@ -52183,8 +52183,8 @@
           "image_id": 64643910107467
         },
         {
-          "product_id": 14774885515595,
           "id": 53325483311435,
+          "product_id": 14774885515595,
           "title": "150x40",
           "price": "16.43",
           "position": 2,
@@ -52211,8 +52211,8 @@
           "image_id": 64643910140235
         },
         {
-          "product_id": 14774885515595,
           "id": 53325483344203,
+          "product_id": 14774885515595,
           "title": "170x40",
           "price": "16.65",
           "position": 3,
@@ -52239,8 +52239,8 @@
           "image_id": 64643910173003
         },
         {
-          "product_id": 14774885515595,
           "id": 53325483376971,
+          "product_id": 14774885515595,
           "title": "180x50",
           "price": "16.80",
           "position": 4,
@@ -52269,8 +52269,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885515595,
           "id": 17120122634571,
+          "product_id": 14774885515595,
           "name": "Size",
           "position": 1,
           "values": [
@@ -61170,8 +61170,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909572939",
       "variants": [
         {
-          "product_id": 10823909572939,
           "id": 53253481660747,
+          "product_id": 10823909572939,
           "title": "White",
           "price": "131.49",
           "position": 1,
@@ -61200,8 +61200,8 @@
       ],
       "options": [
         {
-          "product_id": 10823909572939,
           "id": 13449673277771,
+          "product_id": 10823909572939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64510,8 +64510,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051504971",
       "variants": [
         {
-          "id": 53256606875979,
           "product_id": 10825051504971,
+          "id": 53256606875979,
           "title": "Dark green",
           "price": "32.96",
           "position": 1,
@@ -64538,8 +64538,8 @@
           "image_id": 64365264240971
         },
         {
-          "id": 53256606908747,
           "product_id": 10825051504971,
+          "id": 53256606908747,
           "title": "Gray",
           "price": "32.96",
           "position": 2,
@@ -64568,8 +64568,8 @@
       ],
       "options": [
         {
-          "id": 13450927702347,
           "product_id": 10825051504971,
+          "id": 13450927702347,
           "name": "Color",
           "position": 1,
           "values": [
