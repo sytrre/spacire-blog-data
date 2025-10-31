@@ -39370,8 +39370,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774004875595",
       "variants": [
         {
-          "product_id": 14774004875595,
           "id": 53319998931275,
+          "product_id": 14774004875595,
           "title": "White / 100x70cm",
           "price": "43.45",
           "position": 1,
@@ -39398,8 +39398,8 @@
           "image_id": 64631998972235
         },
         {
-          "product_id": 14774004875595,
           "id": 53319998964043,
+          "product_id": 14774004875595,
           "title": "Green giraffe / 100x70cm",
           "price": "43.45",
           "position": 2,
@@ -39426,8 +39426,8 @@
           "image_id": 64631999005003
         },
         {
-          "product_id": 14774004875595,
           "id": 53319998996811,
+          "product_id": 14774004875595,
           "title": "Green / 100x70cm",
           "price": "43.45",
           "position": 3,
@@ -39454,8 +39454,8 @@
           "image_id": 64631999037771
         },
         {
-          "product_id": 14774004875595,
           "id": 53319999029579,
+          "product_id": 14774004875595,
           "title": "Red / 100x70cm",
           "price": "43.45",
           "position": 4,
@@ -39482,8 +39482,8 @@
           "image_id": 64631999070539
         },
         {
-          "product_id": 14774004875595,
           "id": 53319999062347,
+          "product_id": 14774004875595,
           "title": "Yellow / 100x70cm",
           "price": "43.45",
           "position": 5,
@@ -39510,8 +39510,8 @@
           "image_id": 64631999103307
         },
         {
-          "product_id": 14774004875595,
           "id": 53319999095115,
+          "product_id": 14774004875595,
           "title": "Blue lucky cat / 100x120cm",
           "price": "44.32",
           "position": 6,
@@ -39538,8 +39538,8 @@
           "image_id": 64631999136075
         },
         {
-          "product_id": 14774004875595,
           "id": 53319999127883,
+          "product_id": 14774004875595,
           "title": "Blue lucky cat / 100x70cm",
           "price": "43.45",
           "position": 7,
@@ -39566,8 +39566,8 @@
           "image_id": 64631999136075
         },
         {
-          "product_id": 14774004875595,
           "id": 53319999160651,
+          "product_id": 14774004875595,
           "title": "Blue / 100x70cm",
           "price": "43.45",
           "position": 8,
@@ -39596,8 +39596,8 @@
       ],
       "options": [
         {
-          "product_id": 14774004875595,
           "id": 17118964351307,
+          "product_id": 14774004875595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -39611,8 +39611,8 @@
           ]
         },
         {
-          "product_id": 14774004875595,
           "id": 17118964384075,
+          "product_id": 14774004875595,
           "name": "Size",
           "position": 2,
           "values": [
@@ -68080,8 +68080,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825029091659",
       "variants": [
         {
-          "product_id": 10825029091659,
           "id": 53256529150283,
+          "product_id": 10825029091659,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -68108,8 +68108,8 @@
           "image_id": 64364992921931
         },
         {
-          "product_id": 10825029091659,
           "id": 53256529183051,
+          "product_id": 10825029091659,
           "title": "Navy Blue",
           "price": "27.99",
           "position": 2,
@@ -68136,8 +68136,8 @@
           "image_id": 64364992954699
         },
         {
-          "product_id": 10825029091659,
           "id": 53256529215819,
+          "product_id": 10825029091659,
           "title": "Pink",
           "price": "27.99",
           "position": 3,
@@ -68166,8 +68166,8 @@
       ],
       "options": [
         {
-          "product_id": 10825029091659,
           "id": 13450899423563,
+          "product_id": 10825029091659,
           "name": "Color",
           "position": 1,
           "values": [

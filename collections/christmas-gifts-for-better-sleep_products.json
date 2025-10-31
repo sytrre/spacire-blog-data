@@ -9407,8 +9407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904029515",
       "variants": [
         {
-          "product_id": 14774904029515,
           "id": 53325628408139,
+          "product_id": 14774904029515,
           "title": "White / 48X74cm",
           "price": "26.91",
           "position": 1,
@@ -9435,8 +9435,8 @@
           "image_id": 64644456579403
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628440907,
+          "product_id": 14774904029515,
           "title": "Grey / 48X74cm",
           "price": "26.38",
           "position": 2,
@@ -9463,8 +9463,8 @@
           "image_id": 64644456612171
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628473675,
+          "product_id": 14774904029515,
           "title": "Pink / 48X74cm",
           "price": "26.38",
           "position": 3,
@@ -9491,8 +9491,8 @@
           "image_id": 64644456644939
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628506443,
+          "product_id": 14774904029515,
           "title": "Yellow / 48X74cm",
           "price": "26.38",
           "position": 4,
@@ -9519,8 +9519,8 @@
           "image_id": 64644456677707
         },
         {
-          "product_id": 14774904029515,
           "id": 53325628539211,
+          "product_id": 14774904029515,
           "title": "Coffee / 48X74cm",
           "price": "26.38",
           "position": 5,
@@ -9549,8 +9549,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904029515,
           "id": 17120142950731,
+          "product_id": 14774904029515,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9562,8 +9562,8 @@
           ]
         },
         {
-          "product_id": 14774904029515,
           "id": 17120142983499,
+          "product_id": 14774904029515,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -15047,8 +15047,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "product_id": 10825056452939,
           "id": 53256627061067,
+          "product_id": 10825056452939,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -15077,8 +15077,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056452939,
           "id": 13450933338443,
+          "product_id": 10825056452939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15086,8 +15086,8 @@
           ]
         },
         {
-          "product_id": 10825056452939,
           "id": 13450933371211,
+          "product_id": 10825056452939,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -22516,8 +22516,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794458955",
       "variants": [
         {
-          "product_id": 10823794458955,
           "id": 53252659741003,
+          "product_id": 10823794458955,
           "title": "Black",
           "price": "49.49",
           "position": 1,
@@ -22546,8 +22546,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794458955,
           "id": 13449524248907,
+          "product_id": 10823794458955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26189,8 +26189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773403582795",
       "variants": [
         {
-          "product_id": 14773403582795,
           "id": 53317155619147,
+          "product_id": 14773403582795,
           "title": "Bean paste powder / 130x170CM",
           "price": "49.12",
           "position": 1,
@@ -26217,8 +26217,8 @@
           "image_id": 64620961464651
         },
         {
-          "product_id": 14773403582795,
           "id": 53317155651915,
+          "product_id": 14773403582795,
           "title": "Sea blue / 130x170CM",
           "price": "49.12",
           "position": 2,
@@ -26247,8 +26247,8 @@
       ],
       "options": [
         {
-          "product_id": 14773403582795,
           "id": 17118208950603,
+          "product_id": 14773403582795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26257,8 +26257,8 @@
           ]
         },
         {
-          "product_id": 14773403582795,
           "id": 17118208983371,
+          "product_id": 14773403582795,
           "name": "Size",
           "position": 2,
           "values": [
@@ -68166,8 +68166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "product_id": 10825080734027,
           "id": 53256805089611,
+          "product_id": 10825080734027,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -68194,8 +68194,8 @@
           "image_id": 64365601521995
         },
         {
-          "product_id": 10825080734027,
           "id": 53256805122379,
+          "product_id": 10825080734027,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -68224,8 +68224,8 @@
       ],
       "options": [
         {
-          "product_id": 10825080734027,
           "id": 13450968596811,
+          "product_id": 10825080734027,
           "name": "Specifications",
           "position": 1,
           "values": [
