@@ -9448,8 +9448,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "product_id": 10825056452939,
           "id": 53256627061067,
+          "product_id": 10825056452939,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -9478,8 +9478,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056452939,
           "id": 13450933338443,
+          "product_id": 10825056452939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9487,8 +9487,8 @@
           ]
         },
         {
-          "product_id": 10825056452939,
           "id": 13450933371211,
+          "product_id": 10825056452939,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -46711,8 +46711,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045475659",
       "variants": [
         {
-          "id": 53256581611851,
           "product_id": 10825045475659,
+          "id": 53256581611851,
           "title": "Long without elastic",
           "price": "32.58",
           "position": 1,
@@ -46741,8 +46741,8 @@
       ],
       "options": [
         {
-          "id": 13450921214283,
           "product_id": 10825045475659,
+          "id": 13450921214283,
           "name": "style",
           "position": 1,
           "values": [
@@ -50996,8 +50996,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "id": 53257347727691,
           "product_id": 10825158754635,
+          "id": 53257347727691,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -51026,8 +51026,8 @@
       ],
       "options": [
         {
-          "id": 13451085906251,
           "product_id": 10825158754635,
+          "id": 13451085906251,
           "name": "Size",
           "position": 1,
           "values": [
@@ -58018,8 +58018,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825029091659",
       "variants": [
         {
-          "product_id": 10825029091659,
           "id": 53256529150283,
+          "product_id": 10825029091659,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -58046,8 +58046,8 @@
           "image_id": 64364992921931
         },
         {
-          "product_id": 10825029091659,
           "id": 53256529183051,
+          "product_id": 10825029091659,
           "title": "Navy Blue",
           "price": "27.99",
           "position": 2,
@@ -58074,8 +58074,8 @@
           "image_id": 64364992954699
         },
         {
-          "product_id": 10825029091659,
           "id": 53256529215819,
+          "product_id": 10825029091659,
           "title": "Pink",
           "price": "27.99",
           "position": 3,
@@ -58104,8 +58104,8 @@
       ],
       "options": [
         {
-          "product_id": 10825029091659,
           "id": 13450899423563,
+          "product_id": 10825029091659,
           "name": "Color",
           "position": 1,
           "values": [
