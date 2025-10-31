@@ -5940,8 +5940,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774005072203",
       "variants": [
         {
-          "id": 53320000930123,
           "product_id": 14774005072203,
+          "id": 53320000930123,
           "title": "A",
           "price": "42.78",
           "position": 1,
@@ -5968,8 +5968,8 @@
           "image_id": 64632000643403
         },
         {
-          "id": 53320000962891,
           "product_id": 14774005072203,
+          "id": 53320000962891,
           "title": "B",
           "price": "42.78",
           "position": 2,
@@ -5996,8 +5996,8 @@
           "image_id": 64632000643403
         },
         {
-          "id": 53320000995659,
           "product_id": 14774005072203,
+          "id": 53320000995659,
           "title": "C",
           "price": "42.78",
           "position": 3,
@@ -6024,8 +6024,8 @@
           "image_id": 64632000643403
         },
         {
-          "id": 53320001028427,
           "product_id": 14774005072203,
+          "id": 53320001028427,
           "title": "D",
           "price": "42.78",
           "position": 4,
@@ -6052,8 +6052,8 @@
           "image_id": 64632000643403
         },
         {
-          "id": 53320001061195,
           "product_id": 14774005072203,
+          "id": 53320001061195,
           "title": "G",
           "price": "42.78",
           "position": 5,
@@ -6080,8 +6080,8 @@
           "image_id": 64632000643403
         },
         {
-          "id": 53320001093963,
           "product_id": 14774005072203,
+          "id": 53320001093963,
           "title": "F",
           "price": "42.78",
           "position": 6,
@@ -6110,8 +6110,8 @@
       ],
       "options": [
         {
-          "id": 17118964678987,
           "product_id": 14774005072203,
+          "id": 17118964678987,
           "name": "style",
           "position": 1,
           "values": [
@@ -22970,8 +22970,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "product_id": 10823805174091,
           "id": 53252706828619,
+          "product_id": 10823805174091,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -23000,8 +23000,8 @@
       ],
       "options": [
         {
-          "product_id": 10823805174091,
           "id": 13449536799051,
+          "product_id": 10823805174091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -23009,8 +23009,8 @@
           ]
         },
         {
-          "product_id": 10823805174091,
           "id": 13449536831819,
+          "product_id": 10823805174091,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
