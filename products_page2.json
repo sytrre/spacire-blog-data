@@ -1011,8 +1011,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098068299",
       "variants": [
         {
-          "product_id": 10825098068299,
           "id": 53256896020811,
+          "product_id": 10825098068299,
           "title": "F001 white / USB",
           "price": "555.03",
           "position": 1,
@@ -1039,8 +1039,8 @@
           "image_id": 64365730300235
         },
         {
-          "product_id": 10825098068299,
           "id": 53256896053579,
+          "product_id": 10825098068299,
           "title": "F001 grey / USB",
           "price": "608.89",
           "position": 2,
@@ -1067,8 +1067,8 @@
           "image_id": 64365730333003
         },
         {
-          "product_id": 10825098068299,
           "id": 53256896086347,
+          "product_id": 10825098068299,
           "title": "F007 white / USB",
           "price": "981.22",
           "position": 3,
@@ -1095,8 +1095,8 @@
           "image_id": 64365730365771
         },
         {
-          "product_id": 10825098068299,
           "id": 53256896119115,
+          "product_id": 10825098068299,
           "title": "F008 white / USB",
           "price": "1089.27",
           "position": 4,
@@ -1123,8 +1123,8 @@
           "image_id": 64365730398539
         },
         {
-          "product_id": 10825098068299,
           "id": 53256896151883,
+          "product_id": 10825098068299,
           "title": "F016 white / USB",
           "price": "1348.54",
           "position": 5,
@@ -1153,8 +1153,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098068299,
           "id": 13450997629259,
+          "product_id": 10825098068299,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1166,8 +1166,8 @@
           ]
         },
         {
-          "product_id": 10825098068299,
           "id": 13450997662027,
+          "product_id": 10825098068299,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -24939,8 +24939,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771202359627",
       "variants": [
         {
-          "id": 53309796909387,
           "product_id": 14771202359627,
+          "id": 53309796909387,
           "title": "Rabbit / 40x 35cm",
           "price": "28.59",
           "position": 1,
@@ -24967,8 +24967,8 @@
           "image_id": 64591504343371
         },
         {
-          "id": 53309796942155,
           "product_id": 14771202359627,
+          "id": 53309796942155,
           "title": "Owl / 40x 35cm",
           "price": "28.59",
           "position": 2,
@@ -24995,8 +24995,8 @@
           "image_id": 64591504376139
         },
         {
-          "id": 53309796974923,
           "product_id": 14771202359627,
+          "id": 53309796974923,
           "title": "Chick / 40x 35cm",
           "price": "28.59",
           "position": 3,
@@ -25023,8 +25023,8 @@
           "image_id": 64591504408907
         },
         {
-          "id": 53309797007691,
           "product_id": 14771202359627,
+          "id": 53309797007691,
           "title": "Dinosaur / 40x 35cm",
           "price": "28.59",
           "position": 4,
@@ -25051,8 +25051,8 @@
           "image_id": 64591504441675
         },
         {
-          "id": 53309797040459,
           "product_id": 14771202359627,
+          "id": 53309797040459,
           "title": "Koala / 40x 35cm",
           "price": "28.59",
           "position": 5,
@@ -25081,8 +25081,8 @@
       ],
       "options": [
         {
-          "id": 17115727331659,
           "product_id": 14771202359627,
+          "id": 17115727331659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25094,8 +25094,8 @@
           ]
         },
         {
-          "id": 17115727364427,
           "product_id": 14771202359627,
+          "id": 17115727364427,
           "name": "Size",
           "position": 2,
           "values": [
@@ -55846,8 +55846,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771566215499",
       "variants": [
         {
-          "id": 53310486511947,
           "product_id": 14771566215499,
+          "id": 53310486511947,
           "title": "Cyan / 62×33×10cm",
           "price": "42.98",
           "position": 1,
@@ -55874,8 +55874,8 @@
           "image_id": 64595179897163
         },
         {
-          "id": 53310486544715,
           "product_id": 14771566215499,
+          "id": 53310486544715,
           "title": "Azure / 62×33×10cm",
           "price": "42.98",
           "position": 2,
@@ -55902,8 +55902,8 @@
           "image_id": 64595179929931
         },
         {
-          "id": 53310486577483,
           "product_id": 14771566215499,
+          "id": 53310486577483,
           "title": "Grey / 62×33×10cm",
           "price": "42.98",
           "position": 3,
@@ -55930,8 +55930,8 @@
           "image_id": 64595179962699
         },
         {
-          "id": 53310486610251,
           "product_id": 14771566215499,
+          "id": 53310486610251,
           "title": "Azure / 50x30x10cm",
           "price": "38.93",
           "position": 4,
@@ -55958,8 +55958,8 @@
           "image_id": 64595179929931
         },
         {
-          "id": 53310486643019,
           "product_id": 14771566215499,
+          "id": 53310486643019,
           "title": "Cyan / 50x30x10cm",
           "price": "38.93",
           "position": 5,
@@ -55986,8 +55986,8 @@
           "image_id": 64595179897163
         },
         {
-          "id": 53310486675787,
           "product_id": 14771566215499,
+          "id": 53310486675787,
           "title": "Grey / 50x30x10cm",
           "price": "38.93",
           "position": 6,
@@ -56016,8 +56016,8 @@
       ],
       "options": [
         {
-          "id": 17116102328651,
           "product_id": 14771566215499,
+          "id": 17116102328651,
           "name": "Color",
           "position": 1,
           "values": [
@@ -56027,8 +56027,8 @@
           ]
         },
         {
-          "id": 17116102361419,
           "product_id": 14771566215499,
+          "id": 17116102361419,
           "name": "Size",
           "position": 2,
           "values": [
