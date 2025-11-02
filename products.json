@@ -80558,8 +80558,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825029714251",
       "variants": [
         {
-          "id": 53256531214667,
           "product_id": 10825029714251,
+          "id": 53256531214667,
           "title": "Pink / Free Size",
           "price": "32.88",
           "position": 1,
@@ -80586,8 +80586,8 @@
           "image_id": 64365004751179
         },
         {
-          "id": 53256531247435,
           "product_id": 10825029714251,
+          "id": 53256531247435,
           "title": "Black / Free Size",
           "price": "32.88",
           "position": 2,
@@ -80614,8 +80614,8 @@
           "image_id": 64365004783947
         },
         {
-          "id": 53256531280203,
           "product_id": 10825029714251,
+          "id": 53256531280203,
           "title": "Gray / Free Size",
           "price": "32.88",
           "position": 3,
@@ -80642,8 +80642,8 @@
           "image_id": 64365004816715
         },
         {
-          "id": 53256531312971,
           "product_id": 10825029714251,
+          "id": 53256531312971,
           "title": "Blue / Free Size",
           "price": "32.88",
           "position": 4,
@@ -80670,8 +80670,8 @@
           "image_id": 64365004849483
         },
         {
-          "id": 53256531345739,
           "product_id": 10825029714251,
+          "id": 53256531345739,
           "title": "Cyan / Free Size",
           "price": "32.88",
           "position": 5,
@@ -80698,8 +80698,8 @@
           "image_id": 64365004882251
         },
         {
-          "id": 53256531378507,
           "product_id": 10825029714251,
+          "id": 53256531378507,
           "title": "Purple / Free Size",
           "price": "32.88",
           "position": 6,
@@ -80728,8 +80728,8 @@
       ],
       "options": [
         {
-          "id": 13450900078923,
           "product_id": 10825029714251,
+          "id": 13450900078923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -80742,8 +80742,8 @@
           ]
         },
         {
-          "id": 13450900111691,
           "product_id": 10825029714251,
+          "id": 13450900111691,
           "name": "Specifications",
           "position": 2,
           "values": [
