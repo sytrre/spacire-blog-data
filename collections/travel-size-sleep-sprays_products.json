@@ -1398,8 +1398,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961556811",
       "variants": [
         {
-          "id": 53256231190859,
           "product_id": 10824961556811,
+          "id": 53256231190859,
           "title": "Sleep spray",
           "price": "22.20",
           "position": 1,
@@ -1428,8 +1428,8 @@
       ],
       "options": [
         {
-          "id": 13450822287691,
           "product_id": 10824961556811,
+          "id": 13450822287691,
           "name": "style",
           "position": 1,
           "values": [
