@@ -36867,8 +36867,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743406411",
       "variants": [
         {
-          "id": 53252374888779,
           "product_id": 10823743406411,
+          "id": 53252374888779,
           "title": "Golden",
           "price": "56.99",
           "position": 1,
@@ -36897,8 +36897,8 @@
       ],
       "options": [
         {
-          "id": 13449443967307,
           "product_id": 10823743406411,
+          "id": 13449443967307,
           "name": "Color",
           "position": 1,
           "values": [
