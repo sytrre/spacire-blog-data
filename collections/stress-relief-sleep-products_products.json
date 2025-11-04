@@ -44879,8 +44879,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -44907,8 +44907,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -44937,8 +44937,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65701,8 +65701,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157509451",
       "variants": [
         {
-          "id": 53257323741515,
           "product_id": 10825157509451,
+          "id": 53257323741515,
           "title": "30 PATCHES",
           "price": "32.06",
           "position": 1,
@@ -65731,8 +65731,8 @@
       ],
       "options": [
         {
-          "id": 13451083678027,
           "product_id": 10825157509451,
+          "id": 13451083678027,
           "name": "quantity",
           "position": 1,
           "values": [
