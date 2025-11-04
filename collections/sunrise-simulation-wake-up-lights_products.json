@@ -28767,8 +28767,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776059691339",
       "variants": [
         {
-          "product_id": 14776059691339,
           "id": 53331196805451,
+          "product_id": 14776059691339,
           "title": "Black Monolayer / 140*80CM",
           "price": "18.61",
           "position": 1,
@@ -28795,8 +28795,8 @@
           "image_id": 64660531511627
         },
         {
-          "product_id": 14776059691339,
           "id": 53331196838219,
+          "product_id": 14776059691339,
           "title": "Black Monolayer / 180*90CM",
           "price": "19.19",
           "position": 2,
@@ -28825,8 +28825,8 @@
       ],
       "options": [
         {
-          "product_id": 14776059691339,
           "id": 17121536377163,
+          "product_id": 14776059691339,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28834,8 +28834,8 @@
           ]
         },
         {
-          "product_id": 14776059691339,
           "id": 17121536409931,
+          "product_id": 14776059691339,
           "name": "Size",
           "position": 2,
           "values": [
