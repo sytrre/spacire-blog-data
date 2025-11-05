@@ -23057,8 +23057,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775151100235",
       "variants": [
         {
-          "id": 53327488450891,
           "product_id": 14775151100235,
+          "id": 53327488450891,
           "title": "Style1",
           "price": "31.70",
           "position": 1,
@@ -23087,8 +23087,8 @@
       ],
       "options": [
         {
-          "id": 17120447299915,
           "product_id": 14775151100235,
+          "id": 17120447299915,
           "name": "style",
           "position": 1,
           "values": [
@@ -36932,8 +36932,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904258891",
       "variants": [
         {
-          "id": 53325633847627,
           "product_id": 14774904258891,
+          "id": 53325633847627,
           "title": "Tencel Navy Blue Standard / MJ8125",
           "price": "38.18",
           "position": 1,
@@ -36960,8 +36960,8 @@
           "image_id": 64644466540875
         },
         {
-          "id": 53325633880395,
           "product_id": 14774904258891,
+          "id": 53325633880395,
           "title": "Tencel Blue Standard / MJ8125",
           "price": "38.18",
           "position": 2,
@@ -36988,8 +36988,8 @@
           "image_id": 64644466573643
         },
         {
-          "id": 53325633913163,
           "product_id": 14774904258891,
+          "id": 53325633913163,
           "title": "Dark Gray Gray Standard / MJ8125",
           "price": "38.43",
           "position": 3,
@@ -37016,8 +37016,8 @@
           "image_id": 64644466606411
         },
         {
-          "id": 53325633945931,
           "product_id": 14774904258891,
+          "id": 53325633945931,
           "title": "Dark Gray Mesh Low Loft Pillow / MJ8125",
           "price": "37.70",
           "position": 4,
@@ -37046,8 +37046,8 @@
       ],
       "options": [
         {
-          "id": 17120143442251,
           "product_id": 14774904258891,
+          "id": 17120143442251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37058,8 +37058,8 @@
           ]
         },
         {
-          "id": 17120143475019,
           "product_id": 14774904258891,
+          "id": 17120143475019,
           "name": "Size Specification",
           "position": 2,
           "values": [
