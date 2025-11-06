@@ -26997,8 +26997,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775297474891",
       "variants": [
         {
-          "id": 53327831204171,
           "product_id": 14775297474891,
+          "id": 53327831204171,
           "title": "BZ22922 30x50cm / Without core",
           "price": "68.52",
           "position": 1,
@@ -27025,8 +27025,8 @@
           "image_id": 64651402576203
         },
         {
-          "id": 53327831236939,
           "product_id": 14775297474891,
+          "id": 53327831236939,
           "title": "BZ22922 30x50cm / With down core",
           "price": "70.79",
           "position": 2,
@@ -27053,8 +27053,8 @@
           "image_id": 64651402576203
         },
         {
-          "id": 53327831269707,
           "product_id": 14775297474891,
+          "id": 53327831269707,
           "title": "BZ22922 30x50cm / With goose feather core",
           "price": "76.90",
           "position": 3,
@@ -27083,8 +27083,8 @@
       ],
       "options": [
         {
-          "id": 17120605569355,
           "product_id": 14775297474891,
+          "id": 17120605569355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27092,8 +27092,8 @@
           ]
         },
         {
-          "id": 17120605602123,
           "product_id": 14775297474891,
+          "id": 17120605602123,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -71530,8 +71530,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774077227339",
       "variants": [
         {
-          "product_id": 14774077227339,
           "id": 53320559657291,
+          "product_id": 14774077227339,
           "title": "White / 200x230cm",
           "price": "53.58",
           "position": 1,
@@ -71558,8 +71558,8 @@
           "image_id": 64633498730827
         },
         {
-          "product_id": 14774077227339,
           "id": 53320559690059,
+          "product_id": 14774077227339,
           "title": "Green / 200x230cm",
           "price": "53.58",
           "position": 2,
@@ -71586,8 +71586,8 @@
           "image_id": 64633498763595
         },
         {
-          "product_id": 14774077227339,
           "id": 53320559722827,
+          "product_id": 14774077227339,
           "title": "White / 1.5 2.0m",
           "price": "48.95",
           "position": 3,
@@ -71616,8 +71616,8 @@
       ],
       "options": [
         {
-          "product_id": 14774077227339,
           "id": 17119057314123,
+          "product_id": 14774077227339,
           "name": "Pattern",
           "position": 1,
           "values": [
@@ -71626,8 +71626,8 @@
           ]
         },
         {
-          "product_id": 14774077227339,
           "id": 17119057346891,
+          "product_id": 14774077227339,
           "name": "Size Specification",
           "position": 2,
           "values": [
