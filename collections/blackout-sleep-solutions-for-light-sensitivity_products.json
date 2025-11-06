@@ -33858,8 +33858,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909867851",
       "variants": [
         {
-          "id": 53253481988427,
           "product_id": 10823909867851,
+          "id": 53253481988427,
           "title": "default",
           "price": "24.49",
           "position": 1,
@@ -33888,8 +33888,8 @@
       ],
       "options": [
         {
-          "id": 13449673572683,
           "product_id": 10823909867851,
+          "id": 13449673572683,
           "name": "default",
           "position": 1,
           "values": [
@@ -34726,8 +34726,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823813497163",
       "variants": [
         {
-          "product_id": 10823813497163,
           "id": 53252747198795,
+          "product_id": 10823813497163,
           "title": "Black / Type A",
           "price": "33.49",
           "position": 1,
@@ -34754,8 +34754,8 @@
           "image_id": 64333042090315
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747231563,
+          "product_id": 10823813497163,
           "title": "Black / Type B Size Large",
           "price": "38.99",
           "position": 2,
@@ -34782,8 +34782,8 @@
           "image_id": 64333042090315
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747264331,
+          "product_id": 10823813497163,
           "title": "Black / Type B Size Small",
           "price": "38.99",
           "position": 3,
@@ -34810,8 +34810,8 @@
           "image_id": 64333042123083
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747297099,
+          "product_id": 10823813497163,
           "title": "Black / Type C",
           "price": "32.99",
           "position": 4,
@@ -34838,8 +34838,8 @@
           "image_id": 64333042155851
         },
         {
-          "product_id": 10823813497163,
           "id": 53252747329867,
+          "product_id": 10823813497163,
           "title": "Black / Type D",
           "price": "29.49",
           "position": 5,
@@ -34868,8 +34868,8 @@
       ],
       "options": [
         {
-          "product_id": 10823813497163,
           "id": 13449546367307,
+          "product_id": 10823813497163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34877,8 +34877,8 @@
           ]
         },
         {
-          "product_id": 10823813497163,
           "id": 13449546400075,
+          "product_id": 10823813497163,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -43375,8 +43375,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825070412107",
       "variants": [
         {
-          "product_id": 10825070412107,
           "id": 53256759247179,
+          "product_id": 10825070412107,
           "title": "Random",
           "price": "31.58",
           "position": 1,
@@ -43405,8 +43405,8 @@
       ],
       "options": [
         {
-          "product_id": 10825070412107,
           "id": 13450955063627,
+          "product_id": 10825070412107,
           "name": "Color",
           "position": 1,
           "values": [
