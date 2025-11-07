@@ -26189,8 +26189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773403582795",
       "variants": [
         {
-          "id": 53317155619147,
           "product_id": 14773403582795,
+          "id": 53317155619147,
           "title": "Bean paste powder / 130x170CM",
           "price": "49.12",
           "position": 1,
@@ -26217,8 +26217,8 @@
           "image_id": 64620961464651
         },
         {
-          "id": 53317155651915,
           "product_id": 14773403582795,
+          "id": 53317155651915,
           "title": "Sea blue / 130x170CM",
           "price": "49.12",
           "position": 2,
@@ -26247,8 +26247,8 @@
       ],
       "options": [
         {
-          "id": 17118208950603,
           "product_id": 14773403582795,
+          "id": 17118208950603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26257,8 +26257,8 @@
           ]
         },
         {
-          "id": 17118208983371,
           "product_id": 14773403582795,
+          "id": 17118208983371,
           "name": "Size",
           "position": 2,
           "values": [
