@@ -24939,8 +24939,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771202359627",
       "variants": [
         {
-          "id": 53309796909387,
           "product_id": 14771202359627,
+          "id": 53309796909387,
           "title": "Rabbit / 40x 35cm",
           "price": "28.59",
           "position": 1,
@@ -24967,8 +24967,8 @@
           "image_id": 64591504343371
         },
         {
-          "id": 53309796942155,
           "product_id": 14771202359627,
+          "id": 53309796942155,
           "title": "Owl / 40x 35cm",
           "price": "28.59",
           "position": 2,
@@ -24995,8 +24995,8 @@
           "image_id": 64591504376139
         },
         {
-          "id": 53309796974923,
           "product_id": 14771202359627,
+          "id": 53309796974923,
           "title": "Chick / 40x 35cm",
           "price": "28.59",
           "position": 3,
@@ -25023,8 +25023,8 @@
           "image_id": 64591504408907
         },
         {
-          "id": 53309797007691,
           "product_id": 14771202359627,
+          "id": 53309797007691,
           "title": "Dinosaur / 40x 35cm",
           "price": "28.59",
           "position": 4,
@@ -25051,8 +25051,8 @@
           "image_id": 64591504441675
         },
         {
-          "id": 53309797040459,
           "product_id": 14771202359627,
+          "id": 53309797040459,
           "title": "Koala / 40x 35cm",
           "price": "28.59",
           "position": 5,
@@ -25081,8 +25081,8 @@
       ],
       "options": [
         {
-          "id": 17115727331659,
           "product_id": 14771202359627,
+          "id": 17115727331659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -25094,8 +25094,8 @@
           ]
         },
         {
-          "id": 17115727364427,
           "product_id": 14771202359627,
+          "id": 17115727364427,
           "name": "Size",
           "position": 2,
           "values": [
@@ -55352,8 +55352,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904258891",
       "variants": [
         {
-          "product_id": 14774904258891,
           "id": 53325633847627,
+          "product_id": 14774904258891,
           "title": "Tencel Navy Blue Standard / MJ8125",
           "price": "38.18",
           "position": 1,
@@ -55380,8 +55380,8 @@
           "image_id": 64644466540875
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633880395,
+          "product_id": 14774904258891,
           "title": "Tencel Blue Standard / MJ8125",
           "price": "38.18",
           "position": 2,
@@ -55408,8 +55408,8 @@
           "image_id": 64644466573643
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633913163,
+          "product_id": 14774904258891,
           "title": "Dark Gray Gray Standard / MJ8125",
           "price": "38.43",
           "position": 3,
@@ -55436,8 +55436,8 @@
           "image_id": 64644466606411
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633945931,
+          "product_id": 14774904258891,
           "title": "Dark Gray Mesh Low Loft Pillow / MJ8125",
           "price": "37.70",
           "position": 4,
@@ -55466,8 +55466,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904258891,
           "id": 17120143442251,
+          "product_id": 14774904258891,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55478,8 +55478,8 @@
           ]
         },
         {
-          "product_id": 14774904258891,
           "id": 17120143475019,
+          "product_id": 14774904258891,
           "name": "Size Specification",
           "position": 2,
           "values": [
