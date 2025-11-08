@@ -27198,8 +27198,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771205472587",
       "variants": [
         {
-          "product_id": 14771205472587,
           "id": 53309802807627,
+          "product_id": 14771205472587,
           "title": "Brown and black / Striped",
           "price": "28.13",
           "position": 1,
@@ -27226,8 +27226,8 @@
           "image_id": 64591515615563
         },
         {
-          "product_id": 14771205472587,
           "id": 53309802840395,
+          "product_id": 14771205472587,
           "title": "Dark blue black / Striped",
           "price": "28.13",
           "position": 2,
@@ -27254,8 +27254,8 @@
           "image_id": 64591515648331
         },
         {
-          "product_id": 14771205472587,
           "id": 53309802873163,
+          "product_id": 14771205472587,
           "title": "Dark green and black / Striped",
           "price": "28.13",
           "position": 3,
@@ -27282,8 +27282,8 @@
           "image_id": 64591515681099
         },
         {
-          "product_id": 14771205472587,
           "id": 53309802905931,
+          "product_id": 14771205472587,
           "title": "Gray black / Striped",
           "price": "28.13",
           "position": 4,
@@ -27310,8 +27310,8 @@
           "image_id": 64591515713867
         },
         {
-          "product_id": 14771205472587,
           "id": 53309802938699,
+          "product_id": 14771205472587,
           "title": "Red black / Striped",
           "price": "28.13",
           "position": 5,
@@ -27338,8 +27338,8 @@
           "image_id": 64591515746635
         },
         {
-          "product_id": 14771205472587,
           "id": 53309802971467,
+          "product_id": 14771205472587,
           "title": "Yellow black / Striped",
           "price": "28.13",
           "position": 6,
@@ -27366,8 +27366,8 @@
           "image_id": 64591515779403
         },
         {
-          "product_id": 14771205472587,
           "id": 53309803004235,
+          "product_id": 14771205472587,
           "title": "Dark Grey / Set",
           "price": "29.49",
           "position": 7,
@@ -27396,8 +27396,8 @@
       ],
       "options": [
         {
-          "product_id": 14771205472587,
           "id": 17115730641227,
+          "product_id": 14771205472587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -27411,8 +27411,8 @@
           ]
         },
         {
-          "product_id": 14771205472587,
           "id": 17115730673995,
+          "product_id": 14771205472587,
           "name": "style",
           "position": 2,
           "values": [
@@ -34980,8 +34980,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047389515",
       "variants": [
         {
-          "product_id": 14775047389515,
           "id": 53327244853579,
+          "product_id": 14775047389515,
           "title": "Flagship / 220V US",
           "price": "74.29",
           "position": 1,
@@ -35008,8 +35008,8 @@
           "image_id": null
         },
         {
-          "product_id": 14775047389515,
           "id": 53327244886347,
+          "product_id": 14775047389515,
           "title": "Flagship / EU",
           "price": "73.69",
           "position": 2,
@@ -35038,8 +35038,8 @@
       ],
       "options": [
         {
-          "product_id": 14775047389515,
           "id": 17120337723723,
+          "product_id": 14775047389515,
           "name": "style",
           "position": 1,
           "values": [
@@ -35047,8 +35047,8 @@
           ]
         },
         {
-          "product_id": 14775047389515,
           "id": 17120337756491,
+          "product_id": 14775047389515,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -90085,8 +90085,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823926350155",
       "variants": [
         {
-          "product_id": 10823926350155,
           "id": 53253547295051,
+          "product_id": 10823926350155,
           "title": "Blue / USB",
           "price": "46.99",
           "position": 1,
@@ -90113,8 +90113,8 @@
           "image_id": 64335116534091
         },
         {
-          "product_id": 10823926350155,
           "id": 53253547327819,
+          "product_id": 10823926350155,
           "title": "Pink / USB",
           "price": "46.99",
           "position": 2,
@@ -90141,8 +90141,8 @@
           "image_id": 64335116566859
         },
         {
-          "product_id": 10823926350155,
           "id": 53253547360587,
+          "product_id": 10823926350155,
           "title": "White / USB",
           "price": "50.99",
           "position": 3,
@@ -90171,8 +90171,8 @@
       ],
       "options": [
         {
-          "product_id": 10823926350155,
           "id": 13449692381515,
+          "product_id": 10823926350155,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90182,8 +90182,8 @@
           ]
         },
         {
-          "product_id": 10823926350155,
           "id": 13449692414283,
+          "product_id": 10823926350155,
           "name": "power",
           "position": 2,
           "values": [
