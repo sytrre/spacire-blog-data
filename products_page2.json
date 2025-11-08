@@ -94628,8 +94628,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898988875",
       "variants": [
         {
-          "product_id": 10823898988875,
           "id": 53253436145995,
+          "product_id": 10823898988875,
           "title": "Black",
           "price": "39.49",
           "position": 1,
@@ -94656,8 +94656,8 @@
           "image_id": 64334530380107
         },
         {
-          "product_id": 10823898988875,
           "id": 53253436178763,
+          "product_id": 10823898988875,
           "title": "White",
           "price": "39.49",
           "position": 2,
@@ -94686,8 +94686,8 @@
       ],
       "options": [
         {
-          "product_id": 10823898988875,
           "id": 13449660268875,
+          "product_id": 10823898988875,
           "name": "Color",
           "position": 1,
           "values": [
@@ -94850,8 +94850,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825097576779",
       "variants": [
         {
-          "product_id": 10825097576779,
           "id": 53256895562059,
+          "product_id": 10825097576779,
           "title": "Grey / US",
           "price": "953.40",
           "position": 1,
@@ -94878,8 +94878,8 @@
           "image_id": 64365729349963
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895594827,
+          "product_id": 10825097576779,
           "title": "Grey / EU",
           "price": "953.40",
           "position": 2,
@@ -94906,8 +94906,8 @@
           "image_id": 64365729349963
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895627595,
+          "product_id": 10825097576779,
           "title": "White / US",
           "price": "953.40",
           "position": 3,
@@ -94934,8 +94934,8 @@
           "image_id": 64365729382731
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895660363,
+          "product_id": 10825097576779,
           "title": "White / EU",
           "price": "953.40",
           "position": 4,
@@ -94962,8 +94962,8 @@
           "image_id": 64365729382731
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895693131,
+          "product_id": 10825097576779,
           "title": "Space grey / US",
           "price": "1013.28",
           "position": 5,
@@ -94990,8 +94990,8 @@
           "image_id": 64365729415499
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895725899,
+          "product_id": 10825097576779,
           "title": "Space grey / EU",
           "price": "1013.28",
           "position": 6,
@@ -95018,8 +95018,8 @@
           "image_id": 64365729415499
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895758667,
+          "product_id": 10825097576779,
           "title": "Elegant white / US",
           "price": "1013.28",
           "position": 7,
@@ -95046,8 +95046,8 @@
           "image_id": 64365729448267
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895791435,
+          "product_id": 10825097576779,
           "title": "Elegant white / EU",
           "price": "1013.28",
           "position": 8,
@@ -95076,8 +95076,8 @@
       ],
       "options": [
         {
-          "product_id": 10825097576779,
           "id": 13450996744523,
+          "product_id": 10825097576779,
           "name": "Color",
           "position": 1,
           "values": [
@@ -95088,8 +95088,8 @@
           ]
         },
         {
-          "product_id": 10825097576779,
           "id": 13450996777291,
+          "product_id": 10825097576779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
