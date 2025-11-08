@@ -5933,8 +5933,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774005072203",
       "variants": [
         {
-          "product_id": 14774005072203,
           "id": 53320000930123,
+          "product_id": 14774005072203,
           "title": "A",
           "price": "42.78",
           "position": 1,
@@ -5961,8 +5961,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320000962891,
+          "product_id": 14774005072203,
           "title": "B",
           "price": "42.78",
           "position": 2,
@@ -5989,8 +5989,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320000995659,
+          "product_id": 14774005072203,
           "title": "C",
           "price": "42.78",
           "position": 3,
@@ -6017,8 +6017,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001028427,
+          "product_id": 14774005072203,
           "title": "D",
           "price": "42.78",
           "position": 4,
@@ -6045,8 +6045,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001061195,
+          "product_id": 14774005072203,
           "title": "G",
           "price": "42.78",
           "position": 5,
@@ -6073,8 +6073,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001093963,
+          "product_id": 14774005072203,
           "title": "F",
           "price": "42.78",
           "position": 6,
@@ -6103,8 +6103,8 @@
       ],
       "options": [
         {
-          "product_id": 14774005072203,
           "id": 17118964678987,
+          "product_id": 14774005072203,
           "name": "style",
           "position": 1,
           "values": [
@@ -26182,8 +26182,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773403582795",
       "variants": [
         {
-          "product_id": 14773403582795,
           "id": 53317155619147,
+          "product_id": 14773403582795,
           "title": "Bean paste powder / 130x170CM",
           "price": "49.12",
           "position": 1,
@@ -26210,8 +26210,8 @@
           "image_id": 64620961464651
         },
         {
-          "product_id": 14773403582795,
           "id": 53317155651915,
+          "product_id": 14773403582795,
           "title": "Sea blue / 130x170CM",
           "price": "49.12",
           "position": 2,
@@ -26240,8 +26240,8 @@
       ],
       "options": [
         {
-          "product_id": 14773403582795,
           "id": 17118208950603,
+          "product_id": 14773403582795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -26250,8 +26250,8 @@
           ]
         },
         {
-          "product_id": 14773403582795,
           "id": 17118208983371,
+          "product_id": 14773403582795,
           "name": "Size",
           "position": 2,
           "values": [
