@@ -90302,8 +90302,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "id": 53252393304395,
           "product_id": 10823745110347,
+          "id": 53252393304395,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -90332,8 +90332,8 @@
       ],
       "options": [
         {
-          "id": 13449447899467,
           "product_id": 10823745110347,
+          "id": 13449447899467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90341,8 +90341,8 @@
           ]
         },
         {
-          "id": 13449447932235,
           "product_id": 10823745110347,
+          "id": 13449447932235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -92834,8 +92834,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823915569483",
       "variants": [
         {
-          "id": 53253514166603,
           "product_id": 10823915569483,
+          "id": 53253514166603,
           "title": "Blue Hook / 1.5x1.6m",
           "price": "63.99",
           "position": 1,
@@ -92862,8 +92862,8 @@
           "image_id": 64334945288523
         },
         {
-          "id": 53253514199371,
           "product_id": 10823915569483,
+          "id": 53253514199371,
           "title": "Blue Hook / 1.5x1.8m",
           "price": "69.99",
           "position": 2,
@@ -92892,8 +92892,8 @@
       ],
       "options": [
         {
-          "id": 13449680716107,
           "product_id": 10823915569483,
+          "id": 13449680716107,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92901,8 +92901,8 @@
           ]
         },
         {
-          "id": 13449680748875,
           "product_id": 10823915569483,
+          "id": 13449680748875,
           "name": "Size",
           "position": 2,
           "values": [
@@ -97350,8 +97350,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -97380,8 +97380,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -97389,8 +97389,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
