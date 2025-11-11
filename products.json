@@ -57760,8 +57760,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189124939",
       "variants": [
         {
-          "id": 53331895320907,
           "product_id": 14776189124939,
+          "id": 53331895320907,
           "title": "Grey / One size",
           "price": "28.49",
           "position": 1,
@@ -57790,8 +57790,8 @@
       ],
       "options": [
         {
-          "id": 17121696055627,
           "product_id": 14776189124939,
+          "id": 17121696055627,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57799,8 +57799,8 @@
           ]
         },
         {
-          "id": 17121696088395,
           "product_id": 14776189124939,
+          "id": 17121696088395,
           "name": "Size",
           "position": 2,
           "values": [
