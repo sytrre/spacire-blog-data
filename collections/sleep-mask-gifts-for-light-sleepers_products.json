@@ -5806,8 +5806,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742095691",
       "variants": [
         {
-          "id": 53252365877579,
           "product_id": 10823742095691,
+          "id": 53252365877579,
           "title": "black",
           "price": "42.49",
           "position": 1,
@@ -5836,8 +5836,8 @@
       ],
       "options": [
         {
-          "id": 13449441542475,
           "product_id": 10823742095691,
+          "id": 13449441542475,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22099,8 +22099,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054191947",
       "variants": [
         {
-          "id": 53256619884875,
           "product_id": 10825054191947,
+          "id": 53256619884875,
           "title": "Black 3D",
           "price": "40.86",
           "position": 1,
@@ -22127,8 +22127,8 @@
           "image_id": 64365299663179
         },
         {
-          "id": 53256619917643,
           "product_id": 10825054191947,
+          "id": 53256619917643,
           "title": "Black",
           "price": "41.60",
           "position": 2,
@@ -22157,8 +22157,8 @@
       ],
       "options": [
         {
-          "id": 13450930684235,
           "product_id": 10825054191947,
+          "id": 13450930684235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32066,8 +32066,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -32096,8 +32096,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -32105,8 +32105,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -47591,8 +47591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -47619,8 +47619,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -47649,8 +47649,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [

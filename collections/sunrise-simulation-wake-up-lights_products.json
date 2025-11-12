@@ -3081,8 +3081,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054617931",
       "variants": [
         {
-          "id": 53256620704075,
           "product_id": 10825054617931,
+          "id": 53256620704075,
           "title": "Flax / 1.8x1m",
           "price": "41.23",
           "position": 1,
@@ -3109,8 +3109,8 @@
           "image_id": 64365306544459
         },
         {
-          "id": 53256620736843,
           "product_id": 10825054617931,
+          "id": 53256620736843,
           "title": "Flax / 1.8x1.8m",
           "price": "44.19",
           "position": 2,
@@ -3139,8 +3139,8 @@
       ],
       "options": [
         {
-          "id": 13450931142987,
           "product_id": 10825054617931,
+          "id": 13450931142987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3148,8 +3148,8 @@
           ]
         },
         {
-          "id": 13450931175755,
           "product_id": 10825054617931,
+          "id": 13450931175755,
           "name": "Size",
           "position": 2,
           "values": [
@@ -11339,8 +11339,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -11369,8 +11369,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -11378,8 +11378,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
