@@ -15,7 +15,7 @@
       "product_type": "Bluetooth Speaker",
       "created_at": "2025-08-27T04:51:00+01:00",
       "handle": "clockix-multi-functional-white-noise-alarm-clock-bluetooth-speaker-ambient-light-for-music-and-hands-free-calls",
-      "updated_at": "2025-11-10T04:01:36+00:00",
+      "updated_at": "2025-11-12T14:32:13+00:00",
       "published_at": "2025-08-27T04:51:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -167,7 +167,7 @@
       "product_type": "Blackout Curtains",
       "created_at": "2025-09-07T05:51:33+01:00",
       "handle": "darkluxe-full-blackout-curtains",
-      "updated_at": "2025-11-10T04:02:07+00:00",
+      "updated_at": "2025-11-12T14:32:46+00:00",
       "published_at": "2025-09-07T05:52:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1326,7 +1326,7 @@
       "product_type": "White Noise Sleep Aid",
       "created_at": "2025-08-26T10:20:28+01:00",
       "handle": "duvetzx-infant-white-noise-sleep-aid-light-portable-baby-sleep-soother-for-music-and-relaxation",
-      "updated_at": "2025-11-10T04:00:59+00:00",
+      "updated_at": "2025-11-12T14:31:40+00:00",
       "published_at": "2025-08-26T10:20:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1491,7 +1491,7 @@
       "product_type": "Bluetooth Speaker",
       "created_at": "2025-08-26T10:06:53+01:00",
       "handle": "humizx-20w-wireless-charger-bluetooth-speaker-white-noise-sleep-aid-for-music-and-relaxation",
-      "updated_at": "2025-11-10T04:00:59+00:00",
+      "updated_at": "2025-11-12T14:31:40+00:00",
       "published_at": "2025-08-26T10:07:04+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1500,8 +1500,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "product_id": 10823745110347,
           "id": 53252393304395,
+          "product_id": 10823745110347,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -1530,8 +1530,8 @@
       ],
       "options": [
         {
-          "product_id": 10823745110347,
           "id": 13449447899467,
+          "product_id": 10823745110347,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1539,8 +1539,8 @@
           ]
         },
         {
-          "product_id": 10823745110347,
           "id": 13449447932235,
+          "product_id": 10823745110347,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -1665,7 +1665,7 @@
       "product_type": "Sleep Aid Sound Machine",
       "created_at": "2025-08-27T04:43:42+01:00",
       "handle": "serentm-white-noise-baby-sleep-aid-sound-machine-with-timer-for-baby-sleep-and-relaxation",
-      "updated_at": "2025-11-10T04:01:33+00:00",
+      "updated_at": "2025-11-12T14:32:10+00:00",
       "published_at": "2025-08-27T04:43:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1839,7 +1839,7 @@
       "product_type": "Sleep Instrument",
       "created_at": "2025-08-27T04:37:29+01:00",
       "handle": "three-sheep-white-noise-sleep-instrument-for-baby-soothing-and-comfort-sleeping",
-      "updated_at": "2025-11-10T04:01:29+00:00",
+      "updated_at": "2025-11-12T14:32:07+00:00",
       "published_at": "2025-08-27T04:37:41+01:00",
       "template_suffix": null,
       "published_scope": "global",
