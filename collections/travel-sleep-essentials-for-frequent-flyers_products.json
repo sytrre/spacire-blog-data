@@ -58945,7 +58945,7 @@
       "product_type": "Eye Massager",
       "created_at": "2025-08-26T13:13:56+01:00",
       "handle": "vevor-heated-eye-massager-bluetooth-music-5-modes-for-eye-strain-relief-and-better-sleep",
-      "updated_at": "2025-11-10T04:01:05+00:00",
+      "updated_at": "2025-11-12T06:27:30+00:00",
       "published_at": "2025-08-26T13:14:06+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -58965,7 +58965,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T13:14:04+01:00",
-          "updated_at": "2025-11-04T04:29:30+00:00",
+          "updated_at": "2025-11-12T06:27:30+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -58976,8 +58976,8 @@
           "weight": 700.0,
           "weight_unit": "g",
           "inventory_item_id": 55215254569291,
-          "inventory_quantity": 1606,
-          "old_inventory_quantity": 1606,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53253545001291",
           "image_id": 64335101624651
         }
