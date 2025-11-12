@@ -63204,8 +63204,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960999755",
       "variants": [
         {
-          "id": 53256229912907,
           "product_id": 10824960999755,
+          "id": 53256229912907,
           "title": "75ml",
           "price": "22.41",
           "position": 1,
@@ -63234,8 +63234,8 @@
       ],
       "options": [
         {
-          "id": 13450821697867,
           "product_id": 10824960999755,
+          "id": 13450821697867,
           "name": "Color Classification",
           "position": 1,
           "values": [
@@ -95115,8 +95115,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898988875",
       "variants": [
         {
-          "id": 53253436145995,
           "product_id": 10823898988875,
+          "id": 53253436145995,
           "title": "Black",
           "price": "39.49",
           "position": 1,
@@ -95143,8 +95143,8 @@
           "image_id": 64334530380107
         },
         {
-          "id": 53253436178763,
           "product_id": 10823898988875,
+          "id": 53253436178763,
           "title": "White",
           "price": "39.49",
           "position": 2,
@@ -95173,8 +95173,8 @@
       ],
       "options": [
         {
-          "id": 13449660268875,
           "product_id": 10823898988875,
+          "id": 13449660268875,
           "name": "Color",
           "position": 1,
           "values": [
