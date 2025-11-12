@@ -12169,8 +12169,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -12199,8 +12199,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -67170,8 +67170,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -67200,8 +67200,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -67209,8 +67209,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [

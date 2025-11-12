@@ -2372,8 +2372,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794000203",
       "variants": [
         {
-          "product_id": 10823794000203,
           "id": 53252658331979,
+          "product_id": 10823794000203,
           "title": "Black",
           "price": "69.49",
           "position": 1,
@@ -2402,8 +2402,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794000203,
           "id": 13449523757387,
+          "product_id": 10823794000203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18946,8 +18946,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -18976,8 +18976,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -18985,8 +18985,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [
