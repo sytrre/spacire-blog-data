@@ -15187,8 +15187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "id": 53256763375947,
           "product_id": 10825071165771,
+          "id": 53256763375947,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -15217,8 +15217,8 @@
       ],
       "options": [
         {
-          "id": 13450956013899,
           "product_id": 10825071165771,
+          "id": 13450956013899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40156,8 +40156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "id": 53252755915083,
           "product_id": 10823815659851,
+          "id": 53252755915083,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -40186,8 +40186,8 @@
       ],
       "options": [
         {
-          "id": 13449548726603,
           "product_id": 10823815659851,
+          "id": 13449548726603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47591,8 +47591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -47619,8 +47619,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -47649,8 +47649,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [
