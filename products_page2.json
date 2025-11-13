@@ -221,8 +221,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "product_id": 10825099084107,
           "id": 53256898085195,
+          "product_id": 10825099084107,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -249,8 +249,8 @@
           "image_id": 64365739639115
         },
         {
-          "product_id": 10825099084107,
           "id": 53256898117963,
+          "product_id": 10825099084107,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -279,8 +279,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099084107,
           "id": 13450998972747,
+          "product_id": 10825099084107,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -288,8 +288,8 @@
           ]
         },
         {
-          "product_id": 10825099084107,
           "id": 13450999005515,
+          "product_id": 10825099084107,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -12649,8 +12649,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -12679,8 +12679,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -14200,8 +14200,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "product_id": 10823922745675,
           "id": 53253533860171,
+          "product_id": 10823922745675,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -14230,8 +14230,8 @@
       ],
       "options": [
         {
-          "product_id": 10823922745675,
           "id": 13449688219979,
+          "product_id": 10823922745675,
           "name": "style",
           "position": 1,
           "values": [
@@ -14239,8 +14239,8 @@
           ]
         },
         {
-          "product_id": 10823922745675,
           "id": 13449688252747,
+          "product_id": 10823922745675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -38774,8 +38774,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189485387",
       "variants": [
         {
-          "id": 53331895681355,
           "product_id": 14776189485387,
+          "id": 53331895681355,
           "title": "Red / 140X160cm",
           "price": "41.00",
           "position": 1,
@@ -38802,8 +38802,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895714123,
           "product_id": 14776189485387,
+          "id": 53331895714123,
           "title": "Red / 140X220cm",
           "price": "41.57",
           "position": 2,
@@ -38830,8 +38830,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895746891,
           "product_id": 14776189485387,
+          "id": 53331895746891,
           "title": "Red / 52X84inch",
           "price": "41.57",
           "position": 3,
@@ -38858,8 +38858,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895779659,
           "product_id": 14776189485387,
+          "id": 53331895779659,
           "title": "Red / 52X95inch",
           "price": "41.86",
           "position": 4,
@@ -38886,8 +38886,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895812427,
           "product_id": 14776189485387,
+          "id": 53331895812427,
           "title": "Red / 52X63inch",
           "price": "41.00",
           "position": 5,
@@ -38914,8 +38914,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895845195,
           "product_id": 14776189485387,
+          "id": 53331895845195,
           "title": "Red / 140X240cm",
           "price": "41.82",
           "position": 6,
@@ -38942,8 +38942,8 @@
           "image_id": 64662320415051
         },
         {
-          "id": 53331895877963,
           "product_id": 14776189485387,
+          "id": 53331895877963,
           "title": "Red / 140X260cm",
           "price": "42.06",
           "position": 7,
@@ -38972,8 +38972,8 @@
       ],
       "options": [
         {
-          "id": 17121696547147,
           "product_id": 14776189485387,
+          "id": 17121696547147,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38981,8 +38981,8 @@
           ]
         },
         {
-          "id": 17121696579915,
           "product_id": 14776189485387,
+          "id": 17121696579915,
           "name": "Specification",
           "position": 2,
           "values": [
