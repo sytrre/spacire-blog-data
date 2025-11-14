@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-11-14T11:35:34+00:00",
+      "updated_at": "2025-11-14T12:28:28+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -681,12 +681,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T17:32:51+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:28:28+00:00",
+          "summary_html": "<p>Struggling with insomnia can feel isolating, but effective solutions are within reach. This guide dives into science-backed sleep products like blackout masks, white noise machines, and aromatherapy sprays, explaining how they work and how to integrate them with good sleep hygiene for optimal results. Discover how a multi-sensory approach can transform your nights and learn when to seek professional help for persistent sleep issues.</p>",
           "template_suffix": "article",
           "handle": "sleep-products-for-insomnia-what-actually-works",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998909837643"
+          "admin_graphql_api_id": "gid://shopify/Article/998909837643",
+          "image": {
+            "created_at": "2025-11-14T12:28:27+00:00",
+            "alt": "A flat lay of various sleep aids and relaxation items on a clean white background",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_aead1a54-7347-4158-b668-bb69bbccc106.png?v=1763123308"
+          }
         },
         {
           "id": 998909608267,
@@ -696,12 +703,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T17:21:29+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:24:44+00:00",
+          "summary_html": "<blockquote data-path-to-node=\"5\">\n<p data-path-to-node=\"5,0\">Not all sleepless nights are the same. Understanding the difference between <b>acute insomnia</b> (short-term, stress-related, lasting less than three months) and <b>chronic insomnia</b> (persistent, lasting three months or longer) is the crucial first step toward effective treatment. While acute cases often resolve with simple lifestyle changes and natural aids like white noise and blackout curtains, chronic insomnia demands comprehensive, structured interventions like Cognitive Behavioral Therapy for Insomnia (<b>CBT-I</b>), the gold standard treatment. Learn the specific strategies, evidence-based products, and when to seek professional help to move from restless nights to long-term sleep health.</p>\n</blockquote>",
           "template_suffix": "article",
           "handle": "chronic-vs-acute-insomnia-different-approaches",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998909608267"
+          "admin_graphql_api_id": "gid://shopify/Article/998909608267",
+          "image": {
+            "created_at": "2025-11-14T12:24:42+00:00",
+            "alt": "two profiles of a head split between yellow (Acute Insomnia) and blue (Chronic Insomnia), with distinct symbols (clock, suitcase, relaxed brain vs. perpetual cycle, thorns, anxious brain, CBT-I workbook",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_85e681ac-7ec9-48bf-880b-92c7c6df8b16.png?v=1763123084"
+          }
         },
         {
           "id": 998908854603,
@@ -711,12 +725,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T17:08:05+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:21:27+00:00",
+          "summary_html": "<p>Pregnancy insomnia affects a vast majority of expectant mothers, with sleep disruptions often worsening as pregnancy progresses. Hormonal changes, physical discomfort, and anxiety are primary culprits. This comprehensive guide explores safe, non-pharmaceutical solutions, including optimizing your sleep environment, using pregnancy-safe aromatherapy, and strategic positional support. Learn when to seek medical consultation and discover pregnancy-appropriate sleep aids and DIY strategies to reclaim your restful nights.</p>",
           "template_suffix": "article",
           "handle": "insomnia-during-pregnancy-safe-sleep-solutions",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998908854603"
+          "admin_graphql_api_id": "gid://shopify/Article/998908854603",
+          "image": {
+            "created_at": "2025-11-14T12:21:25+00:00",
+            "alt": "A pregnant woman sleeps peacefully on her side in a bright, minimalist bedroom",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_e47a6d7b-cd67-4c6c-8af7-45799df78642.png?v=1763122887"
+          }
         },
         {
           "id": 998908461387,
@@ -726,12 +747,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T16:31:47+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:16:49+00:00",
+          "summary_html": "<p>Are you caught in the exhausting cycle of sleep anxiety? Discover how over 40% of insomnia sufferers battle nightly worries that prevent restful sleep. This guide explores the science behind the worry-insomnia loop and offers evidence-based solutions, from CBT-I techniques to powerful physical tools like weighted blankets and aromatherapy, designed to help you break free and reclaim peaceful nights.</p>",
           "template_suffix": "article",
           "handle": "sleep-anxiety-breaking-the-worry-insomnia-cycle",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998908461387"
+          "admin_graphql_api_id": "gid://shopify/Article/998908461387",
+          "image": {
+            "created_at": "2025-11-14T12:16:48+00:00",
+            "alt": null,
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_78cef655-dfbc-4f93-8d1b-81eb7d7ad755.png?v=1763122609"
+          }
         },
         {
           "id": 998908395851,
@@ -741,12 +769,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T16:16:54+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:13:29+00:00",
+          "summary_html": "<p>Struggling with sleepless nights? You're not alone. This comprehensive guide dives into the various types of insomnia—acute vs. chronic, onset vs. maintenance, and more—to help you understand your specific sleep challenges. Discover evidence-based solutions, from professional therapies like CBT-I to practical environmental adjustments and recommended sleep aids, empowering you to reclaim restful sleep and improve your overall well-being.</p>",
           "template_suffix": "article",
           "handle": "types-of-insomnia-identifying-your-sleep-problem",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998908395851"
+          "admin_graphql_api_id": "gid://shopify/Article/998908395851",
+          "image": {
+            "created_at": "2025-11-14T12:13:28+00:00",
+            "alt": "A man sits on the edge of his bed, writing in a journal, surrounded by floating icons representing different aspects of insomnia",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_5f91e9f9-f8d7-402e-a00f-c48f2ae9ddda.png?v=1763122409"
+          }
         },
         {
           "id": 998908264779,
@@ -756,12 +791,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T16:05:23+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:04:49+00:00",
+          "summary_html": "<p>Struggling with insomnia? Discover effective, science-backed natural solutions to improve your sleep. This guide, born from personal experience, reveals how combining white noise, light control, aromatherapy, and other lifestyle changes can help you achieve consistent, restful nights without medication. Learn when to seek professional help and how to build your personalized sleep system for lasting results.</p>",
           "template_suffix": "article",
           "handle": "natural-insomnia-relief-evidence-based-solutions",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998908264779"
+          "admin_graphql_api_id": "gid://shopify/Article/998908264779",
+          "image": {
+            "created_at": "2025-11-14T12:04:47+00:00",
+            "alt": "A flat lay image on a bright white background displays various natural sleep aids",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_cc2fe09e-05be-4680-b9b2-1fa9bdc57701.png?v=1763121889"
+          }
         },
         {
           "id": 998908100939,
@@ -771,12 +813,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T15:46:10+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:01:58+00:00",
+          "summary_html": "<p>Discover how ancient Feng Shui principles, combined with modern sleep science, can transform your bedroom into a sanctuary for restful sleep. Learn practical tips on bed placement, color psychology, and elemental balance to improve your sleep quality by up to 40%.</p>",
           "template_suffix": "article",
           "handle": "feng-shui-for-sleep-eastern-principles-for-western-bedrooms",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998908100939"
+          "admin_graphql_api_id": "gid://shopify/Article/998908100939",
+          "image": {
+            "created_at": "2025-11-14T12:01:56+00:00",
+            "alt": "A bright, minimalist bedroom designed with Feng Shui principles, featuring a bed in the commanding position with a neutral headboard",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_5623bd98-799f-46a6-ac18-ec65136e1319.png?v=1763121718"
+          }
         },
         {
           "id": 998908068171,
@@ -786,12 +835,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T15:33:15+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:59:31+00:00",
+          "summary_html": "<p>Transform your bedroom into a sleep sanctuary without breaking the bank. Discover free solutions and affordable products under £100 that can boost your sleep quality by 35-45%. This guide covers everything from temperature optimization to strategic investments in blackout solutions, white noise machines, and aromatherapy.</p>",
           "template_suffix": "article",
           "handle": "sleep-sanctuary-on-a-budget-affordable-improvements",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998908068171"
+          "admin_graphql_api_id": "gid://shopify/Article/998908068171",
+          "image": {
+            "created_at": "2025-11-14T11:59:29+00:00",
+            "alt": "An overhead view of a woman sleeping peacefully in a bed with light-blocking curtains, a sleep mask, and a white noise machine nearby",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_5b601e35-da80-471c-83c7-8cd8ed88d56d.png?v=1763121571"
+          }
         },
         {
           "id": 998907969867,
@@ -801,12 +857,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T15:20:53+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:56:20+00:00",
+          "summary_html": "<p>Discover how seasonal changes in temperature, light, and humidity impact your sleep quality. Learn practical strategies and product recommendations for adapting your sleep environment to each season, ensuring restorative rest all year round.</p>",
           "template_suffix": "article",
           "handle": "seasonal-sleep-adjustments-adapting-your-environment",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998907969867"
+          "admin_graphql_api_id": "gid://shopify/Article/998907969867",
+          "image": {
+            "created_at": "2025-11-14T11:56:19+00:00",
+            "alt": "A circular collage showcasing different seasonal sleep scenarios.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_bcbb31ce-78b8-4c1b-ab9b-700efbd41d11.png?v=1763121380"
+          }
         },
         {
           "id": 998907543883,
@@ -816,12 +879,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T14:57:10+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:54:28+00:00",
+          "summary_html": "<p>Discover how to bridge the gap between conflicting sleep preferences in your relationship. This guide explores common sleep incompatibilities like temperature differences, noise sensitivity, and varying schedules, offering practical solutions from individual sleep masks and white noise machines to communication strategies. Learn how to achieve restful nights together without sacrificing intimacy.</p>",
           "template_suffix": "article",
           "handle": "couples-sleep-solutions-different-sleep-preferences",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998907543883"
+          "admin_graphql_api_id": "gid://shopify/Article/998907543883",
+          "image": {
+            "created_at": "2025-11-14T11:54:27+00:00",
+            "alt": "A couple sleeping in a bed with individual sleep solutions.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_c6fcb37e-5e34-47e0-b6e0-924097ea7358.png?v=1763121268"
+          }
         },
         {
           "id": 998907445579,
@@ -831,12 +901,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T14:45:19+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:50:53+00:00",
+          "summary_html": "<p data-path-to-node=\"2\"><span>Discover how smart sleep technology is revolutionising rest.</span><span> From intelligent masks and white noise machines to sunrise alarms and temperature-controlled devices,</span><span> learn how these innovations,</span><span> backed by sleep science,</span><span> can transform your sleep environment and combat common sleep challenges.</span></p>\n<p data-path-to-node=\"3\"> </p>",
           "template_suffix": "article",
           "handle": "technology-in-the-bedroom-smart-sleep-solutions",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998907445579"
+          "admin_graphql_api_id": "gid://shopify/Article/998907445579",
+          "image": {
+            "created_at": "2025-11-14T11:50:51+00:00",
+            "alt": "A woman sleeping soundly in a pristine white bedroom, surrounded by an ecosystem of glowing smart sleep technology devices.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_b14d2da7-22da-4c52-bc4d-20d82c7d9e78.png?v=1763121053"
+          }
         },
         {
           "id": 998907248971,
@@ -846,12 +923,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T14:32:53+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:47:35+00:00",
+          "summary_html": "<p>Is your bedroom air sabotaging your sleep? Discover how CO₂, humidity, and allergens silently disrupt your rest, leading to fatigue and poor health. This guide reveals simple, science-backed strategies—from natural ventilation to smart tech—to transform your bedroom into a sanctuary of deep, restorative sleep.</p>",
           "template_suffix": "article",
           "handle": "bedroom-air-quality-and-sleep-ventilation-and-purification",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998907248971"
+          "admin_graphql_api_id": "gid://shopify/Article/998907248971",
+          "image": {
+            "created_at": "2025-11-14T11:47:34+00:00",
+            "alt": "A bright, minimalist bedroom with white walls and light wood furniture",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_8ec70606-7898-43b9-9261-cbc2e76f5947.png?v=1763120855"
+          }
         },
         {
           "id": 998906986827,
@@ -861,12 +945,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T14:10:41+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:44:48+00:00",
+          "summary_html": "<p>Discover how a consistent pre-sleep routine can transform your sleep quality. This guide, based on science and personal experience, details a 90-minute timeline with actionable steps and natural sleep aids to help you achieve restorative rest.</p>",
           "template_suffix": "article",
           "handle": "pre-sleep-routine-building-habits-for-better-sleep",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906986827"
+          "admin_graphql_api_id": "gid://shopify/Article/998906986827",
+          "image": {
+            "created_at": "2025-11-14T11:44:46+00:00",
+            "alt": "A flat lay image on a bright white background displays various sleep-related items",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_9553e3cc-ded4-4b6d-82a1-ce1006987c4e.png?v=1763120688"
+          }
         },
         {
           "id": 998906691915,
@@ -876,12 +967,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T13:58:52+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:42:29+00:00",
+          "summary_html": "<p>Discover how your sleep position profoundly impacts your health, from spinal alignment to breathing. This guide breaks down the pros and cons of back, side, and stomach sleeping, offering expert tips and accessory recommendations to optimize your rest and alleviate common pains.</p>",
           "template_suffix": "article",
           "handle": "sleep-position-guide-best-positions-for-quality-rest",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906691915"
+          "admin_graphql_api_id": "gid://shopify/Article/998906691915",
+          "image": {
+            "created_at": "2025-11-14T11:42:28+00:00",
+            "alt": "A collage of four images demonstrating different sleeping positions and their effects",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_c26cfb96-f41a-435b-a4e0-9efc8234248d.png?v=1763120549"
+          }
         },
         {
           "id": 998906462539,
@@ -891,12 +989,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T13:45:29+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:40:15+00:00",
+          "summary_html": "<p>Transform your sleep by transforming your bedroom. Discover how decluttering and creating a minimalist sleep sanctuary can naturally improve your sleep quality, reduce stress, and help you wake up refreshed—no medication required. Learn the science behind why clutter disrupts rest and follow a 4-week plan to optimize your space for profound sleep improvement.</p>",
           "template_suffix": "article",
           "handle": "decluttering-for-better-sleep-minimalist-bedroom-guide",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906462539"
+          "admin_graphql_api_id": "gid://shopify/Article/998906462539",
+          "image": {
+            "created_at": "2025-11-14T11:40:14+00:00",
+            "alt": "a cluttered bedroom on the left with clothes, books, and a computer, and a minimalist, tidy bedroom on the right with a neatly made bed",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_0998afc8-a118-45df-9be6-f422d416e4a5.png?v=1763120415"
+          }
         },
         {
           "id": 998906429771,
@@ -906,12 +1011,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T13:33:10+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:37:33+00:00",
+          "summary_html": "<p>Uncover the surprising science behind how your bedroom's colors directly impact your sleep quality, mood, and overall well-being. From calming blues that lower heart rate to stimulating reds that increase cortisol, learn which hues promote deeper sleep and how to transform your space for optimal rest, backed by expert research and personal experience.</p>",
           "template_suffix": "article",
           "handle": "bedroom-colors-for-better-sleep-psychology-of-sleep-spaces",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906429771"
+          "admin_graphql_api_id": "gid://shopify/Article/998906429771",
+          "image": {
+            "created_at": "2025-11-14T11:37:31+00:00",
+            "alt": "On the left, a person lies awake in a brightly lit red bedroom at 3:17 AM, looking restless with a lightning bolt symbol indicating agitation",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_15d48e38-03ee-4a50-b475-0a4bc8e57b9c.png?v=1763120253"
+          }
         },
         {
           "id": 998906364235,
