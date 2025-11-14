@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-11-14T12:28:28+00:00",
+      "updated_at": "2025-11-14T12:54:58+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -546,12 +546,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-16T13:14:29+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:54:58+00:00",
+          "summary_html": "<p>Struggling with insomnia can be debilitating, but recovery is possible. This guide explores evidence-based strategies for recovery sleep, including environmental optimization, natural sleep aids, and behavioral adjustments. Learn how to reclaim restorative rest and rebuild healthy sleep patterns after prolonged sleeplessness.</p>",
           "template_suffix": "article",
           "handle": "recovery-sleep-catching-up-after-insomnia",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998917538123"
+          "admin_graphql_api_id": "gid://shopify/Article/998917538123",
+          "image": {
+            "created_at": "2025-11-14T12:54:57+00:00",
+            "alt": "A person in a bright, clean bedroom lying in bed with a sleep mask on",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_954f0985-7637-49f0-90f9-4ac7637bed7d.png?v=1763124898"
+          }
         },
         {
           "id": 998917308747,
@@ -561,12 +568,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-16T13:01:32+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:52:34+00:00",
+          "summary_html": "<p>Discover when insomnia crosses the line from a nuisance to a medical emergency. Learn the critical symptoms that demand immediate professional help, the timeline for seeking medical advice, and how to integrate natural remedies with professional care for lasting relief.</p>",
           "template_suffix": "article",
           "handle": "insomnia-red-flags-when-to-see-a-doctor",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998917308747"
+          "admin_graphql_api_id": "gid://shopify/Article/998917308747",
+          "image": {
+            "created_at": "2025-11-14T12:52:33+00:00",
+            "alt": "two approaches to insomnia",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_98f2df45-9dbf-41a8-ba8d-260e743f5cb3.png?v=1763124754"
+          }
         },
         {
           "id": 998917013835,
@@ -576,12 +590,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-16T12:48:31+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:50:27+00:00",
+          "summary_html": "<p>Up to 57% of workers globally suffer from Sunday night insomnia due to anticipatory anxiety. This guide explores evidence-based strategies, from cognitive techniques and environmental optimisation to natural sleep aids, offering a clear path to restful Sunday nights and energised Mondays.</p>",
           "template_suffix": "article",
           "handle": "sunday-night-insomnia-beating-work-week-anxiety",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998917013835"
+          "admin_graphql_api_id": "gid://shopify/Article/998917013835",
+          "image": {
+            "created_at": "2025-11-14T12:50:26+00:00",
+            "alt": "A vibrant, clear image on a pure white background illustrates Sunday night insomnia.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_c9a53bd0-90b7-4def-b952-fa7d3a119947.png?v=1763124627"
+          }
         },
         {
           "id": 998916948299,
@@ -591,12 +612,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-16T12:32:48+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:48:15+00:00",
+          "summary_html": "<p>Struggling with racing thoughts that keep you awake? Discover evidence-based strategies to quiet your mind and achieve restorative sleep. This comprehensive guide, informed by personal experience and clinical research, reveals how cognitive behavioral techniques, environmental optimization, deep pressure therapy, and aromatherapy can transform your nights. Learn when to seek professional help and explore effective products to build your personalized path to peaceful sleep.</p>",
           "template_suffix": "article",
           "handle": "racing-thoughts-at-night-calming-strategies",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998916948299"
+          "admin_graphql_api_id": "gid://shopify/Article/998916948299",
+          "image": {
+            "created_at": "2025-11-14T12:48:14+00:00",
+            "alt": "A man lies in a bright, white bedroom, asleep in bed under a grey knitted weighted blanket.",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_b157b6f3-6ab1-4e87-90c0-81ae7560efff.jpg?v=1763124495"
+          }
         },
         {
           "id": 998916784459,
@@ -606,12 +634,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-16T12:17:30+01:00",
+          "updated_at": "2025-11-14T12:43:40+00:00",
           "summary_html": "",
           "template_suffix": "article",
           "handle": "sleep-restriction-therapy-professional-technique-guide",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998916784459"
+          "admin_graphql_api_id": "gid://shopify/Article/998916784459",
+          "image": {
+            "created_at": "2025-11-14T12:43:38+00:00",
+            "alt": "a white pillow with a black sleep mask and a sprig of lavender, a digital alarm clock",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_0bb751b9-2cc4-47a0-89f9-a4da8af4ff74.png?v=1763124220"
+          }
         },
         {
           "id": 998910034251,
@@ -621,12 +656,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T18:13:03+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:41:18+00:00",
+          "summary_html": "<p>Struggling with insomnia? Discover effective, evidence-based natural remedies beyond medication. Learn about CBT-I, sleep environment optimization, and relaxation techniques that offer lasting sleep improvement.</p>",
           "template_suffix": "article",
           "handle": "insomnia-relief-without-medication-natural-approaches",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998910034251"
+          "admin_graphql_api_id": "gid://shopify/Article/998910034251",
+          "image": {
+            "created_at": "2025-11-14T12:41:17+00:00",
+            "alt": "A bright, white bedroom scene promoting natural sleep",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_acb8a171-b29b-45e9-8cd8-58d375778387.png?v=1763124078"
+          }
         },
         {
           "id": 998909968715,
@@ -636,12 +678,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T18:02:05+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:39:03+00:00",
+          "summary_html": "<p>Menopause often disrupts sleep due to hormonal changes, affecting millions globally. This post explores how declining estrogen, progesterone, and melatonin impact sleep architecture, leading to common symptoms like hot flashes and frequent awakenings. Discover evidence-based natural strategies, from sleep optimization timelines to CBT-I, and a curated selection of sleep products designed to enhance rest.</p>",
           "template_suffix": "article",
           "handle": "hormone-related-insomnia-menopause-and-sleep",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998909968715"
+          "admin_graphql_api_id": "gid://shopify/Article/998909968715",
+          "image": {
+            "created_at": "2025-11-14T12:39:02+00:00",
+            "alt": "Around them are a spray, almonds, dark chocolate, a cherry, a sound machine, an alarm clock, and curtains",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A1_2f5e6a2b-405a-495e-b715-43e29702fe01.png?v=1763123943"
+          }
         },
         {
           "id": 998909935947,
@@ -651,12 +700,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T17:54:32+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:34:15+00:00",
+          "summary_html": "<p>Explore the complex, bidirectional relationship between insomnia and mental health. Discover how natural sleep aids, CBT-I, and lifestyle adjustments can offer profound relief and improve overall well-being.</p>",
           "template_suffix": "article",
           "handle": "insomnia-and-mental-health-understanding-the-connection",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998909935947"
+          "admin_graphql_api_id": "gid://shopify/Article/998909935947",
+          "image": {
+            "created_at": "2025-11-14T12:34:13+00:00",
+            "alt": "A serene woman with a sleep mask on, hugging a weighted blanket, with a white noise machine and a bottle of lavender oil nearby",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_20043044-1969-41bb-9090-242f280c70e5.png?v=1763123655"
+          }
         },
         {
           "id": 998909870411,
@@ -666,12 +722,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T17:43:46+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T12:31:18+00:00",
+          "summary_html": "<p>Waking at 3 AM with racing thoughts? You're not alone. Middle-of-the-night insomnia affects millions, disrupting sleep and daily life. Discover natural, evidence-based strategies—from white noise machines to aromatherapy and cognitive techniques—that helped me finally conquer years of broken sleep and can help you too.</p>",
           "template_suffix": "article",
           "handle": "middle-of-the-night-insomnia-getting-back-to-sleep",
           "tags": "Insomnia & Sleep Disorders",
-          "admin_graphql_api_id": "gid://shopify/Article/998909870411"
+          "admin_graphql_api_id": "gid://shopify/Article/998909870411",
+          "image": {
+            "created_at": "2025-11-14T12:31:17+00:00",
+            "alt": "A flat lay of various natural sleep aids on a pristine white background",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_513ee289-be47-41b9-b34c-05cf0b3cf15c.png?v=1763123478"
+          }
         },
         {
           "id": 998909837643,
