@@ -4,7 +4,7 @@
       "id": 119487070539,
       "handle": "journal",
       "title": "The Sleep Journal",
-      "updated_at": "2025-11-13T02:30:01+00:00",
+      "updated_at": "2025-11-14T11:35:34+00:00",
       "commentable": "no",
       "feedburner": "",
       "feedburner_location": null,
@@ -921,12 +921,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T13:21:01+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:35:34+00:00",
+          "summary_html": "<p>Unlock the secret to better sleep and enhanced daytime performance by aligning with your body's natural 24-hour cycle. This guide dives into science-backed strategies and practical tips for optimizing your circadian rhythm, from leveraging morning light to strategic meal timing and integrating smart sleep technology. Discover how to naturally reset your body clock in just 7 to 14 days and transform your sleep quality by up to 42%.</p>",
           "template_suffix": "article",
           "handle": "sleep-schedule-optimization-circadian-rhythm-guide",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906364235"
+          "admin_graphql_api_id": "gid://shopify/Article/998906364235",
+          "image": {
+            "created_at": "2025-11-14T11:35:32+00:00",
+            "alt": "A bright, clean image on a white background depicting a bedroom scene with a person stretching in bed, alongside various sleep optimization tools",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_990b8d86-af1a-4efb-9ced-0e2c25558050.png?v=1763120134"
+          }
         },
         {
           "id": 998906069323,
@@ -936,12 +943,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T13:09:09+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:23:31+00:00",
+          "summary_html": "<p>Discover how blue light from screens sabotages your sleep and learn practical, evidence-based strategies to protect your circadian rhythm. From device settings to specialized eyewear and environmental controls, this guide shares effective methods that helped overcome years of insomnia.</p>",
           "template_suffix": "article",
           "handle": "blue-light-and-sleep-protection-strategies-that-work",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998906069323"
+          "admin_graphql_api_id": "gid://shopify/Article/998906069323",
+          "image": {
+            "created_at": "2025-11-14T11:23:29+00:00",
+            "alt": "A flat lay of sleep-aid items",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_6b8b2db3-cf11-48ae-9c53-a07ea370c85c.png?v=1763119411"
+          }
         },
         {
           "id": 998905708875,
@@ -951,12 +965,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-10-15T12:54:36+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:19:13+00:00",
+          "summary_html": "<p>Your bedroom environment accounts for up to 40% of sleep quality variations. This guide provides evidence-based strategies to transform your sleep space—focusing on <b>light control</b>, <b>sound masking</b>, and <b>temperature regulation</b>—to help you fall asleep faster, achieve deeper rest, and wake up feeling restored. Discover the optimal 15.5-19.5°C temperature range, the power of white noise, and the anxiety-reducing benefits of aromatherapy for a sleep sanctuary.</p>",
           "template_suffix": "article",
           "handle": "creating-the-perfect-sleep-environment-complete-setup-guide",
           "tags": "Bedroom Environment, Sleep Hygiene",
-          "admin_graphql_api_id": "gid://shopify/Article/998905708875"
+          "admin_graphql_api_id": "gid://shopify/Article/998905708875",
+          "image": {
+            "created_at": "2025-11-14T11:19:11+00:00",
+            "alt": "Optimized sleep environment featuring a dark bedroom, white noise machine, and lavender spray",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_7733f7e1-7944-4914-a5da-7cdddcdda26c.png?v=1763119153"
+          }
         },
         {
           "id": 998905676107,
@@ -1494,12 +1515,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T06:08:05+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:33:02+00:00",
+          "summary_html": "<p>Sharing a bed with your partner brings comfort and intimacy, but introducing a weighted blanket can present unique challenges. With 73% of couples reporting different sleep preferences, finding the right weighted blanket solution requires thoughtful consideration of both partners' needs. This comprehensive guide explores practical strategies, sizing recommendations, and innovative solutions to help couples enjoy the therapeutic benefits of weighted blankets together.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-couples-sharing-solutions",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998714573131"
+          "admin_graphql_api_id": "gid://shopify/Article/998714573131",
+          "image": {
+            "created_at": "2025-11-14T11:33:01+00:00",
+            "alt": "A diverse couple sleeping peacefully under a shared weighted blanket on a bright, white bed",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_aaa63b82-04c1-44da-8abc-5af2490d8d7e.png?v=1763119982"
+          }
         },
         {
           "id": 998714114379,
@@ -1509,12 +1537,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T05:54:27+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:30:33+00:00",
+          "summary_html": "<p>Discover the perfect weighted blanket for your best sleep yet! Learn the key differences between glass beads and plastic pellets, and find out which filling type is ideal for your comfort, temperature, and budget needs.</p>",
           "template_suffix": "article",
           "handle": "best-weighted-blanket-materials-glass-beads-vs-plastic-pellets",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998714114379"
+          "admin_graphql_api_id": "gid://shopify/Article/998714114379",
+          "image": {
+            "created_at": "2025-11-14T11:30:31+00:00",
+            "alt": "A split image comparing glass bead and plastic pellet weighted blankets",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_e4122d2e-c0d4-423f-a831-beb484e1028a.png?v=1763119833"
+          }
         },
         {
           "id": 998713885003,
@@ -1524,12 +1559,19 @@
           "author": "Valentine O",
           "user_id": 123678196043,
           "published_at": null,
-          "updated_at": "2025-09-30T05:46:04+01:00",
-          "summary_html": "",
+          "updated_at": "2025-11-14T11:28:16+00:00",
+          "summary_html": "<p>Discover how weighted blankets offer a non-medication solution for ADHD, improving sleep quality and daytime focus by up to 63%. Learn the science behind deep pressure stimulation and find age-specific guidelines for effective use.</p>",
           "template_suffix": "article",
           "handle": "weighted-blankets-for-adhd-improving-sleep-and-focus",
           "tags": "Weighted Blankets",
-          "admin_graphql_api_id": "gid://shopify/Article/998713885003"
+          "admin_graphql_api_id": "gid://shopify/Article/998713885003",
+          "image": {
+            "created_at": "2025-11-14T11:28:14+00:00",
+            "alt": "A child with ADHD happily drawing at a colorful desk next to his mother resting comfortably under a weighted blanket with her small dog",
+            "width": 1024,
+            "height": 1024,
+            "src": "https://cdn.shopify.com/s/files/1/0960/2259/3867/articles/A_dddd541a-bdfc-40f8-80b3-912c05dbf33a.png?v=1763119696"
+          }
         },
         {
           "id": 998713622859,
