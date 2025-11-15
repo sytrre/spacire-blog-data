@@ -9689,7 +9689,7 @@
       "product_type": "Curtains",
       "created_at": "2025-08-26T12:12:55+01:00",
       "handle": "aurorez-natural-linen-curtains-2-panels-set-thick-light-filtering-drapes-bedroom-living-room",
-      "updated_at": "2025-11-15T03:27:41+00:00",
+      "updated_at": "2025-11-15T05:27:36+00:00",
       "published_at": "2025-08-26T12:13:11+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -9709,7 +9709,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T12:13:09+01:00",
-          "updated_at": "2025-11-15T03:27:41+00:00",
+          "updated_at": "2025-11-15T05:27:36+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -9720,8 +9720,8 @@
           "weight": 2200.0,
           "weight_unit": "g",
           "inventory_item_id": 55214726381899,
-          "inventory_quantity": 567,
-          "old_inventory_quantity": 567,
+          "inventory_quantity": 565,
+          "old_inventory_quantity": 565,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53253016977739",
           "image_id": 64334015758667
         }
