@@ -74361,8 +74361,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885351755",
       "variants": [
         {
-          "product_id": 14774885351755,
           "id": 53325482295627,
+          "product_id": 14774885351755,
           "title": "Khaki",
           "price": "16.49",
           "position": 1,
@@ -74389,8 +74389,8 @@
           "image_id": 64643907584331
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482328395,
+          "product_id": 14774885351755,
           "title": "Dark grey",
           "price": "16.73",
           "position": 2,
@@ -74417,8 +74417,8 @@
           "image_id": 64643907617099
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482361163,
+          "product_id": 14774885351755,
           "title": "Light grey",
           "price": "16.49",
           "position": 3,
@@ -74447,8 +74447,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885351755,
           "id": 17120122405195,
+          "product_id": 14774885351755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -114902,8 +114902,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "product_id": 10823924613451,
           "id": 53253541167435,
+          "product_id": 10823924613451,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -114932,8 +114932,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924613451,
           "id": 13449690349899,
+          "product_id": 10823924613451,
           "name": "default",
           "position": 1,
           "values": [
