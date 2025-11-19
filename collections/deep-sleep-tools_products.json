@@ -4953,7 +4953,7 @@
       "product_type": "Speaker",
       "created_at": "2025-08-26T10:53:37+01:00",
       "handle": "serenused-white-noise-bluetooth-sleep-speaker-portable-sleep-relaxation",
-      "updated_at": "2025-11-14T19:43:42+00:00",
+      "updated_at": "2025-11-19T11:03:11+00:00",
       "published_at": "2025-08-26T10:53:47+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4962,8 +4962,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "product_id": 10823797440843,
           "id": 53252672782667,
+          "product_id": 10823797440843,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -4990,8 +4990,8 @@
           "image_id": 64332537299275
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672815435,
+          "product_id": 10823797440843,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -5018,8 +5018,8 @@
           "image_id": 64332537332043
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672848203,
+          "product_id": 10823797440843,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -5046,8 +5046,8 @@
           "image_id": 64332537364811
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672880971,
+          "product_id": 10823797440843,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -5076,8 +5076,8 @@
       ],
       "options": [
         {
-          "product_id": 10823797440843,
           "id": 13449527624011,
+          "product_id": 10823797440843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5088,8 +5088,8 @@
           ]
         },
         {
-          "product_id": 10823797440843,
           "id": 13449527656779,
+          "product_id": 10823797440843,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -6370,7 +6370,7 @@
       "product_type": "Speaker",
       "created_at": "2025-08-27T04:32:48+01:00",
       "handle": "symphonyl-3-in-1-bluetooth-speaker-white-noise-night-light-humidifier-sleep-relaxing",
-      "updated_at": "2025-11-14T19:44:11+00:00",
+      "updated_at": "2025-11-19T10:50:50+00:00",
       "published_at": "2025-08-27T04:32:57+01:00",
       "template_suffix": null,
       "published_scope": "global",
