@@ -8,7 +8,7 @@
       "product_type": "",
       "created_at": "2025-11-20T10:48:02+00:00",
       "handle": "1-piece-nasal-wash-bottle-300ml-adult-and-children-nasal-cavity-and-nasal-wash-bottle-physiological-saline-rhinitis-manual",
-      "updated_at": "2025-11-20T10:52:27+00:00",
+      "updated_at": "2025-11-20T19:23:54+00:00",
       "published_at": null,
       "template_suffix": null,
       "published_scope": "web",
@@ -40087,8 +40087,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775317037387",
       "variants": [
         {
-          "product_id": 14775317037387,
           "id": 53327873048907,
+          "product_id": 14775317037387,
           "title": "Orange White / 664X403X146mm",
           "price": "40.68",
           "position": 1,
@@ -40115,8 +40115,8 @@
           "image_id": 64651467161931
         },
         {
-          "product_id": 14775317037387,
           "id": 53327873081675,
+          "product_id": 14775317037387,
           "title": "Gray And White / 664X403X146mm",
           "price": "40.68",
           "position": 2,
@@ -40145,8 +40145,8 @@
       ],
       "options": [
         {
-          "product_id": 14775317037387,
           "id": 17120626049355,
+          "product_id": 14775317037387,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40155,8 +40155,8 @@
           ]
         },
         {
-          "product_id": 14775317037387,
           "id": 17120626082123,
+          "product_id": 14775317037387,
           "name": "Size",
           "position": 2,
           "values": [
