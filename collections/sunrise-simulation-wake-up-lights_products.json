@@ -901,7 +901,7 @@
       "product_type": "Sleep Goggles",
       "created_at": "2025-08-27T06:12:03+01:00",
       "handle": "arl-elastic-blackout-sleep-goggles-silk-eye-mask-for-comfortable-rest-and-night-sleep",
-      "updated_at": "2025-11-19T16:20:23+00:00",
+      "updated_at": "2025-11-20T03:43:23+00:00",
       "published_at": "2025-08-27T06:12:18+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1570,7 +1570,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T03:40:59+01:00",
       "handle": "balmzx-silk-eye-mask-full-surround-soft-breathable-sleep-mask-for-restful-sleep-and-relaxation",
-      "updated_at": "2025-11-19T17:29:04+00:00",
+      "updated_at": "2025-11-20T03:42:57+00:00",
       "published_at": "2025-08-27T03:41:20+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -13295,7 +13295,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T04:08:40+01:00",
       "handle": "morfeo-3d-shading-eye-mask-breathable-blinfold-no-pressure-for-travel-home-comfort",
-      "updated_at": "2025-11-19T16:52:32+00:00",
+      "updated_at": "2025-11-20T03:40:52+00:00",
       "published_at": "2025-08-27T04:08:49+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -16756,7 +16756,7 @@
       "product_type": "3D Eye Mask",
       "created_at": "2025-08-27T04:05:50+01:00",
       "handle": "penumbrazx-3d-eye-mask-breathable-blackout-sleep-protection-breathable-stereo-mask-unisex-for-comfort-nap-and-better-sleep",
-      "updated_at": "2025-11-19T16:56:44+00:00",
+      "updated_at": "2025-11-20T03:43:02+00:00",
       "published_at": "2025-08-27T04:06:15+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -17322,7 +17322,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T04:06:20+01:00",
       "handle": "plumexa-eye-mask-silk-double-sided-sleep-mask-unisex-for-comfort-sleep-and-relaxation",
-      "updated_at": "2025-11-19T18:15:08+00:00",
+      "updated_at": "2025-11-20T03:42:53+00:00",
       "published_at": "2025-08-27T04:06:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -19927,7 +19927,7 @@
       "product_type": "Shade Cloth",
       "created_at": "2025-09-07T10:26:58+01:00",
       "handle": "shadora-curtain-bedroom-shade-cloth",
-      "updated_at": "2025-11-18T18:44:51+00:00",
+      "updated_at": "2025-11-20T03:42:53+00:00",
       "published_at": "2025-09-07T10:27:09+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -19936,8 +19936,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189485387",
       "variants": [
         {
-          "product_id": 14776189485387,
           "id": 53331895681355,
+          "product_id": 14776189485387,
           "title": "Red / 140X160cm",
           "price": "41.00",
           "position": 1,
@@ -19964,8 +19964,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895714123,
+          "product_id": 14776189485387,
           "title": "Red / 140X220cm",
           "price": "41.57",
           "position": 2,
@@ -19992,8 +19992,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895746891,
+          "product_id": 14776189485387,
           "title": "Red / 52X84inch",
           "price": "41.57",
           "position": 3,
@@ -20020,8 +20020,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895779659,
+          "product_id": 14776189485387,
           "title": "Red / 52X95inch",
           "price": "41.86",
           "position": 4,
@@ -20048,8 +20048,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895812427,
+          "product_id": 14776189485387,
           "title": "Red / 52X63inch",
           "price": "41.00",
           "position": 5,
@@ -20076,8 +20076,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895845195,
+          "product_id": 14776189485387,
           "title": "Red / 140X240cm",
           "price": "41.82",
           "position": 6,
@@ -20104,8 +20104,8 @@
           "image_id": 64662320415051
         },
         {
-          "product_id": 14776189485387,
           "id": 53331895877963,
+          "product_id": 14776189485387,
           "title": "Red / 140X260cm",
           "price": "42.06",
           "position": 7,
@@ -20134,8 +20134,8 @@
       ],
       "options": [
         {
-          "product_id": 14776189485387,
           "id": 17121696547147,
+          "product_id": 14776189485387,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20143,8 +20143,8 @@
           ]
         },
         {
-          "product_id": 14776189485387,
           "id": 17121696579915,
+          "product_id": 14776189485387,
           "name": "Specification",
           "position": 2,
           "values": [
@@ -21763,7 +21763,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T04:04:47+01:00",
       "handle": "stillerx-3d-blackout-eye-mask-3d-deep-contoured-sleep-mask-lash-extensions-no-pressure-for-sleep-and-relaxation",
-      "updated_at": "2025-11-19T15:54:12+00:00",
+      "updated_at": "2025-11-20T03:42:53+00:00",
       "published_at": "2025-08-27T04:05:12+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -22303,7 +22303,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T03:38:24+01:00",
       "handle": "synczx-mulberry-silk-eye-mask-soft-shade-sleep-mask-for-relaxation-and-restful-sleep",
-      "updated_at": "2025-11-19T16:06:18+00:00",
+      "updated_at": "2025-11-20T03:40:38+00:00",
       "published_at": "2025-08-27T03:38:38+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -22530,7 +22530,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T03:37:23+01:00",
       "handle": "trioizx-silk-sleep-eye-mask-natural-comfort-for-light-blocking-and-restful-sleep",
-      "updated_at": "2025-11-19T16:09:28+00:00",
+      "updated_at": "2025-11-20T03:41:02+00:00",
       "published_at": "2025-08-27T03:37:39+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -30053,7 +30053,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T04:16:42+01:00",
       "handle": "veridiant-adjustable-3d-eye-mask-sponge-material-visor-design-for-sleep-travel",
-      "updated_at": "2025-11-20T01:27:47+00:00",
+      "updated_at": "2025-11-20T03:43:14+00:00",
       "published_at": "2025-08-27T04:17:01+01:00",
       "template_suffix": null,
       "published_scope": "global",
