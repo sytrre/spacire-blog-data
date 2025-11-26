@@ -4586,8 +4586,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823925825867",
       "variants": [
         {
-          "product_id": 10823925825867,
           "id": 53253545001291,
+          "product_id": 10823925825867,
           "title": "White",
           "price": "56.49",
           "position": 1,
@@ -4616,8 +4616,8 @@
       ],
       "options": [
         {
-          "product_id": 10823925825867,
           "id": 13449691758923,
+          "product_id": 10823925825867,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9539,8 +9539,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157640523",
       "variants": [
         {
-          "product_id": 10825157640523,
           "id": 53257327149387,
+          "product_id": 10825157640523,
           "title": "30PIECES",
           "price": "31.38",
           "position": 1,
@@ -9569,8 +9569,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157640523,
           "id": 13451083907403,
+          "product_id": 10825157640523,
           "name": "style",
           "position": 1,
           "values": [
