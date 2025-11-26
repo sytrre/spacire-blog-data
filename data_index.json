@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-26T01:10:11.754659Z",
+  "generated": "2025-11-26T02:59:27.247074Z",
   "repository": "spacire-blog-data",
   "currency": "GBP",
   "pagination_size": 250,
@@ -100,6 +100,7 @@
       "light-sleeper-solutions": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/light-sleeper-solutions_products.json",
       "light-therapy-alarm-clocks": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/light-therapy-alarm-clocks_products.json",
       "luxury-bedding-for-hotel-quality-sleep": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/luxury-bedding-for-hotel-quality-sleep_products.json",
+      "massagers-muscle-recovery": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/massagers-muscle-recovery_products.json",
       "meditation-accessories-for-mindfulness-practice": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/meditation-accessories-for-mindfulness-practice_products.json",
       "memory-foam-pillows-for-better-sleep": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/memory-foam-pillows-for-better-sleep_products.json",
       "mothers-day-self-care-sleep-gifts": {
@@ -110,6 +111,7 @@
           "page_3": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/mothers-day-self-care-sleep-gifts_products_page3.json"
         }
       },
+      "nasal-strips-and-dilators": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/nasal-strips-and-dilators_products.json",
       "natural-sleep-aids-for-bedtime-routine": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections/natural-sleep-aids-for-bedtime-routine_products.json",
       "natural-sleep-improvement-products": {
         "total_pages": 3,

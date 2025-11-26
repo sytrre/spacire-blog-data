@@ -404,23 +404,13 @@
       "id": 673074086219,
       "handle": "breathing-relaxation",
       "title": "Breathing & Relaxation",
-      "updated_at": "2025-11-25T15:00:01+00:00",
+      "updated_at": "2025-11-26T02:49:54+00:00",
       "body_html": "<p class=\"MsoNormal\">This collection is your essential resource for <b>stress relief</b> and <b>mindfulness</b>. Discover powerful <b>guided breathing exercises</b> and <b>relaxation techniques</b> designed to combat <b>anxiety</b> and improve <b>mental well-being</b>. Learn how to utilize <b>diaphragmatic breathing</b> and <b>meditation</b> to instantly calm your <b>nervous system</b>, lower <b>cortisol levels</b>, and achieve deeper <b>sleep</b>. Whether you're seeking <b>daily calm</b>, tools for <b>stress management</b>, or methods to enhance <b>focus</b> and <b>inner peace</b>, these simple, science-backed practices offer a path to lasting <b>tranquility</b>. Start your journey to a more relaxed, centered self today!</p>",
       "published_at": "2025-11-11T04:19:16+00:00",
       "sort_order": "best-selling",
       "template_suffix": "",
       "disjunctive": true,
       "rules": [
-        {
-          "column": "tag",
-          "relation": "equals",
-          "condition": "breathing sleep aid"
-        },
-        {
-          "column": "title",
-          "relation": "contains",
-          "condition": "Breathing & Relaxation"
-        },
         {
           "column": "tag",
           "relation": "equals",
@@ -437,11 +427,6 @@
           "condition": "Magnetic Nasal Strip"
         },
         {
-          "column": "title",
-          "relation": "contains",
-          "condition": "Breathing"
-        },
-        {
           "column": "tag",
           "relation": "equals",
           "condition": "Nasal strip"
@@ -450,11 +435,6 @@
           "column": "title",
           "relation": "contains",
           "condition": "Nasal strip"
-        },
-        {
-          "column": "title",
-          "relation": "contains",
-          "condition": "Scalp Relaxation"
         },
         {
           "column": "title",
@@ -495,11 +475,6 @@
           "column": "title",
           "relation": "contains",
           "condition": "Nasal Ring"
-        },
-        {
-          "column": "title",
-          "relation": "contains",
-          "condition": "Anti-Snore"
         },
         {
           "column": "title",
@@ -1563,6 +1538,46 @@
       "admin_graphql_api_id": "gid://shopify/Collection/666415104331"
     },
     {
+      "id": 674697150795,
+      "handle": "massagers-muscle-recovery",
+      "title": "Massagers & Muscle Recovery",
+      "updated_at": "2025-11-26T02:49:54+00:00",
+      "body_html": "<p data-start=\"205\" data-end=\"506\">Relax, recover, and recharge with Spacire’s <strong data-start=\"249\" data-end=\"280\">Massagers &amp; Muscle Recovery</strong> collection. Designed to support deep relaxation, faster muscle recovery, and better sleep quality, our premium range includes handheld massagers, percussion therapy devices, heated massage tools, and body recovery essentials.</p>\n<p data-start=\"508\" data-end=\"752\">Whether you’re managing muscle soreness, daily stress, or post-workout tension, our science-backed massage tools help improve circulation, reduce stiffness, and promote full-body relaxation — naturally supporting deeper, more restorative sleep.</p>\n<p data-start=\"754\" data-end=\"1013\">Perfect for athletes, gym-goers, and anyone seeking nightly relief, Spacire’s muscle recovery solutions are engineered for comfort, durability, and ease of use. Discover the power of targeted relief and experience a new level of relaxation and sleep wellness.</p>",
+      "published_at": "2025-11-26T02:43:55+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Massager"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Massagers"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Body Massager"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Head Massager"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Foot Massager"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/674697150795"
+    },
+    {
       "id": 666414711115,
       "handle": "meditation-accessories-for-mindfulness-practice",
       "title": "Meditation accessories for mindfulness practice",
@@ -1621,6 +1636,46 @@
       ],
       "published_scope": "global",
       "admin_graphql_api_id": "gid://shopify/Collection/666413334859"
+    },
+    {
+      "id": 674696921419,
+      "handle": "nasal-strips-and-dilators",
+      "title": "Nasal Strips and Dilators",
+      "updated_at": "2025-11-26T02:49:49+00:00",
+      "body_html": "<p data-start=\"200\" data-end=\"478\">Breathe easier, sleep deeper, and wake up refreshed with Spacire’s <strong data-start=\"267\" data-end=\"294\">Nasal Strips &amp; Dilators</strong> collection. Designed to gently open nasal passages and improve airflow, our solutions help reduce snoring, relieve nighttime congestion, and support uninterrupted, high-quality sleep.</p>\n<p data-start=\"480\" data-end=\"770\">Our range includes external nasal strips and internal nasal dilators that work naturally without medication. By enhancing oxygen intake and reducing nasal resistance, these breathing aids are ideal for snorers, athletes, allergy sufferers, and anyone struggling with blocked noses at night.</p>\n<p data-start=\"772\" data-end=\"973\">Comfortable, discreet, and skin-friendly, Spacire’s nasal breathing solutions are engineered for all-night comfort and consistent performance — helping you breathe freely and sleep better, every night.</p>",
+      "published_at": "2025-11-26T02:32:42+00:00",
+      "sort_order": "best-selling",
+      "template_suffix": "",
+      "disjunctive": true,
+      "rules": [
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Nasal Strips"
+        },
+        {
+          "column": "tag",
+          "relation": "equals",
+          "condition": "Nasal Clips"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "nasal"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "nasal dilator"
+        },
+        {
+          "column": "title",
+          "relation": "contains",
+          "condition": "strip"
+        }
+      ],
+      "published_scope": "global",
+      "admin_graphql_api_id": "gid://shopify/Collection/674696921419"
     },
     {
       "id": 666414383435,
@@ -4542,8 +4597,8 @@
     "current_page": 1,
     "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 95,
-    "items_in_page": 95,
+    "total_items": 97,
+    "items_in_page": 97,
     "has_next_page": false,
     "has_previous_page": false
   }
