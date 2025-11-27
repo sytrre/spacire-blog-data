@@ -9309,8 +9309,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962277707",
       "variants": [
         {
-          "id": 53256233255243,
           "product_id": 10824962277707,
+          "id": 53256233255243,
           "title": "20ml",
           "price": "20.81",
           "position": 1,
@@ -9339,8 +9339,8 @@
       ],
       "options": [
         {
-          "id": 13450823041355,
           "product_id": 10824962277707,
+          "id": 13450823041355,
           "name": "Product Specifications",
           "position": 1,
           "values": [
@@ -24320,8 +24320,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054191947",
       "variants": [
         {
-          "product_id": 10825054191947,
           "id": 53256619884875,
+          "product_id": 10825054191947,
           "title": "Black 3D",
           "price": "40.86",
           "position": 1,
@@ -24348,8 +24348,8 @@
           "image_id": 64365299663179
         },
         {
-          "product_id": 10825054191947,
           "id": 53256619917643,
+          "product_id": 10825054191947,
           "title": "Black",
           "price": "41.60",
           "position": 2,
@@ -24378,8 +24378,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054191947,
           "id": 13450930684235,
+          "product_id": 10825054191947,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65940,8 +65940,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158820171",
       "variants": [
         {
-          "product_id": 10825158820171,
           "id": 53257347891531,
+          "product_id": 10825158820171,
           "title": "Sleep aid patch",
           "price": "33.16",
           "position": 1,
@@ -65970,8 +65970,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158820171,
           "id": 13451086004555,
+          "product_id": 10825158820171,
           "name": "style",
           "position": 1,
           "values": [
