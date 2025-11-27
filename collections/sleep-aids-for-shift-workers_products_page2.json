@@ -25283,8 +25283,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772518682955",
       "variants": [
         {
-          "product_id": 14772518682955,
           "id": 53314497610059,
+          "product_id": 14772518682955,
           "title": "30x50cm / White / 1PCS",
           "price": "72.38",
           "position": 1,
@@ -25311,8 +25311,8 @@
           "image_id": 64611047604555
         },
         {
-          "product_id": 14772518682955,
           "id": 53314497642827,
+          "product_id": 14772518682955,
           "title": "30x50cm / White / 2PCS",
           "price": "79.17",
           "position": 2,
@@ -25339,8 +25339,8 @@
           "image_id": 64611047637323
         },
         {
-          "product_id": 14772518682955,
           "id": 53314497675595,
+          "product_id": 14772518682955,
           "title": "30x50cm / White / 3PCS",
           "price": "85.97",
           "position": 3,
@@ -25369,8 +25369,8 @@
       ],
       "options": [
         {
-          "product_id": 14772518682955,
           "id": 17117210018123,
+          "product_id": 14772518682955,
           "name": "Size",
           "position": 1,
           "values": [
@@ -25378,8 +25378,8 @@
           ]
         },
         {
-          "product_id": 14772518682955,
           "id": 17117210050891,
+          "product_id": 14772518682955,
           "name": "Color",
           "position": 2,
           "values": [
@@ -25387,8 +25387,8 @@
           ]
         },
         {
-          "product_id": 14772518682955,
           "id": 17117210083659,
+          "product_id": 14772518682955,
           "name": "quantity",
           "position": 3,
           "values": [
@@ -92544,7 +92544,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2025-11-26T02:30:05+00:00",
+      "updated_at": "2025-11-27T04:35:10+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -92564,7 +92564,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2025-11-26T02:30:05+00:00",
+          "updated_at": "2025-11-27T04:35:10+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -92575,8 +92575,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40908,
-          "old_inventory_quantity": 40908,
+          "inventory_quantity": 40905,
+          "old_inventory_quantity": 40905,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
