@@ -98976,8 +98976,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158558027",
       "variants": [
         {
-          "id": 53257345597771,
           "product_id": 10825158558027,
+          "id": 53257345597771,
           "title": "First stage",
           "price": "31.10",
           "position": 1,
@@ -99004,8 +99004,8 @@
           "image_id": 64366999273803
         },
         {
-          "id": 53257345630539,
           "product_id": 10825158558027,
+          "id": 53257345630539,
           "title": "Second stage",
           "price": "31.10",
           "position": 2,
@@ -99032,8 +99032,8 @@
           "image_id": 64366999306571
         },
         {
-          "id": 53257345663307,
           "product_id": 10825158558027,
+          "id": 53257345663307,
           "title": "Third stage",
           "price": "31.10",
           "position": 3,
@@ -99062,8 +99062,8 @@
       ],
       "options": [
         {
-          "id": 13451085676875,
           "product_id": 10825158558027,
+          "id": 13451085676875,
           "name": "style",
           "position": 1,
           "values": [
