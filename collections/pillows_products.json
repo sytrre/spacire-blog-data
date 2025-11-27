@@ -3388,8 +3388,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772468744523",
       "variants": [
         {
-          "product_id": 14772468744523,
           "id": 53314313388363,
+          "product_id": 14772468744523,
           "title": "Dark Gray / 650X440X146mm",
           "price": "52.42",
           "position": 1,
@@ -3416,8 +3416,8 @@
           "image_id": 64609067827531
         },
         {
-          "product_id": 14772468744523,
           "id": 53314313421131,
+          "product_id": 14772468744523,
           "title": "Bean Green / 650X440X146mm",
           "price": "52.42",
           "position": 2,
@@ -3444,8 +3444,8 @@
           "image_id": 64609067860299
         },
         {
-          "product_id": 14772468744523,
           "id": 53314313453899,
+          "product_id": 14772468744523,
           "title": "Lavender Purple / 650X440X146mm",
           "price": "52.42",
           "position": 3,
@@ -3474,8 +3474,8 @@
       ],
       "options": [
         {
-          "product_id": 14772468744523,
           "id": 17117140648267,
+          "product_id": 14772468744523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3485,8 +3485,8 @@
           ]
         },
         {
-          "product_id": 14772468744523,
           "id": 17117140681035,
+          "product_id": 14772468744523,
           "name": "Size",
           "position": 2,
           "values": [
