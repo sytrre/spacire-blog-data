@@ -3761,8 +3761,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "id": 53252019913035,
           "product_id": 10823681016139,
+          "id": 53252019913035,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -3789,8 +3789,8 @@
           "image_id": 64330808787275
         },
         {
-          "id": 53252019945803,
           "product_id": 10823681016139,
+          "id": 53252019945803,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -3819,8 +3819,8 @@
       ],
       "options": [
         {
-          "id": 13449326625099,
           "product_id": 10823681016139,
+          "id": 13449326625099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3829,8 +3829,8 @@
           ]
         },
         {
-          "id": 13449326657867,
           "product_id": 10823681016139,
+          "id": 13449326657867,
           "name": "Model",
           "position": 2,
           "values": [
@@ -9978,8 +9978,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158820171",
       "variants": [
         {
-          "product_id": 10825158820171,
           "id": 53257347891531,
+          "product_id": 10825158820171,
           "title": "Sleep aid patch",
           "price": "33.16",
           "position": 1,
@@ -10008,8 +10008,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158820171,
           "id": 13451086004555,
+          "product_id": 10825158820171,
           "name": "style",
           "position": 1,
           "values": [
