@@ -476,7 +476,7 @@
       "product_type": "Sleep Aid Machine",
       "created_at": "2025-08-27T04:41:18+01:00",
       "handle": "dreamos-portable-white-noise-sleep-aid-machine-for-restful-sleep-and-comfort",
-      "updated_at": "2025-11-14T19:44:18+00:00",
+      "updated_at": "2025-11-28T04:01:43+00:00",
       "published_at": "2025-08-27T04:41:27+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -624,7 +624,7 @@
       "product_type": "Aromatherapy Humidifier",
       "created_at": "2025-08-27T04:40:18+01:00",
       "handle": "elarar-white-noise-flame-aromatherapy-humidifier-machine-for-home-relaxation-and-comfort",
-      "updated_at": "2025-11-19T10:12:00+00:00",
+      "updated_at": "2025-11-28T04:01:43+00:00",
       "published_at": "2025-08-27T04:40:31+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -946,7 +946,7 @@
       "product_type": "Sleeping Sound Machine",
       "created_at": "2025-08-27T04:33:50+01:00",
       "handle": "nomadm-baby-portable-white-noise-smart-sleeping-aid-music-function-calming-soothing",
-      "updated_at": "2025-11-19T10:45:53+00:00",
+      "updated_at": "2025-11-28T04:01:43+00:00",
       "published_at": "2025-08-27T04:34:09+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1530,7 +1530,7 @@
       "product_type": "Noise Sleep Aid Speaker",
       "created_at": "2025-08-27T04:34:57+01:00",
       "handle": "ossiom-bone-conduction-bluetooth-speaker-mini-white-noise-sleep-aid-sleep-relaxation",
-      "updated_at": "2025-11-14T19:44:13+00:00",
+      "updated_at": "2025-11-28T04:01:43+00:00",
       "published_at": "2025-08-27T04:35:07+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1744,7 +1744,7 @@
       "product_type": "White Noise Speaker",
       "created_at": "2025-08-26T09:19:52+01:00",
       "handle": "pacerzx-portable-white-noise-speaker-for-office-focus-and-travel",
-      "updated_at": "2025-11-19T11:40:46+00:00",
+      "updated_at": "2025-11-28T04:00:56+00:00",
       "published_at": "2025-08-26T09:20:06+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1896,7 +1896,7 @@
       "product_type": "Sleep Speaker",
       "created_at": "2025-08-27T04:34:36+01:00",
       "handle": "relaye-bluetooth-sleep-speaker-white-noise-music-insomnia-relief-device-relaxation-calming",
-      "updated_at": "2025-11-14T19:44:13+00:00",
+      "updated_at": "2025-11-28T04:01:43+00:00",
       "published_at": "2025-08-27T04:34:53+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2131,7 +2131,7 @@
       "product_type": "White Noise Generator",
       "created_at": "2025-08-26T09:26:50+01:00",
       "handle": "snugzx-portable-white-noise-generator-for-baby-relaxation-and-travel-therapy",
-      "updated_at": "2025-11-14T19:43:36+00:00",
+      "updated_at": "2025-11-28T04:00:56+00:00",
       "published_at": "2025-08-26T09:27:02+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2296,7 +2296,7 @@
       "product_type": "Sound Machine",
       "created_at": "2025-08-26T09:30:00+01:00",
       "handle": "verseizx-home-white-noise-sleep-instrument-relaxing-sound-machine-for-rest-and-focus",
-      "updated_at": "2025-11-14T19:43:36+00:00",
+      "updated_at": "2025-11-28T04:00:56+00:00",
       "published_at": "2025-08-26T09:30:11+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -2305,8 +2305,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823681016139",
       "variants": [
         {
-          "product_id": 10823681016139,
           "id": 53252019913035,
+          "product_id": 10823681016139,
           "title": "White breathing regulation / Battery",
           "price": "43.99",
           "position": 1,
@@ -2333,8 +2333,8 @@
           "image_id": 64330808787275
         },
         {
-          "product_id": 10823681016139,
           "id": 53252019945803,
+          "product_id": 10823681016139,
           "title": "White / USB",
           "price": "39.99",
           "position": 2,
@@ -2363,8 +2363,8 @@
       ],
       "options": [
         {
-          "product_id": 10823681016139,
           "id": 13449326625099,
+          "product_id": 10823681016139,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2373,8 +2373,8 @@
           ]
         },
         {
-          "product_id": 10823681016139,
           "id": 13449326657867,
+          "product_id": 10823681016139,
           "name": "Model",
           "position": 2,
           "values": [
