@@ -81077,8 +81077,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823804879179",
       "variants": [
         {
-          "product_id": 10823804879179,
           "id": 53252705747275,
+          "product_id": 10823804879179,
           "title": "Maroon",
           "price": "43.49",
           "position": 1,
@@ -81107,8 +81107,8 @@
       ],
       "options": [
         {
-          "product_id": 10823804879179,
           "id": 13449536373067,
+          "product_id": 10823804879179,
           "name": "Color",
           "position": 1,
           "values": [
