@@ -9697,8 +9697,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048129867",
       "variants": [
         {
-          "id": 53256594784587,
           "product_id": 10825048129867,
+          "id": 53256594784587,
           "title": "Black / Fixed Neck Pillow Goggle Set",
           "price": "35.97",
           "position": 1,
@@ -9727,8 +9727,8 @@
       ],
       "options": [
         {
-          "id": 13450923999563,
           "product_id": 10825048129867,
+          "id": 13450923999563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9736,8 +9736,8 @@
           ]
         },
         {
-          "id": 13450924032331,
           "product_id": 10825048129867,
+          "id": 13450924032331,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -99704,8 +99704,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774357557579",
       "variants": [
         {
-          "product_id": 14774357557579,
           "id": 53322529931595,
+          "product_id": 14774357557579,
           "title": "Black / 90X90",
           "price": "44.30",
           "position": 1,
@@ -99732,8 +99732,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322529964363,
+          "product_id": 14774357557579,
           "title": "Black / 90X210",
           "price": "46.07",
           "position": 2,
@@ -99760,8 +99760,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322529997131,
+          "product_id": 14774357557579,
           "title": "Black / 90X180",
           "price": "45.21",
           "position": 3,
@@ -99788,8 +99788,8 @@
           "image_id": 64635631141195
         },
         {
-          "product_id": 14774357557579,
           "id": 53322530029899,
+          "product_id": 14774357557579,
           "title": "Black / 90X150",
           "price": "45.21",
           "position": 4,
@@ -99818,8 +99818,8 @@
       ],
       "options": [
         {
-          "product_id": 14774357557579,
           "id": 17119472222539,
+          "product_id": 14774357557579,
           "name": "Color",
           "position": 1,
           "values": [
@@ -99827,8 +99827,8 @@
           ]
         },
         {
-          "product_id": 14774357557579,
           "id": 17119472255307,
+          "product_id": 14774357557579,
           "name": "Size",
           "position": 2,
           "values": [
