@@ -24273,8 +24273,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374082441547",
       "variants": [
         {
-          "product_id": 15374082441547,
           "id": 55945749922123,
+          "product_id": 15374082441547,
           "title": "001",
           "price": "19.95",
           "position": 1,
@@ -24303,8 +24303,8 @@
       ],
       "options": [
         {
-          "product_id": 15374082441547,
           "id": 17811399344459,
+          "product_id": 15374082441547,
           "name": "Color",
           "position": 1,
           "values": [
