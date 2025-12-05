@@ -121364,12 +121364,11 @@
   ],
   "pagination": {
     "current_page": 1,
-    "total_pages": 3,
+    "total_pages": 1,
     "items_per_page": 250,
-    "total_items": 557,
+    "total_items": 250,
     "items_in_page": 250,
-    "has_next_page": true,
-    "has_previous_page": false,
-    "next_page_file": "products_page2.json"
+    "has_next_page": false,
+    "has_previous_page": false
   }
 }
