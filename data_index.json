@@ -1,10 +1,17 @@
 {
-  "generated": "2025-12-05T08:49:07.245122Z",
+  "generated": "2025-12-05T09:19:40.168458Z",
   "repository": "spacire-blog-data",
   "currency": "GBP",
   "pagination_size": 250,
   "files": {
-    "products": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
+    "products": {
+      "total_pages": 3,
+      "files": {
+        "page_1": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products.json",
+        "page_2": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products_page2.json",
+        "page_3": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/products_page3.json"
+      }
+    },
     "collections": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/collections.json",
     "blogs": "https://raw.githubusercontent.com/sytrre/spacire-blog-data/refs/heads/main/blogs.json",
     "collection_products": {

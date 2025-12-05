@@ -4,7 +4,7 @@
     "handle": "cyber-monday-relaxation-gifts",
     "title": "Cyber Monday relaxation gifts",
     "body_html": "<p>Perfect cyber monday relaxation gifts for anyone who values quality sleep. Curated selection of premium sleep wellness products that make meaningful, thoughtful presents.</p>",
-    "products_count": 250
+    "products_count": 523
   },
   "products": [
     {
@@ -125590,11 +125590,12 @@
   ],
   "pagination": {
     "current_page": 1,
-    "total_pages": 1,
+    "total_pages": 3,
     "products_per_page": 250,
-    "total_products": 250,
+    "total_products": 523,
     "products_in_page": 250,
-    "has_next_page": false,
-    "has_previous_page": false
+    "has_next_page": true,
+    "has_previous_page": false,
+    "next_page_file": "cyber-monday-relaxation-gifts_products_page2.json"
   }
 }

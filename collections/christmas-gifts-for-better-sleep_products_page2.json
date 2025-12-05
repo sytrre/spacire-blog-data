@@ -4,7 +4,7 @@
     "handle": "christmas-gifts-for-better-sleep",
     "title": "Christmas gifts for better sleep",
     "body_html": "<p>Perfect christmas gifts for better sleep for anyone who values quality sleep. Curated selection of premium sleep wellness products that make meaningful, thoughtful presents.</p>",
-    "products_count": 500
+    "products_count": 523
   },
   "products": [
     {
@@ -100028,12 +100028,13 @@
   ],
   "pagination": {
     "current_page": 2,
-    "total_pages": 2,
+    "total_pages": 3,
     "products_per_page": 250,
-    "total_products": 500,
+    "total_products": 523,
     "products_in_page": 250,
-    "has_next_page": false,
+    "has_next_page": true,
     "has_previous_page": true,
+    "next_page_file": "christmas-gifts-for-better-sleep_products_page3.json",
     "previous_page_file": "christmas-gifts-for-better-sleep_products.json"
   }
 }
