@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383148527947",
       "variants": [
         {
-          "product_id": 15383148527947,
           "id": 55974121505099,
+          "product_id": 15383148527947,
           "title": "Black / 90pcs",
           "price": "23.85",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 79379010847051
         },
         {
-          "product_id": 15383148527947,
           "id": 55974121537867,
+          "product_id": 15383148527947,
           "title": "Black / 60pcs",
           "price": "22.95",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 79379010847051
         },
         {
-          "product_id": 15383148527947,
           "id": 55974121570635,
+          "product_id": 15383148527947,
           "title": "Black / 30pcs",
           "price": "22.45",
           "position": 3,
@@ -110,8 +110,8 @@
       ],
       "options": [
         {
-          "product_id": 15383148527947,
           "id": 17822061461835,
+          "product_id": 15383148527947,
           "name": "Color",
           "position": 1,
           "values": [
@@ -119,8 +119,8 @@
           ]
         },
         {
-          "product_id": 15383148527947,
           "id": 17822061494603,
+          "product_id": 15383148527947,
           "name": "Size",
           "position": 2,
           "values": [
@@ -5600,8 +5600,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092239179",
       "variants": [
         {
-          "id": 55945800941899,
           "product_id": 15374092239179,
+          "id": 55945800941899,
           "title": "30pcs",
           "price": "22.95",
           "position": 1,
@@ -5628,8 +5628,8 @@
           "image_id": 79156425261387
         },
         {
-          "id": 55945800974667,
           "product_id": 15374092239179,
+          "id": 55945800974667,
           "title": "90pcs",
           "price": "24.95",
           "position": 2,
@@ -5656,8 +5656,8 @@
           "image_id": 79156425294155
         },
         {
-          "id": 55945801007435,
           "product_id": 15374092239179,
+          "id": 55945801007435,
           "title": "150pcs",
           "price": "26.95",
           "position": 3,
@@ -5686,8 +5686,8 @@
       ],
       "options": [
         {
-          "id": 17811413860683,
           "product_id": 15374092239179,
+          "id": 17811413860683,
           "name": "Color",
           "position": 1,
           "values": [
