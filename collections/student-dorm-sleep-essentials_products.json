@@ -20694,8 +20694,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825022210379",
       "variants": [
         {
-          "product_id": 10825022210379,
           "id": 53256506736971,
+          "product_id": 10825022210379,
           "title": "A",
           "price": "28.12",
           "position": 1,
@@ -20722,8 +20722,8 @@
           "image_id": 64364900614475
         },
         {
-          "product_id": 10825022210379,
           "id": 53256506769739,
+          "product_id": 10825022210379,
           "title": "B",
           "price": "28.12",
           "position": 2,
@@ -20750,8 +20750,8 @@
           "image_id": 64364900647243
         },
         {
-          "product_id": 10825022210379,
           "id": 53256506802507,
+          "product_id": 10825022210379,
           "title": "C",
           "price": "28.12",
           "position": 3,
@@ -20778,8 +20778,8 @@
           "image_id": 64364900680011
         },
         {
-          "product_id": 10825022210379,
           "id": 53256506835275,
+          "product_id": 10825022210379,
           "title": "D",
           "price": "28.12",
           "position": 4,
@@ -20806,8 +20806,8 @@
           "image_id": 64364900712779
         },
         {
-          "product_id": 10825022210379,
           "id": 53256506868043,
+          "product_id": 10825022210379,
           "title": "E",
           "price": "28.12",
           "position": 5,
@@ -20836,8 +20836,8 @@
       ],
       "options": [
         {
-          "product_id": 10825022210379,
           "id": 13450892050763,
+          "product_id": 10825022210379,
           "name": "style",
           "position": 1,
           "values": [
@@ -22382,8 +22382,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158525259",
       "variants": [
         {
-          "id": 53257345368395,
           "product_id": 10825158525259,
+          "id": 53257345368395,
           "title": "Rabbit",
           "price": "34.35",
           "position": 1,
@@ -22410,8 +22410,8 @@
           "image_id": 64366993834315
         },
         {
-          "id": 53257345401163,
           "product_id": 10825158525259,
+          "id": 53257345401163,
           "title": "Blue monster",
           "price": "34.35",
           "position": 2,
@@ -22438,8 +22438,8 @@
           "image_id": 64366993867083
         },
         {
-          "id": 53257345433931,
           "product_id": 10825158525259,
+          "id": 53257345433931,
           "title": "Joe Minibus",
           "price": "34.35",
           "position": 3,
@@ -22466,8 +22466,8 @@
           "image_id": 64366993899851
         },
         {
-          "id": 53257345466699,
           "product_id": 10825158525259,
+          "id": 53257345466699,
           "title": "Little new",
           "price": "34.35",
           "position": 4,
@@ -22494,8 +22494,8 @@
           "image_id": 64366993932619
         },
         {
-          "id": 53257345499467,
           "product_id": 10825158525259,
+          "id": 53257345499467,
           "title": "Piestar",
           "price": "34.35",
           "position": 5,
@@ -22524,8 +22524,8 @@
       ],
       "options": [
         {
-          "id": 13451085644107,
           "product_id": 10825158525259,
+          "id": 13451085644107,
           "name": "Style",
           "position": 1,
           "values": [
@@ -43915,8 +43915,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825064907083",
       "variants": [
         {
-          "id": 53256688337227,
           "product_id": 10825064907083,
+          "id": 53256688337227,
           "title": "Pink",
           "price": "42.34",
           "position": 1,
@@ -43943,8 +43943,8 @@
           "image_id": 64365432668491
         },
         {
-          "id": 53256688369995,
           "product_id": 10825064907083,
+          "id": 53256688369995,
           "title": "Green",
           "price": "42.34",
           "position": 2,
@@ -43973,8 +43973,8 @@
       ],
       "options": [
         {
-          "id": 13450946216267,
           "product_id": 10825064907083,
+          "id": 13450946216267,
           "name": "Color",
           "position": 1,
           "values": [
