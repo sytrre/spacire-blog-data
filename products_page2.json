@@ -29507,8 +29507,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021325643",
       "variants": [
         {
-          "id": 53256504672587,
           "product_id": 10825021325643,
+          "id": 53256504672587,
           "title": "Peacock blue",
           "price": "30.58",
           "position": 1,
@@ -29535,8 +29535,8 @@
           "image_id": 64364895306059
         },
         {
-          "id": 53256504705355,
           "product_id": 10825021325643,
+          "id": 53256504705355,
           "title": "Silver",
           "price": "30.70",
           "position": 2,
@@ -29563,8 +29563,8 @@
           "image_id": 64364895338827
         },
         {
-          "id": 53256504738123,
           "product_id": 10825021325643,
+          "id": 53256504738123,
           "title": "Purple",
           "price": "30.58",
           "position": 3,
@@ -29591,8 +29591,8 @@
           "image_id": 64364895371595
         },
         {
-          "id": 53256504770891,
           "product_id": 10825021325643,
+          "id": 53256504770891,
           "title": "Green",
           "price": "30.58",
           "position": 4,
@@ -29619,8 +29619,8 @@
           "image_id": 64364895404363
         },
         {
-          "id": 53256504803659,
           "product_id": 10825021325643,
+          "id": 53256504803659,
           "title": "Pink",
           "price": "30.70",
           "position": 5,
@@ -29647,8 +29647,8 @@
           "image_id": 64364895437131
         },
         {
-          "id": 53256504836427,
           "product_id": 10825021325643,
+          "id": 53256504836427,
           "title": "Black",
           "price": "30.70",
           "position": 6,
@@ -29675,8 +29675,8 @@
           "image_id": 64364895469899
         },
         {
-          "id": 53256504869195,
           "product_id": 10825021325643,
+          "id": 53256504869195,
           "title": "Gold",
           "price": "30.58",
           "position": 7,
@@ -29705,8 +29705,8 @@
       ],
       "options": [
         {
-          "id": 13450891067723,
           "product_id": 10825021325643,
+          "id": 13450891067723,
           "name": "Color",
           "position": 1,
           "values": [
@@ -74984,8 +74984,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099673931",
       "variants": [
         {
-          "product_id": 10825099673931,
           "id": 53256899526987,
+          "product_id": 10825099673931,
           "title": "FS301 Bluetooth White",
           "price": "504.12",
           "position": 1,
@@ -75014,8 +75014,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099673931,
           "id": 13450999824715,
+          "product_id": 10825099673931,
           "name": "Color",
           "position": 1,
           "values": [
@@ -76687,8 +76687,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158885707",
       "variants": [
         {
-          "id": 53257349235019,
           "product_id": 10825158885707,
+          "id": 53257349235019,
           "title": "Lavender",
           "price": "31.41",
           "position": 1,
@@ -76717,8 +76717,8 @@
       ],
       "options": [
         {
-          "id": 13451086102859,
           "product_id": 10825158885707,
+          "id": 13451086102859,
           "name": "style",
           "position": 1,
           "values": [
