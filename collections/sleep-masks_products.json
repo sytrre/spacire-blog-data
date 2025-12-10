@@ -4446,8 +4446,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634846027",
       "variants": [
         {
-          "product_id": 10823634846027,
           "id": 53251876716875,
+          "product_id": 10823634846027,
           "title": "Black",
           "price": "36.99",
           "position": 1,
@@ -4474,8 +4474,8 @@
           "image_id": 64329765585227
         },
         {
-          "product_id": 10823634846027,
           "id": 53251876749643,
+          "product_id": 10823634846027,
           "title": "White",
           "price": "40.49",
           "position": 2,
@@ -4502,8 +4502,8 @@
           "image_id": 64329765617995
         },
         {
-          "product_id": 10823634846027,
           "id": 53251876782411,
+          "product_id": 10823634846027,
           "title": "Wine red",
           "price": "40.49",
           "position": 3,
@@ -4532,8 +4532,8 @@
       ],
       "options": [
         {
-          "product_id": 10823634846027,
           "id": 13449276227915,
+          "product_id": 10823634846027,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5509,8 +5509,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742095691",
       "variants": [
         {
-          "id": 53252365877579,
           "product_id": 10823742095691,
+          "id": 53252365877579,
           "title": "black",
           "price": "42.49",
           "position": 1,
@@ -5539,8 +5539,8 @@
       ],
       "options": [
         {
-          "id": 13449441542475,
           "product_id": 10823742095691,
+          "id": 13449441542475,
           "name": "Color",
           "position": 1,
           "values": [
@@ -48476,8 +48476,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066250571",
       "variants": [
         {
-          "id": 53256709407051,
           "product_id": 10825066250571,
+          "id": 53256709407051,
           "title": "Peacock blue",
           "price": "33.79",
           "position": 1,
@@ -48504,8 +48504,8 @@
           "image_id": 64365450264907
         },
         {
-          "id": 53256709439819,
           "product_id": 10825066250571,
+          "id": 53256709439819,
           "title": "Zhangqing",
           "price": "33.79",
           "position": 2,
@@ -48532,8 +48532,8 @@
           "image_id": 64365450297675
         },
         {
-          "id": 53256709472587,
           "product_id": 10825066250571,
+          "id": 53256709472587,
           "title": "Black",
           "price": "33.79",
           "position": 3,
@@ -48560,8 +48560,8 @@
           "image_id": 64365450330443
         },
         {
-          "id": 53256709505355,
           "product_id": 10825066250571,
+          "id": 53256709505355,
           "title": "Grey",
           "price": "33.79",
           "position": 4,
@@ -48590,8 +48590,8 @@
       ],
       "options": [
         {
-          "id": 13450948477259,
           "product_id": 10825066250571,
+          "id": 13450948477259,
           "name": "Color",
           "position": 1,
           "values": [

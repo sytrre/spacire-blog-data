@@ -8587,8 +8587,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962441547",
       "variants": [
         {
-          "product_id": 10824962441547,
           "id": 53256233582923,
+          "product_id": 10824962441547,
           "title": "Lavender",
           "price": "21.70",
           "position": 1,
@@ -8617,8 +8617,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962441547,
           "id": 13450823205195,
+          "product_id": 10824962441547,
           "name": "style",
           "position": 1,
           "values": [
@@ -10624,8 +10624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960770379",
       "variants": [
         {
-          "product_id": 10824960770379,
           "id": 53256229519691,
+          "product_id": 10824960770379,
           "title": "100ml",
           "price": "22.63",
           "position": 1,
@@ -10654,8 +10654,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960770379,
           "id": 13450821468491,
+          "product_id": 10824960770379,
           "name": "style",
           "position": 1,
           "values": [
@@ -15260,8 +15260,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936147787",
       "variants": [
         {
-          "id": 53253572329803,
           "product_id": 10823936147787,
+          "id": 53253572329803,
           "title": "White / USB",
           "price": "72.99",
           "position": 1,
@@ -15290,8 +15290,8 @@
       ],
       "options": [
         {
-          "id": 13449703293259,
           "product_id": 10823936147787,
+          "id": 13449703293259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15299,8 +15299,8 @@
           ]
         },
         {
-          "id": 13449703326027,
           "product_id": 10823936147787,
+          "id": 13449703326027,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

@@ -441,8 +441,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962441547",
       "variants": [
         {
-          "product_id": 10824962441547,
           "id": 53256233582923,
+          "product_id": 10824962441547,
           "title": "Lavender",
           "price": "21.70",
           "position": 1,
@@ -471,8 +471,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962441547,
           "id": 13450823205195,
+          "product_id": 10824962441547,
           "name": "style",
           "position": 1,
           "values": [
@@ -863,8 +863,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960770379",
       "variants": [
         {
-          "product_id": 10824960770379,
           "id": 53256229519691,
+          "product_id": 10824960770379,
           "title": "100ml",
           "price": "22.63",
           "position": 1,
@@ -893,8 +893,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960770379,
           "id": 13450821468491,
+          "product_id": 10824960770379,
           "name": "style",
           "position": 1,
           "values": [
@@ -1737,8 +1737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "id": 53256408170827,
           "product_id": 10825004908875,
+          "id": 53256408170827,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -1767,8 +1767,8 @@
       ],
       "options": [
         {
-          "id": 13450870489419,
           "product_id": 10825004908875,
+          "id": 13450870489419,
           "name": "format",
           "position": 1,
           "values": [

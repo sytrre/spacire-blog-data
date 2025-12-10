@@ -761,8 +761,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744586059",
       "variants": [
         {
-          "id": 53252390781259,
           "product_id": 10823744586059,
+          "id": 53252390781259,
           "title": "White",
           "price": "30.49",
           "position": 1,
@@ -791,8 +791,8 @@
       ],
       "options": [
         {
-          "id": 13449446916427,
           "product_id": 10823744586059,
+          "id": 13449446916427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14737,8 +14737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14767,8 +14767,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14776,8 +14776,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -17681,8 +17681,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936147787",
       "variants": [
         {
-          "id": 53253572329803,
           "product_id": 10823936147787,
+          "id": 53253572329803,
           "title": "White / USB",
           "price": "72.99",
           "position": 1,
@@ -17711,8 +17711,8 @@
       ],
       "options": [
         {
-          "id": 13449703293259,
           "product_id": 10823936147787,
+          "id": 13449703293259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17720,8 +17720,8 @@
           ]
         },
         {
-          "id": 13449703326027,
           "product_id": 10823936147787,
+          "id": 13449703326027,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
