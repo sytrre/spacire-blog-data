@@ -8068,8 +8068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "id": 53256832352587,
           "product_id": 10825084240203,
+          "id": 53256832352587,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -8096,8 +8096,8 @@
           "image_id": 64365644644683
         },
         {
-          "id": 53256832385355,
           "product_id": 10825084240203,
+          "id": 53256832385355,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -8124,8 +8124,8 @@
           "image_id": 64365644677451
         },
         {
-          "id": 53256832418123,
           "product_id": 10825084240203,
+          "id": 53256832418123,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -8154,8 +8154,8 @@
       ],
       "options": [
         {
-          "id": 13450974003531,
           "product_id": 10825084240203,
+          "id": 13450974003531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12982,8 +12982,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100624203",
       "variants": [
         {
-          "id": 53256902050123,
           "product_id": 10825100624203,
+          "id": 53256902050123,
           "title": "White",
           "price": "440.38",
           "position": 1,
@@ -13012,8 +13012,8 @@
       ],
       "options": [
         {
-          "id": 13451000938827,
           "product_id": 10825100624203,
+          "id": 13451000938827,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21228,8 +21228,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825101181259",
       "variants": [
         {
-          "id": 53256903491915,
           "product_id": 10825101181259,
+          "id": 53256903491915,
           "title": "White",
           "price": "341.53",
           "position": 1,
@@ -21258,8 +21258,8 @@
       ],
       "options": [
         {
-          "id": 13451001659723,
           "product_id": 10825101181259,
+          "id": 13451001659723,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21380,8 +21380,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108652363",
       "variants": [
         {
-          "id": 53256916926795,
           "product_id": 10825108652363,
+          "id": 53256916926795,
           "title": "SM06 Black",
           "price": "195.99",
           "position": 1,
@@ -21408,8 +21408,8 @@
           "image_id": 64365840630091
         },
         {
-          "id": 53256916959563,
           "product_id": 10825108652363,
+          "id": 53256916959563,
           "title": "SM06 White",
           "price": "195.99",
           "position": 2,
@@ -21438,8 +21438,8 @@
       ],
       "options": [
         {
-          "id": 13451010769227,
           "product_id": 10825108652363,
+          "id": 13451010769227,
           "name": "Color",
           "position": 1,
           "values": [
