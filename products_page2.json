@@ -44515,8 +44515,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "product_id": 10823793934667,
           "id": 53252657938763,
+          "product_id": 10823793934667,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -44545,8 +44545,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793934667,
           "id": 13449523659083,
+          "product_id": 10823793934667,
           "name": "style",
           "position": 1,
           "values": [
@@ -44554,8 +44554,8 @@
           ]
         },
         {
-          "product_id": 10823793934667,
           "id": 13449523691851,
+          "product_id": 10823793934667,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -74196,8 +74196,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066250571",
       "variants": [
         {
-          "product_id": 10825066250571,
           "id": 53256709407051,
+          "product_id": 10825066250571,
           "title": "Peacock blue",
           "price": "33.79",
           "position": 1,
@@ -74224,8 +74224,8 @@
           "image_id": 64365450264907
         },
         {
-          "product_id": 10825066250571,
           "id": 53256709439819,
+          "product_id": 10825066250571,
           "title": "Zhangqing",
           "price": "33.79",
           "position": 2,
@@ -74252,8 +74252,8 @@
           "image_id": 64365450297675
         },
         {
-          "product_id": 10825066250571,
           "id": 53256709472587,
+          "product_id": 10825066250571,
           "title": "Black",
           "price": "33.79",
           "position": 3,
@@ -74280,8 +74280,8 @@
           "image_id": 64365450330443
         },
         {
-          "product_id": 10825066250571,
           "id": 53256709505355,
+          "product_id": 10825066250571,
           "title": "Grey",
           "price": "33.79",
           "position": 4,
@@ -74310,8 +74310,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066250571,
           "id": 13450948477259,
+          "product_id": 10825066250571,
           "name": "Color",
           "position": 1,
           "values": [
@@ -87938,8 +87938,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047323979",
       "variants": [
         {
-          "product_id": 14775047323979,
           "id": 53327244591435,
+          "product_id": 14775047323979,
           "title": "Deep Grey",
           "price": "43.96",
           "position": 1,
@@ -87966,8 +87966,8 @@
           "image_id": 64648552448331
         },
         {
-          "product_id": 14775047323979,
           "id": 53327244624203,
+          "product_id": 14775047323979,
           "title": "Light Grey",
           "price": "43.96",
           "position": 2,
@@ -87994,8 +87994,8 @@
           "image_id": 64648552481099
         },
         {
-          "product_id": 14775047323979,
           "id": 53327244656971,
+          "product_id": 14775047323979,
           "title": "Royal Blue",
           "price": "43.96",
           "position": 3,
@@ -88024,8 +88024,8 @@
       ],
       "options": [
         {
-          "product_id": 14775047323979,
           "id": 17120337658187,
+          "product_id": 14775047323979,
           "name": "Color",
           "position": 1,
           "values": [
@@ -94331,8 +94331,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825059598667",
       "variants": [
         {
-          "id": 53256657731915,
           "product_id": 10825059598667,
+          "id": 53256657731915,
           "title": "B style / 69x82cm",
           "price": "39.91",
           "position": 1,
@@ -94359,8 +94359,8 @@
           "image_id": 64365373948235
         },
         {
-          "id": 53256657764683,
           "product_id": 10825059598667,
+          "id": 53256657764683,
           "title": "C style / 69x82cm",
           "price": "39.91",
           "position": 2,
@@ -94387,8 +94387,8 @@
           "image_id": 64365373981003
         },
         {
-          "id": 53256657797451,
           "product_id": 10825059598667,
+          "id": 53256657797451,
           "title": "D style / 69x82cm",
           "price": "39.91",
           "position": 3,
@@ -94415,8 +94415,8 @@
           "image_id": 64365374013771
         },
         {
-          "id": 53256657830219,
           "product_id": 10825059598667,
+          "id": 53256657830219,
           "title": "StyleA / 69x82cm",
           "price": "38.58",
           "position": 4,
@@ -94445,8 +94445,8 @@
       ],
       "options": [
         {
-          "id": 13450937794891,
           "product_id": 10825059598667,
+          "id": 13450937794891,
           "name": "style",
           "position": 1,
           "values": [
@@ -94457,8 +94457,8 @@
           ]
         },
         {
-          "id": 13450937827659,
           "product_id": 10825059598667,
+          "id": 13450937827659,
           "name": "Size",
           "position": 2,
           "values": [
