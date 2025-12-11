@@ -36824,8 +36824,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063792971",
       "variants": [
         {
-          "id": 53256675983691,
           "product_id": 10825063792971,
+          "id": 53256675983691,
           "title": "Cortical eye mask",
           "price": "35.14",
           "position": 1,
@@ -36854,8 +36854,8 @@
       ],
       "options": [
         {
-          "id": 13450944446795,
           "product_id": 10825063792971,
+          "id": 13450944446795,
           "name": "style",
           "position": 1,
           "values": [
