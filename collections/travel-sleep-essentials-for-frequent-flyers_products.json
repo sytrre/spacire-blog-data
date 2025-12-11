@@ -5958,8 +5958,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825046819147",
       "variants": [
         {
-          "product_id": 10825046819147,
           "id": 53256590754123,
+          "product_id": 10825046819147,
           "title": "Black single eye mask",
           "price": "33.22",
           "position": 1,
@@ -5986,8 +5986,8 @@
           "image_id": 64365218103627
         },
         {
-          "product_id": 10825046819147,
           "id": 53256590786891,
+          "product_id": 10825046819147,
           "title": "4pcs set",
           "price": "33.68",
           "position": 2,
@@ -6016,8 +6016,8 @@
       ],
       "options": [
         {
-          "product_id": 10825046819147,
           "id": 13450922623307,
+          "product_id": 10825046819147,
           "name": "style",
           "position": 1,
           "values": [
