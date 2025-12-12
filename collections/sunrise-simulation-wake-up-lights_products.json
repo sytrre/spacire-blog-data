@@ -910,8 +910,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158623563",
       "variants": [
         {
-          "product_id": 10825158623563,
           "id": 53257347039563,
+          "product_id": 10825158623563,
           "title": "Dark grey",
           "price": "34.79",
           "position": 1,
@@ -938,8 +938,8 @@
           "image_id": 64367007498571
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347072331,
+          "product_id": 10825158623563,
           "title": "Black",
           "price": "34.79",
           "position": 2,
@@ -966,8 +966,8 @@
           "image_id": 64367007531339
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347105099,
+          "product_id": 10825158623563,
           "title": "Pink",
           "price": "34.79",
           "position": 3,
@@ -994,8 +994,8 @@
           "image_id": 64367007564107
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347137867,
+          "product_id": 10825158623563,
           "title": "Wine red",
           "price": "34.79",
           "position": 4,
@@ -1022,8 +1022,8 @@
           "image_id": 64367007596875
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347170635,
+          "product_id": 10825158623563,
           "title": "White",
           "price": "34.79",
           "position": 5,
@@ -1050,8 +1050,8 @@
           "image_id": 64367007629643
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347203403,
+          "product_id": 10825158623563,
           "title": "Caramel",
           "price": "34.94",
           "position": 6,
@@ -1078,8 +1078,8 @@
           "image_id": 64367007662411
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347236171,
+          "product_id": 10825158623563,
           "title": "Blue",
           "price": "34.79",
           "position": 7,
@@ -1106,8 +1106,8 @@
           "image_id": 64367007695179
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347268939,
+          "product_id": 10825158623563,
           "title": "Rose gold",
           "price": "34.79",
           "position": 8,
@@ -1134,8 +1134,8 @@
           "image_id": 64367007727947
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347301707,
+          "product_id": 10825158623563,
           "title": "Silver gray",
           "price": "34.79",
           "position": 9,
@@ -1164,8 +1164,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158623563,
           "id": 13451085742411,
+          "product_id": 10825158623563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22872,8 +22872,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825059598667",
       "variants": [
         {
-          "product_id": 10825059598667,
           "id": 53256657731915,
+          "product_id": 10825059598667,
           "title": "B style / 69x82cm",
           "price": "39.91",
           "position": 1,
@@ -22900,8 +22900,8 @@
           "image_id": 64365373948235
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657764683,
+          "product_id": 10825059598667,
           "title": "C style / 69x82cm",
           "price": "39.91",
           "position": 2,
@@ -22928,8 +22928,8 @@
           "image_id": 64365373981003
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657797451,
+          "product_id": 10825059598667,
           "title": "D style / 69x82cm",
           "price": "39.91",
           "position": 3,
@@ -22956,8 +22956,8 @@
           "image_id": 64365374013771
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657830219,
+          "product_id": 10825059598667,
           "title": "StyleA / 69x82cm",
           "price": "38.58",
           "position": 4,
@@ -22986,8 +22986,8 @@
       ],
       "options": [
         {
-          "product_id": 10825059598667,
           "id": 13450937794891,
+          "product_id": 10825059598667,
           "name": "style",
           "position": 1,
           "values": [
@@ -22998,8 +22998,8 @@
           ]
         },
         {
-          "product_id": 10825059598667,
           "id": 13450937827659,
+          "product_id": 10825059598667,
           "name": "Size",
           "position": 2,
           "values": [
