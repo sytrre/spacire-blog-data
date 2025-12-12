@@ -1685,8 +1685,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "product_id": 10825158754635,
           "id": 53257347727691,
+          "product_id": 10825158754635,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -1715,8 +1715,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158754635,
           "id": 13451085906251,
+          "product_id": 10825158754635,
           "name": "Size",
           "position": 1,
           "values": [
@@ -3775,8 +3775,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158984011",
       "variants": [
         {
-          "id": 53257349661003,
           "product_id": 10825158984011,
+          "id": 53257349661003,
           "title": "30 PATCHES",
           "price": "33.57",
           "position": 1,
@@ -3805,8 +3805,8 @@
       ],
       "options": [
         {
-          "id": 13451086233931,
           "product_id": 10825158984011,
+          "id": 13451086233931,
           "name": "quantity",
           "position": 1,
           "values": [
