@@ -42517,8 +42517,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045475659",
       "variants": [
         {
-          "product_id": 10825045475659,
           "id": 53256581611851,
+          "product_id": 10825045475659,
           "title": "Long without elastic",
           "price": "32.58",
           "position": 1,
@@ -42547,8 +42547,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045475659,
           "id": 13450921214283,
+          "product_id": 10825045475659,
           "name": "style",
           "position": 1,
           "values": [
