@@ -5661,8 +5661,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825046819147",
       "variants": [
         {
-          "product_id": 10825046819147,
           "id": 53256590754123,
+          "product_id": 10825046819147,
           "title": "Black single eye mask",
           "price": "33.22",
           "position": 1,
@@ -5689,8 +5689,8 @@
           "image_id": 64365218103627
         },
         {
-          "product_id": 10825046819147,
           "id": 53256590786891,
+          "product_id": 10825046819147,
           "title": "4pcs set",
           "price": "33.68",
           "position": 2,
@@ -5719,8 +5719,8 @@
       ],
       "options": [
         {
-          "product_id": 10825046819147,
           "id": 13450922623307,
+          "product_id": 10825046819147,
           "name": "style",
           "position": 1,
           "values": [
@@ -36968,8 +36968,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -36996,8 +36996,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -37024,8 +37024,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -37052,8 +37052,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -37082,8 +37082,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37094,8 +37094,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
