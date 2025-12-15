@@ -32736,7 +32736,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T03:45:26+01:00",
       "handle": "havenzx-soft-silk-eye-mask-thick-nose-bridge-shading-for-restful-sleep-and-daily-nap",
-      "updated_at": "2025-11-28T04:00:56+00:00",
+      "updated_at": "2025-12-15T15:26:35+00:00",
       "published_at": "2025-08-27T03:45:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -32745,8 +32745,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825034203467",
       "variants": [
         {
-          "id": 53256544747851,
           "product_id": 10825034203467,
+          "id": 53256544747851,
           "title": "Lotus Root Color / 71X11MM",
           "price": "28.92",
           "position": 1,
@@ -32756,7 +32756,7 @@
           "option2": "71X11MM",
           "option3": null,
           "created_at": "2025-08-27T03:45:34+01:00",
-          "updated_at": "2025-09-10T07:10:16+01:00",
+          "updated_at": "2025-12-15T15:26:35+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -32767,16 +32767,16 @@
           "weight": 64.0,
           "weight_unit": "g",
           "inventory_item_id": 55218280989003,
-          "inventory_quantity": 5745,
-          "old_inventory_quantity": 5745,
+          "inventory_quantity": 5744,
+          "old_inventory_quantity": 5744,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256544747851",
           "image_id": 64365075890507
         }
       ],
       "options": [
         {
-          "id": 13450904895819,
           "product_id": 10825034203467,
+          "id": 13450904895819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32784,8 +32784,8 @@
           ]
         },
         {
-          "id": 13450904928587,
           "product_id": 10825034203467,
+          "id": 13450904928587,
           "name": "Specifications",
           "position": 2,
           "values": [
