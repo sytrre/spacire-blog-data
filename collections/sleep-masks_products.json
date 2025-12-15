@@ -29420,7 +29420,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-27T03:42:23+01:00",
       "handle": "halozx-blackout-silk-eye-mask-breathable-sleep-mask-with-elastic-straps-for-comfort-and-better-sleep",
-      "updated_at": "2025-11-19T17:24:57+00:00",
+      "updated_at": "2025-12-15T15:11:50+00:00",
       "published_at": "2025-08-27T03:42:42+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -29429,8 +29429,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031975243",
       "variants": [
         {
-          "id": 53256538095947,
           "product_id": 10825031975243,
+          "id": 53256538095947,
           "title": "Grey2pcs",
           "price": "28.00",
           "position": 1,
@@ -29440,7 +29440,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:42:37+01:00",
-          "updated_at": "2025-09-10T07:10:23+01:00",
+          "updated_at": "2025-12-15T15:11:50+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -29451,14 +29451,14 @@
           "weight": 60.0,
           "weight_unit": "g",
           "inventory_item_id": 55218274337099,
-          "inventory_quantity": 14850,
-          "old_inventory_quantity": 14850,
+          "inventory_quantity": 14849,
+          "old_inventory_quantity": 14849,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256538095947",
           "image_id": 64365037355339
         },
         {
-          "id": 53256538128715,
           "product_id": 10825031975243,
+          "id": 53256538128715,
           "title": "Grey4pcs",
           "price": "28.89",
           "position": 2,
@@ -29485,8 +29485,8 @@
           "image_id": 64365037388107
         },
         {
-          "id": 53256538161483,
           "product_id": 10825031975243,
+          "id": 53256538161483,
           "title": "Yellow",
           "price": "27.42",
           "position": 3,
@@ -29513,8 +29513,8 @@
           "image_id": 64365037420875
         },
         {
-          "id": 53256538194251,
           "product_id": 10825031975243,
+          "id": 53256538194251,
           "title": "Orange",
           "price": "27.42",
           "position": 4,
@@ -29541,8 +29541,8 @@
           "image_id": 64365037453643
         },
         {
-          "id": 53256538227019,
           "product_id": 10825031975243,
+          "id": 53256538227019,
           "title": "Grey",
           "price": "27.42",
           "position": 5,
@@ -29569,8 +29569,8 @@
           "image_id": 64365037486411
         },
         {
-          "id": 53256538259787,
           "product_id": 10825031975243,
+          "id": 53256538259787,
           "title": "Black",
           "price": "27.42",
           "position": 6,
@@ -29597,8 +29597,8 @@
           "image_id": 64365037519179
         },
         {
-          "id": 53256538292555,
           "product_id": 10825031975243,
+          "id": 53256538292555,
           "title": "Red",
           "price": "27.42",
           "position": 7,
@@ -29625,8 +29625,8 @@
           "image_id": 64365037551947
         },
         {
-          "id": 53256538325323,
           "product_id": 10825031975243,
+          "id": 53256538325323,
           "title": "Blue",
           "price": "27.42",
           "position": 8,
@@ -29653,8 +29653,8 @@
           "image_id": 64365037584715
         },
         {
-          "id": 53256538358091,
           "product_id": 10825031975243,
+          "id": 53256538358091,
           "title": "Pink",
           "price": "27.42",
           "position": 9,
@@ -29681,8 +29681,8 @@
           "image_id": 64365037617483
         },
         {
-          "id": 53256538390859,
           "product_id": 10825031975243,
+          "id": 53256538390859,
           "title": "White",
           "price": "27.42",
           "position": 10,
@@ -29711,8 +29711,8 @@
       ],
       "options": [
         {
-          "id": 13450902536523,
           "product_id": 10825031975243,
+          "id": 13450902536523,
           "name": "Color",
           "position": 1,
           "values": [
