@@ -11281,8 +11281,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823954727243",
       "variants": [
         {
-          "id": 53253610045771,
           "product_id": 10823954727243,
+          "id": 53253610045771,
           "title": "White / USB",
           "price": "98.49",
           "position": 1,
@@ -11311,8 +11311,8 @@
       ],
       "options": [
         {
-          "id": 13449723674955,
           "product_id": 10823954727243,
+          "id": 13449723674955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11320,8 +11320,8 @@
           ]
         },
         {
-          "id": 13449723707723,
           "product_id": 10823954727243,
+          "id": 13449723707723,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -19714,8 +19714,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775152312651",
       "variants": [
         {
-          "id": 53327490646347,
           "product_id": 14775152312651,
+          "id": 53327490646347,
           "title": "Dinosaur Paradise / Free Size",
           "price": "33.05",
           "position": 1,
@@ -19742,8 +19742,8 @@
           "image_id": 64650417766731
         },
         {
-          "id": 53327490679115,
           "product_id": 14775152312651,
+          "id": 53327490679115,
           "title": "Universe Star / Free Size",
           "price": "33.05",
           "position": 2,
@@ -19770,8 +19770,8 @@
           "image_id": 64650417799499
         },
         {
-          "id": 53327490711883,
           "product_id": 14775152312651,
+          "id": 53327490711883,
           "title": "Colorful Ocean / Free Size",
           "price": "33.05",
           "position": 3,
@@ -19798,8 +19798,8 @@
           "image_id": 64650417832267
         },
         {
-          "id": 53327490744651,
           "product_id": 14775152312651,
+          "id": 53327490744651,
           "title": "Happy Little Bee / Free Size",
           "price": "33.05",
           "position": 4,
@@ -19826,8 +19826,8 @@
           "image_id": 64650417865035
         },
         {
-          "id": 53327490777419,
           "product_id": 14775152312651,
+          "id": 53327490777419,
           "title": "Geometric Stripes / Free Size",
           "price": "33.05",
           "position": 5,
@@ -19856,8 +19856,8 @@
       ],
       "options": [
         {
-          "id": 17120448545099,
           "product_id": 14775152312651,
+          "id": 17120448545099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19869,8 +19869,8 @@
           ]
         },
         {
-          "id": 17120448577867,
           "product_id": 14775152312651,
+          "id": 17120448577867,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -24688,8 +24688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904160587",
       "variants": [
         {
-          "id": 53325630603595,
           "product_id": 14774904160587,
+          "id": 53325630603595,
           "title": "L",
           "price": "27.83",
           "position": 1,
@@ -24716,8 +24716,8 @@
           "image_id": 64644462772555
         },
         {
-          "id": 53325630636363,
           "product_id": 14774904160587,
+          "id": 53325630636363,
           "title": "M",
           "price": "26.72",
           "position": 2,
@@ -24744,8 +24744,8 @@
           "image_id": 64644462805323
         },
         {
-          "id": 53325630669131,
           "product_id": 14774904160587,
+          "id": 53325630669131,
           "title": "Upgrade",
           "price": "31.17",
           "position": 3,
@@ -24772,8 +24772,8 @@
           "image_id": 64644462838091
         },
         {
-          "id": 53325630701899,
           "product_id": 14774904160587,
+          "id": 53325630701899,
           "title": "S",
           "price": "25.61",
           "position": 4,
@@ -24802,8 +24802,8 @@
       ],
       "options": [
         {
-          "id": 17120143212875,
           "product_id": 14774904160587,
+          "id": 17120143212875,
           "name": "Size",
           "position": 1,
           "values": [
