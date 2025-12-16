@@ -19714,8 +19714,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775152312651",
       "variants": [
         {
-          "product_id": 14775152312651,
           "id": 53327490646347,
+          "product_id": 14775152312651,
           "title": "Dinosaur Paradise / Free Size",
           "price": "33.05",
           "position": 1,
@@ -19742,8 +19742,8 @@
           "image_id": 64650417766731
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490679115,
+          "product_id": 14775152312651,
           "title": "Universe Star / Free Size",
           "price": "33.05",
           "position": 2,
@@ -19770,8 +19770,8 @@
           "image_id": 64650417799499
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490711883,
+          "product_id": 14775152312651,
           "title": "Colorful Ocean / Free Size",
           "price": "33.05",
           "position": 3,
@@ -19798,8 +19798,8 @@
           "image_id": 64650417832267
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490744651,
+          "product_id": 14775152312651,
           "title": "Happy Little Bee / Free Size",
           "price": "33.05",
           "position": 4,
@@ -19826,8 +19826,8 @@
           "image_id": 64650417865035
         },
         {
-          "product_id": 14775152312651,
           "id": 53327490777419,
+          "product_id": 14775152312651,
           "title": "Geometric Stripes / Free Size",
           "price": "33.05",
           "position": 5,
@@ -19856,8 +19856,8 @@
       ],
       "options": [
         {
-          "product_id": 14775152312651,
           "id": 17120448545099,
+          "product_id": 14775152312651,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19869,8 +19869,8 @@
           ]
         },
         {
-          "product_id": 14775152312651,
           "id": 17120448577867,
+          "product_id": 14775152312651,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -92544,7 +92544,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2025-12-16T08:27:56+00:00",
+      "updated_at": "2025-12-16T17:27:36+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -92564,7 +92564,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2025-12-16T08:27:56+00:00",
+          "updated_at": "2025-12-16T17:27:36+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -92575,8 +92575,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40838,
-          "old_inventory_quantity": 40838,
+          "inventory_quantity": 40837,
+          "old_inventory_quantity": 40837,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
@@ -99942,8 +99942,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157640523",
       "variants": [
         {
-          "id": 53257327149387,
           "product_id": 10825157640523,
+          "id": 53257327149387,
           "title": "30PIECES",
           "price": "31.38",
           "position": 1,
@@ -99972,8 +99972,8 @@
       ],
       "options": [
         {
-          "id": 13451083907403,
           "product_id": 10825157640523,
+          "id": 13451083907403,
           "name": "style",
           "position": 1,
           "values": [
