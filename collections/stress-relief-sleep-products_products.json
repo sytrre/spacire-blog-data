@@ -41883,8 +41883,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -41913,8 +41913,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -42899,8 +42899,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "id": 53252755915083,
           "product_id": 10823815659851,
+          "id": 53252755915083,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -42929,8 +42929,8 @@
       ],
       "options": [
         {
-          "id": 13449548726603,
           "product_id": 10823815659851,
+          "id": 13449548726603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -43242,8 +43242,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "id": 53256231453003,
           "product_id": 10824961589579,
+          "id": 53256231453003,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -43272,8 +43272,8 @@
       ],
       "options": [
         {
-          "id": 13450822353227,
           "product_id": 10824961589579,
+          "id": 13450822353227,
           "name": "style",
           "position": 1,
           "values": [
@@ -44879,8 +44879,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "id": 53253498896715,
           "product_id": 10823912358219,
+          "id": 53253498896715,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -44907,8 +44907,8 @@
           "image_id": 64334872019275
         },
         {
-          "id": 53253498929483,
           "product_id": 10823912358219,
+          "id": 53253498929483,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -44937,8 +44937,8 @@
       ],
       "options": [
         {
-          "id": 13449676718411,
           "product_id": 10823912358219,
+          "id": 13449676718411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49220,8 +49220,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634288971",
       "variants": [
         {
-          "id": 53251875078475,
           "product_id": 10823634288971,
+          "id": 53251875078475,
           "title": "White / Bluetooth",
           "price": "51.99",
           "position": 1,
@@ -49248,8 +49248,8 @@
           "image_id": 64329758900555
         },
         {
-          "id": 53251875111243,
           "product_id": 10823634288971,
+          "id": 53251875111243,
           "title": "White / No Bluetooth",
           "price": "48.99",
           "position": 2,
@@ -49278,8 +49278,8 @@
       ],
       "options": [
         {
-          "id": 13449275638091,
           "product_id": 10823634288971,
+          "id": 13449275638091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49287,8 +49287,8 @@
           ]
         },
         {
-          "id": 13449275670859,
           "product_id": 10823634288971,
+          "id": 13449275670859,
           "name": "style",
           "position": 2,
           "values": [
@@ -51161,8 +51161,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -51189,8 +51189,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -51219,8 +51219,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [
