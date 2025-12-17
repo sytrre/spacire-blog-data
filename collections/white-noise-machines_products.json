@@ -14376,8 +14376,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "id": 53256870297931,
           "product_id": 10825089614155,
+          "id": 53256870297931,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -14404,8 +14404,8 @@
           "image_id": 64365692289355
         },
         {
-          "id": 53256870330699,
           "product_id": 10825089614155,
+          "id": 53256870330699,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -14434,8 +14434,8 @@
       ],
       "options": [
         {
-          "id": 13450982129995,
           "product_id": 10825089614155,
+          "id": 13450982129995,
           "name": "Color",
           "position": 1,
           "values": [
