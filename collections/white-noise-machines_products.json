@@ -474,8 +474,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099706699",
       "variants": [
         {
-          "id": 53256899690827,
           "product_id": 10825099706699,
+          "id": 53256899690827,
           "title": "Set",
           "price": "428.72",
           "position": 1,
@@ -504,8 +504,8 @@
       ],
       "options": [
         {
-          "id": 13450999857483,
           "product_id": 10825099706699,
+          "id": 13450999857483,
           "name": "style",
           "position": 1,
           "values": [
