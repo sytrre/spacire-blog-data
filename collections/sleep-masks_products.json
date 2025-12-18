@@ -22466,8 +22466,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045508427",
       "variants": [
         {
-          "id": 53256581742923,
           "product_id": 10825045508427,
+          "id": 53256581742923,
           "title": "Sky Blue",
           "price": "33.13",
           "position": 1,
@@ -22496,8 +22496,8 @@
       ],
       "options": [
         {
-          "id": 13450921247051,
           "product_id": 10825045508427,
+          "id": 13450921247051,
           "name": "Color",
           "position": 1,
           "values": [
