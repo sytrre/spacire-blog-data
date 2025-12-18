@@ -40850,8 +40850,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -40878,8 +40878,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -40908,8 +40908,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44464,8 +44464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634288971",
       "variants": [
         {
-          "product_id": 10823634288971,
           "id": 53251875078475,
+          "product_id": 10823634288971,
           "title": "White / Bluetooth",
           "price": "51.99",
           "position": 1,
@@ -44492,8 +44492,8 @@
           "image_id": 64329758900555
         },
         {
-          "product_id": 10823634288971,
           "id": 53251875111243,
+          "product_id": 10823634288971,
           "title": "White / No Bluetooth",
           "price": "48.99",
           "position": 2,
@@ -44522,8 +44522,8 @@
       ],
       "options": [
         {
-          "product_id": 10823634288971,
           "id": 13449275638091,
+          "product_id": 10823634288971,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44531,8 +44531,8 @@
           ]
         },
         {
-          "product_id": 10823634288971,
           "id": 13449275670859,
+          "product_id": 10823634288971,
           "name": "style",
           "position": 2,
           "values": [
@@ -46240,8 +46240,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "product_id": 10825054585163,
           "id": 53256620376395,
+          "product_id": 10825054585163,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -46268,8 +46268,8 @@
           "image_id": 64365305528651
         },
         {
-          "product_id": 10825054585163,
           "id": 53256620409163,
+          "product_id": 10825054585163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -46298,8 +46298,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054585163,
           "id": 13450931110219,
+          "product_id": 10825054585163,
           "name": "Color",
           "position": 1,
           "values": [
