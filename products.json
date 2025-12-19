@@ -25695,8 +25695,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775149330763",
       "variants": [
         {
-          "id": 53327485960523,
           "product_id": 14775149330763,
+          "id": 53327485960523,
           "title": "Dark gray",
           "price": "28.78",
           "position": 1,
@@ -25723,8 +25723,8 @@
           "image_id": 64650390602059
         },
         {
-          "id": 53327485993291,
           "product_id": 14775149330763,
+          "id": 53327485993291,
           "title": "Light Grey",
           "price": "28.53",
           "position": 2,
@@ -25751,8 +25751,8 @@
           "image_id": 64650390634827
         },
         {
-          "id": 53327486026059,
           "product_id": 14775149330763,
+          "id": 53327486026059,
           "title": "Light gray H pillow with cap",
           "price": "29.63",
           "position": 3,
@@ -25779,8 +25779,8 @@
           "image_id": 64650390667595
         },
         {
-          "id": 53327486058827,
           "product_id": 14775149330763,
+          "id": 53327486058827,
           "title": "Navy Blue",
           "price": "28.53",
           "position": 4,
@@ -25807,8 +25807,8 @@
           "image_id": 64650390700363
         },
         {
-          "id": 53327486091595,
           "product_id": 14775149330763,
+          "id": 53327486091595,
           "title": "Navy blue H pillow with cap",
           "price": "29.63",
           "position": 5,
@@ -25835,8 +25835,8 @@
           "image_id": 64650390733131
         },
         {
-          "id": 53327486124363,
           "product_id": 14775149330763,
+          "id": 53327486124363,
           "title": "Peacock blue",
           "price": "28.78",
           "position": 6,
@@ -25863,8 +25863,8 @@
           "image_id": 64650390765899
         },
         {
-          "id": 53327486157131,
           "product_id": 14775149330763,
+          "id": 53327486157131,
           "title": "Pink",
           "price": "28.53",
           "position": 7,
@@ -25893,8 +25893,8 @@
       ],
       "options": [
         {
-          "id": 17120445497675,
           "product_id": 14775149330763,
+          "id": 17120445497675,
           "name": "Color",
           "position": 1,
           "values": [
@@ -69153,8 +69153,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045508427",
       "variants": [
         {
-          "product_id": 10825045508427,
           "id": 53256581742923,
+          "product_id": 10825045508427,
           "title": "Sky Blue",
           "price": "33.13",
           "position": 1,
@@ -69183,8 +69183,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045508427,
           "id": 13450921247051,
+          "product_id": 10825045508427,
           "name": "Color",
           "position": 1,
           "values": [
