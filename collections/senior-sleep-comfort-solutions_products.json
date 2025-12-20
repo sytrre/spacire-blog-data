@@ -23244,8 +23244,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775151100235",
       "variants": [
         {
-          "product_id": 14775151100235,
           "id": 53327488450891,
+          "product_id": 14775151100235,
           "title": "Style1",
           "price": "31.70",
           "position": 1,
@@ -23274,8 +23274,8 @@
       ],
       "options": [
         {
-          "product_id": 14775151100235,
           "id": 17120447299915,
+          "product_id": 14775151100235,
           "name": "style",
           "position": 1,
           "values": [
