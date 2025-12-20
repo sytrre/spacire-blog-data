@@ -16563,8 +16563,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054617931",
       "variants": [
         {
-          "product_id": 10825054617931,
           "id": 53256620704075,
+          "product_id": 10825054617931,
           "title": "Flax / 1.8x1m",
           "price": "41.23",
           "position": 1,
@@ -16591,8 +16591,8 @@
           "image_id": 64365306544459
         },
         {
-          "product_id": 10825054617931,
           "id": 53256620736843,
+          "product_id": 10825054617931,
           "title": "Flax / 1.8x1.8m",
           "price": "44.19",
           "position": 2,
@@ -16621,8 +16621,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054617931,
           "id": 13450931142987,
+          "product_id": 10825054617931,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16630,8 +16630,8 @@
           ]
         },
         {
-          "product_id": 10825054617931,
           "id": 13450931175755,
+          "product_id": 10825054617931,
           "name": "Size",
           "position": 2,
           "values": [
@@ -101054,8 +101054,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909867851",
       "variants": [
         {
-          "id": 53253481988427,
           "product_id": 10823909867851,
+          "id": 53253481988427,
           "title": "default",
           "price": "24.49",
           "position": 1,
@@ -101084,8 +101084,8 @@
       ],
       "options": [
         {
-          "id": 13449673572683,
           "product_id": 10823909867851,
+          "id": 13449673572683,
           "name": "default",
           "position": 1,
           "values": [
