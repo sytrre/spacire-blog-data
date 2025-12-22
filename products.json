@@ -117425,8 +117425,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823813497163",
       "variants": [
         {
-          "id": 53252747198795,
           "product_id": 10823813497163,
+          "id": 53252747198795,
           "title": "Black / Type A",
           "price": "33.49",
           "position": 1,
@@ -117453,8 +117453,8 @@
           "image_id": 64333042090315
         },
         {
-          "id": 53252747231563,
           "product_id": 10823813497163,
+          "id": 53252747231563,
           "title": "Black / Type B Size Large",
           "price": "38.99",
           "position": 2,
@@ -117481,8 +117481,8 @@
           "image_id": 64333042090315
         },
         {
-          "id": 53252747264331,
           "product_id": 10823813497163,
+          "id": 53252747264331,
           "title": "Black / Type B Size Small",
           "price": "38.99",
           "position": 3,
@@ -117509,8 +117509,8 @@
           "image_id": 64333042123083
         },
         {
-          "id": 53252747297099,
           "product_id": 10823813497163,
+          "id": 53252747297099,
           "title": "Black / Type C",
           "price": "32.99",
           "position": 4,
@@ -117537,8 +117537,8 @@
           "image_id": 64333042155851
         },
         {
-          "id": 53252747329867,
           "product_id": 10823813497163,
+          "id": 53252747329867,
           "title": "Black / Type D",
           "price": "29.49",
           "position": 5,
@@ -117567,8 +117567,8 @@
       ],
       "options": [
         {
-          "id": 13449546367307,
           "product_id": 10823813497163,
+          "id": 13449546367307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -117576,8 +117576,8 @@
           ]
         },
         {
-          "id": 13449546400075,
           "product_id": 10823813497163,
+          "id": 13449546400075,
           "name": "Specifications",
           "position": 2,
           "values": [
