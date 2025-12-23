@@ -99103,8 +99103,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815463243",
       "variants": [
         {
-          "id": 53252754768203,
           "product_id": 10823815463243,
+          "id": 53252754768203,
           "title": "Black Lycra hood",
           "price": "31.49",
           "position": 1,
@@ -99131,8 +99131,8 @@
           "image_id": 64333120602443
         },
         {
-          "id": 53252754800971,
           "product_id": 10823815463243,
+          "id": 53252754800971,
           "title": "Black all inclusive hood",
           "price": "30.49",
           "position": 2,
@@ -99159,8 +99159,8 @@
           "image_id": 64333120635211
         },
         {
-          "id": 53252754833739,
           "product_id": 10823815463243,
+          "id": 53252754833739,
           "title": "Black open top hood",
           "price": "31.99",
           "position": 3,
@@ -99187,8 +99187,8 @@
           "image_id": 64333120667979
         },
         {
-          "id": 53252754866507,
           "product_id": 10823815463243,
+          "id": 53252754866507,
           "title": "Black ponytail hood",
           "price": "34.49",
           "position": 4,
@@ -99215,8 +99215,8 @@
           "image_id": 64333120700747
         },
         {
-          "id": 53252754899275,
           "product_id": 10823815463243,
+          "id": 53252754899275,
           "title": "White open top hood",
           "price": "31.99",
           "position": 5,
@@ -99245,8 +99245,8 @@
       ],
       "options": [
         {
-          "id": 13449548529995,
           "product_id": 10823815463243,
+          "id": 13449548529995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -116271,8 +116271,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823633076555",
       "variants": [
         {
-          "id": 53251870359883,
           "product_id": 10823633076555,
+          "id": 53251870359883,
           "title": "Black / USB",
           "price": "43.49",
           "position": 1,
@@ -116301,8 +116301,8 @@
       ],
       "options": [
         {
-          "id": 13449274294603,
           "product_id": 10823633076555,
+          "id": 13449274294603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -116310,8 +116310,8 @@
           ]
         },
         {
-          "id": 13449274327371,
           "product_id": 10823633076555,
+          "id": 13449274327371,
           "name": "power",
           "position": 2,
           "values": [
