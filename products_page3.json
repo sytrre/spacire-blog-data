@@ -17,8 +17,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773585838411",
       "variants": [
         {
-          "id": 53317507809611,
           "product_id": 14773585838411,
+          "id": 53317507809611,
           "title": "Pink / 130x170",
           "price": "51.79",
           "position": 1,
@@ -45,8 +45,8 @@
           "image_id": 64623521595723
         },
         {
-          "id": 53317507842379,
           "product_id": 14773585838411,
+          "id": 53317507842379,
           "title": "Yellow / 130x170",
           "price": "51.79",
           "position": 2,
@@ -73,8 +73,8 @@
           "image_id": 64623521628491
         },
         {
-          "id": 53317507875147,
           "product_id": 14773585838411,
+          "id": 53317507875147,
           "title": "Gray / 130x170",
           "price": "51.79",
           "position": 3,
@@ -101,8 +101,8 @@
           "image_id": 64623521661259
         },
         {
-          "id": 53317507907915,
           "product_id": 14773585838411,
+          "id": 53317507907915,
           "title": "Orange / 130x170",
           "price": "51.79",
           "position": 4,
@@ -131,8 +131,8 @@
       ],
       "options": [
         {
-          "id": 17118399529291,
           "product_id": 14773585838411,
+          "id": 17118399529291,
           "name": "Color",
           "position": 1,
           "values": [
@@ -143,8 +143,8 @@
           ]
         },
         {
-          "id": 17118399562059,
           "product_id": 14773585838411,
+          "id": 17118399562059,
           "name": "Size",
           "position": 2,
           "values": [
@@ -5253,8 +5253,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744160075",
       "variants": [
         {
-          "id": 53252387078475,
           "product_id": 10823744160075,
+          "id": 53252387078475,
           "title": "White / USB / Bluetooth version",
           "price": "40.49",
           "position": 1,
@@ -5283,8 +5283,8 @@
       ],
       "options": [
         {
-          "id": 13449445867851,
           "product_id": 10823744160075,
+          "id": 13449445867851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5292,8 +5292,8 @@
           ]
         },
         {
-          "id": 13449445900619,
           "product_id": 10823744160075,
+          "id": 13449445900619,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -5301,8 +5301,8 @@
           ]
         },
         {
-          "id": 13449445933387,
           "product_id": 10823744160075,
+          "id": 13449445933387,
           "name": "style",
           "position": 3,
           "values": [
