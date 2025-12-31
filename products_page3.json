@@ -17,8 +17,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773585838411",
       "variants": [
         {
-          "product_id": 14773585838411,
           "id": 53317507809611,
+          "product_id": 14773585838411,
           "title": "Pink / 130x170",
           "price": "51.79",
           "position": 1,
@@ -45,8 +45,8 @@
           "image_id": 64623521595723
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507842379,
+          "product_id": 14773585838411,
           "title": "Yellow / 130x170",
           "price": "51.79",
           "position": 2,
@@ -73,8 +73,8 @@
           "image_id": 64623521628491
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507875147,
+          "product_id": 14773585838411,
           "title": "Gray / 130x170",
           "price": "51.79",
           "position": 3,
@@ -101,8 +101,8 @@
           "image_id": 64623521661259
         },
         {
-          "product_id": 14773585838411,
           "id": 53317507907915,
+          "product_id": 14773585838411,
           "title": "Orange / 130x170",
           "price": "51.79",
           "position": 4,
@@ -131,8 +131,8 @@
       ],
       "options": [
         {
-          "product_id": 14773585838411,
           "id": 17118399529291,
+          "product_id": 14773585838411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -143,8 +143,8 @@
           ]
         },
         {
-          "product_id": 14773585838411,
           "id": 17118399562059,
+          "product_id": 14773585838411,
           "name": "Size",
           "position": 2,
           "values": [
