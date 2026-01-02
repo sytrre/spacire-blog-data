@@ -38282,8 +38282,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794557259",
       "variants": [
         {
-          "id": 53252659937611,
           "product_id": 10823794557259,
+          "id": 53252659937611,
           "title": "Classic White",
           "price": "32.99",
           "position": 1,
@@ -38312,8 +38312,8 @@
       ],
       "options": [
         {
-          "id": 13449524347211,
           "product_id": 10823794557259,
+          "id": 13449524347211,
           "name": "Color",
           "position": 1,
           "values": [
