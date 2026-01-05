@@ -31115,8 +31115,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771300991307",
       "variants": [
         {
-          "id": 53309973365067,
           "product_id": 14771300991307,
+          "id": 53309973365067,
           "title": "Luxury",
           "price": "55.77",
           "position": 1,
@@ -31145,8 +31145,8 @@
       ],
       "options": [
         {
-          "id": 17115828060491,
           "product_id": 14771300991307,
+          "id": 17115828060491,
           "name": "Specifications",
           "position": 1,
           "values": [
