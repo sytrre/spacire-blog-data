@@ -2464,8 +2464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823694680395",
       "variants": [
         {
-          "product_id": 10823694680395,
           "id": 53252091707723,
+          "product_id": 10823694680395,
           "title": "Black 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 1,
@@ -2492,8 +2492,8 @@
           "image_id": 64330986291531
         },
         {
-          "product_id": 10823694680395,
           "id": 53252091740491,
+          "product_id": 10823694680395,
           "title": "Grey 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 2,
@@ -2522,8 +2522,8 @@
       ],
       "options": [
         {
-          "product_id": 10823694680395,
           "id": 13449347825995,
+          "product_id": 10823694680395,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2532,8 +2532,8 @@
           ]
         },
         {
-          "product_id": 10823694680395,
           "id": 13449347858763,
+          "product_id": 10823694680395,
           "name": "style",
           "position": 2,
           "values": [
@@ -2541,8 +2541,8 @@
           ]
         },
         {
-          "product_id": 10823694680395,
           "id": 13449347891531,
+          "product_id": 10823694680395,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
