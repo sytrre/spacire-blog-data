@@ -8911,8 +8911,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793836363",
       "variants": [
         {
-          "product_id": 10823793836363,
           "id": 53252657774923,
+          "product_id": 10823793836363,
           "title": "Black",
           "price": "80.99",
           "position": 1,
@@ -8939,8 +8939,8 @@
           "image_id": 64332485132619
         },
         {
-          "product_id": 10823793836363,
           "id": 53252657807691,
+          "product_id": 10823793836363,
           "title": "Light Green",
           "price": "124.49",
           "position": 2,
@@ -8969,8 +8969,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793836363,
           "id": 13449523528011,
+          "product_id": 10823793836363,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34987,8 +34987,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047389515",
       "variants": [
         {
-          "id": 53327244853579,
           "product_id": 14775047389515,
+          "id": 53327244853579,
           "title": "Flagship / 220V US",
           "price": "74.29",
           "position": 1,
@@ -35015,8 +35015,8 @@
           "image_id": null
         },
         {
-          "id": 53327244886347,
           "product_id": 14775047389515,
+          "id": 53327244886347,
           "title": "Flagship / EU",
           "price": "73.69",
           "position": 2,
@@ -35045,8 +35045,8 @@
       ],
       "options": [
         {
-          "id": 17120337723723,
           "product_id": 14775047389515,
+          "id": 17120337723723,
           "name": "style",
           "position": 1,
           "values": [
@@ -35054,8 +35054,8 @@
           ]
         },
         {
-          "id": 17120337756491,
           "product_id": 14775047389515,
+          "id": 17120337756491,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
