@@ -91697,8 +91697,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823926350155",
       "variants": [
         {
-          "id": 53253547295051,
           "product_id": 10823926350155,
+          "id": 53253547295051,
           "title": "Blue / USB",
           "price": "46.99",
           "position": 1,
@@ -91725,8 +91725,8 @@
           "image_id": 64335116534091
         },
         {
-          "id": 53253547327819,
           "product_id": 10823926350155,
+          "id": 53253547327819,
           "title": "Pink / USB",
           "price": "46.99",
           "position": 2,
@@ -91753,8 +91753,8 @@
           "image_id": 64335116566859
         },
         {
-          "id": 53253547360587,
           "product_id": 10823926350155,
+          "id": 53253547360587,
           "title": "White / USB",
           "price": "50.99",
           "position": 3,
@@ -91783,8 +91783,8 @@
       ],
       "options": [
         {
-          "id": 13449692381515,
           "product_id": 10823926350155,
+          "id": 13449692381515,
           "name": "Color",
           "position": 1,
           "values": [
@@ -91794,8 +91794,8 @@
           ]
         },
         {
-          "id": 13449692414283,
           "product_id": 10823926350155,
+          "id": 13449692414283,
           "name": "power",
           "position": 2,
           "values": [
@@ -105737,8 +105737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "id": 53256803025227,
           "product_id": 10825080078667,
+          "id": 53256803025227,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -105767,8 +105767,8 @@
       ],
       "options": [
         {
-          "id": 13450967777611,
           "product_id": 10825080078667,
+          "id": 13450967777611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -105776,8 +105776,8 @@
           ]
         },
         {
-          "id": 13450967810379,
           "product_id": 10825080078667,
+          "id": 13450967810379,
           "name": "power",
           "position": 2,
           "values": [
