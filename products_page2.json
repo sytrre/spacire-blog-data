@@ -8324,8 +8324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189583691",
       "variants": [
         {
-          "id": 53331896009035,
           "product_id": 14776189583691,
+          "id": 53331896009035,
           "title": "Curtain / 31",
           "price": "32.43",
           "position": 1,
@@ -8352,8 +8352,8 @@
           "image_id": null
         },
         {
-          "id": 53331896041803,
           "product_id": 14776189583691,
+          "id": 53331896041803,
           "title": "Curtain / 30",
           "price": "32.43",
           "position": 2,
@@ -8380,8 +8380,8 @@
           "image_id": null
         },
         {
-          "id": 53331896074571,
           "product_id": 14776189583691,
+          "id": 53331896074571,
           "title": "Curtain / 34",
           "price": "32.43",
           "position": 3,
@@ -8408,8 +8408,8 @@
           "image_id": null
         },
         {
-          "id": 53331896107339,
           "product_id": 14776189583691,
+          "id": 53331896107339,
           "title": "Curtain / 25",
           "price": "32.43",
           "position": 4,
@@ -8436,8 +8436,8 @@
           "image_id": null
         },
         {
-          "id": 53331896140107,
           "product_id": 14776189583691,
+          "id": 53331896140107,
           "title": "Curtain / 23",
           "price": "32.43",
           "position": 5,
@@ -8464,8 +8464,8 @@
           "image_id": null
         },
         {
-          "id": 53331896172875,
           "product_id": 14776189583691,
+          "id": 53331896172875,
           "title": "Curtain / 24",
           "price": "32.43",
           "position": 6,
@@ -8492,8 +8492,8 @@
           "image_id": null
         },
         {
-          "id": 53331896205643,
           "product_id": 14776189583691,
+          "id": 53331896205643,
           "title": "Curtain / 26",
           "price": "32.43",
           "position": 7,
@@ -8522,8 +8522,8 @@
       ],
       "options": [
         {
-          "id": 17121696710987,
           "product_id": 14776189583691,
+          "id": 17121696710987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8531,8 +8531,8 @@
           ]
         },
         {
-          "id": 17121696743755,
           "product_id": 14776189583691,
+          "id": 17121696743755,
           "name": "Style",
           "position": 2,
           "values": [
