@@ -35379,8 +35379,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047389515",
       "variants": [
         {
-          "product_id": 14775047389515,
           "id": 53327244853579,
+          "product_id": 14775047389515,
           "title": "Flagship / 220V US",
           "price": "74.29",
           "position": 1,
@@ -35407,8 +35407,8 @@
           "image_id": null
         },
         {
-          "product_id": 14775047389515,
           "id": 53327244886347,
+          "product_id": 14775047389515,
           "title": "Flagship / EU",
           "price": "73.69",
           "position": 2,
@@ -35437,8 +35437,8 @@
       ],
       "options": [
         {
-          "product_id": 14775047389515,
           "id": 17120337723723,
+          "product_id": 14775047389515,
           "name": "style",
           "position": 1,
           "values": [
@@ -35446,8 +35446,8 @@
           ]
         },
         {
-          "product_id": 14775047389515,
           "id": 17120337756491,
+          "product_id": 14775047389515,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
