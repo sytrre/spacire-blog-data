@@ -632,8 +632,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383147479371",
       "variants": [
         {
-          "id": 55974118228299,
           "product_id": 15383147479371,
+          "id": 55974118228299,
           "title": "Black-15day-S",
           "price": "22.35",
           "position": 1,
@@ -660,8 +660,8 @@
           "image_id": 79378876301643
         },
         {
-          "id": 55974118261067,
           "product_id": 15383147479371,
+          "id": 55974118261067,
           "title": "Black-30day-S",
           "price": "22.55",
           "position": 2,
@@ -688,8 +688,8 @@
           "image_id": 79378876137803
         },
         {
-          "id": 55974118293835,
           "product_id": 15383147479371,
+          "id": 55974118293835,
           "title": "White-15day-S",
           "price": "22.45",
           "position": 3,
@@ -716,8 +716,8 @@
           "image_id": 79378876170571
         },
         {
-          "id": 55974118326603,
           "product_id": 15383147479371,
+          "id": 55974118326603,
           "title": "White-30day-S",
           "price": "22.75",
           "position": 4,
@@ -744,8 +744,8 @@
           "image_id": 79378876203339
         },
         {
-          "id": 55974118359371,
           "product_id": 15383147479371,
+          "id": 55974118359371,
           "title": "White-30day-R",
           "price": "22.75",
           "position": 5,
@@ -772,8 +772,8 @@
           "image_id": 79378876236107
         },
         {
-          "id": 55974118392139,
           "product_id": 15383147479371,
+          "id": 55974118392139,
           "title": "Black-30day-R",
           "price": "22.60",
           "position": 6,
@@ -802,8 +802,8 @@
       ],
       "options": [
         {
-          "id": 17822060216651,
           "product_id": 15383147479371,
+          "id": 17822060216651,
           "name": "Color",
           "position": 1,
           "values": [
