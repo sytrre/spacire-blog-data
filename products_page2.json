@@ -37629,8 +37629,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108160843",
       "variants": [
         {
-          "product_id": 10825108160843,
           "id": 53256915812683,
+          "product_id": 10825108160843,
           "title": "White 085 Neutral",
           "price": "503.53",
           "position": 1,
@@ -37659,8 +37659,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108160843,
           "id": 13451010244939,
+          "product_id": 10825108160843,
           "name": "Color",
           "position": 1,
           "values": [
