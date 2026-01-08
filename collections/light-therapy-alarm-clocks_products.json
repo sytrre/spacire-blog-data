@@ -163,8 +163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823634846027",
       "variants": [
         {
-          "product_id": 10823634846027,
           "id": 53251876716875,
+          "product_id": 10823634846027,
           "title": "Black",
           "price": "36.99",
           "position": 1,
@@ -191,8 +191,8 @@
           "image_id": 64329765585227
         },
         {
-          "product_id": 10823634846027,
           "id": 53251876749643,
+          "product_id": 10823634846027,
           "title": "White",
           "price": "40.49",
           "position": 2,
@@ -219,8 +219,8 @@
           "image_id": 64329765617995
         },
         {
-          "product_id": 10823634846027,
           "id": 53251876782411,
+          "product_id": 10823634846027,
           "title": "Wine red",
           "price": "40.49",
           "position": 3,
@@ -249,8 +249,8 @@
       ],
       "options": [
         {
-          "product_id": 10823634846027,
           "id": 13449276227915,
+          "product_id": 10823634846027,
           "name": "Color",
           "position": 1,
           "values": [
