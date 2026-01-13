@@ -1463,8 +1463,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960246091",
       "variants": [
         {
-          "id": 53256219230539,
           "product_id": 10824960246091,
+          "id": 53256219230539,
           "title": "30ml",
           "price": "21.02",
           "position": 1,
@@ -1493,8 +1493,8 @@
       ],
       "options": [
         {
-          "id": 13450820714827,
           "product_id": 10824960246091,
+          "id": 13450820714827,
           "name": "style",
           "position": 1,
           "values": [
@@ -2528,8 +2528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "id": 53256408170827,
           "product_id": 10825004908875,
+          "id": 53256408170827,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -2558,8 +2558,8 @@
       ],
       "options": [
         {
-          "id": 13450870489419,
           "product_id": 10825004908875,
+          "id": 13450870489419,
           "name": "format",
           "position": 1,
           "values": [
