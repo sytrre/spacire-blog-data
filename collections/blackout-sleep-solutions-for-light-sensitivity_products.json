@@ -22794,8 +22794,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825026896203",
       "variants": [
         {
-          "id": 53256523841867,
           "product_id": 10825026896203,
+          "id": 53256523841867,
           "title": "Red",
           "price": "29.95",
           "position": 1,
@@ -22822,8 +22822,8 @@
           "image_id": 64364963758411
         },
         {
-          "id": 53256523874635,
           "product_id": 10825026896203,
+          "id": 53256523874635,
           "title": "Pink",
           "price": "29.95",
           "position": 2,
@@ -22850,8 +22850,8 @@
           "image_id": 64364963791179
         },
         {
-          "id": 53256523907403,
           "product_id": 10825026896203,
+          "id": 53256523907403,
           "title": "Meat meal",
           "price": "29.83",
           "position": 3,
@@ -22878,8 +22878,8 @@
           "image_id": 64364963823947
         },
         {
-          "id": 53256523940171,
           "product_id": 10825026896203,
+          "id": 53256523940171,
           "title": "Net red and green",
           "price": "29.95",
           "position": 4,
@@ -22906,8 +22906,8 @@
           "image_id": 64364963856715
         },
         {
-          "id": 53256523972939,
           "product_id": 10825026896203,
+          "id": 53256523972939,
           "title": "Taro purple",
           "price": "29.95",
           "position": 5,
@@ -22934,8 +22934,8 @@
           "image_id": 64364963889483
         },
         {
-          "id": 53256524005707,
           "product_id": 10825026896203,
+          "id": 53256524005707,
           "title": "Mercerized blue",
           "price": "29.95",
           "position": 6,
@@ -22962,8 +22962,8 @@
           "image_id": 64364963922251
         },
         {
-          "id": 53256524038475,
           "product_id": 10825026896203,
+          "id": 53256524038475,
           "title": "Apricot",
           "price": "29.95",
           "position": 7,
@@ -22990,8 +22990,8 @@
           "image_id": 64364963955019
         },
         {
-          "id": 53256524071243,
           "product_id": 10825026896203,
+          "id": 53256524071243,
           "title": "Gold",
           "price": "29.83",
           "position": 8,
@@ -23018,8 +23018,8 @@
           "image_id": 64364963987787
         },
         {
-          "id": 53256524104011,
           "product_id": 10825026896203,
+          "id": 53256524104011,
           "title": "Black",
           "price": "29.83",
           "position": 9,
@@ -23046,8 +23046,8 @@
           "image_id": 64364964020555
         },
         {
-          "id": 53256524136779,
           "product_id": 10825026896203,
+          "id": 53256524136779,
           "title": "02.Red",
           "price": "29.62",
           "position": 10,
@@ -23076,8 +23076,8 @@
       ],
       "options": [
         {
-          "id": 13450897162571,
           "product_id": 10825026896203,
+          "id": 13450897162571,
           "name": "Color",
           "position": 1,
           "values": [
@@ -45448,8 +45448,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047277899",
       "variants": [
         {
-          "id": 53256592359755,
           "product_id": 10825047277899,
+          "id": 53256592359755,
           "title": "C Black",
           "price": "36.68",
           "position": 1,
@@ -45476,8 +45476,8 @@
           "image_id": 64365224821067
         },
         {
-          "id": 53256592392523,
           "product_id": 10825047277899,
+          "id": 53256592392523,
           "title": "Dark grey",
           "price": "36.63",
           "position": 2,
@@ -45504,8 +45504,8 @@
           "image_id": 64365224853835
         },
         {
-          "id": 53256592425291,
           "product_id": 10825047277899,
+          "id": 53256592425291,
           "title": "YR01Black",
           "price": "35.78",
           "position": 3,
@@ -45532,8 +45532,8 @@
           "image_id": 64365224886603
         },
         {
-          "id": 53256592458059,
           "product_id": 10825047277899,
+          "id": 53256592458059,
           "title": "Black normal",
           "price": "34.69",
           "position": 4,
@@ -45560,8 +45560,8 @@
           "image_id": 64365224919371
         },
         {
-          "id": 53256592490827,
           "product_id": 10825047277899,
+          "id": 53256592490827,
           "title": "Grey",
           "price": "38.18",
           "position": 5,
@@ -45590,8 +45590,8 @@
       ],
       "options": [
         {
-          "id": 13450923082059,
           "product_id": 10825047277899,
+          "id": 13450923082059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57953,7 +57953,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-13T11:26:31+00:00",
+      "updated_at": "2026-01-14T08:26:15+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -57973,7 +57973,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-13T11:26:31+00:00",
+          "updated_at": "2026-01-14T08:26:15+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -57984,8 +57984,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40725,
-          "old_inventory_quantity": 40725,
+          "inventory_quantity": 40721,
+          "old_inventory_quantity": 40721,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
