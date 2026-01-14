@@ -15439,8 +15439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "id": 53256627061067,
           "product_id": 10825056452939,
+          "id": 53256627061067,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -15469,8 +15469,8 @@
       ],
       "options": [
         {
-          "id": 13450933338443,
           "product_id": 10825056452939,
+          "id": 13450933338443,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15478,8 +15478,8 @@
           ]
         },
         {
-          "id": 13450933371211,
           "product_id": 10825056452939,
+          "id": 13450933371211,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -94439,8 +94439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823915569483",
       "variants": [
         {
-          "product_id": 10823915569483,
           "id": 53253514166603,
+          "product_id": 10823915569483,
           "title": "Blue Hook / 1.5x1.6m",
           "price": "63.99",
           "position": 1,
@@ -94467,8 +94467,8 @@
           "image_id": 64334945288523
         },
         {
-          "product_id": 10823915569483,
           "id": 53253514199371,
+          "product_id": 10823915569483,
           "title": "Blue Hook / 1.5x1.8m",
           "price": "69.99",
           "position": 2,
@@ -94497,8 +94497,8 @@
       ],
       "options": [
         {
-          "product_id": 10823915569483,
           "id": 13449680716107,
+          "product_id": 10823915569483,
           "name": "Color",
           "position": 1,
           "values": [
@@ -94506,8 +94506,8 @@
           ]
         },
         {
-          "product_id": 10823915569483,
           "id": 13449680748875,
+          "product_id": 10823915569483,
           "name": "Size",
           "position": 2,
           "values": [
