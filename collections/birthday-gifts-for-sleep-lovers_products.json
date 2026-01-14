@@ -125286,8 +125286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774749888843",
       "variants": [
         {
-          "id": 53325041959243,
           "product_id": 14774749888843,
+          "id": 53325041959243,
           "title": "Blue / 130160cm",
           "price": "65.39",
           "position": 1,
@@ -125314,8 +125314,8 @@
           "image_id": 64641962836299
         },
         {
-          "id": 53325041992011,
           "product_id": 14774749888843,
+          "id": 53325041992011,
           "title": "Yellow / 130160cm",
           "price": "65.39",
           "position": 2,
@@ -125344,8 +125344,8 @@
       ],
       "options": [
         {
-          "id": 17119981076811,
           "product_id": 14774749888843,
+          "id": 17119981076811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -125354,8 +125354,8 @@
           ]
         },
         {
-          "id": 17119981109579,
           "product_id": 14774749888843,
+          "id": 17119981109579,
           "name": "Size",
           "position": 2,
           "values": [
