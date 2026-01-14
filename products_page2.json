@@ -37629,8 +37629,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108160843",
       "variants": [
         {
-          "id": 53256915812683,
           "product_id": 10825108160843,
+          "id": 53256915812683,
           "title": "White 085 Neutral",
           "price": "503.53",
           "position": 1,
@@ -37659,8 +37659,8 @@
       ],
       "options": [
         {
-          "id": 13451010244939,
           "product_id": 10825108160843,
+          "id": 13451010244939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -46737,8 +46737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771300237643",
       "variants": [
         {
-          "id": 53309972676939,
           "product_id": 14771300237643,
+          "id": 53309972676939,
           "title": "Grey",
           "price": "17.69",
           "position": 1,
@@ -46765,8 +46765,8 @@
           "image_id": 64592321937739
         },
         {
-          "id": 53309972709707,
           "product_id": 14771300237643,
+          "id": 53309972709707,
           "title": "red",
           "price": "17.36",
           "position": 2,
@@ -46793,8 +46793,8 @@
           "image_id": 64592321970507
         },
         {
-          "id": 53309972742475,
           "product_id": 14771300237643,
+          "id": 53309972742475,
           "title": "pink",
           "price": "17.36",
           "position": 3,
@@ -46821,8 +46821,8 @@
           "image_id": 64592322003275
         },
         {
-          "id": 53309972775243,
           "product_id": 14771300237643,
+          "id": 53309972775243,
           "title": "deep blue",
           "price": "17.36",
           "position": 4,
@@ -46849,8 +46849,8 @@
           "image_id": 64592322036043
         },
         {
-          "id": 53309972808011,
           "product_id": 14771300237643,
+          "id": 53309972808011,
           "title": "blue",
           "price": "17.36",
           "position": 5,
@@ -46879,8 +46879,8 @@
       ],
       "options": [
         {
-          "id": 17115827306827,
           "product_id": 14771300237643,
+          "id": 17115827306827,
           "name": "Color",
           "position": 1,
           "values": [
