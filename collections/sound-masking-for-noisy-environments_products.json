@@ -5280,8 +5280,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823772438859",
       "variants": [
         {
-          "product_id": 10823772438859,
           "id": 53252545315147,
+          "product_id": 10823772438859,
           "title": "Gray / Chinese Packaging",
           "price": "40.99",
           "position": 1,
@@ -5308,8 +5308,8 @@
           "image_id": 64332163121483
         },
         {
-          "product_id": 10823772438859,
           "id": 53252545347915,
+          "product_id": 10823772438859,
           "title": "Gray / English Packaging",
           "price": "40.99",
           "position": 2,
@@ -5338,8 +5338,8 @@
       ],
       "options": [
         {
-          "product_id": 10823772438859,
           "id": 13449495642443,
+          "product_id": 10823772438859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5347,8 +5347,8 @@
           ]
         },
         {
-          "product_id": 10823772438859,
           "id": 13449495675211,
+          "product_id": 10823772438859,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -14364,8 +14364,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "product_id": 10823924449611,
           "id": 53253540938059,
+          "product_id": 10823924449611,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14394,8 +14394,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924449611,
           "id": 13449690186059,
+          "product_id": 10823924449611,
           "name": "Color",
           "position": 1,
           "values": [

@@ -16042,8 +16042,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960246091",
       "variants": [
         {
-          "product_id": 10824960246091,
           "id": 53256219230539,
+          "product_id": 10824960246091,
           "title": "30ml",
           "price": "21.02",
           "position": 1,
@@ -16072,8 +16072,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960246091,
           "id": 13450820714827,
+          "product_id": 10824960246091,
           "name": "style",
           "position": 1,
           "values": [
