@@ -11166,8 +11166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "product_id": 10823744356683,
           "id": 53252389568843,
+          "product_id": 10823744356683,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -11196,8 +11196,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744356683,
           "id": 13449446457675,
+          "product_id": 10823744356683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19641,8 +19641,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -19671,8 +19671,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19680,8 +19680,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [

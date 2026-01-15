@@ -407,8 +407,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "product_id": 10823744356683,
           "id": 53252389568843,
+          "product_id": 10823744356683,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -437,8 +437,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744356683,
           "id": 13449446457675,
+          "product_id": 10823744356683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8175,8 +8175,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054716235",
       "variants": [
         {
-          "id": 53256621654347,
           "product_id": 10825054716235,
+          "id": 53256621654347,
           "title": "Grey",
           "price": "32.93",
           "position": 1,
@@ -8203,8 +8203,8 @@
           "image_id": 64365307363659
         },
         {
-          "id": 53256621687115,
           "product_id": 10825054716235,
+          "id": 53256621687115,
           "title": "Black",
           "price": "32.93",
           "position": 2,
@@ -8233,8 +8233,8 @@
       ],
       "options": [
         {
-          "id": 13450931339595,
           "product_id": 10825054716235,
+          "id": 13450931339595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11612,8 +11612,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "product_id": 10823815659851,
           "id": 53252755915083,
+          "product_id": 10823815659851,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -11642,8 +11642,8 @@
       ],
       "options": [
         {
-          "product_id": 10823815659851,
           "id": 13449548726603,
+          "product_id": 10823815659851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40521,8 +40521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775316119883",
       "variants": [
         {
-          "id": 53327871148363,
           "product_id": 14775316119883,
+          "id": 53327871148363,
           "title": "Apricot gray",
           "price": "30.95",
           "position": 1,
@@ -40549,8 +40549,8 @@
           "image_id": 64651461689675
         },
         {
-          "id": 53327871181131,
           "product_id": 14775316119883,
+          "id": 53327871181131,
           "title": "Apricot black",
           "price": "30.95",
           "position": 2,
@@ -40577,8 +40577,8 @@
           "image_id": 64651461722443
         },
         {
-          "id": 53327871213899,
           "product_id": 14775316119883,
+          "id": 53327871213899,
           "title": "Dark grey",
           "price": "30.95",
           "position": 3,
@@ -40605,8 +40605,8 @@
           "image_id": 64651461755211
         },
         {
-          "id": 53327871246667,
           "product_id": 14775316119883,
+          "id": 53327871246667,
           "title": "Pure black",
           "price": "30.95",
           "position": 4,
@@ -40635,8 +40635,8 @@
       ],
       "options": [
         {
-          "id": 17120625066315,
           "product_id": 14775316119883,
+          "id": 17120625066315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -71014,8 +71014,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -71044,8 +71044,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -71053,8 +71053,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [
