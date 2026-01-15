@@ -59105,8 +59105,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961229131",
       "variants": [
         {
-          "id": 53256230404427,
           "product_id": 10824961229131,
+          "id": 53256230404427,
           "title": "Lavender",
           "price": "24.33",
           "position": 1,
@@ -59135,8 +59135,8 @@
       ],
       "options": [
         {
-          "id": 13450821927243,
           "product_id": 10824961229131,
+          "id": 13450821927243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90871,8 +90871,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772293665099",
       "variants": [
         {
-          "product_id": 14772293665099,
           "id": 53313709834571,
+          "product_id": 14772293665099,
           "title": "65x65CM",
           "price": "40.29",
           "position": 1,
@@ -90899,8 +90899,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709867339,
+          "product_id": 14772293665099,
           "title": "45x45CM",
           "price": "38.71",
           "position": 2,
@@ -90927,8 +90927,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709900107,
+          "product_id": 14772293665099,
           "title": "35x50CM",
           "price": "38.37",
           "position": 3,
@@ -90955,8 +90955,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709932875,
+          "product_id": 14772293665099,
           "title": "50x50CM",
           "price": "39.09",
           "position": 4,
@@ -90983,8 +90983,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709965643,
+          "product_id": 14772293665099,
           "title": "60x60CM",
           "price": "39.85",
           "position": 5,
@@ -91013,8 +91013,8 @@
       ],
       "options": [
         {
-          "product_id": 14772293665099,
           "id": 17116933751115,
+          "product_id": 14772293665099,
           "name": "Size",
           "position": 1,
           "values": [
