@@ -32745,8 +32745,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825034203467",
       "variants": [
         {
-          "id": 53256544747851,
           "product_id": 10825034203467,
+          "id": 53256544747851,
           "title": "Lotus Root Color / 71X11MM",
           "price": "28.92",
           "position": 1,
@@ -32775,8 +32775,8 @@
       ],
       "options": [
         {
-          "id": 13450904895819,
           "product_id": 10825034203467,
+          "id": 13450904895819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32784,8 +32784,8 @@
           ]
         },
         {
-          "id": 13450904928587,
           "product_id": 10825034203467,
+          "id": 13450904928587,
           "name": "Specifications",
           "position": 2,
           "values": [
