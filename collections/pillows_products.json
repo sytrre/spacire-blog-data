@@ -958,8 +958,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771430588747",
       "variants": [
         {
-          "id": 53310182326603,
           "product_id": 14771430588747,
+          "id": 53310182326603,
           "title": "Grey / 38x24cm",
           "price": "15.92",
           "position": 1,
@@ -986,8 +986,8 @@
           "image_id": 64593346036043
         },
         {
-          "id": 53310182359371,
           "product_id": 14771430588747,
+          "id": 53310182359371,
           "title": "Red / 38x24cm",
           "price": "15.92",
           "position": 2,
@@ -1014,8 +1014,8 @@
           "image_id": 64593346068811
         },
         {
-          "id": 53310182392139,
           "product_id": 14771430588747,
+          "id": 53310182392139,
           "title": "Dark Blue / 38x24cm",
           "price": "15.92",
           "position": 3,
@@ -1042,8 +1042,8 @@
           "image_id": 64593346101579
         },
         {
-          "id": 53310182424907,
           "product_id": 14771430588747,
+          "id": 53310182424907,
           "title": "Royal Blue / 38x24cm",
           "price": "15.92",
           "position": 4,
@@ -1072,8 +1072,8 @@
       ],
       "options": [
         {
-          "id": 17115961295179,
           "product_id": 14771430588747,
+          "id": 17115961295179,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1084,8 +1084,8 @@
           ]
         },
         {
-          "id": 17115961327947,
           "product_id": 14771430588747,
+          "id": 17115961327947,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
