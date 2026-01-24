@@ -56804,8 +56804,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908360523",
       "variants": [
         {
-          "id": 53253479072075,
           "product_id": 10823908360523,
+          "id": 53253479072075,
           "title": "Black",
           "price": "38.99",
           "position": 1,
@@ -56832,8 +56832,8 @@
           "image_id": 64334773649739
         },
         {
-          "id": 53253479104843,
           "product_id": 10823908360523,
+          "id": 53253479104843,
           "title": "Grey",
           "price": "38.99",
           "position": 2,
@@ -56860,8 +56860,8 @@
           "image_id": 64334773682507
         },
         {
-          "id": 53253479137611,
           "product_id": 10823908360523,
+          "id": 53253479137611,
           "title": "Navy Blue",
           "price": "38.99",
           "position": 3,
@@ -56888,8 +56888,8 @@
           "image_id": 64334773715275
         },
         {
-          "id": 53253479170379,
           "product_id": 10823908360523,
+          "id": 53253479170379,
           "title": "Peacock blue",
           "price": "38.99",
           "position": 4,
@@ -56916,8 +56916,8 @@
           "image_id": 64334773748043
         },
         {
-          "id": 53253479203147,
           "product_id": 10823908360523,
+          "id": 53253479203147,
           "title": "Pink",
           "price": "38.99",
           "position": 5,
@@ -56944,8 +56944,8 @@
           "image_id": 64334773780811
         },
         {
-          "id": 53253479235915,
           "product_id": 10823908360523,
+          "id": 53253479235915,
           "title": "Sky Blue",
           "price": "38.99",
           "position": 6,
@@ -56974,8 +56974,8 @@
       ],
       "options": [
         {
-          "id": 13449671999819,
           "product_id": 10823908360523,
+          "id": 13449671999819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63064,7 +63064,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-19T13:29:21+00:00",
+      "updated_at": "2026-01-24T20:26:15+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -63084,7 +63084,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-19T13:29:21+00:00",
+          "updated_at": "2026-01-24T20:26:15+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -63095,8 +63095,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40703,
-          "old_inventory_quantity": 40703,
+          "inventory_quantity": 40686,
+          "old_inventory_quantity": 40686,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
@@ -64732,8 +64732,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "id": 53256673198411,
           "product_id": 10825063203147,
+          "id": 53256673198411,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -64760,8 +64760,8 @@
           "image_id": 64365414646091
         },
         {
-          "id": 53256673231179,
           "product_id": 10825063203147,
+          "id": 53256673231179,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -64790,8 +64790,8 @@
       ],
       "options": [
         {
-          "id": 13450943430987,
           "product_id": 10825063203147,
+          "id": 13450943430987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -64800,8 +64800,8 @@
           ]
         },
         {
-          "id": 13450943463755,
           "product_id": 10825063203147,
+          "id": 13450943463755,
           "name": "Specifications",
           "position": 2,
           "values": [
