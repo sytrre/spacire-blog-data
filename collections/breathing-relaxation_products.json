@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383152656715",
       "variants": [
         {
-          "product_id": 15383152656715,
           "id": 55974130188619,
+          "product_id": 15383152656715,
           "title": "white",
           "price": "23.85",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "product_id": 15383152656715,
           "id": 17822066016587,
+          "product_id": 15383152656715,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2739,8 +2739,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383146234187",
       "variants": [
         {
-          "product_id": 15383146234187,
           "id": 55974110265675,
+          "product_id": 15383146234187,
           "title": "black",
           "price": "23.95",
           "position": 1,
@@ -2769,8 +2769,8 @@
       ],
       "options": [
         {
-          "product_id": 15383146234187,
           "id": 17822058938699,
+          "product_id": 15383146234187,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5734,8 +5734,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383148069195",
       "variants": [
         {
-          "product_id": 15383148069195,
           "id": 55974120390987,
+          "product_id": 15383148069195,
           "title": "Default Title",
           "price": "22.95",
           "position": 1,
@@ -5764,8 +5764,8 @@
       ],
       "options": [
         {
-          "product_id": 15383148069195,
           "id": 17822060937547,
+          "product_id": 15383148069195,
           "name": "Default Title",
           "position": 1,
           "values": [
@@ -7406,8 +7406,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383153148235",
       "variants": [
         {
-          "product_id": 15383153148235,
           "id": 55974131237195,
+          "product_id": 15383153148235,
           "title": "with remote control",
           "price": "22.15",
           "position": 1,
@@ -7434,8 +7434,8 @@
           "image_id": 79379261587787
         },
         {
-          "product_id": 15383153148235,
           "id": 55974131269963,
+          "product_id": 15383153148235,
           "title": "2 Stickers",
           "price": "22.45",
           "position": 2,
@@ -7462,8 +7462,8 @@
           "image_id": 79379261620555
         },
         {
-          "product_id": 15383153148235,
           "id": 55974131302731,
+          "product_id": 15383153148235,
           "title": "Electric EMS Neck",
           "price": "22.25",
           "position": 3,
@@ -7492,8 +7492,8 @@
       ],
       "options": [
         {
-          "product_id": 15383153148235,
           "id": 17822066573643,
+          "product_id": 15383153148235,
           "name": "Color",
           "position": 1,
           "values": [
