@@ -11818,8 +11818,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776187879755",
       "variants": [
         {
-          "id": 53331871629643,
           "product_id": 14776187879755,
+          "id": 53331871629643,
           "title": "Silver gray / 10X10CM",
           "price": "34.57",
           "position": 1,
@@ -11846,8 +11846,8 @@
           "image_id": 64662298034507
         },
         {
-          "id": 53331871662411,
           "product_id": 14776187879755,
+          "id": 53331871662411,
           "title": "Beige / 10X10CM",
           "price": "34.57",
           "position": 2,
@@ -11874,8 +11874,8 @@
           "image_id": 64662298067275
         },
         {
-          "id": 53331871695179,
           "product_id": 14776187879755,
+          "id": 53331871695179,
           "title": "Plum color / 10X10CM",
           "price": "34.57",
           "position": 3,
@@ -11902,8 +11902,8 @@
           "image_id": 64662298100043
         },
         {
-          "id": 53331871727947,
           "product_id": 14776187879755,
+          "id": 53331871727947,
           "title": "Red wine / 10X10CM",
           "price": "34.57",
           "position": 4,
@@ -11932,8 +11932,8 @@
       ],
       "options": [
         {
-          "id": 17121694122315,
           "product_id": 14776187879755,
+          "id": 17121694122315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11944,8 +11944,8 @@
           ]
         },
         {
-          "id": 17121694155083,
           "product_id": 14776187879755,
+          "id": 17121694155083,
           "name": "Size",
           "position": 2,
           "values": [
@@ -24256,8 +24256,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825065333067",
       "variants": [
         {
-          "product_id": 10825065333067,
           "id": 53256697020747,
+          "product_id": 10825065333067,
           "title": "Black / 100x145cm",
           "price": "40.02",
           "position": 1,
@@ -24284,8 +24284,8 @@
           "image_id": 64365441319243
         },
         {
-          "product_id": 10825065333067,
           "id": 53256697053515,
+          "product_id": 10825065333067,
           "title": "Black / 145x200cm",
           "price": "40.64",
           "position": 2,
@@ -24312,8 +24312,8 @@
           "image_id": 64365441319243
         },
         {
-          "product_id": 10825065333067,
           "id": 53256697086283,
+          "product_id": 10825065333067,
           "title": "Black / 145x250cm",
           "price": "41.21",
           "position": 3,
@@ -24340,8 +24340,8 @@
           "image_id": 64365441319243
         },
         {
-          "product_id": 10825065333067,
           "id": 53256697119051,
+          "product_id": 10825065333067,
           "title": "Black / 145x300cm",
           "price": "42.08",
           "position": 4,
@@ -24368,8 +24368,8 @@
           "image_id": 64365441319243
         },
         {
-          "product_id": 10825065333067,
           "id": 53256697151819,
+          "product_id": 10825065333067,
           "title": "Black / 145x400cm",
           "price": "42.82",
           "position": 5,
@@ -24398,8 +24398,8 @@
       ],
       "options": [
         {
-          "product_id": 10825065333067,
           "id": 13450947002699,
+          "product_id": 10825065333067,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24407,8 +24407,8 @@
           ]
         },
         {
-          "product_id": 10825065333067,
           "id": 13450947035467,
+          "product_id": 10825065333067,
           "name": "Size",
           "position": 2,
           "values": [
