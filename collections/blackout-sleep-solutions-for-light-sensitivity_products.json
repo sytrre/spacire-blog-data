@@ -12633,8 +12633,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825046131019",
       "variants": [
         {
-          "id": 53256587477323,
           "product_id": 10825046131019,
+          "id": 53256587477323,
           "title": "Gray",
           "price": "31.86",
           "position": 1,
@@ -12661,8 +12661,8 @@
           "image_id": 64365211713867
         },
         {
-          "id": 53256587510091,
           "product_id": 10825046131019,
+          "id": 53256587510091,
           "title": "Black",
           "price": "31.86",
           "position": 2,
@@ -12689,8 +12689,8 @@
           "image_id": 64365211746635
         },
         {
-          "id": 53256587542859,
           "product_id": 10825046131019,
+          "id": 53256587542859,
           "title": "Stone Gray",
           "price": "32.52",
           "position": 3,
@@ -12717,8 +12717,8 @@
           "image_id": 64365211779403
         },
         {
-          "id": 53256587575627,
           "product_id": 10825046131019,
+          "id": 53256587575627,
           "title": "Tea White Gray",
           "price": "32.52",
           "position": 4,
@@ -12745,8 +12745,8 @@
           "image_id": 64365211812171
         },
         {
-          "id": 53256587608395,
           "product_id": 10825046131019,
+          "id": 53256587608395,
           "title": "All Wrapped Black",
           "price": "32.52",
           "position": 5,
@@ -12775,8 +12775,8 @@
       ],
       "options": [
         {
-          "id": 13450921902411,
           "product_id": 10825046131019,
+          "id": 13450921902411,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -59621,8 +59621,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "product_id": 10825063203147,
           "id": 53256673198411,
+          "product_id": 10825063203147,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -59649,8 +59649,8 @@
           "image_id": 64365414646091
         },
         {
-          "product_id": 10825063203147,
           "id": 53256673231179,
+          "product_id": 10825063203147,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -59679,8 +59679,8 @@
       ],
       "options": [
         {
-          "product_id": 10825063203147,
           "id": 13450943430987,
+          "product_id": 10825063203147,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59689,8 +59689,8 @@
           ]
         },
         {
-          "product_id": 10825063203147,
           "id": 13450943463755,
+          "product_id": 10825063203147,
           "name": "Specifications",
           "position": 2,
           "values": [
