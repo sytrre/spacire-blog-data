@@ -14829,8 +14829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103671627",
       "variants": [
         {
-          "id": 53256908341579,
           "product_id": 10825103671627,
+          "id": 53256908341579,
           "title": "White / Colorful Lights",
           "price": "361.11",
           "position": 1,
@@ -14859,8 +14859,8 @@
       ],
       "options": [
         {
-          "id": 13451005264203,
           "product_id": 10825103671627,
+          "id": 13451005264203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14868,8 +14868,8 @@
           ]
         },
         {
-          "id": 13451005296971,
           "product_id": 10825103671627,
+          "id": 13451005296971,
           "name": "Specifications",
           "position": 2,
           "values": [
