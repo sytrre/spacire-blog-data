@@ -15208,8 +15208,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823693795659",
       "variants": [
         {
-          "id": 53252086497611,
           "product_id": 10823693795659,
+          "id": 53252086497611,
           "title": "White / USB",
           "price": "32.49",
           "position": 1,
@@ -15238,8 +15238,8 @@
       ],
       "options": [
         {
-          "id": 13449346679115,
           "product_id": 10823693795659,
+          "id": 13449346679115,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15247,8 +15247,8 @@
           ]
         },
         {
-          "id": 13449346711883,
           "product_id": 10823693795659,
+          "id": 13449346711883,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -16563,8 +16563,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054617931",
       "variants": [
         {
-          "id": 53256620704075,
           "product_id": 10825054617931,
+          "id": 53256620704075,
           "title": "Flax / 1.8x1m",
           "price": "41.23",
           "position": 1,
@@ -16591,8 +16591,8 @@
           "image_id": 64365306544459
         },
         {
-          "id": 53256620736843,
           "product_id": 10825054617931,
+          "id": 53256620736843,
           "title": "Flax / 1.8x1.8m",
           "price": "44.19",
           "position": 2,
@@ -16621,8 +16621,8 @@
       ],
       "options": [
         {
-          "id": 13450931142987,
           "product_id": 10825054617931,
+          "id": 13450931142987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16630,8 +16630,8 @@
           ]
         },
         {
-          "id": 13450931175755,
           "product_id": 10825054617931,
+          "id": 13450931175755,
           "name": "Size",
           "position": 2,
           "values": [
@@ -89266,8 +89266,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772293665099",
       "variants": [
         {
-          "product_id": 14772293665099,
           "id": 53313709834571,
+          "product_id": 14772293665099,
           "title": "65x65CM",
           "price": "40.29",
           "position": 1,
@@ -89294,8 +89294,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709867339,
+          "product_id": 14772293665099,
           "title": "45x45CM",
           "price": "38.71",
           "position": 2,
@@ -89322,8 +89322,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709900107,
+          "product_id": 14772293665099,
           "title": "35x50CM",
           "price": "38.37",
           "position": 3,
@@ -89350,8 +89350,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709932875,
+          "product_id": 14772293665099,
           "title": "50x50CM",
           "price": "39.09",
           "position": 4,
@@ -89378,8 +89378,8 @@
           "image_id": 64604306243915
         },
         {
-          "product_id": 14772293665099,
           "id": 53313709965643,
+          "product_id": 14772293665099,
           "title": "60x60CM",
           "price": "39.85",
           "position": 5,
@@ -89408,8 +89408,8 @@
       ],
       "options": [
         {
-          "product_id": 14772293665099,
           "id": 17116933751115,
+          "product_id": 14772293665099,
           "name": "Size",
           "position": 1,
           "values": [
@@ -93429,8 +93429,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159213387",
       "variants": [
         {
-          "id": 53257350316363,
           "product_id": 10825159213387,
+          "id": 53257350316363,
           "title": "Black",
           "price": "33.57",
           "position": 1,
@@ -93459,8 +93459,8 @@
       ],
       "options": [
         {
-          "id": 13451086463307,
           "product_id": 10825159213387,
+          "id": 13451086463307,
           "name": "Color",
           "position": 1,
           "values": [
