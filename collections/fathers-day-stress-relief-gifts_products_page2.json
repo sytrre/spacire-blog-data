@@ -59738,8 +59738,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "id": 53256906441035,
           "product_id": 10825102721355,
+          "id": 53256906441035,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -59766,8 +59766,8 @@
           "image_id": 64365797114187
         },
         {
-          "id": 53256906473803,
           "product_id": 10825102721355,
+          "id": 53256906473803,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -59796,8 +59796,8 @@
       ],
       "options": [
         {
-          "id": 13451004117323,
           "product_id": 10825102721355,
+          "id": 13451004117323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59806,8 +59806,8 @@
           ]
         },
         {
-          "id": 13451004150091,
           "product_id": 10825102721355,
+          "id": 13451004150091,
           "name": "Power Type",
           "position": 2,
           "values": [
@@ -87635,8 +87635,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825065333067",
       "variants": [
         {
-          "id": 53256697020747,
           "product_id": 10825065333067,
+          "id": 53256697020747,
           "title": "Black / 100x145cm",
           "price": "40.02",
           "position": 1,
@@ -87663,8 +87663,8 @@
           "image_id": 64365441319243
         },
         {
-          "id": 53256697053515,
           "product_id": 10825065333067,
+          "id": 53256697053515,
           "title": "Black / 145x200cm",
           "price": "40.64",
           "position": 2,
@@ -87691,8 +87691,8 @@
           "image_id": 64365441319243
         },
         {
-          "id": 53256697086283,
           "product_id": 10825065333067,
+          "id": 53256697086283,
           "title": "Black / 145x250cm",
           "price": "41.21",
           "position": 3,
@@ -87719,8 +87719,8 @@
           "image_id": 64365441319243
         },
         {
-          "id": 53256697119051,
           "product_id": 10825065333067,
+          "id": 53256697119051,
           "title": "Black / 145x300cm",
           "price": "42.08",
           "position": 4,
@@ -87747,8 +87747,8 @@
           "image_id": 64365441319243
         },
         {
-          "id": 53256697151819,
           "product_id": 10825065333067,
+          "id": 53256697151819,
           "title": "Black / 145x400cm",
           "price": "42.82",
           "position": 5,
@@ -87777,8 +87777,8 @@
       ],
       "options": [
         {
-          "id": 13450947002699,
           "product_id": 10825065333067,
+          "id": 13450947002699,
           "name": "Color",
           "position": 1,
           "values": [
@@ -87786,8 +87786,8 @@
           ]
         },
         {
-          "id": 13450947035467,
           "product_id": 10825065333067,
+          "id": 13450947035467,
           "name": "Size",
           "position": 2,
           "values": [
