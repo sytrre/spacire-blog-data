@@ -4447,8 +4447,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099706699",
       "variants": [
         {
-          "product_id": 10825099706699,
           "id": 53256899690827,
+          "product_id": 10825099706699,
           "title": "Set",
           "price": "428.72",
           "position": 1,
@@ -4477,8 +4477,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099706699,
           "id": 13450999857483,
+          "product_id": 10825099706699,
           "name": "style",
           "position": 1,
           "values": [
@@ -6229,8 +6229,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823660273995",
       "variants": [
         {
-          "product_id": 10823660273995,
           "id": 53251956539723,
+          "product_id": 10823660273995,
           "title": "Blue",
           "price": "43.49",
           "position": 1,
@@ -6257,8 +6257,8 @@
           "image_id": 64329988866379
         },
         {
-          "product_id": 10823660273995,
           "id": 53251956572491,
+          "product_id": 10823660273995,
           "title": "Pink",
           "price": "43.49",
           "position": 2,
@@ -6285,8 +6285,8 @@
           "image_id": 64329988899147
         },
         {
-          "product_id": 10823660273995,
           "id": 53251956605259,
+          "product_id": 10823660273995,
           "title": "Purple",
           "price": "43.49",
           "position": 3,
@@ -6313,8 +6313,8 @@
           "image_id": 64329988931915
         },
         {
-          "product_id": 10823660273995,
           "id": 53251956638027,
+          "product_id": 10823660273995,
           "title": "Red",
           "price": "43.49",
           "position": 4,
@@ -6343,8 +6343,8 @@
       ],
       "options": [
         {
-          "product_id": 10823660273995,
           "id": 13449302933835,
+          "product_id": 10823660273995,
           "name": "Color",
           "position": 1,
           "values": [
