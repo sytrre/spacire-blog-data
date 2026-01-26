@@ -6529,8 +6529,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "id": 53256886354251,
           "product_id": 10825092628811,
+          "id": 53256886354251,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -6559,8 +6559,8 @@
       ],
       "options": [
         {
-          "id": 13450987635019,
           "product_id": 10825092628811,
+          "id": 13450987635019,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6568,8 +6568,8 @@
           ]
         },
         {
-          "id": 13450987667787,
           "product_id": 10825092628811,
+          "id": 13450987667787,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -7830,8 +7830,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823724466507",
       "variants": [
         {
-          "id": 53252228940107,
           "product_id": 10823724466507,
+          "id": 53252228940107,
           "title": "V28 Black Basic Style / AU",
           "price": "57.99",
           "position": 1,
@@ -7858,8 +7858,8 @@
           "image_id": 64331418566987
         },
         {
-          "id": 53252228972875,
           "product_id": 10823724466507,
+          "id": 53252228972875,
           "title": "V28 Black Basic Style / EU",
           "price": "57.99",
           "position": 2,
@@ -7886,8 +7886,8 @@
           "image_id": 64331418566987
         },
         {
-          "id": 53252229005643,
           "product_id": 10823724466507,
+          "id": 53252229005643,
           "title": "V28 Black Basic Style / UK",
           "price": "57.99",
           "position": 3,
@@ -7914,8 +7914,8 @@
           "image_id": 64331418566987
         },
         {
-          "id": 53252229038411,
           "product_id": 10823724466507,
+          "id": 53252229038411,
           "title": "V28 Black Basic Style / US",
           "price": "57.99",
           "position": 4,
@@ -7944,8 +7944,8 @@
       ],
       "options": [
         {
-          "id": 13449404842315,
           "product_id": 10823724466507,
+          "id": 13449404842315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7953,8 +7953,8 @@
           ]
         },
         {
-          "id": 13449404875083,
           "product_id": 10823724466507,
+          "id": 13449404875083,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -9726,8 +9726,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "product_id": 10825106948427,
           "id": 53256912634187,
+          "product_id": 10825106948427,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -9756,8 +9756,8 @@
       ],
       "options": [
         {
-          "product_id": 10825106948427,
           "id": 13451008835915,
+          "product_id": 10825106948427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9765,8 +9765,8 @@
           ]
         },
         {
-          "product_id": 10825106948427,
           "id": 13451008868683,
+          "product_id": 10825106948427,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -19941,8 +19941,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087320395",
       "variants": [
         {
-          "product_id": 10825087320395,
           "id": 53256850407755,
+          "product_id": 10825087320395,
           "title": "White / USB",
           "price": "306.30",
           "position": 1,
@@ -19971,8 +19971,8 @@
       ],
       "options": [
         {
-          "product_id": 10825087320395,
           "id": 13450978754891,
+          "product_id": 10825087320395,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19980,8 +19980,8 @@
           ]
         },
         {
-          "product_id": 10825087320395,
           "id": 13450978787659,
+          "product_id": 10825087320395,
           "name": "power",
           "position": 2,
           "values": [
