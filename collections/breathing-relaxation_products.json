@@ -189,8 +189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383148527947",
       "variants": [
         {
-          "id": 55974121505099,
           "product_id": 15383148527947,
+          "id": 55974121505099,
           "title": "Black / 90pcs",
           "price": "23.85",
           "position": 1,
@@ -217,8 +217,8 @@
           "image_id": 79379010847051
         },
         {
-          "id": 55974121537867,
           "product_id": 15383148527947,
+          "id": 55974121537867,
           "title": "Black / 60pcs",
           "price": "22.95",
           "position": 2,
@@ -245,8 +245,8 @@
           "image_id": 79379010847051
         },
         {
-          "id": 55974121570635,
           "product_id": 15383148527947,
+          "id": 55974121570635,
           "title": "Black / 30pcs",
           "price": "22.45",
           "position": 3,
@@ -275,8 +275,8 @@
       ],
       "options": [
         {
-          "id": 17822061461835,
           "product_id": 15383148527947,
+          "id": 17822061461835,
           "name": "Color",
           "position": 1,
           "values": [
@@ -284,8 +284,8 @@
           ]
         },
         {
-          "id": 17822061494603,
           "product_id": 15383148527947,
+          "id": 17822061494603,
           "name": "Size",
           "position": 2,
           "values": [
@@ -2739,8 +2739,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383146234187",
       "variants": [
         {
-          "id": 55974110265675,
           "product_id": 15383146234187,
+          "id": 55974110265675,
           "title": "black",
           "price": "23.95",
           "position": 1,
@@ -2769,8 +2769,8 @@
       ],
       "options": [
         {
-          "id": 17822058938699,
           "product_id": 15383146234187,
+          "id": 17822058938699,
           "name": "Color",
           "position": 1,
           "values": [
