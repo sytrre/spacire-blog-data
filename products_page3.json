@@ -1876,7 +1876,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-25T09:27:47+00:00",
+      "updated_at": "2026-01-26T11:26:32+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1896,7 +1896,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-25T09:27:47+00:00",
+          "updated_at": "2026-01-26T11:26:32+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -1907,8 +1907,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40680,
-          "old_inventory_quantity": 40680,
+          "inventory_quantity": 40678,
+          "old_inventory_quantity": 40678,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
@@ -8473,8 +8473,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158558027",
       "variants": [
         {
-          "id": 53257345597771,
           "product_id": 10825158558027,
+          "id": 53257345597771,
           "title": "First stage",
           "price": "31.10",
           "position": 1,
@@ -8501,8 +8501,8 @@
           "image_id": 64366999273803
         },
         {
-          "id": 53257345630539,
           "product_id": 10825158558027,
+          "id": 53257345630539,
           "title": "Second stage",
           "price": "31.10",
           "position": 2,
@@ -8529,8 +8529,8 @@
           "image_id": 64366999306571
         },
         {
-          "id": 53257345663307,
           "product_id": 10825158558027,
+          "id": 53257345663307,
           "title": "Third stage",
           "price": "31.10",
           "position": 3,
@@ -8559,8 +8559,8 @@
       ],
       "options": [
         {
-          "id": 13451085676875,
           "product_id": 10825158558027,
+          "id": 13451085676875,
           "name": "style",
           "position": 1,
           "values": [
