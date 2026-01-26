@@ -2938,8 +2938,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794458955",
       "variants": [
         {
-          "id": 53252659741003,
           "product_id": 10823794458955,
+          "id": 53252659741003,
           "title": "Black",
           "price": "49.49",
           "position": 1,
@@ -2968,8 +2968,8 @@
       ],
       "options": [
         {
-          "id": 13449524248907,
           "product_id": 10823794458955,
+          "id": 13449524248907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14829,8 +14829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103671627",
       "variants": [
         {
-          "product_id": 10825103671627,
           "id": 53256908341579,
+          "product_id": 10825103671627,
           "title": "White / Colorful Lights",
           "price": "361.11",
           "position": 1,
@@ -14859,8 +14859,8 @@
       ],
       "options": [
         {
-          "product_id": 10825103671627,
           "id": 13451005264203,
+          "product_id": 10825103671627,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14868,8 +14868,8 @@
           ]
         },
         {
-          "product_id": 10825103671627,
           "id": 13451005296971,
+          "product_id": 10825103671627,
           "name": "Specifications",
           "position": 2,
           "values": [
