@@ -3465,8 +3465,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886367563",
       "variants": [
         {
-          "id": 53325486096715,
           "product_id": 14774886367563,
+          "id": 53325486096715,
           "title": "Dark Grey / 2kg",
           "price": "100.56",
           "position": 1,
@@ -3493,8 +3493,8 @@
           "image_id": 64643917578571
         },
         {
-          "id": 53325486129483,
           "product_id": 14774886367563,
+          "id": 53325486129483,
           "title": "Dark Grey / 3kg",
           "price": "100.96",
           "position": 2,
@@ -3523,8 +3523,8 @@
       ],
       "options": [
         {
-          "id": 17120123584843,
           "product_id": 14774886367563,
+          "id": 17120123584843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3532,8 +3532,8 @@
           ]
         },
         {
-          "id": 17120123617611,
           "product_id": 14774886367563,
+          "id": 17120123617611,
           "name": "Size",
           "position": 2,
           "values": [
@@ -5065,8 +5065,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "id": 53256408170827,
           "product_id": 10825004908875,
+          "id": 53256408170827,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -5095,8 +5095,8 @@
       ],
       "options": [
         {
-          "id": 13450870489419,
           "product_id": 10825004908875,
+          "id": 13450870489419,
           "name": "format",
           "position": 1,
           "values": [

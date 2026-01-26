@@ -37802,8 +37802,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "id": 53252672782667,
           "product_id": 10823797440843,
+          "id": 53252672782667,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -37830,8 +37830,8 @@
           "image_id": 64332537299275
         },
         {
-          "id": 53252672815435,
           "product_id": 10823797440843,
+          "id": 53252672815435,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -37858,8 +37858,8 @@
           "image_id": 64332537332043
         },
         {
-          "id": 53252672848203,
           "product_id": 10823797440843,
+          "id": 53252672848203,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -37886,8 +37886,8 @@
           "image_id": 64332537364811
         },
         {
-          "id": 53252672880971,
           "product_id": 10823797440843,
+          "id": 53252672880971,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -37916,8 +37916,8 @@
       ],
       "options": [
         {
-          "id": 13449527624011,
           "product_id": 10823797440843,
+          "id": 13449527624011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37928,8 +37928,8 @@
           ]
         },
         {
-          "id": 13449527656779,
           "product_id": 10823797440843,
+          "id": 13449527656779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -71014,8 +71014,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -71044,8 +71044,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -71053,8 +71053,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [
@@ -90685,8 +90685,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773585838411",
       "variants": [
         {
-          "id": 53317507809611,
           "product_id": 14773585838411,
+          "id": 53317507809611,
           "title": "Pink / 130x170",
           "price": "51.79",
           "position": 1,
@@ -90713,8 +90713,8 @@
           "image_id": 64623521595723
         },
         {
-          "id": 53317507842379,
           "product_id": 14773585838411,
+          "id": 53317507842379,
           "title": "Yellow / 130x170",
           "price": "51.79",
           "position": 2,
@@ -90741,8 +90741,8 @@
           "image_id": 64623521628491
         },
         {
-          "id": 53317507875147,
           "product_id": 14773585838411,
+          "id": 53317507875147,
           "title": "Gray / 130x170",
           "price": "51.79",
           "position": 3,
@@ -90769,8 +90769,8 @@
           "image_id": 64623521661259
         },
         {
-          "id": 53317507907915,
           "product_id": 14773585838411,
+          "id": 53317507907915,
           "title": "Orange / 130x170",
           "price": "51.79",
           "position": 4,
@@ -90799,8 +90799,8 @@
       ],
       "options": [
         {
-          "id": 17118399529291,
           "product_id": 14773585838411,
+          "id": 17118399529291,
           "name": "Color",
           "position": 1,
           "values": [
@@ -90811,8 +90811,8 @@
           ]
         },
         {
-          "id": 17118399562059,
           "product_id": 14773585838411,
+          "id": 17118399562059,
           "name": "Size",
           "position": 2,
           "values": [
@@ -96342,8 +96342,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771452543307",
       "variants": [
         {
-          "product_id": 14771452543307,
           "id": 53310234263883,
+          "product_id": 14771452543307,
           "title": "Pink / 95x155cm",
           "price": "88.65",
           "position": 1,
@@ -96370,8 +96370,8 @@
           "image_id": 64593733124427
         },
         {
-          "product_id": 14771452543307,
           "id": 53310234296651,
+          "product_id": 14771452543307,
           "title": "Pink / 80x115cm",
           "price": "85.59",
           "position": 2,
@@ -96398,8 +96398,8 @@
           "image_id": 64593733124427
         },
         {
-          "product_id": 14771452543307,
           "id": 53310234329419,
+          "product_id": 14771452543307,
           "title": "Blue / 95x155cm",
           "price": "88.65",
           "position": 3,
@@ -96426,8 +96426,8 @@
           "image_id": 64593733157195
         },
         {
-          "product_id": 14771452543307,
           "id": 53310234362187,
+          "product_id": 14771452543307,
           "title": "Blue / 80x115cm",
           "price": "85.59",
           "position": 4,
@@ -96454,8 +96454,8 @@
           "image_id": 64593733157195
         },
         {
-          "product_id": 14771452543307,
           "id": 53310234394955,
+          "product_id": 14771452543307,
           "title": "Gray / 95x155cm",
           "price": "88.65",
           "position": 5,
@@ -96482,8 +96482,8 @@
           "image_id": 64593733189963
         },
         {
-          "product_id": 14771452543307,
           "id": 53310234427723,
+          "product_id": 14771452543307,
           "title": "Gray / 80x115cm",
           "price": "85.59",
           "position": 6,
@@ -96512,8 +96512,8 @@
       ],
       "options": [
         {
-          "product_id": 14771452543307,
           "id": 17115984363851,
+          "product_id": 14771452543307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -96523,8 +96523,8 @@
           ]
         },
         {
-          "product_id": 14771452543307,
           "id": 17115984396619,
+          "product_id": 14771452543307,
           "name": "Pillowcase size",
           "position": 2,
           "values": [

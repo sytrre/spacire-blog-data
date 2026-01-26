@@ -15948,8 +15948,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "id": 53252672782667,
           "product_id": 10823797440843,
+          "id": 53252672782667,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -15976,8 +15976,8 @@
           "image_id": 64332537299275
         },
         {
-          "id": 53252672815435,
           "product_id": 10823797440843,
+          "id": 53252672815435,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -16004,8 +16004,8 @@
           "image_id": 64332537332043
         },
         {
-          "id": 53252672848203,
           "product_id": 10823797440843,
+          "id": 53252672848203,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -16032,8 +16032,8 @@
           "image_id": 64332537364811
         },
         {
-          "id": 53252672880971,
           "product_id": 10823797440843,
+          "id": 53252672880971,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -16062,8 +16062,8 @@
       ],
       "options": [
         {
-          "id": 13449527624011,
           "product_id": 10823797440843,
+          "id": 13449527624011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16074,8 +16074,8 @@
           ]
         },
         {
-          "id": 13449527656779,
           "product_id": 10823797440843,
+          "id": 13449527656779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -19641,8 +19641,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "id": 53256902541643,
           "product_id": 10825100722507,
+          "id": 53256902541643,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -19671,8 +19671,8 @@
       ],
       "options": [
         {
-          "id": 13451001069899,
           "product_id": 10825100722507,
+          "id": 13451001069899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19680,8 +19680,8 @@
           ]
         },
         {
-          "id": 13451001102667,
           "product_id": 10825100722507,
+          "id": 13451001102667,
           "name": "default",
           "position": 2,
           "values": [

@@ -23047,8 +23047,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825046131019",
       "variants": [
         {
-          "product_id": 10825046131019,
           "id": 53256587477323,
+          "product_id": 10825046131019,
           "title": "Gray",
           "price": "31.86",
           "position": 1,
@@ -23075,8 +23075,8 @@
           "image_id": 64365211713867
         },
         {
-          "product_id": 10825046131019,
           "id": 53256587510091,
+          "product_id": 10825046131019,
           "title": "Black",
           "price": "31.86",
           "position": 2,
@@ -23103,8 +23103,8 @@
           "image_id": 64365211746635
         },
         {
-          "product_id": 10825046131019,
           "id": 53256587542859,
+          "product_id": 10825046131019,
           "title": "Stone Gray",
           "price": "32.52",
           "position": 3,
@@ -23131,8 +23131,8 @@
           "image_id": 64365211779403
         },
         {
-          "product_id": 10825046131019,
           "id": 53256587575627,
+          "product_id": 10825046131019,
           "title": "Tea White Gray",
           "price": "32.52",
           "position": 4,
@@ -23159,8 +23159,8 @@
           "image_id": 64365211812171
         },
         {
-          "product_id": 10825046131019,
           "id": 53256587608395,
+          "product_id": 10825046131019,
           "title": "All Wrapped Black",
           "price": "32.52",
           "position": 5,
@@ -23189,8 +23189,8 @@
       ],
       "options": [
         {
-          "product_id": 10825046131019,
           "id": 13450921902411,
+          "product_id": 10825046131019,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -92081,8 +92081,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659848011",
       "variants": [
         {
-          "id": 53251955753291,
           "product_id": 10823659848011,
+          "id": 53251955753291,
           "title": "Grey blue",
           "price": "47.99",
           "position": 1,
@@ -92109,8 +92109,8 @@
           "image_id": 64329980346699
         },
         {
-          "id": 53251955786059,
           "product_id": 10823659848011,
+          "id": 53251955786059,
           "title": "Grey red",
           "price": "47.99",
           "position": 2,
@@ -92139,8 +92139,8 @@
       ],
       "options": [
         {
-          "id": 13449302507851,
           "product_id": 10823659848011,
+          "id": 13449302507851,
           "name": "Color",
           "position": 1,
           "values": [

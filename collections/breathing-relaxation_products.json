@@ -10491,8 +10491,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743406411",
       "variants": [
         {
-          "id": 53252374888779,
           "product_id": 10823743406411,
+          "id": 53252374888779,
           "title": "Golden",
           "price": "56.99",
           "position": 1,
@@ -10521,8 +10521,8 @@
       ],
       "options": [
         {
-          "id": 13449443967307,
           "product_id": 10823743406411,
+          "id": 13449443967307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11673,8 +11673,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825049768267",
       "variants": [
         {
-          "product_id": 10825049768267,
           "id": 53256600682827,
+          "product_id": 10825049768267,
           "title": "A",
           "price": "54.13",
           "position": 1,
@@ -11701,8 +11701,8 @@
           "image_id": 64365247299915
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600715595,
+          "product_id": 10825049768267,
           "title": "B",
           "price": "54.13",
           "position": 2,
@@ -11729,8 +11729,8 @@
           "image_id": 64365247332683
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600748363,
+          "product_id": 10825049768267,
           "title": "C",
           "price": "56.00",
           "position": 3,
@@ -11757,8 +11757,8 @@
           "image_id": 64365247365451
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600781131,
+          "product_id": 10825049768267,
           "title": "D",
           "price": "57.27",
           "position": 4,
@@ -11785,8 +11785,8 @@
           "image_id": 64365247398219
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600813899,
+          "product_id": 10825049768267,
           "title": "E",
           "price": "57.27",
           "position": 5,
@@ -11813,8 +11813,8 @@
           "image_id": 64365247430987
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600846667,
+          "product_id": 10825049768267,
           "title": "F",
           "price": "44.70",
           "position": 6,
@@ -11841,8 +11841,8 @@
           "image_id": 64365247463755
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600879435,
+          "product_id": 10825049768267,
           "title": "G",
           "price": "45.74",
           "position": 7,
@@ -11869,8 +11869,8 @@
           "image_id": 64365247463755
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600912203,
+          "product_id": 10825049768267,
           "title": "H",
           "price": "57.38",
           "position": 8,
@@ -11897,8 +11897,8 @@
           "image_id": 64365247496523
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600944971,
+          "product_id": 10825049768267,
           "title": "I",
           "price": "57.38",
           "position": 9,
@@ -11925,8 +11925,8 @@
           "image_id": 64365247529291
         },
         {
-          "product_id": 10825049768267,
           "id": 53256600977739,
+          "product_id": 10825049768267,
           "title": "J",
           "price": "61.18",
           "position": 10,
@@ -11955,8 +11955,8 @@
       ],
       "options": [
         {
-          "product_id": 10825049768267,
           "id": 13450925801803,
+          "product_id": 10825049768267,
           "name": "style",
           "position": 1,
           "values": [
