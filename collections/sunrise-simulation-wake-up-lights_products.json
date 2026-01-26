@@ -13615,8 +13615,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776056807755",
       "variants": [
         {
-          "id": 53331182027083,
           "product_id": 14776056807755,
+          "id": 53331182027083,
           "title": "Grey / 1mx2.7m",
           "price": "53.45",
           "position": 1,
@@ -13643,8 +13643,8 @@
           "image_id": 64660127187275
         },
         {
-          "id": 53331182059851,
           "product_id": 14776056807755,
+          "id": 53331182059851,
           "title": "Beige / 1mx2.7m",
           "price": "53.45",
           "position": 2,
@@ -13671,8 +13671,8 @@
           "image_id": 64660127220043
         },
         {
-          "id": 53331182092619,
           "product_id": 14776056807755,
+          "id": 53331182092619,
           "title": "Coffee / 1mx2.7m",
           "price": "53.45",
           "position": 3,
@@ -13701,8 +13701,8 @@
       ],
       "options": [
         {
-          "id": 17121533067595,
           "product_id": 14776056807755,
+          "id": 17121533067595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13712,8 +13712,8 @@
           ]
         },
         {
-          "id": 17121533100363,
           "product_id": 14776056807755,
+          "id": 17121533100363,
           "name": "Size",
           "position": 2,
           "values": [
