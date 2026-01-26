@@ -1316,8 +1316,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051078987",
       "variants": [
         {
-          "id": 53256605434187,
           "product_id": 10825051078987,
+          "id": 53256605434187,
           "title": "Black",
           "price": "37.67",
           "position": 1,
@@ -1344,8 +1344,8 @@
           "image_id": 64365259981131
         },
         {
-          "id": 53256605466955,
           "product_id": 10825051078987,
+          "id": 53256605466955,
           "title": "Navy Blue",
           "price": "37.67",
           "position": 2,
@@ -1374,8 +1374,8 @@
       ],
       "options": [
         {
-          "id": 13450927276363,
           "product_id": 10825051078987,
+          "id": 13450927276363,
           "name": "Color",
           "position": 1,
           "values": [
