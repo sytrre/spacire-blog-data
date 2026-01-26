@@ -52293,8 +52293,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775145169227",
       "variants": [
         {
-          "id": 53327476130123,
           "product_id": 14775145169227,
+          "id": 53327476130123,
           "title": "45x45cm / Single Pillowcase",
           "price": "31.29",
           "position": 1,
@@ -52321,8 +52321,8 @@
           "image_id": 64650349052235
         },
         {
-          "id": 53327476162891,
           "product_id": 14775145169227,
+          "id": 53327476162891,
           "title": "45x45cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 2,
@@ -52349,8 +52349,8 @@
           "image_id": 64650349052235
         },
         {
-          "id": 53327476195659,
           "product_id": 14775145169227,
+          "id": 53327476195659,
           "title": "30x50cm / Single Pillowcase",
           "price": "31.29",
           "position": 3,
@@ -52377,8 +52377,8 @@
           "image_id": 64650349085003
         },
         {
-          "id": 53327476228427,
           "product_id": 14775145169227,
+          "id": 53327476228427,
           "title": "30x50cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 4,
@@ -52407,8 +52407,8 @@
       ],
       "options": [
         {
-          "id": 17120441205067,
           "product_id": 14775145169227,
+          "id": 17120441205067,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52417,8 +52417,8 @@
           ]
         },
         {
-          "id": 17120441237835,
           "product_id": 14775145169227,
+          "id": 17120441237835,
           "name": "Style",
           "position": 2,
           "values": [
