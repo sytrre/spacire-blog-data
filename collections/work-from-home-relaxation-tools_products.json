@@ -4084,8 +4084,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823899382091",
       "variants": [
         {
-          "id": 53253438505291,
           "product_id": 10823899382091,
+          "id": 53253438505291,
           "title": "Coral4 / 2.5 M",
           "price": "118.99",
           "position": 1,
@@ -4112,8 +4112,8 @@
           "image_id": 64334548894027
         },
         {
-          "id": 53253438538059,
           "product_id": 10823899382091,
+          "id": 53253438538059,
           "title": "Hermes Orange19 / 2.5 M",
           "price": "118.99",
           "position": 2,
@@ -4140,8 +4140,8 @@
           "image_id": 64334548926795
         },
         {
-          "id": 53253438570827,
           "product_id": 10823899382091,
+          "id": 53253438570827,
           "title": "Saddle Orange20 / 2.5 M",
           "price": "118.99",
           "position": 3,
@@ -4168,8 +4168,8 @@
           "image_id": 64334548959563
         },
         {
-          "id": 53253438603595,
           "product_id": 10823899382091,
+          "id": 53253438603595,
           "title": "Sunset Orange11 / 2.5 M",
           "price": "118.99",
           "position": 4,
@@ -4198,8 +4198,8 @@
       ],
       "options": [
         {
-          "id": 13449660760395,
           "product_id": 10823899382091,
+          "id": 13449660760395,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4210,8 +4210,8 @@
           ]
         },
         {
-          "id": 13449660793163,
           "product_id": 10823899382091,
+          "id": 13449660793163,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -4591,8 +4591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "product_id": 10825066053963,
           "id": 53256702853451,
+          "product_id": 10825066053963,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -4619,8 +4619,8 @@
           "image_id": 64365446496587
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702886219,
+          "product_id": 10825066053963,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -4647,8 +4647,8 @@
           "image_id": 64365446529355
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702918987,
+          "product_id": 10825066053963,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -4677,8 +4677,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066053963,
           "id": 13450948116811,
+          "product_id": 10825066053963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5583,8 +5583,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158721867",
       "variants": [
         {
-          "product_id": 10825158721867,
           "id": 53257347531083,
+          "product_id": 10825158721867,
           "title": "White",
           "price": "55.50",
           "position": 1,
@@ -5613,8 +5613,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158721867,
           "id": 13451085873483,
+          "product_id": 10825158721867,
           "name": "Color",
           "position": 1,
           "values": [

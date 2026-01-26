@@ -15337,8 +15337,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098592587",
       "variants": [
         {
-          "product_id": 10825098592587,
           "id": 53256897200459,
+          "product_id": 10825098592587,
           "title": "Dark Grey / USB",
           "price": "871.50",
           "position": 1,
@@ -15365,8 +15365,8 @@
           "image_id": 64365733380427
         },
         {
-          "product_id": 10825098592587,
           "id": 53256897233227,
+          "product_id": 10825098592587,
           "title": "White / USB",
           "price": "1075.56",
           "position": 2,
@@ -15393,8 +15393,8 @@
           "image_id": 64365733413195
         },
         {
-          "product_id": 10825098592587,
           "id": 53256897265995,
+          "product_id": 10825098592587,
           "title": "Color / USB",
           "price": "1380.98",
           "position": 3,
@@ -15423,8 +15423,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098592587,
           "id": 13450998317387,
+          "product_id": 10825098592587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15434,8 +15434,8 @@
           ]
         },
         {
-          "product_id": 10825098592587,
           "id": 13450998350155,
+          "product_id": 10825098592587,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -16341,8 +16341,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081225547",
       "variants": [
         {
-          "id": 53256806072651,
           "product_id": 10825081225547,
+          "id": 53256806072651,
           "title": "White 311 Intelligent Style",
           "price": "579.32",
           "position": 1,
@@ -16369,8 +16369,8 @@
           "image_id": 64365605192011
         },
         {
-          "id": 53256806105419,
           "product_id": 10825081225547,
+          "id": 53256806105419,
           "title": "White 081 Colorful Light",
           "price": "257.50",
           "position": 2,
@@ -16399,8 +16399,8 @@
       ],
       "options": [
         {
-          "id": 13450969317707,
           "product_id": 10825081225547,
+          "id": 13450969317707,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16916,8 +16916,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "product_id": 10825102721355,
           "id": 53256906441035,
+          "product_id": 10825102721355,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -16944,8 +16944,8 @@
           "image_id": 64365797114187
         },
         {
-          "product_id": 10825102721355,
           "id": 53256906473803,
+          "product_id": 10825102721355,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -16974,8 +16974,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102721355,
           "id": 13451004117323,
+          "product_id": 10825102721355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16984,8 +16984,8 @@
           ]
         },
         {
-          "product_id": 10825102721355,
           "id": 13451004150091,
+          "product_id": 10825102721355,
           "name": "Power Type",
           "position": 2,
           "values": [
@@ -17160,8 +17160,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823723516235",
       "variants": [
         {
-          "id": 53252224778571,
           "product_id": 10823723516235,
+          "id": 53252224778571,
           "title": "Black Basic Style / AU",
           "price": "61.49",
           "position": 1,
@@ -17188,8 +17188,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224811339,
           "product_id": 10823723516235,
+          "id": 53252224811339,
           "title": "Black Basic Style / EU",
           "price": "61.49",
           "position": 2,
@@ -17216,8 +17216,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224844107,
           "product_id": 10823723516235,
+          "id": 53252224844107,
           "title": "Black Basic Style / UK",
           "price": "61.49",
           "position": 3,
@@ -17244,8 +17244,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224876875,
           "product_id": 10823723516235,
+          "id": 53252224876875,
           "title": "Black Basic Style / US",
           "price": "61.49",
           "position": 4,
@@ -17272,8 +17272,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224909643,
           "product_id": 10823723516235,
+          "id": 53252224909643,
           "title": "Black Bluetooth White Noise / AU",
           "price": "61.49",
           "position": 5,
@@ -17300,8 +17300,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224942411,
           "product_id": 10823723516235,
+          "id": 53252224942411,
           "title": "Black Bluetooth White Noise / EU",
           "price": "61.49",
           "position": 6,
@@ -17328,8 +17328,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224975179,
           "product_id": 10823723516235,
+          "id": 53252224975179,
           "title": "Black Bluetooth White Noise / UK",
           "price": "61.49",
           "position": 7,
@@ -17356,8 +17356,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252225007947,
           "product_id": 10823723516235,
+          "id": 53252225007947,
           "title": "Black Bluetooth White Noise / US",
           "price": "61.49",
           "position": 8,
@@ -17386,8 +17386,8 @@
       ],
       "options": [
         {
-          "id": 13449402646859,
           "product_id": 10823723516235,
+          "id": 13449402646859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17396,8 +17396,8 @@
           ]
         },
         {
-          "id": 13449402679627,
           "product_id": 10823723516235,
+          "id": 13449402679627,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -17829,8 +17829,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "product_id": 10823718011211,
           "id": 53252200071499,
+          "product_id": 10823718011211,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17859,8 +17859,8 @@
       ],
       "options": [
         {
-          "product_id": 10823718011211,
           "id": 13449389080907,
+          "product_id": 10823718011211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17868,8 +17868,8 @@
           ]
         },
         {
-          "product_id": 10823718011211,
           "id": 13449389113675,
+          "product_id": 10823718011211,
           "name": "Power source",
           "position": 2,
           "values": [
@@ -18394,8 +18394,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825086173515",
       "variants": [
         {
-          "id": 53256844935499,
           "product_id": 10825086173515,
+          "id": 53256844935499,
           "title": "American Standard Power Supply / 12W",
           "price": "344.80",
           "position": 1,
@@ -18422,8 +18422,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256844968267,
           "product_id": 10825086173515,
+          "id": 53256844968267,
           "title": "European Power Supply / 12W",
           "price": "344.80",
           "position": 2,
@@ -18450,8 +18450,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256845001035,
           "product_id": 10825086173515,
+          "id": 53256845001035,
           "title": "Bs Power Supply / 12W",
           "price": "344.80",
           "position": 3,
@@ -18478,8 +18478,8 @@
           "image_id": 64365658898763
         },
         {
-          "id": 53256845033803,
           "product_id": 10825086173515,
+          "id": 53256845033803,
           "title": "Australian Regulations / 12W",
           "price": "344.80",
           "position": 4,
@@ -18508,8 +18508,8 @@
       ],
       "options": [
         {
-          "id": 13450976887115,
           "product_id": 10825086173515,
+          "id": 13450976887115,
           "name": "Light Color",
           "position": 1,
           "values": [
@@ -18520,8 +18520,8 @@
           ]
         },
         {
-          "id": 13450976919883,
           "product_id": 10825086173515,
+          "id": 13450976919883,
           "name": "power",
           "position": 2,
           "values": [
@@ -19154,8 +19154,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "id": 53252653875531,
           "product_id": 10823793475915,
+          "id": 53252653875531,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19182,8 +19182,8 @@
           "image_id": 64332469698891
         },
         {
-          "id": 53252653908299,
           "product_id": 10823793475915,
+          "id": 53252653908299,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19212,8 +19212,8 @@
       ],
       "options": [
         {
-          "id": 13449523069259,
           "product_id": 10823793475915,
+          "id": 13449523069259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19221,8 +19221,8 @@
           ]
         },
         {
-          "id": 13449523102027,
           "product_id": 10823793475915,
+          "id": 13449523102027,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -19458,8 +19458,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773159755",
       "variants": [
         {
-          "id": 53252550230347,
           "product_id": 10823773159755,
+          "id": 53252550230347,
           "title": "Aurora Green",
           "price": "93.49",
           "position": 1,
@@ -19486,8 +19486,8 @@
           "image_id": 64332177211723
         },
         {
-          "id": 53252550263115,
           "product_id": 10823773159755,
+          "id": 53252550263115,
           "title": "Milk Coffee Color",
           "price": "93.49",
           "position": 2,
@@ -19516,8 +19516,8 @@
       ],
       "options": [
         {
-          "id": 13449496756555,
           "product_id": 10823773159755,
+          "id": 13449496756555,
           "name": "Color",
           "position": 1,
           "values": [
