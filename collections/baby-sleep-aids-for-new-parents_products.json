@@ -2938,8 +2938,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794458955",
       "variants": [
         {
-          "product_id": 10823794458955,
           "id": 53252659741003,
+          "product_id": 10823794458955,
           "title": "Black",
           "price": "49.49",
           "position": 1,
@@ -2968,8 +2968,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794458955,
           "id": 13449524248907,
+          "product_id": 10823794458955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14529,8 +14529,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14559,8 +14559,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14568,8 +14568,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -16133,8 +16133,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081225547",
       "variants": [
         {
-          "product_id": 10825081225547,
           "id": 53256806072651,
+          "product_id": 10825081225547,
           "title": "White 311 Intelligent Style",
           "price": "579.32",
           "position": 1,
@@ -16161,8 +16161,8 @@
           "image_id": 64365605192011
         },
         {
-          "product_id": 10825081225547,
           "id": 53256806105419,
+          "product_id": 10825081225547,
           "title": "White 081 Colorful Light",
           "price": "257.50",
           "position": 2,
@@ -16191,8 +16191,8 @@
       ],
       "options": [
         {
-          "product_id": 10825081225547,
           "id": 13450969317707,
+          "product_id": 10825081225547,
           "name": "Color",
           "position": 1,
           "values": [
