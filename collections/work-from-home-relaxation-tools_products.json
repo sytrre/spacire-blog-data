@@ -4377,8 +4377,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100656971",
       "variants": [
         {
-          "product_id": 10825100656971,
           "id": 53256902312267,
+          "product_id": 10825100656971,
           "title": "White",
           "price": "435.45",
           "position": 1,
@@ -4405,8 +4405,8 @@
           "image_id": 64365770080587
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902345035,
+          "product_id": 10825100656971,
           "title": "3pcs white",
           "price": "1267.76",
           "position": 2,
@@ -4433,8 +4433,8 @@
           "image_id": 64365770113355
         },
         {
-          "product_id": 10825100656971,
           "id": 53256902377803,
+          "product_id": 10825100656971,
           "title": "2pcs white",
           "price": "851.60",
           "position": 3,
@@ -4463,8 +4463,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100656971,
           "id": 13451000971595,
+          "product_id": 10825100656971,
           "name": "Color",
           "position": 1,
           "values": [
