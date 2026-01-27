@@ -7322,8 +7322,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776187879755",
       "variants": [
         {
-          "product_id": 14776187879755,
           "id": 53331871629643,
+          "product_id": 14776187879755,
           "title": "Silver gray / 10X10CM",
           "price": "34.57",
           "position": 1,
@@ -7350,8 +7350,8 @@
           "image_id": 64662298034507
         },
         {
-          "product_id": 14776187879755,
           "id": 53331871662411,
+          "product_id": 14776187879755,
           "title": "Beige / 10X10CM",
           "price": "34.57",
           "position": 2,
@@ -7378,8 +7378,8 @@
           "image_id": 64662298067275
         },
         {
-          "product_id": 14776187879755,
           "id": 53331871695179,
+          "product_id": 14776187879755,
           "title": "Plum color / 10X10CM",
           "price": "34.57",
           "position": 3,
@@ -7406,8 +7406,8 @@
           "image_id": 64662298100043
         },
         {
-          "product_id": 14776187879755,
           "id": 53331871727947,
+          "product_id": 14776187879755,
           "title": "Red wine / 10X10CM",
           "price": "34.57",
           "position": 4,
@@ -7436,8 +7436,8 @@
       ],
       "options": [
         {
-          "product_id": 14776187879755,
           "id": 17121694122315,
+          "product_id": 14776187879755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7448,8 +7448,8 @@
           ]
         },
         {
-          "product_id": 14776187879755,
           "id": 17121694155083,
+          "product_id": 14776187879755,
           "name": "Size",
           "position": 2,
           "values": [
@@ -7856,8 +7856,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -7884,8 +7884,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -7912,8 +7912,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -7940,8 +7940,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -7970,8 +7970,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7982,8 +7982,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -37802,8 +37802,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "product_id": 10823797440843,
           "id": 53252672782667,
+          "product_id": 10823797440843,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -37830,8 +37830,8 @@
           "image_id": 64332537299275
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672815435,
+          "product_id": 10823797440843,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -37858,8 +37858,8 @@
           "image_id": 64332537332043
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672848203,
+          "product_id": 10823797440843,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -37886,8 +37886,8 @@
           "image_id": 64332537364811
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672880971,
+          "product_id": 10823797440843,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -37916,8 +37916,8 @@
       ],
       "options": [
         {
-          "product_id": 10823797440843,
           "id": 13449527624011,
+          "product_id": 10823797440843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37928,8 +37928,8 @@
           ]
         },
         {
-          "product_id": 10823797440843,
           "id": 13449527656779,
+          "product_id": 10823797440843,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -40521,8 +40521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775316119883",
       "variants": [
         {
-          "product_id": 14775316119883,
           "id": 53327871148363,
+          "product_id": 14775316119883,
           "title": "Apricot gray",
           "price": "30.95",
           "position": 1,
@@ -40549,8 +40549,8 @@
           "image_id": 64651461689675
         },
         {
-          "product_id": 14775316119883,
           "id": 53327871181131,
+          "product_id": 14775316119883,
           "title": "Apricot black",
           "price": "30.95",
           "position": 2,
@@ -40577,8 +40577,8 @@
           "image_id": 64651461722443
         },
         {
-          "product_id": 14775316119883,
           "id": 53327871213899,
+          "product_id": 14775316119883,
           "title": "Dark grey",
           "price": "30.95",
           "position": 3,
@@ -40605,8 +40605,8 @@
           "image_id": 64651461755211
         },
         {
-          "product_id": 14775316119883,
           "id": 53327871246667,
+          "product_id": 14775316119883,
           "title": "Pure black",
           "price": "30.95",
           "position": 4,
@@ -40635,8 +40635,8 @@
       ],
       "options": [
         {
-          "product_id": 14775316119883,
           "id": 17120625066315,
+          "product_id": 14775316119883,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44671,8 +44671,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775048241483",
       "variants": [
         {
-          "product_id": 14775048241483,
           "id": 53327248851275,
+          "product_id": 14775048241483,
           "title": "Pink",
           "price": "17.06",
           "position": 1,
@@ -44699,8 +44699,8 @@
           "image_id": 64648669397323
         },
         {
-          "product_id": 14775048241483,
           "id": 53327248884043,
+          "product_id": 14775048241483,
           "title": "Blue",
           "price": "17.06",
           "position": 2,
@@ -44729,8 +44729,8 @@
       ],
       "options": [
         {
-          "product_id": 14775048241483,
           "id": 17120339067211,
+          "product_id": 14775048241483,
           "name": "Color",
           "position": 1,
           "values": [
@@ -61221,8 +61221,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823723516235",
       "variants": [
         {
-          "product_id": 10823723516235,
           "id": 53252224778571,
+          "product_id": 10823723516235,
           "title": "Black Basic Style / AU",
           "price": "61.49",
           "position": 1,
@@ -61249,8 +61249,8 @@
           "image_id": 64331410473291
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224811339,
+          "product_id": 10823723516235,
           "title": "Black Basic Style / EU",
           "price": "61.49",
           "position": 2,
@@ -61277,8 +61277,8 @@
           "image_id": 64331410473291
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224844107,
+          "product_id": 10823723516235,
           "title": "Black Basic Style / UK",
           "price": "61.49",
           "position": 3,
@@ -61305,8 +61305,8 @@
           "image_id": 64331410473291
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224876875,
+          "product_id": 10823723516235,
           "title": "Black Basic Style / US",
           "price": "61.49",
           "position": 4,
@@ -61333,8 +61333,8 @@
           "image_id": 64331410473291
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224909643,
+          "product_id": 10823723516235,
           "title": "Black Bluetooth White Noise / AU",
           "price": "61.49",
           "position": 5,
@@ -61361,8 +61361,8 @@
           "image_id": 64331410506059
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224942411,
+          "product_id": 10823723516235,
           "title": "Black Bluetooth White Noise / EU",
           "price": "61.49",
           "position": 6,
@@ -61389,8 +61389,8 @@
           "image_id": 64331410506059
         },
         {
-          "product_id": 10823723516235,
           "id": 53252224975179,
+          "product_id": 10823723516235,
           "title": "Black Bluetooth White Noise / UK",
           "price": "61.49",
           "position": 7,
@@ -61417,8 +61417,8 @@
           "image_id": 64331410506059
         },
         {
-          "product_id": 10823723516235,
           "id": 53252225007947,
+          "product_id": 10823723516235,
           "title": "Black Bluetooth White Noise / US",
           "price": "61.49",
           "position": 8,
@@ -61447,8 +61447,8 @@
       ],
       "options": [
         {
-          "product_id": 10823723516235,
           "id": 13449402646859,
+          "product_id": 10823723516235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -61457,8 +61457,8 @@
           ]
         },
         {
-          "product_id": 10823723516235,
           "id": 13449402679627,
+          "product_id": 10823723516235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -63102,8 +63102,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158885707",
       "variants": [
         {
-          "product_id": 10825158885707,
           "id": 53257349235019,
+          "product_id": 10825158885707,
           "title": "Lavender",
           "price": "31.41",
           "position": 1,
@@ -63132,8 +63132,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158885707,
           "id": 13451086102859,
+          "product_id": 10825158885707,
           "name": "style",
           "position": 1,
           "values": [
@@ -65464,8 +65464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774004482379",
       "variants": [
         {
-          "product_id": 14774004482379,
           "id": 53319995195723,
+          "product_id": 14774004482379,
           "title": "Beige / 120x200cm",
           "price": "71.90",
           "position": 1,
@@ -65492,8 +65492,8 @@
           "image_id": 64631979508043
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995228491,
+          "product_id": 14774004482379,
           "title": "Beige / 150x200cm",
           "price": "71.90",
           "position": 2,
@@ -65520,8 +65520,8 @@
           "image_id": 64631979508043
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995261259,
+          "product_id": 14774004482379,
           "title": "Beige / 180X200cm",
           "price": "72.27",
           "position": 3,
@@ -65548,8 +65548,8 @@
           "image_id": 64631979508043
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995294027,
+          "product_id": 14774004482379,
           "title": "Beige / 200x230cm",
           "price": "73.25",
           "position": 4,
@@ -65576,8 +65576,8 @@
           "image_id": 64631979508043
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995326795,
+          "product_id": 14774004482379,
           "title": "Lake Green / 120x200cm",
           "price": "71.90",
           "position": 5,
@@ -65604,8 +65604,8 @@
           "image_id": 64631979540811
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995359563,
+          "product_id": 14774004482379,
           "title": "Lake Green / 150x200cm",
           "price": "71.90",
           "position": 6,
@@ -65632,8 +65632,8 @@
           "image_id": 64631979540811
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995392331,
+          "product_id": 14774004482379,
           "title": "Lake Green / 180X200cm",
           "price": "72.27",
           "position": 7,
@@ -65660,8 +65660,8 @@
           "image_id": 64631979540811
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995425099,
+          "product_id": 14774004482379,
           "title": "Lake Green / 200x230cm",
           "price": "73.25",
           "position": 8,
@@ -65688,8 +65688,8 @@
           "image_id": 64631979540811
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995457867,
+          "product_id": 14774004482379,
           "title": "Cold Light Green / 120x200cm",
           "price": "71.90",
           "position": 9,
@@ -65716,8 +65716,8 @@
           "image_id": 64631979573579
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995490635,
+          "product_id": 14774004482379,
           "title": "Cold Light Green / 150x200cm",
           "price": "71.90",
           "position": 10,
@@ -65744,8 +65744,8 @@
           "image_id": 64631979573579
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995523403,
+          "product_id": 14774004482379,
           "title": "Cold Light Green / 180X200cm",
           "price": "72.27",
           "position": 11,
@@ -65772,8 +65772,8 @@
           "image_id": 64631979573579
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995556171,
+          "product_id": 14774004482379,
           "title": "Cold Light Green / 200x230cm",
           "price": "73.25",
           "position": 12,
@@ -65800,8 +65800,8 @@
           "image_id": 64631979573579
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995588939,
+          "product_id": 14774004482379,
           "title": "Milk Coffee / 120x200cm",
           "price": "71.90",
           "position": 13,
@@ -65828,8 +65828,8 @@
           "image_id": 64631979606347
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995621707,
+          "product_id": 14774004482379,
           "title": "Milk Coffee / 150x200cm",
           "price": "71.90",
           "position": 14,
@@ -65856,8 +65856,8 @@
           "image_id": 64631979606347
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995654475,
+          "product_id": 14774004482379,
           "title": "Milk Coffee / 180X200cm",
           "price": "72.27",
           "position": 15,
@@ -65884,8 +65884,8 @@
           "image_id": 64631979606347
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995687243,
+          "product_id": 14774004482379,
           "title": "Milk Coffee / 200x230cm",
           "price": "73.25",
           "position": 16,
@@ -65912,8 +65912,8 @@
           "image_id": 64631979606347
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995720011,
+          "product_id": 14774004482379,
           "title": "Baby Pink / 120x200cm",
           "price": "71.90",
           "position": 17,
@@ -65940,8 +65940,8 @@
           "image_id": 64631979639115
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995752779,
+          "product_id": 14774004482379,
           "title": "Baby Pink / 150x200cm",
           "price": "71.90",
           "position": 18,
@@ -65968,8 +65968,8 @@
           "image_id": 64631979639115
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995785547,
+          "product_id": 14774004482379,
           "title": "Baby Pink / 180X200cm",
           "price": "72.27",
           "position": 19,
@@ -65996,8 +65996,8 @@
           "image_id": 64631979639115
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995818315,
+          "product_id": 14774004482379,
           "title": "Baby Pink / 200x230cm",
           "price": "73.25",
           "position": 20,
@@ -66024,8 +66024,8 @@
           "image_id": 64631979639115
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995851083,
+          "product_id": 14774004482379,
           "title": "Warm Orange / 120x200cm",
           "price": "71.90",
           "position": 21,
@@ -66052,8 +66052,8 @@
           "image_id": 64631979671883
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995883851,
+          "product_id": 14774004482379,
           "title": "Warm Orange / 150x200cm",
           "price": "71.90",
           "position": 22,
@@ -66080,8 +66080,8 @@
           "image_id": 64631979671883
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995916619,
+          "product_id": 14774004482379,
           "title": "Warm Orange / 180X200cm",
           "price": "72.27",
           "position": 23,
@@ -66108,8 +66108,8 @@
           "image_id": 64631979671883
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995949387,
+          "product_id": 14774004482379,
           "title": "Warm Orange / 200x230cm",
           "price": "73.25",
           "position": 24,
@@ -66136,8 +66136,8 @@
           "image_id": 64631979671883
         },
         {
-          "product_id": 14774004482379,
           "id": 53319995982155,
+          "product_id": 14774004482379,
           "title": "Gentleman Gray / 120x200cm",
           "price": "71.90",
           "position": 25,
@@ -66164,8 +66164,8 @@
           "image_id": 64631979704651
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996014923,
+          "product_id": 14774004482379,
           "title": "Gentleman Gray / 150x200cm",
           "price": "71.90",
           "position": 26,
@@ -66192,8 +66192,8 @@
           "image_id": 64631979704651
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996047691,
+          "product_id": 14774004482379,
           "title": "Gentleman Gray / 180X200cm",
           "price": "72.27",
           "position": 27,
@@ -66220,8 +66220,8 @@
           "image_id": 64631979704651
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996080459,
+          "product_id": 14774004482379,
           "title": "Gentleman Gray / 200x230cm",
           "price": "73.25",
           "position": 28,
@@ -66248,8 +66248,8 @@
           "image_id": 64631979704651
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996113227,
+          "product_id": 14774004482379,
           "title": "Taro Purple / 120x200cm",
           "price": "71.90",
           "position": 29,
@@ -66276,8 +66276,8 @@
           "image_id": 64631979737419
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996145995,
+          "product_id": 14774004482379,
           "title": "Taro Purple / 150x200cm",
           "price": "71.90",
           "position": 30,
@@ -66304,8 +66304,8 @@
           "image_id": 64631979737419
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996178763,
+          "product_id": 14774004482379,
           "title": "Taro Purple / 180X200cm",
           "price": "72.27",
           "position": 31,
@@ -66332,8 +66332,8 @@
           "image_id": 64631979737419
         },
         {
-          "product_id": 14774004482379,
           "id": 53319996211531,
+          "product_id": 14774004482379,
           "title": "Taro Purple / 200x230cm",
           "price": "73.25",
           "position": 32,
@@ -66362,8 +66362,8 @@
       ],
       "options": [
         {
-          "product_id": 14774004482379,
           "id": 17118963794251,
+          "product_id": 14774004482379,
           "name": "Color",
           "position": 1,
           "values": [
@@ -66378,8 +66378,8 @@
           ]
         },
         {
-          "product_id": 14774004482379,
           "id": 17118963827019,
+          "product_id": 14774004482379,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -68788,8 +68788,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773159755",
       "variants": [
         {
-          "product_id": 10823773159755,
           "id": 53252550230347,
+          "product_id": 10823773159755,
           "title": "Aurora Green",
           "price": "93.49",
           "position": 1,
@@ -68816,8 +68816,8 @@
           "image_id": 64332177211723
         },
         {
-          "product_id": 10823773159755,
           "id": 53252550263115,
+          "product_id": 10823773159755,
           "title": "Milk Coffee Color",
           "price": "93.49",
           "position": 2,
@@ -68846,8 +68846,8 @@
       ],
       "options": [
         {
-          "product_id": 10823773159755,
           "id": 13449496756555,
+          "product_id": 10823773159755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -92544,7 +92544,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-26T11:26:32+00:00",
+      "updated_at": "2026-01-27T12:26:25+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -92553,8 +92553,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045541195",
       "variants": [
         {
-          "product_id": 10825045541195,
           "id": 53256581906763,
+          "product_id": 10825045541195,
           "title": "Black",
           "price": "36.08",
           "position": 1,
@@ -92564,7 +92564,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-26T11:26:32+00:00",
+          "updated_at": "2026-01-27T12:26:25+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -92575,14 +92575,14 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40678,
-          "old_inventory_quantity": 40678,
+          "inventory_quantity": 40677,
+          "old_inventory_quantity": 40677,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
         {
-          "product_id": 10825045541195,
           "id": 53256581939531,
+          "product_id": 10825045541195,
           "title": "Dark Blue",
           "price": "34.80",
           "position": 2,
@@ -92611,8 +92611,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045541195,
           "id": 13450921279819,
+          "product_id": 10825045541195,
           "name": "Color",
           "position": 1,
           "values": [

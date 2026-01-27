@@ -38154,8 +38154,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -38182,8 +38182,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -38210,8 +38210,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -38238,8 +38238,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -38268,8 +38268,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38280,8 +38280,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -47591,8 +47591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "id": 53256620376395,
           "product_id": 10825054585163,
+          "id": 53256620376395,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -47619,8 +47619,8 @@
           "image_id": 64365305528651
         },
         {
-          "id": 53256620409163,
           "product_id": 10825054585163,
+          "id": 53256620409163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -47649,8 +47649,8 @@
       ],
       "options": [
         {
-          "id": 13450931110219,
           "product_id": 10825054585163,
+          "id": 13450931110219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57953,7 +57953,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-26T11:26:32+00:00",
+      "updated_at": "2026-01-27T12:26:25+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -57962,8 +57962,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045541195",
       "variants": [
         {
-          "product_id": 10825045541195,
           "id": 53256581906763,
+          "product_id": 10825045541195,
           "title": "Black",
           "price": "36.08",
           "position": 1,
@@ -57973,7 +57973,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-26T11:26:32+00:00",
+          "updated_at": "2026-01-27T12:26:25+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -57984,14 +57984,14 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40678,
-          "old_inventory_quantity": 40678,
+          "inventory_quantity": 40677,
+          "old_inventory_quantity": 40677,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
         {
-          "product_id": 10825045541195,
           "id": 53256581939531,
+          "product_id": 10825045541195,
           "title": "Dark Blue",
           "price": "34.80",
           "position": 2,
@@ -58020,8 +58020,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045541195,
           "id": 13450921279819,
+          "product_id": 10825045541195,
           "name": "Color",
           "position": 1,
           "values": [
