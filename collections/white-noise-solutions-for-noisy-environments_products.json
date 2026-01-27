@@ -2938,8 +2938,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794458955",
       "variants": [
         {
-          "product_id": 10823794458955,
           "id": 53252659741003,
+          "product_id": 10823794458955,
           "title": "Black",
           "price": "49.49",
           "position": 1,
@@ -2968,8 +2968,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794458955,
           "id": 13449524248907,
+          "product_id": 10823794458955,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7804,8 +7804,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823724466507",
       "variants": [
         {
-          "product_id": 10823724466507,
           "id": 53252228940107,
+          "product_id": 10823724466507,
           "title": "V28 Black Basic Style / AU",
           "price": "57.99",
           "position": 1,
@@ -7832,8 +7832,8 @@
           "image_id": 64331418566987
         },
         {
-          "product_id": 10823724466507,
           "id": 53252228972875,
+          "product_id": 10823724466507,
           "title": "V28 Black Basic Style / EU",
           "price": "57.99",
           "position": 2,
@@ -7860,8 +7860,8 @@
           "image_id": 64331418566987
         },
         {
-          "product_id": 10823724466507,
           "id": 53252229005643,
+          "product_id": 10823724466507,
           "title": "V28 Black Basic Style / UK",
           "price": "57.99",
           "position": 3,
@@ -7888,8 +7888,8 @@
           "image_id": 64331418566987
         },
         {
-          "product_id": 10823724466507,
           "id": 53252229038411,
+          "product_id": 10823724466507,
           "title": "V28 Black Basic Style / US",
           "price": "57.99",
           "position": 4,
@@ -7918,8 +7918,8 @@
       ],
       "options": [
         {
-          "product_id": 10823724466507,
           "id": 13449404842315,
+          "product_id": 10823724466507,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7927,8 +7927,8 @@
           ]
         },
         {
-          "product_id": 10823724466507,
           "id": 13449404875083,
+          "product_id": 10823724466507,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14529,8 +14529,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793934667",
       "variants": [
         {
-          "id": 53252657938763,
           "product_id": 10823793934667,
+          "id": 53252657938763,
           "title": "Acoustooptic timing K6 / USB",
           "price": "31.49",
           "position": 1,
@@ -14559,8 +14559,8 @@
       ],
       "options": [
         {
-          "id": 13449523659083,
           "product_id": 10823793934667,
+          "id": 13449523659083,
           "name": "style",
           "position": 1,
           "values": [
@@ -14568,8 +14568,8 @@
           ]
         },
         {
-          "id": 13449523691851,
           "product_id": 10823793934667,
+          "id": 13449523691851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -20483,8 +20483,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825097576779",
       "variants": [
         {
-          "product_id": 10825097576779,
           "id": 53256895562059,
+          "product_id": 10825097576779,
           "title": "Grey / US",
           "price": "953.40",
           "position": 1,
@@ -20511,8 +20511,8 @@
           "image_id": 64365729349963
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895594827,
+          "product_id": 10825097576779,
           "title": "Grey / EU",
           "price": "953.40",
           "position": 2,
@@ -20539,8 +20539,8 @@
           "image_id": 64365729349963
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895627595,
+          "product_id": 10825097576779,
           "title": "White / US",
           "price": "953.40",
           "position": 3,
@@ -20567,8 +20567,8 @@
           "image_id": 64365729382731
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895660363,
+          "product_id": 10825097576779,
           "title": "White / EU",
           "price": "953.40",
           "position": 4,
@@ -20595,8 +20595,8 @@
           "image_id": 64365729382731
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895693131,
+          "product_id": 10825097576779,
           "title": "Space grey / US",
           "price": "1013.28",
           "position": 5,
@@ -20623,8 +20623,8 @@
           "image_id": 64365729415499
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895725899,
+          "product_id": 10825097576779,
           "title": "Space grey / EU",
           "price": "1013.28",
           "position": 6,
@@ -20651,8 +20651,8 @@
           "image_id": 64365729415499
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895758667,
+          "product_id": 10825097576779,
           "title": "Elegant white / US",
           "price": "1013.28",
           "position": 7,
@@ -20679,8 +20679,8 @@
           "image_id": 64365729448267
         },
         {
-          "product_id": 10825097576779,
           "id": 53256895791435,
+          "product_id": 10825097576779,
           "title": "Elegant white / EU",
           "price": "1013.28",
           "position": 8,
@@ -20709,8 +20709,8 @@
       ],
       "options": [
         {
-          "product_id": 10825097576779,
           "id": 13450996744523,
+          "product_id": 10825097576779,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20721,8 +20721,8 @@
           ]
         },
         {
-          "product_id": 10825097576779,
           "id": 13450996777291,
+          "product_id": 10825097576779,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

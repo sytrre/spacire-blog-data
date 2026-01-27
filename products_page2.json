@@ -15945,8 +15945,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383147807051",
       "variants": [
         {
-          "id": 55974119276875,
           "product_id": 15383147807051,
+          "id": 55974119276875,
           "title": "Black",
           "price": "29.95",
           "position": 1,
@@ -15973,8 +15973,8 @@
           "image_id": 79378906546507
         },
         {
-          "id": 55974119309643,
           "product_id": 15383147807051,
+          "id": 55974119309643,
           "title": "White",
           "price": "29.95",
           "position": 2,
@@ -16003,8 +16003,8 @@
       ],
       "options": [
         {
-          "id": 17822060609867,
           "product_id": 15383147807051,
+          "id": 17822060609867,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18347,8 +18347,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -18375,8 +18375,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -18403,8 +18403,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -18431,8 +18431,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -18461,8 +18461,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18473,8 +18473,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -22913,8 +22913,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -22943,8 +22943,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [
@@ -68800,8 +68800,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771566215499",
       "variants": [
         {
-          "product_id": 14771566215499,
           "id": 53310486511947,
+          "product_id": 14771566215499,
           "title": "Cyan / 62×33×10cm",
           "price": "42.98",
           "position": 1,
@@ -68828,8 +68828,8 @@
           "image_id": 64595179897163
         },
         {
-          "product_id": 14771566215499,
           "id": 53310486544715,
+          "product_id": 14771566215499,
           "title": "Azure / 62×33×10cm",
           "price": "42.98",
           "position": 2,
@@ -68856,8 +68856,8 @@
           "image_id": 64595179929931
         },
         {
-          "product_id": 14771566215499,
           "id": 53310486577483,
+          "product_id": 14771566215499,
           "title": "Grey / 62×33×10cm",
           "price": "42.98",
           "position": 3,
@@ -68884,8 +68884,8 @@
           "image_id": 64595179962699
         },
         {
-          "product_id": 14771566215499,
           "id": 53310486610251,
+          "product_id": 14771566215499,
           "title": "Azure / 50x30x10cm",
           "price": "38.93",
           "position": 4,
@@ -68912,8 +68912,8 @@
           "image_id": 64595179929931
         },
         {
-          "product_id": 14771566215499,
           "id": 53310486643019,
+          "product_id": 14771566215499,
           "title": "Cyan / 50x30x10cm",
           "price": "38.93",
           "position": 5,
@@ -68940,8 +68940,8 @@
           "image_id": 64595179897163
         },
         {
-          "product_id": 14771566215499,
           "id": 53310486675787,
+          "product_id": 14771566215499,
           "title": "Grey / 50x30x10cm",
           "price": "38.93",
           "position": 6,
@@ -68970,8 +68970,8 @@
       ],
       "options": [
         {
-          "product_id": 14771566215499,
           "id": 17116102328651,
+          "product_id": 14771566215499,
           "name": "Color",
           "position": 1,
           "values": [
@@ -68981,8 +68981,8 @@
           ]
         },
         {
-          "product_id": 14771566215499,
           "id": 17116102361419,
+          "product_id": 14771566215499,
           "name": "Size",
           "position": 2,
           "values": [
