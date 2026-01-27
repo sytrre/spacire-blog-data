@@ -21495,8 +21495,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044689227",
       "variants": [
         {
-          "product_id": 10825044689227,
           "id": 53256579285323,
+          "product_id": 10825044689227,
           "title": "Black / USB",
           "price": "64.02",
           "position": 1,
@@ -21523,8 +21523,8 @@
           "image_id": 64365193003339
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579318091,
+          "product_id": 10825044689227,
           "title": "Blue / USB",
           "price": "64.02",
           "position": 2,
@@ -21551,8 +21551,8 @@
           "image_id": 64365193036107
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579350859,
+          "product_id": 10825044689227,
           "title": "Grey / USB",
           "price": "64.02",
           "position": 3,
@@ -21579,8 +21579,8 @@
           "image_id": 64365193068875
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579383627,
+          "product_id": 10825044689227,
           "title": "Black 2PC / USB",
           "price": "68.47",
           "position": 4,
@@ -21607,8 +21607,8 @@
           "image_id": 64365193101643
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579416395,
+          "product_id": 10825044689227,
           "title": "Blue 2PC / USB",
           "price": "68.47",
           "position": 5,
@@ -21635,8 +21635,8 @@
           "image_id": 64365193134411
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579449163,
+          "product_id": 10825044689227,
           "title": "Grey 2PC / USB",
           "price": "68.47",
           "position": 6,
@@ -21663,8 +21663,8 @@
           "image_id": 64365193167179
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579481931,
+          "product_id": 10825044689227,
           "title": "Black Set / USB",
           "price": "73.79",
           "position": 7,
@@ -21691,8 +21691,8 @@
           "image_id": 64365193199947
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579514699,
+          "product_id": 10825044689227,
           "title": "Blue Set / USB",
           "price": "73.79",
           "position": 8,
@@ -21719,8 +21719,8 @@
           "image_id": 64365193232715
         },
         {
-          "product_id": 10825044689227,
           "id": 53256579547467,
+          "product_id": 10825044689227,
           "title": "Grey Set / USB",
           "price": "73.79",
           "position": 9,
@@ -21749,8 +21749,8 @@
       ],
       "options": [
         {
-          "product_id": 10825044689227,
           "id": 13450920329547,
+          "product_id": 10825044689227,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21766,8 +21766,8 @@
           ]
         },
         {
-          "product_id": 10825044689227,
           "id": 13450920362315,
+          "product_id": 10825044689227,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -37740,8 +37740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045967179",
       "variants": [
         {
-          "product_id": 10825045967179,
           "id": 53256583446859,
+          "product_id": 10825045967179,
           "title": "Slim and long",
           "price": "32.29",
           "position": 1,
@@ -37768,8 +37768,8 @@
           "image_id": 64365204078923
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583479627,
+          "product_id": 10825045967179,
           "title": "Slim and short",
           "price": "32.29",
           "position": 2,
@@ -37796,8 +37796,8 @@
           "image_id": 64365204111691
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583512395,
+          "product_id": 10825045967179,
           "title": "Grey outline",
           "price": "32.29",
           "position": 3,
@@ -37826,8 +37826,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045967179,
           "id": 13450921705803,
+          "product_id": 10825045967179,
           "name": "style",
           "position": 1,
           "values": [

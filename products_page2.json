@@ -15572,8 +15572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092829003",
       "variants": [
         {
-          "id": 55945804218699,
           "product_id": 15374092829003,
+          "id": 55945804218699,
           "title": "15pcs",
           "price": "22.95",
           "position": 1,
@@ -15602,8 +15602,8 @@
       ],
       "options": [
         {
-          "id": 17811414876491,
           "product_id": 15374092829003,
+          "id": 17811414876491,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18080,8 +18080,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -18108,8 +18108,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -18136,8 +18136,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -18164,8 +18164,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -18194,8 +18194,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18206,8 +18206,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -48522,8 +48522,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823899382091",
       "variants": [
         {
-          "product_id": 10823899382091,
           "id": 53253438505291,
+          "product_id": 10823899382091,
           "title": "Coral4 / 2.5 M",
           "price": "118.99",
           "position": 1,
@@ -48550,8 +48550,8 @@
           "image_id": 64334548894027
         },
         {
-          "product_id": 10823899382091,
           "id": 53253438538059,
+          "product_id": 10823899382091,
           "title": "Hermes Orange19 / 2.5 M",
           "price": "118.99",
           "position": 2,
@@ -48578,8 +48578,8 @@
           "image_id": 64334548926795
         },
         {
-          "product_id": 10823899382091,
           "id": 53253438570827,
+          "product_id": 10823899382091,
           "title": "Saddle Orange20 / 2.5 M",
           "price": "118.99",
           "position": 3,
@@ -48606,8 +48606,8 @@
           "image_id": 64334548959563
         },
         {
-          "product_id": 10823899382091,
           "id": 53253438603595,
+          "product_id": 10823899382091,
           "title": "Sunset Orange11 / 2.5 M",
           "price": "118.99",
           "position": 4,
@@ -48636,8 +48636,8 @@
       ],
       "options": [
         {
-          "product_id": 10823899382091,
           "id": 13449660760395,
+          "product_id": 10823899382091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -48648,8 +48648,8 @@
           ]
         },
         {
-          "product_id": 10823899382091,
           "id": 13449660793163,
+          "product_id": 10823899382091,
           "name": "Specifications",
           "position": 2,
           "values": [
