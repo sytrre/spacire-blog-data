@@ -55626,8 +55626,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775144546635",
       "variants": [
         {
-          "product_id": 14775144546635,
           "id": 53327473836363,
+          "product_id": 14775144546635,
           "title": "Blue",
           "price": "32.25",
           "position": 1,
@@ -55654,8 +55654,8 @@
           "image_id": 64650337845579
         },
         {
-          "product_id": 14775144546635,
           "id": 53327473869131,
+          "product_id": 14775144546635,
           "title": "Pink",
           "price": "32.47",
           "position": 2,
@@ -55682,8 +55682,8 @@
           "image_id": 64650337878347
         },
         {
-          "product_id": 14775144546635,
           "id": 53327473901899,
+          "product_id": 14775144546635,
           "title": "White",
           "price": "32.25",
           "position": 3,
@@ -55712,8 +55712,8 @@
       ],
       "options": [
         {
-          "product_id": 14775144546635,
           "id": 17120440516939,
+          "product_id": 14775144546635,
           "name": "Color",
           "position": 1,
           "values": [
@@ -71162,8 +71162,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089286475",
       "variants": [
         {
-          "id": 53256865448267,
           "product_id": 10825089286475,
+          "id": 53256865448267,
           "title": "Orange",
           "price": "563.56",
           "position": 1,
@@ -71192,8 +71192,8 @@
       ],
       "options": [
         {
-          "id": 13450981605707,
           "product_id": 10825089286475,
+          "id": 13450981605707,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81013,8 +81013,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047671115",
       "variants": [
         {
-          "product_id": 10825047671115,
           "id": 53256593113419,
+          "product_id": 10825047671115,
           "title": "Hollow model black",
           "price": "31.94",
           "position": 1,
@@ -81041,8 +81041,8 @@
           "image_id": 64365227770187
         },
         {
-          "product_id": 10825047671115,
           "id": 53256593146187,
+          "product_id": 10825047671115,
           "title": "Hollow model grey",
           "price": "31.94",
           "position": 2,
@@ -81069,8 +81069,8 @@
           "image_id": 64365227802955
         },
         {
-          "product_id": 10825047671115,
           "id": 53256593178955,
+          "product_id": 10825047671115,
           "title": "Hollow model champagne",
           "price": "31.94",
           "position": 3,
@@ -81097,8 +81097,8 @@
           "image_id": 64365227835723
         },
         {
-          "product_id": 10825047671115,
           "id": 53256593211723,
+          "product_id": 10825047671115,
           "title": "Hollow model color matching",
           "price": "32.10",
           "position": 4,
@@ -81127,8 +81127,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047671115,
           "id": 13450923475275,
+          "product_id": 10825047671115,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98785,8 +98785,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "id": 53253571477835,
           "product_id": 10823935689035,
+          "id": 53253571477835,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -98815,8 +98815,8 @@
       ],
       "options": [
         {
-          "id": 13449702670667,
           "product_id": 10823935689035,
+          "id": 13449702670667,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98976,8 +98976,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158558027",
       "variants": [
         {
-          "product_id": 10825158558027,
           "id": 53257345597771,
+          "product_id": 10825158558027,
           "title": "First stage",
           "price": "31.10",
           "position": 1,
@@ -99004,8 +99004,8 @@
           "image_id": 64366999273803
         },
         {
-          "product_id": 10825158558027,
           "id": 53257345630539,
+          "product_id": 10825158558027,
           "title": "Second stage",
           "price": "31.10",
           "position": 2,
@@ -99032,8 +99032,8 @@
           "image_id": 64366999306571
         },
         {
-          "product_id": 10825158558027,
           "id": 53257345663307,
+          "product_id": 10825158558027,
           "title": "Third stage",
           "price": "31.10",
           "position": 3,
@@ -99062,8 +99062,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158558027,
           "id": 13451085676875,
+          "product_id": 10825158558027,
           "name": "style",
           "position": 1,
           "values": [
