@@ -8891,8 +8891,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825059598667",
       "variants": [
         {
-          "product_id": 10825059598667,
           "id": 53256657731915,
+          "product_id": 10825059598667,
           "title": "B style / 69x82cm",
           "price": "39.91",
           "position": 1,
@@ -8919,8 +8919,8 @@
           "image_id": 64365373948235
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657764683,
+          "product_id": 10825059598667,
           "title": "C style / 69x82cm",
           "price": "39.91",
           "position": 2,
@@ -8947,8 +8947,8 @@
           "image_id": 64365373981003
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657797451,
+          "product_id": 10825059598667,
           "title": "D style / 69x82cm",
           "price": "39.91",
           "position": 3,
@@ -8975,8 +8975,8 @@
           "image_id": 64365374013771
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657830219,
+          "product_id": 10825059598667,
           "title": "StyleA / 69x82cm",
           "price": "38.58",
           "position": 4,
@@ -9005,8 +9005,8 @@
       ],
       "options": [
         {
-          "product_id": 10825059598667,
           "id": 13450937794891,
+          "product_id": 10825059598667,
           "name": "style",
           "position": 1,
           "values": [
@@ -9017,8 +9017,8 @@
           ]
         },
         {
-          "product_id": 10825059598667,
           "id": 13450937827659,
+          "product_id": 10825059598667,
           "name": "Size",
           "position": 2,
           "values": [

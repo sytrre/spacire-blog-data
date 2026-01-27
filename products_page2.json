@@ -20188,8 +20188,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825048129867",
       "variants": [
         {
-          "id": 53256594784587,
           "product_id": 10825048129867,
+          "id": 53256594784587,
           "title": "Black / Fixed Neck Pillow Goggle Set",
           "price": "35.97",
           "position": 1,
@@ -20218,8 +20218,8 @@
       ],
       "options": [
         {
-          "id": 13450923999563,
           "product_id": 10825048129867,
+          "id": 13450923999563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20227,8 +20227,8 @@
           ]
         },
         {
-          "id": 13450924032331,
           "product_id": 10825048129867,
+          "id": 13450924032331,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -22913,8 +22913,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "id": 53256231453003,
           "product_id": 10824961589579,
+          "id": 53256231453003,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -22943,8 +22943,8 @@
       ],
       "options": [
         {
-          "id": 13450822353227,
           "product_id": 10824961589579,
+          "id": 13450822353227,
           "name": "style",
           "position": 1,
           "values": [
@@ -68306,8 +68306,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904258891",
       "variants": [
         {
-          "product_id": 14774904258891,
           "id": 53325633847627,
+          "product_id": 14774904258891,
           "title": "Tencel Navy Blue Standard / MJ8125",
           "price": "38.18",
           "position": 1,
@@ -68334,8 +68334,8 @@
           "image_id": 64644466540875
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633880395,
+          "product_id": 14774904258891,
           "title": "Tencel Blue Standard / MJ8125",
           "price": "38.18",
           "position": 2,
@@ -68362,8 +68362,8 @@
           "image_id": 64644466573643
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633913163,
+          "product_id": 14774904258891,
           "title": "Dark Gray Gray Standard / MJ8125",
           "price": "38.43",
           "position": 3,
@@ -68390,8 +68390,8 @@
           "image_id": 64644466606411
         },
         {
-          "product_id": 14774904258891,
           "id": 53325633945931,
+          "product_id": 14774904258891,
           "title": "Dark Gray Mesh Low Loft Pillow / MJ8125",
           "price": "37.70",
           "position": 4,
@@ -68420,8 +68420,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904258891,
           "id": 17120143442251,
+          "product_id": 14774904258891,
           "name": "Color",
           "position": 1,
           "values": [
@@ -68432,8 +68432,8 @@
           ]
         },
         {
-          "product_id": 14774904258891,
           "id": 17120143475019,
+          "product_id": 14774904258891,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -84012,8 +84012,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056977227",
       "variants": [
         {
-          "product_id": 10825056977227,
           "id": 53256634663243,
+          "product_id": 10825056977227,
           "title": "Black / USB",
           "price": "34.60",
           "position": 1,
@@ -84040,8 +84040,8 @@
           "image_id": 64365339377995
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634696011,
+          "product_id": 10825056977227,
           "title": "Business gray / USB",
           "price": "34.60",
           "position": 2,
@@ -84068,8 +84068,8 @@
           "image_id": 64365339410763
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634728779,
+          "product_id": 10825056977227,
           "title": "Champagne / USB",
           "price": "34.60",
           "position": 3,
@@ -84096,8 +84096,8 @@
           "image_id": 64365339443531
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634761547,
+          "product_id": 10825056977227,
           "title": "Dark green / USB",
           "price": "34.60",
           "position": 4,
@@ -84124,8 +84124,8 @@
           "image_id": 64365339476299
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634794315,
+          "product_id": 10825056977227,
           "title": "Fresh green / USB",
           "price": "34.60",
           "position": 5,
@@ -84152,8 +84152,8 @@
           "image_id": 64365339509067
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634827083,
+          "product_id": 10825056977227,
           "title": "Gold / USB",
           "price": "34.60",
           "position": 6,
@@ -84180,8 +84180,8 @@
           "image_id": 64365339541835
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634859851,
+          "product_id": 10825056977227,
           "title": "Navy Blue / USB",
           "price": "34.60",
           "position": 7,
@@ -84208,8 +84208,8 @@
           "image_id": 64365339574603
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634892619,
+          "product_id": 10825056977227,
           "title": "Net red and green / USB",
           "price": "34.60",
           "position": 8,
@@ -84236,8 +84236,8 @@
           "image_id": 64365339607371
         },
         {
-          "product_id": 10825056977227,
           "id": 53256634925387,
+          "product_id": 10825056977227,
           "title": "Silver / USB",
           "price": "34.60",
           "position": 9,
@@ -84266,8 +84266,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056977227,
           "id": 13450933961035,
+          "product_id": 10825056977227,
           "name": "Color",
           "position": 1,
           "values": [
@@ -84283,8 +84283,8 @@
           ]
         },
         {
-          "product_id": 10825056977227,
           "id": 13450933993803,
+          "product_id": 10825056977227,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -94331,8 +94331,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825059598667",
       "variants": [
         {
-          "product_id": 10825059598667,
           "id": 53256657731915,
+          "product_id": 10825059598667,
           "title": "B style / 69x82cm",
           "price": "39.91",
           "position": 1,
@@ -94359,8 +94359,8 @@
           "image_id": 64365373948235
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657764683,
+          "product_id": 10825059598667,
           "title": "C style / 69x82cm",
           "price": "39.91",
           "position": 2,
@@ -94387,8 +94387,8 @@
           "image_id": 64365373981003
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657797451,
+          "product_id": 10825059598667,
           "title": "D style / 69x82cm",
           "price": "39.91",
           "position": 3,
@@ -94415,8 +94415,8 @@
           "image_id": 64365374013771
         },
         {
-          "product_id": 10825059598667,
           "id": 53256657830219,
+          "product_id": 10825059598667,
           "title": "StyleA / 69x82cm",
           "price": "38.58",
           "position": 4,
@@ -94445,8 +94445,8 @@
       ],
       "options": [
         {
-          "product_id": 10825059598667,
           "id": 13450937794891,
+          "product_id": 10825059598667,
           "name": "style",
           "position": 1,
           "values": [
@@ -94457,8 +94457,8 @@
           ]
         },
         {
-          "product_id": 10825059598667,
           "id": 13450937827659,
+          "product_id": 10825059598667,
           "name": "Size",
           "position": 2,
           "values": [
