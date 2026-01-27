@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744586059",
       "variants": [
         {
-          "id": 53252390781259,
           "product_id": 10823744586059,
+          "id": 53252390781259,
           "title": "White",
           "price": "30.49",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "id": 13449446916427,
           "product_id": 10823744586059,
+          "id": 13449446916427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -176,8 +176,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100919115",
       "variants": [
         {
-          "id": 53256903295307,
           "product_id": 10825100919115,
+          "id": 53256903295307,
           "title": "USB / USB",
           "price": "365.20",
           "position": 1,
@@ -206,8 +206,8 @@
       ],
       "options": [
         {
-          "id": 13451001332043,
           "product_id": 10825100919115,
+          "id": 13451001332043,
           "name": "Color",
           "position": 1,
           "values": [
@@ -215,8 +215,8 @@
           ]
         },
         {
-          "id": 13451001364811,
           "product_id": 10825100919115,
+          "id": 13451001364811,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -389,8 +389,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823741407563",
       "variants": [
         {
-          "id": 53252361486667,
           "product_id": 10823741407563,
+          "id": 53252361486667,
           "title": "White",
           "price": "38.49",
           "position": 1,
@@ -419,8 +419,8 @@
       ],
       "options": [
         {
-          "id": 13449440395595,
           "product_id": 10823741407563,
+          "id": 13449440395595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1076,8 +1076,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "id": 53253541167435,
           "product_id": 10823924613451,
+          "id": 53253541167435,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -1106,8 +1106,8 @@
       ],
       "options": [
         {
-          "id": 13449690349899,
           "product_id": 10823924613451,
+          "id": 13449690349899,
           "name": "default",
           "position": 1,
           "values": [
@@ -1354,8 +1354,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100624203",
       "variants": [
         {
-          "id": 53256902050123,
           "product_id": 10825100624203,
+          "id": 53256902050123,
           "title": "White",
           "price": "440.38",
           "position": 1,
@@ -1384,8 +1384,8 @@
       ],
       "options": [
         {
-          "id": 13451000938827,
           "product_id": 10825100624203,
+          "id": 13451000938827,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1545,8 +1545,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "id": 53253533860171,
           "product_id": 10823922745675,
+          "id": 53253533860171,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -1575,8 +1575,8 @@
       ],
       "options": [
         {
-          "id": 13449688219979,
           "product_id": 10823922745675,
+          "id": 13449688219979,
           "name": "style",
           "position": 1,
           "values": [
@@ -1584,8 +1584,8 @@
           ]
         },
         {
-          "id": 13449688252747,
           "product_id": 10823922745675,
+          "id": 13449688252747,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

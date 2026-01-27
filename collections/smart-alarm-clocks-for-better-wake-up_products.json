@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793836363",
       "variants": [
         {
-          "id": 53252657774923,
           "product_id": 10823793836363,
+          "id": 53252657774923,
           "title": "Black",
           "price": "80.99",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64332485132619
         },
         {
-          "id": 53252657807691,
           "product_id": 10823793836363,
+          "id": 53252657807691,
           "title": "Light Green",
           "price": "124.49",
           "position": 2,
@@ -82,8 +82,8 @@
       ],
       "options": [
         {
-          "id": 13449523528011,
           "product_id": 10823793836363,
+          "id": 13449523528011,
           "name": "Color",
           "position": 1,
           "values": [
@@ -220,8 +220,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794458955",
       "variants": [
         {
-          "id": 53252659741003,
           "product_id": 10823794458955,
+          "id": 53252659741003,
           "title": "Black",
           "price": "49.49",
           "position": 1,
@@ -250,8 +250,8 @@
       ],
       "options": [
         {
-          "id": 13449524248907,
           "product_id": 10823794458955,
+          "id": 13449524248907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -359,8 +359,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825107833163",
       "variants": [
         {
-          "id": 53256915386699,
           "product_id": 10825107833163,
+          "id": 53256915386699,
           "title": "Black",
           "price": "785.80",
           "position": 1,
@@ -389,8 +389,8 @@
       ],
       "options": [
         {
-          "id": 13451009917259,
           "product_id": 10825107833163,
+          "id": 13451009917259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -511,8 +511,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "id": 53256805089611,
           "product_id": 10825080734027,
+          "id": 53256805089611,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -539,8 +539,8 @@
           "image_id": 64365601521995
         },
         {
-          "id": 53256805122379,
           "product_id": 10825080734027,
+          "id": 53256805122379,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -569,8 +569,8 @@
       ],
       "options": [
         {
-          "id": 13450968596811,
           "product_id": 10825080734027,
+          "id": 13450968596811,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -907,8 +907,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "id": 53256898085195,
           "product_id": 10825099084107,
+          "id": 53256898085195,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -935,8 +935,8 @@
           "image_id": 64365739639115
         },
         {
-          "id": 53256898117963,
           "product_id": 10825099084107,
+          "id": 53256898117963,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -965,8 +965,8 @@
       ],
       "options": [
         {
-          "id": 13450998972747,
           "product_id": 10825099084107,
+          "id": 13450998972747,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -974,8 +974,8 @@
           ]
         },
         {
-          "id": 13450999005515,
           "product_id": 10825099084107,
+          "id": 13450999005515,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -1086,8 +1086,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -1116,8 +1116,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1464,8 +1464,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "id": 53252653875531,
           "product_id": 10823793475915,
+          "id": 53252653875531,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -1492,8 +1492,8 @@
           "image_id": 64332469698891
         },
         {
-          "id": 53252653908299,
           "product_id": 10823793475915,
+          "id": 53252653908299,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -1522,8 +1522,8 @@
       ],
       "options": [
         {
-          "id": 13449523069259,
           "product_id": 10823793475915,
+          "id": 13449523069259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1531,8 +1531,8 @@
           ]
         },
         {
-          "id": 13449523102027,
           "product_id": 10823793475915,
+          "id": 13449523102027,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -1629,8 +1629,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898857803",
       "variants": [
         {
-          "product_id": 10823898857803,
           "id": 53253435359563,
+          "product_id": 10823898857803,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -1659,8 +1659,8 @@
       ],
       "options": [
         {
-          "product_id": 10823898857803,
           "id": 13449660137803,
+          "product_id": 10823898857803,
           "name": "Color",
           "position": 1,
           "values": [

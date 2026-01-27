@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791673675",
       "variants": [
         {
-          "id": 53252641423691,
           "product_id": 10823791673675,
+          "id": 53252641423691,
           "title": "Black",
           "price": "29.99",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "id": 13449520447819,
           "product_id": 10823791673675,
+          "id": 13449520447819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -163,8 +163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051898187",
       "variants": [
         {
-          "id": 53256609268043,
           "product_id": 10825051898187,
+          "id": 53256609268043,
           "title": "Pink High Quality",
           "price": "32.49",
           "position": 1,
@@ -191,8 +191,8 @@
           "image_id": 64365273350475
         },
         {
-          "id": 53256609300811,
           "product_id": 10825051898187,
+          "id": 53256609300811,
           "title": "Pink Drawstring Bag",
           "price": "32.89",
           "position": 2,
@@ -219,8 +219,8 @@
           "image_id": 64365273383243
         },
         {
-          "id": 53256609333579,
           "product_id": 10825051898187,
+          "id": 53256609333579,
           "title": "Black Earplugs Medium",
           "price": "32.49",
           "position": 3,
@@ -247,8 +247,8 @@
           "image_id": 64365273416011
         },
         {
-          "id": 53256609366347,
           "product_id": 10825051898187,
+          "id": 53256609366347,
           "title": "Green Earplugs Medium",
           "price": "32.49",
           "position": 4,
@@ -275,8 +275,8 @@
           "image_id": 64365273448779
         },
         {
-          "id": 53256609399115,
           "product_id": 10825051898187,
+          "id": 53256609399115,
           "title": "Black High Quality",
           "price": "32.52",
           "position": 5,
@@ -303,8 +303,8 @@
           "image_id": 64365273481547
         },
         {
-          "id": 53256609431883,
           "product_id": 10825051898187,
+          "id": 53256609431883,
           "title": "Green Earplugs",
           "price": "32.52",
           "position": 6,
@@ -331,8 +331,8 @@
           "image_id": 64365273514315
         },
         {
-          "id": 53256609464651,
           "product_id": 10825051898187,
+          "id": 53256609464651,
           "title": "Pink Storage Bag",
           "price": "33.49",
           "position": 7,
@@ -359,8 +359,8 @@
           "image_id": 64365273547083
         },
         {
-          "id": 53256609497419,
           "product_id": 10825051898187,
+          "id": 53256609497419,
           "title": "Black Storage Bag",
           "price": "33.49",
           "position": 8,
@@ -387,8 +387,8 @@
           "image_id": 64365273579851
         },
         {
-          "id": 53256609530187,
           "product_id": 10825051898187,
+          "id": 53256609530187,
           "title": "Green Storage Bag",
           "price": "33.49",
           "position": 9,
@@ -415,8 +415,8 @@
           "image_id": 64365273612619
         },
         {
-          "id": 53256609562955,
           "product_id": 10825051898187,
+          "id": 53256609562955,
           "title": "Pink Earplugs Large",
           "price": "32.49",
           "position": 10,
@@ -443,8 +443,8 @@
           "image_id": 64365273645387
         },
         {
-          "id": 53256609595723,
           "product_id": 10825051898187,
+          "id": 53256609595723,
           "title": "Black Large Storage Bag",
           "price": "33.49",
           "position": 11,
@@ -471,8 +471,8 @@
           "image_id": 64365273678155
         },
         {
-          "id": 53256609628491,
           "product_id": 10825051898187,
+          "id": 53256609628491,
           "title": "Black Earplugs Large",
           "price": "32.49",
           "position": 12,
@@ -499,8 +499,8 @@
           "image_id": 64365273710923
         },
         {
-          "id": 53256609661259,
           "product_id": 10825051898187,
+          "id": 53256609661259,
           "title": "Green Plus Size Storage Bag",
           "price": "33.49",
           "position": 13,
@@ -527,8 +527,8 @@
           "image_id": 64365273743691
         },
         {
-          "id": 53256609694027,
           "product_id": 10825051898187,
+          "id": 53256609694027,
           "title": "Green Earplugs Large",
           "price": "32.49",
           "position": 14,
@@ -555,8 +555,8 @@
           "image_id": 64365273776459
         },
         {
-          "id": 53256609726795,
           "product_id": 10825051898187,
+          "id": 53256609726795,
           "title": "Small Pink Storage Bag",
           "price": "33.49",
           "position": 15,
@@ -583,8 +583,8 @@
           "image_id": 64365273809227
         },
         {
-          "id": 53256609759563,
           "product_id": 10825051898187,
+          "id": 53256609759563,
           "title": "Pink Earplugs Small Size",
           "price": "32.49",
           "position": 16,
@@ -611,8 +611,8 @@
           "image_id": 64365273841995
         },
         {
-          "id": 53256609792331,
           "product_id": 10825051898187,
+          "id": 53256609792331,
           "title": "Black Small Storage Bag",
           "price": "33.49",
           "position": 17,
@@ -639,8 +639,8 @@
           "image_id": 64365273874763
         },
         {
-          "id": 53256609825099,
           "product_id": 10825051898187,
+          "id": 53256609825099,
           "title": "Black Earplugs Small Size",
           "price": "32.49",
           "position": 18,
@@ -667,8 +667,8 @@
           "image_id": 64365273907531
         },
         {
-          "id": 53256609857867,
           "product_id": 10825051898187,
+          "id": 53256609857867,
           "title": "Green Small Storage Bag",
           "price": "33.49",
           "position": 19,
@@ -695,8 +695,8 @@
           "image_id": 64365273940299
         },
         {
-          "id": 53256609890635,
           "product_id": 10825051898187,
+          "id": 53256609890635,
           "title": "Green Earplugs Small Size",
           "price": "32.49",
           "position": 20,
@@ -725,8 +725,8 @@
       ],
       "options": [
         {
-          "id": 13450928095563,
           "product_id": 10825051898187,
+          "id": 13450928095563,
           "name": "format",
           "position": 1,
           "values": [
@@ -1112,8 +1112,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825032106315",
       "variants": [
         {
-          "id": 53256538947915,
           "product_id": 10825032106315,
+          "id": 53256538947915,
           "title": "Black / 1PCS",
           "price": "41.53",
           "position": 1,
@@ -1140,8 +1140,8 @@
           "image_id": 64365040730443
         },
         {
-          "id": 53256538980683,
           "product_id": 10825032106315,
+          "id": 53256538980683,
           "title": "Black / 3PCS",
           "price": "56.60",
           "position": 2,
@@ -1168,8 +1168,8 @@
           "image_id": 64365040763211
         },
         {
-          "id": 53256539013451,
           "product_id": 10825032106315,
+          "id": 53256539013451,
           "title": "Black / 4PCS",
           "price": "64.13",
           "position": 3,
@@ -1196,8 +1196,8 @@
           "image_id": 64365040795979
         },
         {
-          "id": 53256539046219,
           "product_id": 10825032106315,
+          "id": 53256539046219,
           "title": "Black set / 1PCS",
           "price": "42.90",
           "position": 4,
@@ -1226,8 +1226,8 @@
       ],
       "options": [
         {
-          "id": 13450902700363,
           "product_id": 10825032106315,
+          "id": 13450902700363,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1236,8 +1236,8 @@
           ]
         },
         {
-          "id": 13450902733131,
           "product_id": 10825032106315,
+          "id": 13450902733131,
           "name": "quantity",
           "position": 2,
           "values": [
@@ -2279,8 +2279,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823620198731",
       "variants": [
         {
-          "id": 53251763700043,
           "product_id": 10823620198731,
+          "id": 53251763700043,
           "title": "Black",
           "price": "27.99",
           "position": 1,
@@ -2307,8 +2307,8 @@
           "image_id": 64329604170059
         },
         {
-          "id": 53251763732811,
           "product_id": 10823620198731,
+          "id": 53251763732811,
           "title": "Carbon ash",
           "price": "27.99",
           "position": 2,
@@ -2335,8 +2335,8 @@
           "image_id": 64329604202827
         },
         {
-          "id": 53251763765579,
           "product_id": 10823620198731,
+          "id": 53251763765579,
           "title": "Gray",
           "price": "27.99",
           "position": 3,
@@ -2363,8 +2363,8 @@
           "image_id": 64329604235595
         },
         {
-          "id": 53251763798347,
           "product_id": 10823620198731,
+          "id": 53251763798347,
           "title": "Pink",
           "price": "27.99",
           "position": 4,
@@ -2393,8 +2393,8 @@
       ],
       "options": [
         {
-          "id": 13449257091403,
           "product_id": 10823620198731,
+          "id": 13449257091403,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2563,8 +2563,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823925694795",
       "variants": [
         {
-          "id": 53253544411467,
           "product_id": 10823925694795,
+          "id": 53253544411467,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -2591,8 +2591,8 @@
           "image_id": 64335099265355
         },
         {
-          "id": 53253544444235,
           "product_id": 10823925694795,
+          "id": 53253544444235,
           "title": "Grey / USB",
           "price": "27.99",
           "position": 2,
@@ -2619,8 +2619,8 @@
           "image_id": 64335099298123
         },
         {
-          "id": 53253544477003,
           "product_id": 10823925694795,
+          "id": 53253544477003,
           "title": "Purple / USB",
           "price": "27.99",
           "position": 3,
@@ -2649,8 +2649,8 @@
       ],
       "options": [
         {
-          "id": 13449691595083,
           "product_id": 10823925694795,
+          "id": 13449691595083,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2660,8 +2660,8 @@
           ]
         },
         {
-          "id": 13449691627851,
           "product_id": 10823925694795,
+          "id": 13449691627851,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

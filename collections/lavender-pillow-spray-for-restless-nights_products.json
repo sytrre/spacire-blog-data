@@ -163,8 +163,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960737611",
       "variants": [
         {
-          "product_id": 10824960737611,
           "id": 53256229355851,
+          "product_id": 10824960737611,
           "title": "30ml",
           "price": "21.69",
           "position": 1,
@@ -193,8 +193,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960737611,
           "id": 13450821435723,
+          "product_id": 10824960737611,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -1224,8 +1224,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "product_id": 10824961589579,
           "id": 53256231453003,
+          "product_id": 10824961589579,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -1254,8 +1254,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961589579,
           "id": 13450822353227,
+          "product_id": 10824961589579,
           "name": "style",
           "position": 1,
           "values": [

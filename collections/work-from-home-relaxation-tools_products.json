@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "id": 53256905490763,
           "product_id": 10825102360907,
+          "id": 53256905490763,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "id": 53256905523531,
           "product_id": 10825102360907,
+          "id": 53256905523531,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "id": 53256905556299,
           "product_id": 10825102360907,
+          "id": 53256905556299,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "id": 53256905589067,
           "product_id": 10825102360907,
+          "id": 53256905589067,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "id": 13451003461963,
           "product_id": 10825102360907,
+          "id": 13451003461963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "id": 13451003494731,
           "product_id": 10825102360907,
+          "id": 13451003494731,
           "name": "format",
           "position": 2,
           "values": [
@@ -1007,8 +1007,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108717899",
       "variants": [
         {
-          "id": 53256917320011,
           "product_id": 10825108717899,
+          "id": 53256917320011,
           "title": "S162 White English Packaging",
           "price": "138.93",
           "position": 1,
@@ -1037,8 +1037,8 @@
       ],
       "options": [
         {
-          "id": 13451010867531,
           "product_id": 10825108717899,
+          "id": 13451010867531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2900,8 +2900,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -2930,8 +2930,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2939,8 +2939,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -3359,8 +3359,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815659851",
       "variants": [
         {
-          "id": 53252755915083,
           "product_id": 10823815659851,
+          "id": 53252755915083,
           "title": "Black",
           "price": "33.99",
           "position": 1,
@@ -3389,8 +3389,8 @@
       ],
       "options": [
         {
-          "id": 13449548726603,
           "product_id": 10823815659851,
+          "id": 13449548726603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3537,8 +3537,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "id": 53256901624139,
           "product_id": 10825100362059,
+          "id": 53256901624139,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -3565,8 +3565,8 @@
           "image_id": 64365766771019
         },
         {
-          "id": 53256901656907,
           "product_id": 10825100362059,
+          "id": 53256901656907,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -3593,8 +3593,8 @@
           "image_id": 64365766771019
         },
         {
-          "id": 53256901689675,
           "product_id": 10825100362059,
+          "id": 53256901689675,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -3623,8 +3623,8 @@
       ],
       "options": [
         {
-          "id": 13451000676683,
           "product_id": 10825100362059,
+          "id": 13451000676683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3736,8 +3736,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "id": 53256870297931,
           "product_id": 10825089614155,
+          "id": 53256870297931,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -3764,8 +3764,8 @@
           "image_id": 64365692289355
         },
         {
-          "id": 53256870330699,
           "product_id": 10825089614155,
+          "id": 53256870330699,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -3794,8 +3794,8 @@
       ],
       "options": [
         {
-          "id": 13450982129995,
           "product_id": 10825089614155,
+          "id": 13450982129995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3932,8 +3932,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "id": 53252587225419,
           "product_id": 10823775945035,
+          "id": 53252587225419,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -3962,8 +3962,8 @@
       ],
       "options": [
         {
-          "id": 13449501311307,
           "product_id": 10823775945035,
+          "id": 13449501311307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4377,8 +4377,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100656971",
       "variants": [
         {
-          "id": 53256902312267,
           "product_id": 10825100656971,
+          "id": 53256902312267,
           "title": "White",
           "price": "435.45",
           "position": 1,
@@ -4405,8 +4405,8 @@
           "image_id": 64365770080587
         },
         {
-          "id": 53256902345035,
           "product_id": 10825100656971,
+          "id": 53256902345035,
           "title": "3pcs white",
           "price": "1267.76",
           "position": 2,
@@ -4433,8 +4433,8 @@
           "image_id": 64365770113355
         },
         {
-          "id": 53256902377803,
           "product_id": 10825100656971,
+          "id": 53256902377803,
           "title": "2pcs white",
           "price": "851.60",
           "position": 3,
@@ -4463,8 +4463,8 @@
       ],
       "options": [
         {
-          "id": 13451000971595,
           "product_id": 10825100656971,
+          "id": 13451000971595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5709,8 +5709,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909572939",
       "variants": [
         {
-          "id": 53253481660747,
           "product_id": 10823909572939,
+          "id": 53253481660747,
           "title": "White",
           "price": "131.49",
           "position": 1,
@@ -5739,8 +5739,8 @@
       ],
       "options": [
         {
-          "id": 13449673277771,
           "product_id": 10823909572939,
+          "id": 13449673277771,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6167,8 +6167,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050751307",
       "variants": [
         {
-          "product_id": 10825050751307,
           "id": 53256605106507,
+          "product_id": 10825050751307,
           "title": "C Cup Eye Mask Bag / Light Gray",
           "price": "32.50",
           "position": 1,
@@ -6195,8 +6195,8 @@
           "image_id": 64365259030859
         },
         {
-          "product_id": 10825050751307,
           "id": 53256605139275,
+          "product_id": 10825050751307,
           "title": "C Cup Eye Mask Bag / Medium Gray",
           "price": "32.50",
           "position": 2,
@@ -6225,8 +6225,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050751307,
           "id": 13450926915915,
+          "product_id": 10825050751307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6234,8 +6234,8 @@
           ]
         },
         {
-          "product_id": 10825050751307,
           "id": 13450926981451,
+          "product_id": 10825050751307,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -6410,8 +6410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "id": 53257350447435,
           "product_id": 10825159246155,
+          "id": 53257350447435,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -6440,8 +6440,8 @@
       ],
       "options": [
         {
-          "id": 13451086496075,
           "product_id": 10825159246155,
+          "id": 13451086496075,
           "name": "style",
           "position": 1,
           "values": [
