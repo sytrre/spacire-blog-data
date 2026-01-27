@@ -28761,8 +28761,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771202359627",
       "variants": [
         {
-          "id": 53309796909387,
           "product_id": 14771202359627,
+          "id": 53309796909387,
           "title": "Rabbit / 40x 35cm",
           "price": "28.59",
           "position": 1,
@@ -28789,8 +28789,8 @@
           "image_id": 64591504343371
         },
         {
-          "id": 53309796942155,
           "product_id": 14771202359627,
+          "id": 53309796942155,
           "title": "Owl / 40x 35cm",
           "price": "28.59",
           "position": 2,
@@ -28817,8 +28817,8 @@
           "image_id": 64591504376139
         },
         {
-          "id": 53309796974923,
           "product_id": 14771202359627,
+          "id": 53309796974923,
           "title": "Chick / 40x 35cm",
           "price": "28.59",
           "position": 3,
@@ -28845,8 +28845,8 @@
           "image_id": 64591504408907
         },
         {
-          "id": 53309797007691,
           "product_id": 14771202359627,
+          "id": 53309797007691,
           "title": "Dinosaur / 40x 35cm",
           "price": "28.59",
           "position": 4,
@@ -28873,8 +28873,8 @@
           "image_id": 64591504441675
         },
         {
-          "id": 53309797040459,
           "product_id": 14771202359627,
+          "id": 53309797040459,
           "title": "Koala / 40x 35cm",
           "price": "28.59",
           "position": 5,
@@ -28903,8 +28903,8 @@
       ],
       "options": [
         {
-          "id": 17115727331659,
           "product_id": 14771202359627,
+          "id": 17115727331659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -28916,8 +28916,8 @@
           ]
         },
         {
-          "id": 17115727364427,
           "product_id": 14771202359627,
+          "id": 17115727364427,
           "name": "Size",
           "position": 2,
           "values": [
@@ -29356,8 +29356,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771205931339",
       "variants": [
         {
-          "id": 53309804740939,
           "product_id": 14771205931339,
+          "id": 53309804740939,
           "title": "Unilateral White / Single Pack",
           "price": "30.18",
           "position": 1,
@@ -29384,8 +29384,8 @@
           "image_id": 64591520891211
         },
         {
-          "id": 53309804773707,
           "product_id": 14771205931339,
+          "id": 53309804773707,
           "title": "Unilateral White / One Pair Package",
           "price": "33.23",
           "position": 2,
@@ -29412,8 +29412,8 @@
           "image_id": 64591520891211
         },
         {
-          "id": 53309804806475,
           "product_id": 14771205931339,
+          "id": 53309804806475,
           "title": "Unilateral Small Gray / Single Pack",
           "price": "30.18",
           "position": 3,
@@ -29440,8 +29440,8 @@
           "image_id": 64591520923979
         },
         {
-          "id": 53309804839243,
           "product_id": 14771205931339,
+          "id": 53309804839243,
           "title": "Unilateral Small Gray / One Pair Package",
           "price": "33.23",
           "position": 4,
@@ -29470,8 +29470,8 @@
       ],
       "options": [
         {
-          "id": 17115731132747,
           "product_id": 14771205931339,
+          "id": 17115731132747,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29480,8 +29480,8 @@
           ]
         },
         {
-          "id": 17115731165515,
           "product_id": 14771205931339,
+          "id": 17115731165515,
           "name": "Dimensions",
           "position": 2,
           "values": [

@@ -4970,8 +4970,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047048523",
       "variants": [
         {
-          "id": 53256591442251,
           "product_id": 10825047048523,
+          "id": 53256591442251,
           "title": "Black eye mask",
           "price": "30.90",
           "position": 1,
@@ -4998,8 +4998,8 @@
           "image_id": 64365221380427
         },
         {
-          "id": 53256591475019,
           "product_id": 10825047048523,
+          "id": 53256591475019,
           "title": "Blue eye mask",
           "price": "31.05",
           "position": 2,
@@ -5026,8 +5026,8 @@
           "image_id": 64365221413195
         },
         {
-          "id": 53256591507787,
           "product_id": 10825047048523,
+          "id": 53256591507787,
           "title": "Buy one get one black eye mask",
           "price": "31.62",
           "position": 3,
@@ -5056,8 +5056,8 @@
       ],
       "options": [
         {
-          "id": 13450922852683,
           "product_id": 10825047048523,
+          "id": 13450922852683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40004,8 +40004,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050653003",
       "variants": [
         {
-          "id": 53256604418379,
           "product_id": 10825050653003,
+          "id": 53256604418379,
           "title": "Black",
           "price": "74.44",
           "position": 1,
@@ -40034,8 +40034,8 @@
       ],
       "options": [
         {
-          "id": 13450926784843,
           "product_id": 10825050653003,
+          "id": 13450926784843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52095,8 +52095,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "product_id": 10825054585163,
           "id": 53256620376395,
+          "product_id": 10825054585163,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -52123,8 +52123,8 @@
           "image_id": 64365305528651
         },
         {
-          "product_id": 10825054585163,
           "id": 53256620409163,
+          "product_id": 10825054585163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -52153,8 +52153,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054585163,
           "id": 13450931110219,
+          "product_id": 10825054585163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65521,8 +65521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050751307",
       "variants": [
         {
-          "id": 53256605106507,
           "product_id": 10825050751307,
+          "id": 53256605106507,
           "title": "C Cup Eye Mask Bag / Light Gray",
           "price": "32.50",
           "position": 1,
@@ -65549,8 +65549,8 @@
           "image_id": 64365259030859
         },
         {
-          "id": 53256605139275,
           "product_id": 10825050751307,
+          "id": 53256605139275,
           "title": "C Cup Eye Mask Bag / Medium Gray",
           "price": "32.50",
           "position": 2,
@@ -65579,8 +65579,8 @@
       ],
       "options": [
         {
-          "id": 13450926915915,
           "product_id": 10825050751307,
+          "id": 13450926915915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65588,8 +65588,8 @@
           ]
         },
         {
-          "id": 13450926981451,
           "product_id": 10825050751307,
+          "id": 13450926981451,
           "name": "Specifications",
           "position": 2,
           "values": [

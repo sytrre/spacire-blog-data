@@ -6167,8 +6167,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050751307",
       "variants": [
         {
-          "id": 53256605106507,
           "product_id": 10825050751307,
+          "id": 53256605106507,
           "title": "C Cup Eye Mask Bag / Light Gray",
           "price": "32.50",
           "position": 1,
@@ -6195,8 +6195,8 @@
           "image_id": 64365259030859
         },
         {
-          "id": 53256605139275,
           "product_id": 10825050751307,
+          "id": 53256605139275,
           "title": "C Cup Eye Mask Bag / Medium Gray",
           "price": "32.50",
           "position": 2,
@@ -6225,8 +6225,8 @@
       ],
       "options": [
         {
-          "id": 13450926915915,
           "product_id": 10825050751307,
+          "id": 13450926915915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6234,8 +6234,8 @@
           ]
         },
         {
-          "id": 13450926981451,
           "product_id": 10825050751307,
+          "id": 13450926981451,
           "name": "Specifications",
           "position": 2,
           "values": [
