@@ -1848,8 +1848,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089286475",
       "variants": [
         {
-          "product_id": 10825089286475,
           "id": 53256865448267,
+          "product_id": 10825089286475,
           "title": "Orange",
           "price": "563.56",
           "position": 1,
@@ -1878,8 +1878,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089286475,
           "id": 13450981605707,
+          "product_id": 10825089286475,
           "name": "Color",
           "position": 1,
           "values": [

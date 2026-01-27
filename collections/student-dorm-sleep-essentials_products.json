@@ -14062,8 +14062,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823805174091",
       "variants": [
         {
-          "product_id": 10823805174091,
           "id": 53252706828619,
+          "product_id": 10823805174091,
           "title": "Black / USB",
           "price": "27.99",
           "position": 1,
@@ -14092,8 +14092,8 @@
       ],
       "options": [
         {
-          "product_id": 10823805174091,
           "id": 13449536799051,
+          "product_id": 10823805174091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14101,8 +14101,8 @@
           ]
         },
         {
-          "product_id": 10823805174091,
           "id": 13449536831819,
+          "product_id": 10823805174091,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -55139,8 +55139,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886367563",
       "variants": [
         {
-          "product_id": 14774886367563,
           "id": 53325486096715,
+          "product_id": 14774886367563,
           "title": "Dark Grey / 2kg",
           "price": "100.56",
           "position": 1,
@@ -55167,8 +55167,8 @@
           "image_id": 64643917578571
         },
         {
-          "product_id": 14774886367563,
           "id": 53325486129483,
+          "product_id": 14774886367563,
           "title": "Dark Grey / 3kg",
           "price": "100.96",
           "position": 2,
@@ -55197,8 +55197,8 @@
       ],
       "options": [
         {
-          "product_id": 14774886367563,
           "id": 17120123584843,
+          "product_id": 14774886367563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55206,8 +55206,8 @@
           ]
         },
         {
-          "product_id": 14774886367563,
           "id": 17120123617611,
+          "product_id": 14774886367563,
           "name": "Size",
           "position": 2,
           "values": [
