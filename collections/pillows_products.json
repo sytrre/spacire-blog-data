@@ -15990,8 +15990,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823659848011",
       "variants": [
         {
-          "product_id": 10823659848011,
           "id": 53251955753291,
+          "product_id": 10823659848011,
           "title": "Grey blue",
           "price": "47.99",
           "position": 1,
@@ -16018,8 +16018,8 @@
           "image_id": 64329980346699
         },
         {
-          "product_id": 10823659848011,
           "id": 53251955786059,
+          "product_id": 10823659848011,
           "title": "Grey red",
           "price": "47.99",
           "position": 2,
@@ -16048,8 +16048,8 @@
       ],
       "options": [
         {
-          "product_id": 10823659848011,
           "id": 13449302507851,
+          "product_id": 10823659848011,
           "name": "Color",
           "position": 1,
           "values": [
