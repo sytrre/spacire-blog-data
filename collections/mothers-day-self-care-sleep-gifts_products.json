@@ -11384,8 +11384,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775150051659",
       "variants": [
         {
-          "product_id": 14775150051659,
           "id": 53327487631691,
+          "product_id": 14775150051659,
           "title": "Grey",
           "price": "51.91",
           "position": 1,
@@ -11412,8 +11412,8 @@
           "image_id": 64650399842635
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487664459,
+          "product_id": 14775150051659,
           "title": "Light Blue",
           "price": "51.76",
           "position": 2,
@@ -11440,8 +11440,8 @@
           "image_id": 64650399875403
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487697227,
+          "product_id": 14775150051659,
           "title": "Pink",
           "price": "51.76",
           "position": 3,
@@ -11468,8 +11468,8 @@
           "image_id": 64650399908171
         },
         {
-          "product_id": 14775150051659,
           "id": 53327487729995,
+          "product_id": 14775150051659,
           "title": "Green",
           "price": "51.76",
           "position": 4,
@@ -11498,8 +11498,8 @@
       ],
       "options": [
         {
-          "product_id": 14775150051659,
           "id": 17120446218571,
+          "product_id": 14775150051659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19059,8 +19059,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823694221643",
       "variants": [
         {
-          "product_id": 10823694221643,
           "id": 53252087251275,
+          "product_id": 10823694221643,
           "title": "White / USB",
           "price": "75.49",
           "position": 1,
@@ -19089,8 +19089,8 @@
       ],
       "options": [
         {
-          "product_id": 10823694221643,
           "id": 13449347203403,
+          "product_id": 10823694221643,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19098,8 +19098,8 @@
           ]
         },
         {
-          "product_id": 10823694221643,
           "id": 13449347236171,
+          "product_id": 10823694221643,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -28329,8 +28329,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825071165771",
       "variants": [
         {
-          "product_id": 10825071165771,
           "id": 53256763375947,
+          "product_id": 10825071165771,
           "title": "Eye Mask",
           "price": "42.76",
           "position": 1,
@@ -28359,8 +28359,8 @@
       ],
       "options": [
         {
-          "product_id": 10825071165771,
           "id": 13450956013899,
+          "product_id": 10825071165771,
           "name": "Color",
           "position": 1,
           "values": [
@@ -44999,8 +44999,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743766859",
       "variants": [
         {
-          "product_id": 10823743766859,
           "id": 53252383277387,
+          "product_id": 10823743766859,
           "title": "White",
           "price": "35.49",
           "position": 1,
@@ -45029,8 +45029,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743766859,
           "id": 13449444819275,
+          "product_id": 10823743766859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52058,8 +52058,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825101312331",
       "variants": [
         {
-          "product_id": 10825101312331,
           "id": 53256904048971,
+          "product_id": 10825101312331,
           "title": "Blue",
           "price": "194.34",
           "position": 1,
@@ -52086,8 +52086,8 @@
           "image_id": 64365783908683
         },
         {
-          "product_id": 10825101312331,
           "id": 53256904081739,
+          "product_id": 10825101312331,
           "title": "Pink",
           "price": "194.34",
           "position": 2,
@@ -52116,8 +52116,8 @@
       ],
       "options": [
         {
-          "product_id": 10825101312331,
           "id": 13451001823563,
+          "product_id": 10825101312331,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59584,8 +59584,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051472203",
       "variants": [
         {
-          "product_id": 10825051472203,
           "id": 53256606613835,
+          "product_id": 10825051472203,
           "title": "Gray",
           "price": "34.20",
           "position": 1,
@@ -59614,8 +59614,8 @@
       ],
       "options": [
         {
-          "product_id": 10825051472203,
           "id": 13450927669579,
+          "product_id": 10825051472203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -69260,8 +69260,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771301384523",
       "variants": [
         {
-          "product_id": 14771301384523,
           "id": 53309973922123,
+          "product_id": 14771301384523,
           "title": "C",
           "price": "64.13",
           "position": 1,
@@ -69288,8 +69288,8 @@
           "image_id": 64592338944331
         },
         {
-          "product_id": 14771301384523,
           "id": 53309973954891,
+          "product_id": 14771301384523,
           "title": "A",
           "price": "64.13",
           "position": 2,
@@ -69316,8 +69316,8 @@
           "image_id": 64592338977099
         },
         {
-          "product_id": 14771301384523,
           "id": 53309973987659,
+          "product_id": 14771301384523,
           "title": "B",
           "price": "64.13",
           "position": 3,
@@ -69344,8 +69344,8 @@
           "image_id": 64592339009867
         },
         {
-          "product_id": 14771301384523,
           "id": 53309974020427,
+          "product_id": 14771301384523,
           "title": "D",
           "price": "64.13",
           "position": 4,
@@ -69372,8 +69372,8 @@
           "image_id": 64592339042635
         },
         {
-          "product_id": 14771301384523,
           "id": 53309974053195,
+          "product_id": 14771301384523,
           "title": "E",
           "price": "64.13",
           "position": 5,
@@ -69402,8 +69402,8 @@
       ],
       "options": [
         {
-          "product_id": 14771301384523,
           "id": 17115828453707,
+          "product_id": 14771301384523,
           "name": "Style",
           "position": 1,
           "values": [
@@ -86310,8 +86310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825034203467",
       "variants": [
         {
-          "product_id": 10825034203467,
           "id": 53256544747851,
+          "product_id": 10825034203467,
           "title": "Lotus Root Color / 71X11MM",
           "price": "28.92",
           "position": 1,
@@ -86340,8 +86340,8 @@
       ],
       "options": [
         {
-          "product_id": 10825034203467,
           "id": 13450904895819,
+          "product_id": 10825034203467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -86349,8 +86349,8 @@
           ]
         },
         {
-          "product_id": 10825034203467,
           "id": 13450904928587,
+          "product_id": 10825034203467,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -97498,8 +97498,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815463243",
       "variants": [
         {
-          "product_id": 10823815463243,
           "id": 53252754768203,
+          "product_id": 10823815463243,
           "title": "Black Lycra hood",
           "price": "31.49",
           "position": 1,
@@ -97526,8 +97526,8 @@
           "image_id": 64333120602443
         },
         {
-          "product_id": 10823815463243,
           "id": 53252754800971,
+          "product_id": 10823815463243,
           "title": "Black all inclusive hood",
           "price": "30.49",
           "position": 2,
@@ -97554,8 +97554,8 @@
           "image_id": 64333120635211
         },
         {
-          "product_id": 10823815463243,
           "id": 53252754833739,
+          "product_id": 10823815463243,
           "title": "Black open top hood",
           "price": "31.99",
           "position": 3,
@@ -97582,8 +97582,8 @@
           "image_id": 64333120667979
         },
         {
-          "product_id": 10823815463243,
           "id": 53252754866507,
+          "product_id": 10823815463243,
           "title": "Black ponytail hood",
           "price": "34.49",
           "position": 4,
@@ -97610,8 +97610,8 @@
           "image_id": 64333120700747
         },
         {
-          "product_id": 10823815463243,
           "id": 53252754899275,
+          "product_id": 10823815463243,
           "title": "White open top hood",
           "price": "31.99",
           "position": 5,
@@ -97640,8 +97640,8 @@
       ],
       "options": [
         {
-          "product_id": 10823815463243,
           "id": 13449548529995,
+          "product_id": 10823815463243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -100674,8 +100674,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159115083",
       "variants": [
         {
-          "product_id": 10825159115083,
           "id": 53257349923147,
+          "product_id": 10825159115083,
           "title": "28 PATCHES",
           "price": "33.59",
           "position": 1,
@@ -100704,8 +100704,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159115083,
           "id": 13451086365003,
+          "product_id": 10825159115083,
           "name": "style",
           "position": 1,
           "values": [

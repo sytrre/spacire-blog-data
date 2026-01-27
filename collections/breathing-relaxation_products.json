@@ -720,8 +720,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "id": 53256627061067,
           "product_id": 10825056452939,
+          "id": 53256627061067,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -750,8 +750,8 @@
       ],
       "options": [
         {
-          "id": 13450933338443,
           "product_id": 10825056452939,
+          "id": 13450933338443,
           "name": "Color",
           "position": 1,
           "values": [
@@ -759,8 +759,8 @@
           ]
         },
         {
-          "id": 13450933371211,
           "product_id": 10825056452939,
+          "id": 13450933371211,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -881,8 +881,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047389515",
       "variants": [
         {
-          "id": 53327244853579,
           "product_id": 14775047389515,
+          "id": 53327244853579,
           "title": "Flagship / 220V US",
           "price": "74.29",
           "position": 1,
@@ -909,8 +909,8 @@
           "image_id": null
         },
         {
-          "id": 53327244886347,
           "product_id": 14775047389515,
+          "id": 53327244886347,
           "title": "Flagship / EU",
           "price": "73.69",
           "position": 2,
@@ -939,8 +939,8 @@
       ],
       "options": [
         {
-          "id": 17120337723723,
           "product_id": 14775047389515,
+          "id": 17120337723723,
           "name": "style",
           "position": 1,
           "values": [
@@ -948,8 +948,8 @@
           ]
         },
         {
-          "id": 17120337756491,
           "product_id": 14775047389515,
+          "id": 17120337756491,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -10656,8 +10656,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374087356747",
       "variants": [
         {
-          "product_id": 15374087356747,
           "id": 55945784164683,
+          "product_id": 15374087356747,
           "title": "pink",
           "price": "14.95",
           "position": 1,
@@ -10684,8 +10684,8 @@
           "image_id": 79156410417483
         },
         {
-          "product_id": 15374087356747,
           "id": 55945784197451,
+          "product_id": 15374087356747,
           "title": "blue",
           "price": "14.95",
           "position": 2,
@@ -10712,8 +10712,8 @@
           "image_id": 79156410351947
         },
         {
-          "product_id": 15374087356747,
           "id": 55945784230219,
+          "product_id": 15374087356747,
           "title": "orange",
           "price": "14.95",
           "position": 3,
@@ -10742,8 +10742,8 @@
       ],
       "options": [
         {
-          "product_id": 15374087356747,
           "id": 17811406815563,
+          "product_id": 15374087356747,
           "name": "Color",
           "position": 1,
           "values": [
