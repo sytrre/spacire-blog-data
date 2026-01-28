@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -3537,8 +3537,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "product_id": 10825100362059,
           "id": 53256901624139,
+          "product_id": 10825100362059,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -3565,8 +3565,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901656907,
+          "product_id": 10825100362059,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -3593,8 +3593,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901689675,
+          "product_id": 10825100362059,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -3623,8 +3623,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100362059,
           "id": 13451000676683,
+          "product_id": 10825100362059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3736,8 +3736,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "product_id": 10825089614155,
           "id": 53256870297931,
+          "product_id": 10825089614155,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -3764,8 +3764,8 @@
           "image_id": 64365692289355
         },
         {
-          "product_id": 10825089614155,
           "id": 53256870330699,
+          "product_id": 10825089614155,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -3794,8 +3794,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089614155,
           "id": 13450982129995,
+          "product_id": 10825089614155,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5709,8 +5709,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909572939",
       "variants": [
         {
-          "product_id": 10823909572939,
           "id": 53253481660747,
+          "product_id": 10823909572939,
           "title": "White",
           "price": "131.49",
           "position": 1,
@@ -5739,8 +5739,8 @@
       ],
       "options": [
         {
-          "product_id": 10823909572939,
           "id": 13449673277771,
+          "product_id": 10823909572939,
           "name": "Color",
           "position": 1,
           "values": [
