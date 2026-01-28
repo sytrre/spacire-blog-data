@@ -2231,8 +2231,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825088237899",
       "variants": [
         {
-          "id": 53256861319499,
           "product_id": 10825088237899,
+          "id": 53256861319499,
           "title": "Roundshape",
           "price": "422.11",
           "position": 1,
@@ -2259,8 +2259,8 @@
           "image_id": 64365683638603
         },
         {
-          "id": 53256861352267,
           "product_id": 10825088237899,
+          "id": 53256861352267,
           "title": "Square",
           "price": "422.11",
           "position": 2,
@@ -2287,8 +2287,8 @@
           "image_id": 64365683671371
         },
         {
-          "id": 53256861385035,
           "product_id": 10825088237899,
+          "id": 53256861385035,
           "title": "Square 2pcs",
           "price": "836.26",
           "position": 3,
@@ -2317,8 +2317,8 @@
       ],
       "options": [
         {
-          "id": 13450980163915,
           "product_id": 10825088237899,
+          "id": 13450980163915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10987,8 +10987,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "id": 53256898085195,
           "product_id": 10825099084107,
+          "id": 53256898085195,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -11015,8 +11015,8 @@
           "image_id": 64365739639115
         },
         {
-          "id": 53256898117963,
           "product_id": 10825099084107,
+          "id": 53256898117963,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -11045,8 +11045,8 @@
       ],
       "options": [
         {
-          "id": 13450998972747,
           "product_id": 10825099084107,
+          "id": 13450998972747,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -11054,8 +11054,8 @@
           ]
         },
         {
-          "id": 13450999005515,
           "product_id": 10825099084107,
+          "id": 13450999005515,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -15774,8 +15774,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100132683",
       "variants": [
         {
-          "id": 53256900378955,
           "product_id": 10825100132683,
+          "id": 53256900378955,
           "title": "White / US",
           "price": "533.64",
           "position": 1,
@@ -15804,8 +15804,8 @@
       ],
       "options": [
         {
-          "id": 13451000316235,
           "product_id": 10825100132683,
+          "id": 13451000316235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15813,8 +15813,8 @@
           ]
         },
         {
-          "id": 13451000349003,
           "product_id": 10825100132683,
+          "id": 13451000349003,
           "name": "Model",
           "position": 2,
           "values": [
