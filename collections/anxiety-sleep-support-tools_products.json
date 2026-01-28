@@ -2406,8 +2406,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960770379",
       "variants": [
         {
-          "product_id": 10824960770379,
           "id": 53256229519691,
+          "product_id": 10824960770379,
           "title": "100ml",
           "price": "22.63",
           "position": 1,
@@ -2436,8 +2436,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960770379,
           "id": 13450821468491,
+          "product_id": 10824960770379,
           "name": "style",
           "position": 1,
           "values": [

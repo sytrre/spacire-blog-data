@@ -32264,8 +32264,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773694988619",
       "variants": [
         {
-          "id": 53317822873931,
           "product_id": 14773694988619,
+          "id": 53317822873931,
           "title": "Picture color / 130*150CM",
           "price": "47.85",
           "position": 1,
@@ -32292,8 +32292,8 @@
           "image_id": 64625650630987
         },
         {
-          "id": 53317822906699,
           "product_id": 14773694988619,
+          "id": 53317822906699,
           "title": "Picture color / 150*200CM",
           "price": "50.85",
           "position": 2,
@@ -32322,8 +32322,8 @@
       ],
       "options": [
         {
-          "id": 17118519361867,
           "product_id": 14773694988619,
+          "id": 17118519361867,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32331,8 +32331,8 @@
           ]
         },
         {
-          "id": 17118519394635,
           "product_id": 14773694988619,
+          "id": 17118519394635,
           "name": "Size",
           "position": 2,
           "values": [
@@ -92544,7 +92544,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-01-27T12:26:25+00:00",
+      "updated_at": "2026-01-28T15:26:24+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -92564,7 +92564,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-01-27T12:26:25+00:00",
+          "updated_at": "2026-01-28T15:26:24+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -92575,8 +92575,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40677,
-          "old_inventory_quantity": 40677,
+          "inventory_quantity": 40675,
+          "old_inventory_quantity": 40675,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
