@@ -10708,8 +10708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099084107",
       "variants": [
         {
-          "product_id": 10825099084107,
           "id": 53256898085195,
+          "product_id": 10825099084107,
           "title": "USB / Gold",
           "price": "779.81",
           "position": 1,
@@ -10736,8 +10736,8 @@
           "image_id": 64365739639115
         },
         {
-          "product_id": 10825099084107,
           "id": 53256898117963,
+          "product_id": 10825099084107,
           "title": "USB / Silver",
           "price": "779.81",
           "position": 2,
@@ -10766,8 +10766,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099084107,
           "id": 13450998972747,
+          "product_id": 10825099084107,
           "name": "Electrical outlet",
           "position": 1,
           "values": [
@@ -10775,8 +10775,8 @@
           ]
         },
         {
-          "product_id": 10825099084107,
           "id": 13450999005515,
+          "product_id": 10825099084107,
           "name": "Light Color",
           "position": 2,
           "values": [
