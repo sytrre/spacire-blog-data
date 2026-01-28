@@ -87938,8 +87938,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775047323979",
       "variants": [
         {
-          "product_id": 14775047323979,
           "id": 53327244591435,
+          "product_id": 14775047323979,
           "title": "Deep Grey",
           "price": "43.96",
           "position": 1,
@@ -87966,8 +87966,8 @@
           "image_id": 64648552448331
         },
         {
-          "product_id": 14775047323979,
           "id": 53327244624203,
+          "product_id": 14775047323979,
           "title": "Light Grey",
           "price": "43.96",
           "position": 2,
@@ -87994,8 +87994,8 @@
           "image_id": 64648552481099
         },
         {
-          "product_id": 14775047323979,
           "id": 53327244656971,
+          "product_id": 14775047323979,
           "title": "Royal Blue",
           "price": "43.96",
           "position": 3,
@@ -88024,8 +88024,8 @@
       ],
       "options": [
         {
-          "product_id": 14775047323979,
           "id": 17120337658187,
+          "product_id": 14775047323979,
           "name": "Color",
           "position": 1,
           "values": [
