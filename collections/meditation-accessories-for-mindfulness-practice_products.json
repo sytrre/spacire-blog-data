@@ -1126,8 +1126,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774005072203",
       "variants": [
         {
-          "product_id": 14774005072203,
           "id": 53320000930123,
+          "product_id": 14774005072203,
           "title": "A",
           "price": "42.78",
           "position": 1,
@@ -1154,8 +1154,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320000962891,
+          "product_id": 14774005072203,
           "title": "B",
           "price": "42.78",
           "position": 2,
@@ -1182,8 +1182,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320000995659,
+          "product_id": 14774005072203,
           "title": "C",
           "price": "42.78",
           "position": 3,
@@ -1210,8 +1210,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001028427,
+          "product_id": 14774005072203,
           "title": "D",
           "price": "42.78",
           "position": 4,
@@ -1238,8 +1238,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001061195,
+          "product_id": 14774005072203,
           "title": "G",
           "price": "42.78",
           "position": 5,
@@ -1266,8 +1266,8 @@
           "image_id": 64632000643403
         },
         {
-          "product_id": 14774005072203,
           "id": 53320001093963,
+          "product_id": 14774005072203,
           "title": "F",
           "price": "42.78",
           "position": 6,
@@ -1296,8 +1296,8 @@
       ],
       "options": [
         {
-          "product_id": 14774005072203,
           "id": 17118964678987,
+          "product_id": 14774005072203,
           "name": "style",
           "position": 1,
           "values": [
@@ -2207,8 +2207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823741407563",
       "variants": [
         {
-          "product_id": 10823741407563,
           "id": 53252361486667,
+          "product_id": 10823741407563,
           "title": "White",
           "price": "38.49",
           "position": 1,
@@ -2237,8 +2237,8 @@
       ],
       "options": [
         {
-          "product_id": 10823741407563,
           "id": 13449440395595,
+          "product_id": 10823741407563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10887,8 +10887,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "product_id": 10823744356683,
           "id": 53252389568843,
+          "product_id": 10823744356683,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -10917,8 +10917,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744356683,
           "id": 13449446457675,
+          "product_id": 10823744356683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14677,8 +14677,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823775945035",
       "variants": [
         {
-          "product_id": 10823775945035,
           "id": 53252587225419,
+          "product_id": 10823775945035,
           "title": "Basic Style Alarm Clock",
           "price": "31.49",
           "position": 1,
@@ -14707,8 +14707,8 @@
       ],
       "options": [
         {
-          "product_id": 10823775945035,
           "id": 13449501311307,
+          "product_id": 10823775945035,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17634,8 +17634,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936147787",
       "variants": [
         {
-          "product_id": 10823936147787,
           "id": 53253572329803,
+          "product_id": 10823936147787,
           "title": "White / USB",
           "price": "72.99",
           "position": 1,
@@ -17664,8 +17664,8 @@
       ],
       "options": [
         {
-          "product_id": 10823936147787,
           "id": 13449703293259,
+          "product_id": 10823936147787,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17673,8 +17673,8 @@
           ]
         },
         {
-          "product_id": 10823936147787,
           "id": 13449703326027,
+          "product_id": 10823936147787,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
