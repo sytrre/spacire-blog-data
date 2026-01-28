@@ -1572,8 +1572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825070412107",
       "variants": [
         {
-          "product_id": 10825070412107,
           "id": 53256759247179,
+          "product_id": 10825070412107,
           "title": "Random",
           "price": "31.58",
           "position": 1,
@@ -1602,8 +1602,8 @@
       ],
       "options": [
         {
-          "product_id": 10825070412107,
           "id": 13450955063627,
+          "product_id": 10825070412107,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2732,8 +2732,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960508235",
       "variants": [
         {
-          "product_id": 10824960508235,
           "id": 53256225620299,
+          "product_id": 10824960508235,
           "title": "60ml",
           "price": "21.84",
           "position": 1,
@@ -2762,8 +2762,8 @@
       ],
       "options": [
         {
-          "product_id": 10824960508235,
           "id": 13450821108043,
+          "product_id": 10824960508235,
           "name": "Color Classification",
           "position": 1,
           "values": [
