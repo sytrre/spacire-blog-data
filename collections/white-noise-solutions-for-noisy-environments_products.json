@@ -1415,8 +1415,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108717899",
       "variants": [
         {
-          "product_id": 10825108717899,
           "id": 53256917320011,
+          "product_id": 10825108717899,
           "title": "S162 White English Packaging",
           "price": "138.93",
           "position": 1,
@@ -1445,8 +1445,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108717899,
           "id": 13451010867531,
+          "product_id": 10825108717899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16952,8 +16952,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098625355",
       "variants": [
         {
-          "id": 53256897626443,
           "product_id": 10825098625355,
+          "id": 53256897626443,
           "title": "White / EU",
           "price": "1614.66",
           "position": 1,
@@ -16982,8 +16982,8 @@
       ],
       "options": [
         {
-          "id": 13450998382923,
           "product_id": 10825098625355,
+          "id": 13450998382923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16991,8 +16991,8 @@
           ]
         },
         {
-          "id": 13450998415691,
           "product_id": 10825098625355,
+          "id": 13450998415691,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

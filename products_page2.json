@@ -74441,8 +74441,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098625355",
       "variants": [
         {
-          "id": 53256897626443,
           "product_id": 10825098625355,
+          "id": 53256897626443,
           "title": "White / EU",
           "price": "1614.66",
           "position": 1,
@@ -74471,8 +74471,8 @@
       ],
       "options": [
         {
-          "id": 13450998382923,
           "product_id": 10825098625355,
+          "id": 13450998382923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -74480,8 +74480,8 @@
           ]
         },
         {
-          "id": 13450998415691,
           "product_id": 10825098625355,
+          "id": 13450998415691,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

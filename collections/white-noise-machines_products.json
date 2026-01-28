@@ -1126,8 +1126,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108717899",
       "variants": [
         {
-          "product_id": 10825108717899,
           "id": 53256917320011,
+          "product_id": 10825108717899,
           "title": "S162 White English Packaging",
           "price": "138.93",
           "position": 1,
@@ -1156,8 +1156,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108717899,
           "id": 13451010867531,
+          "product_id": 10825108717899,
           "name": "Color",
           "position": 1,
           "values": [
