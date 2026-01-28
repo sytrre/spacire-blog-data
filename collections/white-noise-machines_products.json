@@ -2649,8 +2649,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825107833163",
       "variants": [
         {
-          "product_id": 10825107833163,
           "id": 53256915386699,
+          "product_id": 10825107833163,
           "title": "Black",
           "price": "785.80",
           "position": 1,
@@ -2679,8 +2679,8 @@
       ],
       "options": [
         {
-          "product_id": 10825107833163,
           "id": 13451009917259,
+          "product_id": 10825107833163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5310,8 +5310,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098133835",
       "variants": [
         {
-          "product_id": 10825098133835,
           "id": 53256896643403,
+          "product_id": 10825098133835,
           "title": "White / USB",
           "price": "963.96",
           "position": 1,
@@ -5340,8 +5340,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098133835,
           "id": 13450997727563,
+          "product_id": 10825098133835,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5349,8 +5349,8 @@
           ]
         },
         {
-          "product_id": 10825098133835,
           "id": 13450997760331,
+          "product_id": 10825098133835,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -10353,8 +10353,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "product_id": 10823924613451,
           "id": 53253541167435,
+          "product_id": 10823924613451,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -10383,8 +10383,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924613451,
           "id": 13449690349899,
+          "product_id": 10823924613451,
           "name": "default",
           "position": 1,
           "values": [
@@ -14572,8 +14572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "product_id": 10823924449611,
           "id": 53253540938059,
+          "product_id": 10823924449611,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14602,8 +14602,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924449611,
           "id": 13449690186059,
+          "product_id": 10823924449611,
           "name": "Color",
           "position": 1,
           "values": [
