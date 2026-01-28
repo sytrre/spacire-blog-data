@@ -5253,8 +5253,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744160075",
       "variants": [
         {
-          "id": 53252387078475,
           "product_id": 10823744160075,
+          "id": 53252387078475,
           "title": "White / USB / Bluetooth version",
           "price": "40.49",
           "position": 1,
@@ -5283,8 +5283,8 @@
       ],
       "options": [
         {
-          "id": 13449445867851,
           "product_id": 10823744160075,
+          "id": 13449445867851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5292,8 +5292,8 @@
           ]
         },
         {
-          "id": 13449445900619,
           "product_id": 10823744160075,
+          "id": 13449445900619,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -5301,8 +5301,8 @@
           ]
         },
         {
-          "id": 13449445933387,
           "product_id": 10823744160075,
+          "id": 13449445933387,
           "name": "style",
           "position": 3,
           "values": [
@@ -8661,8 +8661,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "product_id": 10825159246155,
           "id": 53257350447435,
+          "product_id": 10825159246155,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -8691,8 +8691,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159246155,
           "id": 13451086496075,
+          "product_id": 10825159246155,
           "name": "style",
           "position": 1,
           "values": [
@@ -9639,8 +9639,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157509451",
       "variants": [
         {
-          "product_id": 10825157509451,
           "id": 53257323741515,
+          "product_id": 10825157509451,
           "title": "30 PATCHES",
           "price": "32.06",
           "position": 1,
@@ -9669,8 +9669,8 @@
       ],
       "options": [
         {
-          "product_id": 10825157509451,
           "id": 13451083678027,
+          "product_id": 10825157509451,
           "name": "quantity",
           "position": 1,
           "values": [
@@ -12825,8 +12825,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742587211",
       "variants": [
         {
-          "product_id": 10823742587211,
           "id": 53252368400715,
+          "product_id": 10823742587211,
           "title": "Pink / USB",
           "price": "34.99",
           "position": 1,
@@ -12855,8 +12855,8 @@
       ],
       "options": [
         {
-          "product_id": 10823742587211,
           "id": 13449442427211,
+          "product_id": 10823742587211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12864,8 +12864,8 @@
           ]
         },
         {
-          "product_id": 10823742587211,
           "id": 13449442459979,
+          "product_id": 10823742587211,
           "name": "power",
           "position": 2,
           "values": [
