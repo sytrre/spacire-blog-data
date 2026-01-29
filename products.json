@@ -23523,8 +23523,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825107833163",
       "variants": [
         {
-          "product_id": 10825107833163,
           "id": 53256915386699,
+          "product_id": 10825107833163,
           "title": "Black",
           "price": "785.80",
           "position": 1,
@@ -23553,8 +23553,8 @@
       ],
       "options": [
         {
-          "product_id": 10825107833163,
           "id": 13451009917259,
+          "product_id": 10825107833163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59244,8 +59244,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098133835",
       "variants": [
         {
-          "product_id": 10825098133835,
           "id": 53256896643403,
+          "product_id": 10825098133835,
           "title": "White / USB",
           "price": "963.96",
           "position": 1,
@@ -59274,8 +59274,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098133835,
           "id": 13450997727563,
+          "product_id": 10825098133835,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59283,8 +59283,8 @@
           ]
         },
         {
-          "product_id": 10825098133835,
           "id": 13450997760331,
+          "product_id": 10825098133835,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -85848,8 +85848,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825028534603",
       "variants": [
         {
-          "product_id": 10825028534603,
           "id": 53256527905099,
+          "product_id": 10825028534603,
           "title": "Classic Black Suit",
           "price": "27.28",
           "position": 1,
@@ -85876,8 +85876,8 @@
           "image_id": 64364986433867
         },
         {
-          "product_id": 10825028534603,
           "id": 53256527937867,
+          "product_id": 10825028534603,
           "title": "Dark Blue Suit",
           "price": "27.28",
           "position": 2,
@@ -85904,8 +85904,8 @@
           "image_id": 64364986466635
         },
         {
-          "product_id": 10825028534603,
           "id": 53256527970635,
+          "product_id": 10825028534603,
           "title": "Beige Pink Suit",
           "price": "27.28",
           "position": 3,
@@ -85934,8 +85934,8 @@
       ],
       "options": [
         {
-          "product_id": 10825028534603,
           "id": 13450898899275,
+          "product_id": 10825028534603,
           "name": "Specifications",
           "position": 1,
           "values": [

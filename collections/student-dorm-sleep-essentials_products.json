@@ -32479,8 +32479,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825028534603",
       "variants": [
         {
-          "product_id": 10825028534603,
           "id": 53256527905099,
+          "product_id": 10825028534603,
           "title": "Classic Black Suit",
           "price": "27.28",
           "position": 1,
@@ -32507,8 +32507,8 @@
           "image_id": 64364986433867
         },
         {
-          "product_id": 10825028534603,
           "id": 53256527937867,
+          "product_id": 10825028534603,
           "title": "Dark Blue Suit",
           "price": "27.28",
           "position": 2,
@@ -32535,8 +32535,8 @@
           "image_id": 64364986466635
         },
         {
-          "product_id": 10825028534603,
           "id": 53256527970635,
+          "product_id": 10825028534603,
           "title": "Beige Pink Suit",
           "price": "27.28",
           "position": 3,
@@ -32565,8 +32565,8 @@
       ],
       "options": [
         {
-          "product_id": 10825028534603,
           "id": 13450898899275,
+          "product_id": 10825028534603,
           "name": "Specifications",
           "position": 1,
           "values": [

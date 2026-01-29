@@ -3077,8 +3077,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825107833163",
       "variants": [
         {
-          "product_id": 10825107833163,
           "id": 53256915386699,
+          "product_id": 10825107833163,
           "title": "Black",
           "price": "785.80",
           "position": 1,
@@ -3107,8 +3107,8 @@
       ],
       "options": [
         {
-          "product_id": 10825107833163,
           "id": 13451009917259,
+          "product_id": 10825107833163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10365,8 +10365,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794393419",
       "variants": [
         {
-          "product_id": 10823794393419,
           "id": 53252659216715,
+          "product_id": 10823794393419,
           "title": "White New 10 Songs",
           "price": "35.99",
           "position": 1,
@@ -10395,8 +10395,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794393419,
           "id": 13449524183371,
+          "product_id": 10823794393419,
           "name": "Color",
           "position": 1,
           "values": [
