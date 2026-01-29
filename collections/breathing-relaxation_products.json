@@ -4680,8 +4680,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383151280459",
       "variants": [
         {
-          "product_id": 15383151280459,
           "id": 55974127436107,
+          "product_id": 15383151280459,
           "title": "No Remote Control",
           "price": "22.15",
           "position": 1,
@@ -4708,8 +4708,8 @@
           "image_id": 79379149324619
         },
         {
-          "product_id": 15383151280459,
           "id": 55974127468875,
+          "product_id": 15383151280459,
           "title": "Remote Control",
           "price": "21.95",
           "position": 2,
@@ -4736,8 +4736,8 @@
           "image_id": 79379149291851
         },
         {
-          "product_id": 15383151280459,
           "id": 55974127501643,
+          "product_id": 15383151280459,
           "title": "5 Massage Patches",
           "price": "22.95",
           "position": 3,
@@ -4766,8 +4766,8 @@
       ],
       "options": [
         {
-          "product_id": 15383151280459,
           "id": 17822064410955,
+          "product_id": 15383151280459,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6284,8 +6284,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383150264651",
       "variants": [
         {
-          "product_id": 15383150264651,
           "id": 55974126125387,
+          "product_id": 15383150264651,
           "title": "nose mask",
           "price": "29.95",
           "position": 1,
@@ -6312,8 +6312,8 @@
           "image_id": 79379120423243
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126158155,
+          "product_id": 15383150264651,
           "title": "30pcs",
           "price": "42.95",
           "position": 2,
@@ -6340,8 +6340,8 @@
           "image_id": 79379120456011
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126190923,
+          "product_id": 15383150264651,
           "title": "50pcs",
           "price": "48.95",
           "position": 3,
@@ -6368,8 +6368,8 @@
           "image_id": 79379120488779
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126223691,
+          "product_id": 15383150264651,
           "title": "10pcs",
           "price": "36.95",
           "position": 4,
@@ -6398,8 +6398,8 @@
       ],
       "options": [
         {
-          "product_id": 15383150264651,
           "id": 17822063395147,
+          "product_id": 15383150264651,
           "name": "Color",
           "position": 1,
           "values": [

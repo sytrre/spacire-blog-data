@@ -20880,8 +20880,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744160075",
       "variants": [
         {
-          "product_id": 10823744160075,
           "id": 53252387078475,
+          "product_id": 10823744160075,
           "title": "White / USB / Bluetooth version",
           "price": "40.49",
           "position": 1,
@@ -20910,8 +20910,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744160075,
           "id": 13449445867851,
+          "product_id": 10823744160075,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20919,8 +20919,8 @@
           ]
         },
         {
-          "product_id": 10823744160075,
           "id": 13449445900619,
+          "product_id": 10823744160075,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -20928,8 +20928,8 @@
           ]
         },
         {
-          "product_id": 10823744160075,
           "id": 13449445933387,
+          "product_id": 10823744160075,
           "name": "style",
           "position": 3,
           "values": [

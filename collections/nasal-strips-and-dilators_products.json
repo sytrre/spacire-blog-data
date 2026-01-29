@@ -3655,8 +3655,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383150264651",
       "variants": [
         {
-          "product_id": 15383150264651,
           "id": 55974126125387,
+          "product_id": 15383150264651,
           "title": "nose mask",
           "price": "29.95",
           "position": 1,
@@ -3683,8 +3683,8 @@
           "image_id": 79379120423243
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126158155,
+          "product_id": 15383150264651,
           "title": "30pcs",
           "price": "42.95",
           "position": 2,
@@ -3711,8 +3711,8 @@
           "image_id": 79379120456011
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126190923,
+          "product_id": 15383150264651,
           "title": "50pcs",
           "price": "48.95",
           "position": 3,
@@ -3739,8 +3739,8 @@
           "image_id": 79379120488779
         },
         {
-          "product_id": 15383150264651,
           "id": 55974126223691,
+          "product_id": 15383150264651,
           "title": "10pcs",
           "price": "36.95",
           "position": 4,
@@ -3769,8 +3769,8 @@
       ],
       "options": [
         {
-          "product_id": 15383150264651,
           "id": 17822063395147,
+          "product_id": 15383150264651,
           "name": "Color",
           "position": 1,
           "values": [
