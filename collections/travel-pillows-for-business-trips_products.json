@@ -6782,8 +6782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772554596683",
       "variants": [
         {
-          "product_id": 14772554596683,
           "id": 53314591850827,
+          "product_id": 14772554596683,
           "title": "Threedimensional pillow",
           "price": "25.20",
           "position": 1,
@@ -6810,8 +6810,8 @@
           "image_id": 64611731505483
         },
         {
-          "product_id": 14772554596683,
           "id": 53314591883595,
+          "product_id": 14772554596683,
           "title": "White",
           "price": "25.20",
           "position": 2,
@@ -6840,8 +6840,8 @@
       ],
       "options": [
         {
-          "product_id": 14772554596683,
           "id": 17117250289995,
+          "product_id": 14772554596683,
           "name": "Color",
           "position": 1,
           "values": [
