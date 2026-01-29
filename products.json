@@ -1485,8 +1485,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825052782923",
       "variants": [
         {
-          "product_id": 10825052782923,
           "id": 53256612970827,
+          "product_id": 10825052782923,
           "title": "Black / 1pcs",
           "price": "33.30",
           "position": 1,
@@ -1513,8 +1513,8 @@
           "image_id": 64365282591051
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613003595,
+          "product_id": 10825052782923,
           "title": "Grey / 1pcs",
           "price": "33.30",
           "position": 2,
@@ -1541,8 +1541,8 @@
           "image_id": 64365282623819
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613036363,
+          "product_id": 10825052782923,
           "title": "Champagne / 1pcs",
           "price": "33.30",
           "position": 3,
@@ -1569,8 +1569,8 @@
           "image_id": 64365282656587
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613069131,
+          "product_id": 10825052782923,
           "title": "Match color / 1pcs",
           "price": "33.44",
           "position": 4,
@@ -1597,8 +1597,8 @@
           "image_id": 64365282689355
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613101899,
+          "product_id": 10825052782923,
           "title": "Black / 2pcs",
           "price": "34.98",
           "position": 5,
@@ -1625,8 +1625,8 @@
           "image_id": 64365282722123
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613134667,
+          "product_id": 10825052782923,
           "title": "Black / 4pcs",
           "price": "38.34",
           "position": 6,
@@ -1653,8 +1653,8 @@
           "image_id": 64365282754891
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613167435,
+          "product_id": 10825052782923,
           "title": "Champagne / 2pcs",
           "price": "34.98",
           "position": 7,
@@ -1681,8 +1681,8 @@
           "image_id": 64365282787659
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613200203,
+          "product_id": 10825052782923,
           "title": "Champagne / 4pcs",
           "price": "38.34",
           "position": 8,
@@ -1709,8 +1709,8 @@
           "image_id": 64365282820427
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613232971,
+          "product_id": 10825052782923,
           "title": "Grey / 2pcs",
           "price": "34.98",
           "position": 9,
@@ -1737,8 +1737,8 @@
           "image_id": 64365282853195
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613265739,
+          "product_id": 10825052782923,
           "title": "Grey / 4pcs",
           "price": "38.34",
           "position": 10,
@@ -1765,8 +1765,8 @@
           "image_id": 64365282885963
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613298507,
+          "product_id": 10825052782923,
           "title": "Match color / 2pcs",
           "price": "35.26",
           "position": 11,
@@ -1793,8 +1793,8 @@
           "image_id": 64365282918731
         },
         {
-          "product_id": 10825052782923,
           "id": 53256613331275,
+          "product_id": 10825052782923,
           "title": "Match color / 4pcs",
           "price": "38.90",
           "position": 12,
@@ -1823,8 +1823,8 @@
       ],
       "options": [
         {
-          "product_id": 10825052782923,
           "id": 13450929045835,
+          "product_id": 10825052782923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1835,8 +1835,8 @@
           ]
         },
         {
-          "product_id": 10825052782923,
           "id": 13450929078603,
+          "product_id": 10825052782923,
           "name": "style",
           "position": 2,
           "values": [
