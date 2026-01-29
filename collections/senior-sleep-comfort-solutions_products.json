@@ -8158,8 +8158,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775145169227",
       "variants": [
         {
-          "product_id": 14775145169227,
           "id": 53327476130123,
+          "product_id": 14775145169227,
           "title": "45x45cm / Single Pillowcase",
           "price": "31.29",
           "position": 1,
@@ -8186,8 +8186,8 @@
           "image_id": 64650349052235
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476162891,
+          "product_id": 14775145169227,
           "title": "45x45cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 2,
@@ -8214,8 +8214,8 @@
           "image_id": 64650349052235
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476195659,
+          "product_id": 14775145169227,
           "title": "30x50cm / Single Pillowcase",
           "price": "31.29",
           "position": 3,
@@ -8242,8 +8242,8 @@
           "image_id": 64650349085003
         },
         {
-          "product_id": 14775145169227,
           "id": 53327476228427,
+          "product_id": 14775145169227,
           "title": "30x50cm / Pillowcase With Pillow Core",
           "price": "32.50",
           "position": 4,
@@ -8272,8 +8272,8 @@
       ],
       "options": [
         {
-          "product_id": 14775145169227,
           "id": 17120441205067,
+          "product_id": 14775145169227,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8282,8 +8282,8 @@
           ]
         },
         {
-          "product_id": 14775145169227,
           "id": 17120441237835,
+          "product_id": 14775145169227,
           "name": "Style",
           "position": 2,
           "values": [
@@ -40796,8 +40796,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772566262091",
       "variants": [
         {
-          "id": 53314616361291,
           "product_id": 14772566262091,
+          "id": 53314616361291,
           "title": "Mint Blue / 42x65cm",
           "price": "37.78",
           "position": 1,
@@ -40824,8 +40824,8 @@
           "image_id": 64611853566283
         },
         {
-          "id": 53314616394059,
           "product_id": 14772566262091,
+          "id": 53314616394059,
           "title": "Dark Gray / 42x65cm",
           "price": "37.78",
           "position": 2,
@@ -40852,8 +40852,8 @@
           "image_id": 64611853599051
         },
         {
-          "id": 53314616426827,
           "product_id": 14772566262091,
+          "id": 53314616426827,
           "title": "Linen / 42x65cm",
           "price": "37.78",
           "position": 3,
@@ -40882,8 +40882,8 @@
       ],
       "options": [
         {
-          "id": 17117262577995,
           "product_id": 14772566262091,
+          "id": 17117262577995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40893,8 +40893,8 @@
           ]
         },
         {
-          "id": 17117262610763,
           "product_id": 14772566262091,
+          "id": 17117262610763,
           "name": "Dimensions",
           "position": 2,
           "values": [
