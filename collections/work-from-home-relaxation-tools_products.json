@@ -2260,8 +2260,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159344459",
       "variants": [
         {
-          "product_id": 10825159344459,
           "id": 53257351201099,
+          "product_id": 10825159344459,
           "title": "10 Pieces In A Box",
           "price": "33.58",
           "position": 1,
@@ -2290,8 +2290,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159344459,
           "id": 13451086594379,
+          "product_id": 10825159344459,
           "name": "Product Specifications",
           "position": 1,
           "values": [
