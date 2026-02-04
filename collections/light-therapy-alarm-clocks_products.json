@@ -9201,8 +9201,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100067147",
       "variants": [
         {
-          "id": 53256900149579,
           "product_id": 10825100067147,
+          "id": 53256900149579,
           "title": "White Chinese Version",
           "price": "690.47",
           "position": 1,
@@ -9229,8 +9229,8 @@
           "image_id": 64365758841163
         },
         {
-          "id": 53256900182347,
           "product_id": 10825100067147,
+          "id": 53256900182347,
           "title": "White English Version",
           "price": "690.47",
           "position": 2,
@@ -9257,8 +9257,8 @@
           "image_id": 64365758873931
         },
         {
-          "id": 53256900215115,
           "product_id": 10825100067147,
+          "id": 53256900215115,
           "title": "Chinese And White",
           "price": "505.81",
           "position": 3,
@@ -9287,8 +9287,8 @@
       ],
       "options": [
         {
-          "id": 13451000250699,
           "product_id": 10825100067147,
+          "id": 13451000250699,
           "name": "Color",
           "position": 1,
           "values": [
