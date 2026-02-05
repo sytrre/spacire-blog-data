@@ -31028,8 +31028,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825034203467",
       "variants": [
         {
-          "id": 53256544747851,
           "product_id": 10825034203467,
+          "id": 53256544747851,
           "title": "Lotus Root Color / 71X11MM",
           "price": "28.92",
           "position": 1,
@@ -31058,8 +31058,8 @@
       ],
       "options": [
         {
-          "id": 13450904895819,
           "product_id": 10825034203467,
+          "id": 13450904895819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -31067,8 +31067,8 @@
           ]
         },
         {
-          "id": 13450904928587,
           "product_id": 10825034203467,
+          "id": 13450904928587,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -32066,8 +32066,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -32096,8 +32096,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -32105,8 +32105,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -38473,8 +38473,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054716235",
       "variants": [
         {
-          "id": 53256621654347,
           "product_id": 10825054716235,
+          "id": 53256621654347,
           "title": "Grey",
           "price": "32.93",
           "position": 1,
@@ -38501,8 +38501,8 @@
           "image_id": 64365307363659
         },
         {
-          "id": 53256621687115,
           "product_id": 10825054716235,
+          "id": 53256621687115,
           "title": "Black",
           "price": "32.93",
           "position": 2,
@@ -38531,8 +38531,8 @@
       ],
       "options": [
         {
-          "id": 13450931339595,
           "product_id": 10825054716235,
+          "id": 13450931339595,
           "name": "Color",
           "position": 1,
           "values": [
