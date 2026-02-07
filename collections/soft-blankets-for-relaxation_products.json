@@ -69953,8 +69953,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774899867979",
       "variants": [
         {
-          "product_id": 14774899867979,
           "id": 53325563658571,
+          "product_id": 14774899867979,
           "title": "Yellow",
           "price": "45.86",
           "position": 1,
@@ -69983,8 +69983,8 @@
       ],
       "options": [
         {
-          "product_id": 14774899867979,
           "id": 17120137740619,
+          "product_id": 14774899867979,
           "name": "Color",
           "position": 1,
           "values": [
