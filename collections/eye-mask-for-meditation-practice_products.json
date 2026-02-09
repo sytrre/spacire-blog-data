@@ -4970,8 +4970,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047048523",
       "variants": [
         {
-          "product_id": 10825047048523,
           "id": 53256591442251,
+          "product_id": 10825047048523,
           "title": "Black eye mask",
           "price": "30.90",
           "position": 1,
@@ -4998,8 +4998,8 @@
           "image_id": 64365221380427
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591475019,
+          "product_id": 10825047048523,
           "title": "Blue eye mask",
           "price": "31.05",
           "position": 2,
@@ -5026,8 +5026,8 @@
           "image_id": 64365221413195
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591507787,
+          "product_id": 10825047048523,
           "title": "Buy one get one black eye mask",
           "price": "31.62",
           "position": 3,
@@ -5056,8 +5056,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047048523,
           "id": 13450922852683,
+          "product_id": 10825047048523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -32214,8 +32214,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815463243",
       "variants": [
         {
-          "id": 53252754768203,
           "product_id": 10823815463243,
+          "id": 53252754768203,
           "title": "Black Lycra hood",
           "price": "31.49",
           "position": 1,
@@ -32242,8 +32242,8 @@
           "image_id": 64333120602443
         },
         {
-          "id": 53252754800971,
           "product_id": 10823815463243,
+          "id": 53252754800971,
           "title": "Black all inclusive hood",
           "price": "30.49",
           "position": 2,
@@ -32270,8 +32270,8 @@
           "image_id": 64333120635211
         },
         {
-          "id": 53252754833739,
           "product_id": 10823815463243,
+          "id": 53252754833739,
           "title": "Black open top hood",
           "price": "31.99",
           "position": 3,
@@ -32298,8 +32298,8 @@
           "image_id": 64333120667979
         },
         {
-          "id": 53252754866507,
           "product_id": 10823815463243,
+          "id": 53252754866507,
           "title": "Black ponytail hood",
           "price": "34.49",
           "position": 4,
@@ -32326,8 +32326,8 @@
           "image_id": 64333120700747
         },
         {
-          "id": 53252754899275,
           "product_id": 10823815463243,
+          "id": 53252754899275,
           "title": "White open top hood",
           "price": "31.99",
           "position": 5,
@@ -32356,8 +32356,8 @@
       ],
       "options": [
         {
-          "id": 13449548529995,
           "product_id": 10823815463243,
+          "id": 13449548529995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47591,8 +47591,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054585163",
       "variants": [
         {
-          "product_id": 10825054585163,
           "id": 53256620376395,
+          "product_id": 10825054585163,
           "title": "Elegant Pink",
           "price": "43.50",
           "position": 1,
@@ -47619,8 +47619,8 @@
           "image_id": 64365305528651
         },
         {
-          "product_id": 10825054585163,
           "id": 53256620409163,
+          "product_id": 10825054585163,
           "title": "Navy Blue",
           "price": "43.50",
           "position": 2,
@@ -47649,8 +47649,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054585163,
           "id": 13450931110219,
+          "product_id": 10825054585163,
           "name": "Color",
           "position": 1,
           "values": [
@@ -54779,8 +54779,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056977227",
       "variants": [
         {
-          "id": 53256634663243,
           "product_id": 10825056977227,
+          "id": 53256634663243,
           "title": "Black / USB",
           "price": "34.60",
           "position": 1,
@@ -54807,8 +54807,8 @@
           "image_id": 64365339377995
         },
         {
-          "id": 53256634696011,
           "product_id": 10825056977227,
+          "id": 53256634696011,
           "title": "Business gray / USB",
           "price": "34.60",
           "position": 2,
@@ -54835,8 +54835,8 @@
           "image_id": 64365339410763
         },
         {
-          "id": 53256634728779,
           "product_id": 10825056977227,
+          "id": 53256634728779,
           "title": "Champagne / USB",
           "price": "34.60",
           "position": 3,
@@ -54863,8 +54863,8 @@
           "image_id": 64365339443531
         },
         {
-          "id": 53256634761547,
           "product_id": 10825056977227,
+          "id": 53256634761547,
           "title": "Dark green / USB",
           "price": "34.60",
           "position": 4,
@@ -54891,8 +54891,8 @@
           "image_id": 64365339476299
         },
         {
-          "id": 53256634794315,
           "product_id": 10825056977227,
+          "id": 53256634794315,
           "title": "Fresh green / USB",
           "price": "34.60",
           "position": 5,
@@ -54919,8 +54919,8 @@
           "image_id": 64365339509067
         },
         {
-          "id": 53256634827083,
           "product_id": 10825056977227,
+          "id": 53256634827083,
           "title": "Gold / USB",
           "price": "34.60",
           "position": 6,
@@ -54947,8 +54947,8 @@
           "image_id": 64365339541835
         },
         {
-          "id": 53256634859851,
           "product_id": 10825056977227,
+          "id": 53256634859851,
           "title": "Navy Blue / USB",
           "price": "34.60",
           "position": 7,
@@ -54975,8 +54975,8 @@
           "image_id": 64365339574603
         },
         {
-          "id": 53256634892619,
           "product_id": 10825056977227,
+          "id": 53256634892619,
           "title": "Net red and green / USB",
           "price": "34.60",
           "position": 8,
@@ -55003,8 +55003,8 @@
           "image_id": 64365339607371
         },
         {
-          "id": 53256634925387,
           "product_id": 10825056977227,
+          "id": 53256634925387,
           "title": "Silver / USB",
           "price": "34.60",
           "position": 9,
@@ -55033,8 +55033,8 @@
       ],
       "options": [
         {
-          "id": 13450933961035,
           "product_id": 10825056977227,
+          "id": 13450933961035,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55050,8 +55050,8 @@
           ]
         },
         {
-          "id": 13450933993803,
           "product_id": 10825056977227,
+          "id": 13450933993803,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

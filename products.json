@@ -8341,8 +8341,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047048523",
       "variants": [
         {
-          "product_id": 10825047048523,
           "id": 53256591442251,
+          "product_id": 10825047048523,
           "title": "Black eye mask",
           "price": "30.90",
           "position": 1,
@@ -8369,8 +8369,8 @@
           "image_id": 64365221380427
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591475019,
+          "product_id": 10825047048523,
           "title": "Blue eye mask",
           "price": "31.05",
           "position": 2,
@@ -8397,8 +8397,8 @@
           "image_id": 64365221413195
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591507787,
+          "product_id": 10825047048523,
           "title": "Buy one get one black eye mask",
           "price": "31.62",
           "position": 3,
@@ -8427,8 +8427,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047048523,
           "id": 13450922852683,
+          "product_id": 10825047048523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10088,7 +10088,7 @@
       "product_type": "Curtains",
       "created_at": "2025-08-26T12:12:55+01:00",
       "handle": "aurorez-natural-linen-curtains-2-panels-set-thick-light-filtering-drapes-bedroom-living-room",
-      "updated_at": "2026-01-30T14:35:04+00:00",
+      "updated_at": "2026-02-09T17:26:20+00:00",
       "published_at": "2025-08-26T12:13:11+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -10108,7 +10108,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T12:13:09+01:00",
-          "updated_at": "2025-12-08T09:26:43+00:00",
+          "updated_at": "2026-02-09T17:26:20+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -10119,8 +10119,8 @@
           "weight": 2200.0,
           "weight_unit": "g",
           "inventory_item_id": 55214726381899,
-          "inventory_quantity": 257,
-          "old_inventory_quantity": 257,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53253016977739",
           "image_id": 64334015758667
         }
@@ -94934,8 +94934,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159180619",
       "variants": [
         {
-          "id": 53257350152523,
           "product_id": 10825159180619,
+          "id": 53257350152523,
           "title": "Blue",
           "price": "33.57",
           "position": 1,
@@ -94964,8 +94964,8 @@
       ],
       "options": [
         {
-          "id": 13451086430539,
           "product_id": 10825159180619,
+          "id": 13451086430539,
           "name": "Color",
           "position": 1,
           "values": [
@@ -99103,8 +99103,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823815463243",
       "variants": [
         {
-          "id": 53252754768203,
           "product_id": 10823815463243,
+          "id": 53252754768203,
           "title": "Black Lycra hood",
           "price": "31.49",
           "position": 1,
@@ -99131,8 +99131,8 @@
           "image_id": 64333120602443
         },
         {
-          "id": 53252754800971,
           "product_id": 10823815463243,
+          "id": 53252754800971,
           "title": "Black all inclusive hood",
           "price": "30.49",
           "position": 2,
@@ -99159,8 +99159,8 @@
           "image_id": 64333120635211
         },
         {
-          "id": 53252754833739,
           "product_id": 10823815463243,
+          "id": 53252754833739,
           "title": "Black open top hood",
           "price": "31.99",
           "position": 3,
@@ -99187,8 +99187,8 @@
           "image_id": 64333120667979
         },
         {
-          "id": 53252754866507,
           "product_id": 10823815463243,
+          "id": 53252754866507,
           "title": "Black ponytail hood",
           "price": "34.49",
           "position": 4,
@@ -99215,8 +99215,8 @@
           "image_id": 64333120700747
         },
         {
-          "id": 53252754899275,
           "product_id": 10823815463243,
+          "id": 53252754899275,
           "title": "White open top hood",
           "price": "31.99",
           "position": 5,
@@ -99245,8 +99245,8 @@
       ],
       "options": [
         {
-          "id": 13449548529995,
           "product_id": 10823815463243,
+          "id": 13449548529995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -117051,8 +117051,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "product_id": 10823924613451,
           "id": 53253541167435,
+          "product_id": 10823924613451,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -117081,8 +117081,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924613451,
           "id": 13449690349899,
+          "product_id": 10823924613451,
           "name": "default",
           "position": 1,
           "values": [
