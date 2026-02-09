@@ -13720,8 +13720,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "product_id": 10823922745675,
           "id": 53253533860171,
+          "product_id": 10823922745675,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -13750,8 +13750,8 @@
       ],
       "options": [
         {
-          "product_id": 10823922745675,
           "id": 13449688219979,
+          "product_id": 10823922745675,
           "name": "style",
           "position": 1,
           "values": [
@@ -13759,8 +13759,8 @@
           ]
         },
         {
-          "product_id": 10823922745675,
           "id": 13449688252747,
+          "product_id": 10823922745675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -71162,8 +71162,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089286475",
       "variants": [
         {
-          "product_id": 10825089286475,
           "id": 53256865448267,
+          "product_id": 10825089286475,
           "title": "Orange",
           "price": "563.56",
           "position": 1,
@@ -71192,8 +71192,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089286475,
           "id": 13450981605707,
+          "product_id": 10825089286475,
           "name": "Color",
           "position": 1,
           "values": [
