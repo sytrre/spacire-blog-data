@@ -5025,8 +5025,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100919115",
       "variants": [
         {
-          "id": 53256903295307,
           "product_id": 10825100919115,
+          "id": 53256903295307,
           "title": "USB / USB",
           "price": "365.20",
           "position": 1,
@@ -5055,8 +5055,8 @@
       ],
       "options": [
         {
-          "id": 13451001332043,
           "product_id": 10825100919115,
+          "id": 13451001332043,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5064,8 +5064,8 @@
           ]
         },
         {
-          "id": 13451001364811,
           "product_id": 10825100919115,
+          "id": 13451001364811,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -18325,8 +18325,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "product_id": 14774885876043,
           "id": 53325483671883,
+          "product_id": 14774885876043,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -18353,8 +18353,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483704651,
+          "product_id": 14774885876043,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -18381,8 +18381,8 @@
           "image_id": 64643911024971
         },
         {
-          "product_id": 14774885876043,
           "id": 53325483737419,
+          "product_id": 14774885876043,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -18411,8 +18411,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885876043,
           "id": 17120122995019,
+          "product_id": 14774885876043,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -18422,8 +18422,8 @@
           ]
         },
         {
-          "product_id": 14774885876043,
           "id": 17120123027787,
+          "product_id": 14774885876043,
           "name": "Color",
           "position": 2,
           "values": [
@@ -68027,8 +68027,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045508427",
       "variants": [
         {
-          "id": 53256581742923,
           "product_id": 10825045508427,
+          "id": 53256581742923,
           "title": "Sky Blue",
           "price": "33.13",
           "position": 1,
@@ -68057,8 +68057,8 @@
       ],
       "options": [
         {
-          "id": 13450921247051,
           "product_id": 10825045508427,
+          "id": 13450921247051,
           "name": "Color",
           "position": 1,
           "values": [
