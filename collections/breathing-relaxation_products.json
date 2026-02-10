@@ -3785,12 +3785,12 @@
       "product_type": "",
       "created_at": "2025-11-20T10:45:37+00:00",
       "handle": "nasalflux-airflow-boosting-magnetic-nasal-sleep-strips",
-      "updated_at": "2026-01-30T14:36:11+00:00",
-      "published_at": "2025-11-26T02:49:21+00:00",
+      "updated_at": "2026-02-10T13:09:30+00:00",
+      "published_at": null,
       "template_suffix": null,
-      "published_scope": "global",
+      "published_scope": "web",
       "tags": "Nosal Strip",
-      "status": "active",
+      "status": "draft",
       "admin_graphql_api_id": "gid://shopify/Product/15374086275403",
       "variants": [
         {
@@ -4226,8 +4226,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374089683275",
       "variants": [
         {
-          "id": 55945794781515,
           "product_id": 15374089683275,
+          "id": 55945794781515,
           "title": "Default Title",
           "price": "19.95",
           "position": 1,
@@ -4256,8 +4256,8 @@
       ],
       "options": [
         {
-          "id": 17811410616651,
           "product_id": 15374089683275,
+          "id": 17811410616651,
           "name": "Default Title",
           "position": 1,
           "values": [
@@ -7659,8 +7659,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825064907083",
       "variants": [
         {
-          "id": 53256688337227,
           "product_id": 10825064907083,
+          "id": 53256688337227,
           "title": "Pink",
           "price": "42.34",
           "position": 1,
@@ -7687,8 +7687,8 @@
           "image_id": 64365432668491
         },
         {
-          "id": 53256688369995,
           "product_id": 10825064907083,
+          "id": 53256688369995,
           "title": "Green",
           "price": "42.34",
           "position": 2,
@@ -7717,8 +7717,8 @@
       ],
       "options": [
         {
-          "id": 13450946216267,
           "product_id": 10825064907083,
+          "id": 13450946216267,
           "name": "Color",
           "position": 1,
           "values": [
