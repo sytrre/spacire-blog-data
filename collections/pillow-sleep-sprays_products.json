@@ -1202,8 +1202,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960246091",
       "variants": [
         {
-          "id": 53256219230539,
           "product_id": 10824960246091,
+          "id": 53256219230539,
           "title": "30ml",
           "price": "21.02",
           "position": 1,
@@ -1232,8 +1232,8 @@
       ],
       "options": [
         {
-          "id": 13450820714827,
           "product_id": 10824960246091,
+          "id": 13450820714827,
           "name": "style",
           "position": 1,
           "values": [
@@ -1580,8 +1580,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961491275",
       "variants": [
         {
-          "product_id": 10824961491275,
           "id": 53256230961483,
+          "product_id": 10824961491275,
           "title": "60ml",
           "price": "24.10",
           "position": 1,
@@ -1608,8 +1608,8 @@
           "image_id": 64364289229131
         },
         {
-          "product_id": 10824961491275,
           "id": 53256230994251,
+          "product_id": 10824961491275,
           "title": "Set",
           "price": "33.04",
           "position": 2,
@@ -1638,8 +1638,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961491275,
           "id": 13450822222155,
+          "product_id": 10824961491275,
           "name": "Color Classification",
           "position": 1,
           "values": [
