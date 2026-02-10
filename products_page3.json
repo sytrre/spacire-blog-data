@@ -10317,8 +10317,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961491275",
       "variants": [
         {
-          "id": 53256230961483,
           "product_id": 10824961491275,
+          "id": 53256230961483,
           "title": "60ml",
           "price": "24.10",
           "position": 1,
@@ -10345,8 +10345,8 @@
           "image_id": 64364289229131
         },
         {
-          "id": 53256230994251,
           "product_id": 10824961491275,
+          "id": 53256230994251,
           "title": "Set",
           "price": "33.04",
           "position": 2,
@@ -10375,8 +10375,8 @@
       ],
       "options": [
         {
-          "id": 13450822222155,
           "product_id": 10824961491275,
+          "id": 13450822222155,
           "name": "Color Classification",
           "position": 1,
           "values": [
