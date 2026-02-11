@@ -4471,8 +4471,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383146889547",
       "variants": [
         {
-          "product_id": 15383146889547,
           "id": 55974117867851,
+          "product_id": 15383146889547,
           "title": "1 box (2Pcs)",
           "price": "22.95",
           "position": 1,
@@ -4499,8 +4499,8 @@
           "image_id": 79378855493963
         },
         {
-          "product_id": 15383146889547,
           "id": 55974117900619,
+          "product_id": 15383146889547,
           "title": "2 box (4Pcs)",
           "price": "24.95",
           "position": 2,
@@ -4529,8 +4529,8 @@
       ],
       "options": [
         {
-          "product_id": 15383146889547,
           "id": 17822059626827,
+          "product_id": 15383146889547,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4680,8 +4680,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383151280459",
       "variants": [
         {
-          "id": 55974127436107,
           "product_id": 15383151280459,
+          "id": 55974127436107,
           "title": "No Remote Control",
           "price": "22.15",
           "position": 1,
@@ -4708,8 +4708,8 @@
           "image_id": 79379149324619
         },
         {
-          "id": 55974127468875,
           "product_id": 15383151280459,
+          "id": 55974127468875,
           "title": "Remote Control",
           "price": "21.95",
           "position": 2,
@@ -4736,8 +4736,8 @@
           "image_id": 79379149291851
         },
         {
-          "id": 55974127501643,
           "product_id": 15383151280459,
+          "id": 55974127501643,
           "title": "5 Massage Patches",
           "price": "22.95",
           "position": 3,
@@ -4766,8 +4766,8 @@
       ],
       "options": [
         {
-          "id": 17822064410955,
           "product_id": 15383151280459,
+          "id": 17822064410955,
           "name": "Color",
           "position": 1,
           "values": [
