@@ -10026,8 +10026,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936049483",
       "variants": [
         {
-          "id": 53253571805515,
           "product_id": 10823936049483,
+          "id": 53253571805515,
           "title": "Black / USB",
           "price": "36.49",
           "position": 1,
@@ -10054,8 +10054,8 @@
           "image_id": 64335279489355
         },
         {
-          "id": 53253571838283,
           "product_id": 10823936049483,
+          "id": 53253571838283,
           "title": "White / USB",
           "price": "36.49",
           "position": 2,
@@ -10084,8 +10084,8 @@
       ],
       "options": [
         {
-          "id": 13449703063883,
           "product_id": 10823936049483,
+          "id": 13449703063883,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10094,8 +10094,8 @@
           ]
         },
         {
-          "id": 13449703096651,
           "product_id": 10823936049483,
+          "id": 13449703096651,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -10492,8 +10492,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823678820683",
       "variants": [
         {
-          "id": 53252007199051,
           "product_id": 10823678820683,
+          "id": 53252007199051,
           "title": "Light Gray",
           "price": "38.99",
           "position": 1,
@@ -10522,8 +10522,8 @@
       ],
       "options": [
         {
-          "id": 13449324069195,
           "product_id": 10823678820683,
+          "id": 13449324069195,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11166,8 +11166,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823744356683",
       "variants": [
         {
-          "product_id": 10823744356683,
           "id": 53252389568843,
+          "product_id": 10823744356683,
           "title": "White",
           "price": "51.99",
           "position": 1,
@@ -11196,8 +11196,8 @@
       ],
       "options": [
         {
-          "product_id": 10823744356683,
           "id": 13449446457675,
+          "product_id": 10823744356683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18697,8 +18697,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106096459",
       "variants": [
         {
-          "id": 53256911520075,
           "product_id": 10825106096459,
+          "id": 53256911520075,
           "title": "White / 5W",
           "price": "441.62",
           "position": 1,
@@ -18727,8 +18727,8 @@
       ],
       "options": [
         {
-          "id": 13451007918411,
           "product_id": 10825106096459,
+          "id": 13451007918411,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -18736,8 +18736,8 @@
           ]
         },
         {
-          "id": 13451007951179,
           "product_id": 10825106096459,
+          "id": 13451007951179,
           "name": "Light Source Power",
           "position": 2,
           "values": [

@@ -5354,8 +5354,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158623563",
       "variants": [
         {
-          "product_id": 10825158623563,
           "id": 53257347039563,
+          "product_id": 10825158623563,
           "title": "Dark grey",
           "price": "34.79",
           "position": 1,
@@ -5382,8 +5382,8 @@
           "image_id": 64367007498571
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347072331,
+          "product_id": 10825158623563,
           "title": "Black",
           "price": "34.79",
           "position": 2,
@@ -5410,8 +5410,8 @@
           "image_id": 64367007531339
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347105099,
+          "product_id": 10825158623563,
           "title": "Pink",
           "price": "34.79",
           "position": 3,
@@ -5438,8 +5438,8 @@
           "image_id": 64367007564107
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347137867,
+          "product_id": 10825158623563,
           "title": "Wine red",
           "price": "34.79",
           "position": 4,
@@ -5466,8 +5466,8 @@
           "image_id": 64367007596875
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347170635,
+          "product_id": 10825158623563,
           "title": "White",
           "price": "34.79",
           "position": 5,
@@ -5494,8 +5494,8 @@
           "image_id": 64367007629643
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347203403,
+          "product_id": 10825158623563,
           "title": "Caramel",
           "price": "34.94",
           "position": 6,
@@ -5522,8 +5522,8 @@
           "image_id": 64367007662411
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347236171,
+          "product_id": 10825158623563,
           "title": "Blue",
           "price": "34.79",
           "position": 7,
@@ -5550,8 +5550,8 @@
           "image_id": 64367007695179
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347268939,
+          "product_id": 10825158623563,
           "title": "Rose gold",
           "price": "34.79",
           "position": 8,
@@ -5578,8 +5578,8 @@
           "image_id": 64367007727947
         },
         {
-          "product_id": 10825158623563,
           "id": 53257347301707,
+          "product_id": 10825158623563,
           "title": "Silver gray",
           "price": "34.79",
           "position": 9,
@@ -5608,8 +5608,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158623563,
           "id": 13451085742411,
+          "product_id": 10825158623563,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8369,8 +8369,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "id": 53256627061067,
           "product_id": 10825056452939,
+          "id": 53256627061067,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -8399,8 +8399,8 @@
       ],
       "options": [
         {
-          "id": 13450933338443,
           "product_id": 10825056452939,
+          "id": 13450933338443,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8408,8 +8408,8 @@
           ]
         },
         {
-          "id": 13450933371211,
           "product_id": 10825056452939,
+          "id": 13450933371211,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -39140,8 +39140,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -39170,8 +39170,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52607,8 +52607,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044918603",
       "variants": [
         {
-          "id": 53256580006219,
           "product_id": 10825044918603,
+          "id": 53256580006219,
           "title": "Black / USB",
           "price": "43.06",
           "position": 1,
@@ -52637,8 +52637,8 @@
       ],
       "options": [
         {
-          "id": 13450920591691,
           "product_id": 10825044918603,
+          "id": 13450920591691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52646,8 +52646,8 @@
           ]
         },
         {
-          "id": 13450920624459,
           "product_id": 10825044918603,
+          "id": 13450920624459,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -52768,8 +52768,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823804879179",
       "variants": [
         {
-          "id": 53252705747275,
           "product_id": 10823804879179,
+          "id": 53252705747275,
           "title": "Maroon",
           "price": "43.49",
           "position": 1,
@@ -52798,8 +52798,8 @@
       ],
       "options": [
         {
-          "id": 13449536373067,
           "product_id": 10823804879179,
+          "id": 13449536373067,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57962,8 +57962,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045541195",
       "variants": [
         {
-          "id": 53256581906763,
           "product_id": 10825045541195,
+          "id": 53256581906763,
           "title": "Black",
           "price": "36.08",
           "position": 1,
@@ -57990,8 +57990,8 @@
           "image_id": 64365200146763
         },
         {
-          "id": 53256581939531,
           "product_id": 10825045541195,
+          "id": 53256581939531,
           "title": "Dark Blue",
           "price": "34.80",
           "position": 2,
@@ -58020,8 +58020,8 @@
       ],
       "options": [
         {
-          "id": 13450921279819,
           "product_id": 10825045541195,
+          "id": 13450921279819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60590,8 +60590,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823742587211",
       "variants": [
         {
-          "id": 53252368400715,
           "product_id": 10823742587211,
+          "id": 53252368400715,
           "title": "Pink / USB",
           "price": "34.99",
           "position": 1,
@@ -60620,8 +60620,8 @@
       ],
       "options": [
         {
-          "id": 13449442427211,
           "product_id": 10823742587211,
+          "id": 13449442427211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60629,8 +60629,8 @@
           ]
         },
         {
-          "id": 13449442459979,
           "product_id": 10823742587211,
+          "id": 13449442459979,
           "name": "power",
           "position": 2,
           "values": [
