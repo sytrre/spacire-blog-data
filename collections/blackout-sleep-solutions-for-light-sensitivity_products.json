@@ -38154,8 +38154,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -38182,8 +38182,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -38210,8 +38210,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -38238,8 +38238,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -38268,8 +38268,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38280,8 +38280,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -52607,8 +52607,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044918603",
       "variants": [
         {
-          "product_id": 10825044918603,
           "id": 53256580006219,
+          "product_id": 10825044918603,
           "title": "Black / USB",
           "price": "43.06",
           "position": 1,
@@ -52637,8 +52637,8 @@
       ],
       "options": [
         {
-          "product_id": 10825044918603,
           "id": 13450920591691,
+          "product_id": 10825044918603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52646,8 +52646,8 @@
           ]
         },
         {
-          "product_id": 10825044918603,
           "id": 13450920624459,
+          "product_id": 10825044918603,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -57953,7 +57953,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-02-09T02:26:25+00:00",
+      "updated_at": "2026-02-11T01:28:40+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -57973,7 +57973,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-02-09T02:26:25+00:00",
+          "updated_at": "2026-02-11T01:28:40+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -57984,8 +57984,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40632,
-          "old_inventory_quantity": 40632,
+          "inventory_quantity": 40631,
+          "old_inventory_quantity": 40631,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
