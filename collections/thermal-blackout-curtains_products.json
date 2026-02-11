@@ -11818,8 +11818,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776187879755",
       "variants": [
         {
-          "id": 53331871629643,
           "product_id": 14776187879755,
+          "id": 53331871629643,
           "title": "Silver gray / 10X10CM",
           "price": "34.57",
           "position": 1,
@@ -11846,8 +11846,8 @@
           "image_id": 64662298034507
         },
         {
-          "id": 53331871662411,
           "product_id": 14776187879755,
+          "id": 53331871662411,
           "title": "Beige / 10X10CM",
           "price": "34.57",
           "position": 2,
@@ -11874,8 +11874,8 @@
           "image_id": 64662298067275
         },
         {
-          "id": 53331871695179,
           "product_id": 14776187879755,
+          "id": 53331871695179,
           "title": "Plum color / 10X10CM",
           "price": "34.57",
           "position": 3,
@@ -11902,8 +11902,8 @@
           "image_id": 64662298100043
         },
         {
-          "id": 53331871727947,
           "product_id": 14776187879755,
+          "id": 53331871727947,
           "title": "Red wine / 10X10CM",
           "price": "34.57",
           "position": 4,
@@ -11932,8 +11932,8 @@
       ],
       "options": [
         {
-          "id": 17121694122315,
           "product_id": 14776187879755,
+          "id": 17121694122315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11944,8 +11944,8 @@
           ]
         },
         {
-          "id": 17121694155083,
           "product_id": 14776187879755,
+          "id": 17121694155083,
           "name": "Size",
           "position": 2,
           "values": [

@@ -1585,8 +1585,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "id": 53256231453003,
           "product_id": 10824961589579,
+          "id": 53256231453003,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -1615,8 +1615,8 @@
       ],
       "options": [
         {
-          "id": 13450822353227,
           "product_id": 10824961589579,
+          "id": 13450822353227,
           "name": "style",
           "position": 1,
           "values": [
@@ -1685,8 +1685,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "id": 53257347727691,
           "product_id": 10825158754635,
+          "id": 53257347727691,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -1715,8 +1715,8 @@
       ],
       "options": [
         {
-          "id": 13451085906251,
           "product_id": 10825158754635,
+          "id": 13451085906251,
           "name": "Size",
           "position": 1,
           "values": [

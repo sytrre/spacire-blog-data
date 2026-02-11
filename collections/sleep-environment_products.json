@@ -13525,8 +13525,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961589579",
       "variants": [
         {
-          "id": 53256231453003,
           "product_id": 10824961589579,
+          "id": 53256231453003,
           "title": "Atomizing",
           "price": "21.00",
           "position": 1,
@@ -13555,8 +13555,8 @@
       ],
       "options": [
         {
-          "id": 13450822353227,
           "product_id": 10824961589579,
+          "id": 13450822353227,
           "name": "style",
           "position": 1,
           "values": [
@@ -14288,8 +14288,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823680229707",
       "variants": [
         {
-          "product_id": 10823680229707,
           "id": 53252015653195,
+          "product_id": 10823680229707,
           "title": "default",
           "price": "60.49",
           "position": 1,
@@ -14318,8 +14318,8 @@
       ],
       "options": [
         {
-          "product_id": 10823680229707,
           "id": 13449325707595,
+          "product_id": 10823680229707,
           "name": "default",
           "position": 1,
           "values": [
@@ -16181,8 +16181,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823802323275",
       "variants": [
         {
-          "id": 53252699619659,
           "product_id": 10823802323275,
+          "id": 53252699619659,
           "title": "Black",
           "price": "43.99",
           "position": 1,
@@ -16209,8 +16209,8 @@
           "image_id": 64332657754443
         },
         {
-          "id": 53252699652427,
           "product_id": 10823802323275,
+          "id": 53252699652427,
           "title": "Champagne Gold",
           "price": "43.99",
           "position": 2,
@@ -16237,8 +16237,8 @@
           "image_id": 64332657787211
         },
         {
-          "id": 53252699685195,
           "product_id": 10823802323275,
+          "id": 53252699685195,
           "title": "Green",
           "price": "43.99",
           "position": 3,
@@ -16265,8 +16265,8 @@
           "image_id": 64332657819979
         },
         {
-          "id": 53252699717963,
           "product_id": 10823802323275,
+          "id": 53252699717963,
           "title": "Navy Blue",
           "price": "43.99",
           "position": 4,
@@ -16293,8 +16293,8 @@
           "image_id": 64332657852747
         },
         {
-          "id": 53252699750731,
           "product_id": 10823802323275,
+          "id": 53252699750731,
           "title": "Pink",
           "price": "43.99",
           "position": 5,
@@ -16321,8 +16321,8 @@
           "image_id": 64332657885515
         },
         {
-          "id": 53252699783499,
           "product_id": 10823802323275,
+          "id": 53252699783499,
           "title": "Silver Gray",
           "price": "43.99",
           "position": 6,
@@ -16349,8 +16349,8 @@
           "image_id": 64332657918283
         },
         {
-          "id": 53252699816267,
           "product_id": 10823802323275,
+          "id": 53252699816267,
           "title": "White",
           "price": "43.99",
           "position": 7,
@@ -16379,8 +16379,8 @@
       ],
       "options": [
         {
-          "id": 13449533686091,
           "product_id": 10823802323275,
+          "id": 13449533686091,
           "name": "Color",
           "position": 1,
           "values": [
