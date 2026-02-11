@@ -16679,8 +16679,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823801831755",
       "variants": [
         {
-          "product_id": 10823801831755,
           "id": 53252698636619,
+          "product_id": 10823801831755,
           "title": "Black",
           "price": "43.49",
           "position": 1,
@@ -16707,8 +16707,8 @@
           "image_id": 64332651757899
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698669387,
+          "product_id": 10823801831755,
           "title": "Cameo Brown",
           "price": "43.49",
           "position": 2,
@@ -16735,8 +16735,8 @@
           "image_id": 64332651790667
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698702155,
+          "product_id": 10823801831755,
           "title": "Champagne",
           "price": "43.49",
           "position": 3,
@@ -16763,8 +16763,8 @@
           "image_id": 64332651823435
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698734923,
+          "product_id": 10823801831755,
           "title": "Dark Gray",
           "price": "43.49",
           "position": 4,
@@ -16791,8 +16791,8 @@
           "image_id": 64332651856203
         },
         {
-          "product_id": 10823801831755,
           "id": 53252698767691,
+          "product_id": 10823801831755,
           "title": "Navy Blue",
           "price": "43.49",
           "position": 5,
@@ -16821,8 +16821,8 @@
       ],
       "options": [
         {
-          "product_id": 10823801831755,
           "id": 13449533161803,
+          "product_id": 10823801831755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -116886,8 +116886,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374080770379",
       "variants": [
         {
-          "id": 55945735274827,
           "product_id": 15374080770379,
+          "id": 55945735274827,
           "title": "Brown",
           "price": "24.95",
           "position": 1,
@@ -116916,8 +116916,8 @@
       ],
       "options": [
         {
-          "id": 17811396755787,
           "product_id": 15374080770379,
+          "id": 17811396755787,
           "name": "Color",
           "position": 1,
           "values": [
