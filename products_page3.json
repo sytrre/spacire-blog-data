@@ -8282,8 +8282,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "id": 53253571477835,
           "product_id": 10823935689035,
+          "id": 53253571477835,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -8312,8 +8312,8 @@
       ],
       "options": [
         {
-          "id": 13449702670667,
           "product_id": 10823935689035,
+          "id": 13449702670667,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8661,8 +8661,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "id": 53257350447435,
           "product_id": 10825159246155,
+          "id": 53257350447435,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -8691,8 +8691,8 @@
       ],
       "options": [
         {
-          "id": 13451086496075,
           "product_id": 10825159246155,
+          "id": 13451086496075,
           "name": "style",
           "position": 1,
           "values": [
@@ -10713,8 +10713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158984011",
       "variants": [
         {
-          "id": 53257349661003,
           "product_id": 10825158984011,
+          "id": 53257349661003,
           "title": "30 PATCHES",
           "price": "33.57",
           "position": 1,
@@ -10743,8 +10743,8 @@
       ],
       "options": [
         {
-          "id": 13451086233931,
           "product_id": 10825158984011,
+          "id": 13451086233931,
           "name": "quantity",
           "position": 1,
           "values": [

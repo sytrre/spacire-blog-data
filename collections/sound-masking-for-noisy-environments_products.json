@@ -2207,8 +2207,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823741407563",
       "variants": [
         {
-          "id": 53252361486667,
           "product_id": 10823741407563,
+          "id": 53252361486667,
           "title": "White",
           "price": "38.49",
           "position": 1,
@@ -2237,8 +2237,8 @@
       ],
       "options": [
         {
-          "id": 13449440395595,
           "product_id": 10823741407563,
+          "id": 13449440395595,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9447,8 +9447,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "id": 53256912634187,
           "product_id": 10825106948427,
+          "id": 53256912634187,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -9477,8 +9477,8 @@
       ],
       "options": [
         {
-          "id": 13451008835915,
           "product_id": 10825106948427,
+          "id": 13451008835915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9486,8 +9486,8 @@
           ]
         },
         {
-          "id": 13451008868683,
           "product_id": 10825106948427,
+          "id": 13451008868683,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -9747,8 +9747,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823936049483",
       "variants": [
         {
-          "product_id": 10823936049483,
           "id": 53253571805515,
+          "product_id": 10823936049483,
           "title": "Black / USB",
           "price": "36.49",
           "position": 1,
@@ -9775,8 +9775,8 @@
           "image_id": 64335279489355
         },
         {
-          "product_id": 10823936049483,
           "id": 53253571838283,
+          "product_id": 10823936049483,
           "title": "White / USB",
           "price": "36.49",
           "position": 2,
@@ -9805,8 +9805,8 @@
       ],
       "options": [
         {
-          "product_id": 10823936049483,
           "id": 13449703063883,
+          "product_id": 10823936049483,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9815,8 +9815,8 @@
           ]
         },
         {
-          "product_id": 10823936049483,
           "id": 13449703096651,
+          "product_id": 10823936049483,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -10213,8 +10213,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823678820683",
       "variants": [
         {
-          "product_id": 10823678820683,
           "id": 53252007199051,
+          "product_id": 10823678820683,
           "title": "Light Gray",
           "price": "38.99",
           "position": 1,
@@ -10243,8 +10243,8 @@
       ],
       "options": [
         {
-          "product_id": 10823678820683,
           "id": 13449324069195,
+          "product_id": 10823678820683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -13173,8 +13173,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "id": 53253533860171,
           "product_id": 10823922745675,
+          "id": 53253533860171,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -13203,8 +13203,8 @@
       ],
       "options": [
         {
-          "id": 13449688219979,
           "product_id": 10823922745675,
+          "id": 13449688219979,
           "name": "style",
           "position": 1,
           "values": [
@@ -13212,8 +13212,8 @@
           ]
         },
         {
-          "id": 13449688252747,
           "product_id": 10823922745675,
+          "id": 13449688252747,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -18946,8 +18946,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -18976,8 +18976,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -18985,8 +18985,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -21037,8 +21037,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "id": 53253571477835,
           "product_id": 10823935689035,
+          "id": 53253571477835,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -21067,8 +21067,8 @@
       ],
       "options": [
         {
-          "id": 13449702670667,
           "product_id": 10823935689035,
+          "id": 13449702670667,
           "name": "Color",
           "position": 1,
           "values": [
