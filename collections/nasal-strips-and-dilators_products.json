@@ -2082,8 +2082,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374089683275",
       "variants": [
         {
-          "product_id": 15374089683275,
           "id": 55945794781515,
+          "product_id": 15374089683275,
           "title": "Default Title",
           "price": "19.95",
           "position": 1,
@@ -2112,8 +2112,8 @@
       ],
       "options": [
         {
-          "product_id": 15374089683275,
           "id": 17811410616651,
+          "product_id": 15374089683275,
           "name": "Default Title",
           "position": 1,
           "values": [

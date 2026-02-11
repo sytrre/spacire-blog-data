@@ -613,8 +613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "id": 53256897036619,
           "product_id": 10825098527051,
+          "id": 53256897036619,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -643,8 +643,8 @@
       ],
       "options": [
         {
-          "id": 13450998186315,
           "product_id": 10825098527051,
+          "id": 13450998186315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -652,8 +652,8 @@
           ]
         },
         {
-          "id": 13450998219083,
           "product_id": 10825098527051,
+          "id": 13450998219083,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -913,8 +913,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100919115",
       "variants": [
         {
-          "product_id": 10825100919115,
           "id": 53256903295307,
+          "product_id": 10825100919115,
           "title": "USB / USB",
           "price": "365.20",
           "position": 1,
@@ -943,8 +943,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100919115,
           "id": 13451001332043,
+          "product_id": 10825100919115,
           "name": "Color",
           "position": 1,
           "values": [
@@ -952,8 +952,8 @@
           ]
         },
         {
-          "product_id": 10825100919115,
           "id": 13451001364811,
+          "product_id": 10825100919115,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -1252,8 +1252,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793836363",
       "variants": [
         {
-          "product_id": 10823793836363,
           "id": 53252657774923,
+          "product_id": 10823793836363,
           "title": "Black",
           "price": "80.99",
           "position": 1,
@@ -1280,8 +1280,8 @@
           "image_id": 64332485132619
         },
         {
-          "product_id": 10823793836363,
           "id": 53252657807691,
+          "product_id": 10823793836363,
           "title": "Light Green",
           "price": "124.49",
           "position": 2,
@@ -1310,8 +1310,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793836363,
           "id": 13449523528011,
+          "product_id": 10823793836363,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12187,8 +12187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "product_id": 10825085354315,
           "id": 53256840741195,
+          "product_id": 10825085354315,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -12215,8 +12215,8 @@
           "image_id": 64365652377931
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840773963,
+          "product_id": 10825085354315,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -12243,8 +12243,8 @@
           "image_id": 64365652410699
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840806731,
+          "product_id": 10825085354315,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -12271,8 +12271,8 @@
           "image_id": 64365652443467
         },
         {
-          "product_id": 10825085354315,
           "id": 53256840839499,
+          "product_id": 10825085354315,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -12301,8 +12301,8 @@
       ],
       "options": [
         {
-          "product_id": 10825085354315,
           "id": 13450975478091,
+          "product_id": 10825085354315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12313,8 +12313,8 @@
           ]
         },
         {
-          "product_id": 10825085354315,
           "id": 13450975510859,
+          "product_id": 10825085354315,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -12454,8 +12454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -12482,8 +12482,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -12510,8 +12510,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -12538,8 +12538,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -12568,8 +12568,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12580,8 +12580,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -13741,8 +13741,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "id": 53256907456843,
           "product_id": 10825103278411,
+          "id": 53256907456843,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -13769,8 +13769,8 @@
           "image_id": 64365801996619
         },
         {
-          "id": 53256907489611,
           "product_id": 10825103278411,
+          "id": 53256907489611,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -13799,8 +13799,8 @@
       ],
       "options": [
         {
-          "id": 13451004838219,
           "product_id": 10825103278411,
+          "id": 13451004838219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16202,8 +16202,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823680229707",
       "variants": [
         {
-          "id": 53252015653195,
           "product_id": 10823680229707,
+          "id": 53252015653195,
           "title": "default",
           "price": "60.49",
           "position": 1,
@@ -16232,8 +16232,8 @@
       ],
       "options": [
         {
-          "id": 13449325707595,
           "product_id": 10823680229707,
+          "id": 13449325707595,
           "name": "default",
           "position": 1,
           "values": [
@@ -16689,8 +16689,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100067147",
       "variants": [
         {
-          "product_id": 10825100067147,
           "id": 53256900149579,
+          "product_id": 10825100067147,
           "title": "White Chinese Version",
           "price": "690.47",
           "position": 1,
@@ -16717,8 +16717,8 @@
           "image_id": 64365758841163
         },
         {
-          "product_id": 10825100067147,
           "id": 53256900182347,
+          "product_id": 10825100067147,
           "title": "White English Version",
           "price": "690.47",
           "position": 2,
@@ -16745,8 +16745,8 @@
           "image_id": 64365758873931
         },
         {
-          "product_id": 10825100067147,
           "id": 53256900215115,
+          "product_id": 10825100067147,
           "title": "Chinese And White",
           "price": "505.81",
           "position": 3,
@@ -16775,8 +16775,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100067147,
           "id": 13451000250699,
+          "product_id": 10825100067147,
           "name": "Color",
           "position": 1,
           "values": [
