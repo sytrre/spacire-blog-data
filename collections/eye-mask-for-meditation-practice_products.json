@@ -8369,8 +8369,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "product_id": 10825056452939,
           "id": 53256627061067,
+          "product_id": 10825056452939,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -8399,8 +8399,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056452939,
           "id": 13450933338443,
+          "product_id": 10825056452939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8408,8 +8408,8 @@
           ]
         },
         {
-          "product_id": 10825056452939,
           "id": 13450933371211,
+          "product_id": 10825056452939,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -34997,8 +34997,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045967179",
       "variants": [
         {
-          "product_id": 10825045967179,
           "id": 53256583446859,
+          "product_id": 10825045967179,
           "title": "Slim and long",
           "price": "32.29",
           "position": 1,
@@ -35025,8 +35025,8 @@
           "image_id": 64365204078923
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583479627,
+          "product_id": 10825045967179,
           "title": "Slim and short",
           "price": "32.29",
           "position": 2,
@@ -35053,8 +35053,8 @@
           "image_id": 64365204111691
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583512395,
+          "product_id": 10825045967179,
           "title": "Grey outline",
           "price": "32.29",
           "position": 3,
@@ -35083,8 +35083,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045967179,
           "id": 13450921705803,
+          "product_id": 10825045967179,
           "name": "style",
           "position": 1,
           "values": [
@@ -48371,8 +48371,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066053963",
       "variants": [
         {
-          "product_id": 10825066053963,
           "id": 53256702853451,
+          "product_id": 10825066053963,
           "title": "Black",
           "price": "36.69",
           "position": 1,
@@ -48399,8 +48399,8 @@
           "image_id": 64365446496587
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702886219,
+          "product_id": 10825066053963,
           "title": "Red",
           "price": "36.69",
           "position": 2,
@@ -48427,8 +48427,8 @@
           "image_id": 64365446529355
         },
         {
-          "product_id": 10825066053963,
           "id": 53256702918987,
+          "product_id": 10825066053963,
           "title": "Purple",
           "price": "36.69",
           "position": 3,
@@ -48457,8 +48457,8 @@
       ],
       "options": [
         {
-          "product_id": 10825066053963,
           "id": 13450948116811,
+          "product_id": 10825066053963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -52191,8 +52191,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823802323275",
       "variants": [
         {
-          "product_id": 10823802323275,
           "id": 53252699619659,
+          "product_id": 10823802323275,
           "title": "Black",
           "price": "43.99",
           "position": 1,
@@ -52219,8 +52219,8 @@
           "image_id": 64332657754443
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699652427,
+          "product_id": 10823802323275,
           "title": "Champagne Gold",
           "price": "43.99",
           "position": 2,
@@ -52247,8 +52247,8 @@
           "image_id": 64332657787211
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699685195,
+          "product_id": 10823802323275,
           "title": "Green",
           "price": "43.99",
           "position": 3,
@@ -52275,8 +52275,8 @@
           "image_id": 64332657819979
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699717963,
+          "product_id": 10823802323275,
           "title": "Navy Blue",
           "price": "43.99",
           "position": 4,
@@ -52303,8 +52303,8 @@
           "image_id": 64332657852747
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699750731,
+          "product_id": 10823802323275,
           "title": "Pink",
           "price": "43.99",
           "position": 5,
@@ -52331,8 +52331,8 @@
           "image_id": 64332657885515
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699783499,
+          "product_id": 10823802323275,
           "title": "Silver Gray",
           "price": "43.99",
           "position": 6,
@@ -52359,8 +52359,8 @@
           "image_id": 64332657918283
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699816267,
+          "product_id": 10823802323275,
           "title": "White",
           "price": "43.99",
           "position": 7,
@@ -52389,8 +52389,8 @@
       ],
       "options": [
         {
-          "product_id": 10823802323275,
           "id": 13449533686091,
+          "product_id": 10823802323275,
           "name": "Color",
           "position": 1,
           "values": [

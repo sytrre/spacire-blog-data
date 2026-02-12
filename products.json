@@ -15439,8 +15439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056452939",
       "variants": [
         {
-          "product_id": 10825056452939,
           "id": 53256627061067,
+          "product_id": 10825056452939,
           "title": "Dark Blue / Massage Heating",
           "price": "40.10",
           "position": 1,
@@ -15469,8 +15469,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056452939,
           "id": 13450933338443,
+          "product_id": 10825056452939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15478,8 +15478,8 @@
           ]
         },
         {
-          "product_id": 10825056452939,
           "id": 13450933371211,
+          "product_id": 10825056452939,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -70247,8 +70247,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962441547",
       "variants": [
         {
-          "product_id": 10824962441547,
           "id": 53256233582923,
+          "product_id": 10824962441547,
           "title": "Lavender",
           "price": "21.70",
           "position": 1,
@@ -70277,8 +70277,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962441547,
           "id": 13450823205195,
+          "product_id": 10824962441547,
           "name": "style",
           "position": 1,
           "values": [
@@ -75494,8 +75494,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885351755",
       "variants": [
         {
-          "product_id": 14774885351755,
           "id": 53325482295627,
+          "product_id": 14774885351755,
           "title": "Khaki",
           "price": "16.49",
           "position": 1,
@@ -75522,8 +75522,8 @@
           "image_id": 64643907584331
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482328395,
+          "product_id": 14774885351755,
           "title": "Dark grey",
           "price": "16.73",
           "position": 2,
@@ -75550,8 +75550,8 @@
           "image_id": 64643907617099
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482361163,
+          "product_id": 14774885351755,
           "title": "Light grey",
           "price": "16.49",
           "position": 3,
@@ -75580,8 +75580,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885351755,
           "id": 17120122405195,
+          "product_id": 14774885351755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -105898,8 +105898,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825106948427",
       "variants": [
         {
-          "product_id": 10825106948427,
           "id": 53256912634187,
+          "product_id": 10825106948427,
           "title": "White / English Packaging",
           "price": "395.85",
           "position": 1,
@@ -105928,8 +105928,8 @@
       ],
       "options": [
         {
-          "product_id": 10825106948427,
           "id": 13451008835915,
+          "product_id": 10825106948427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -105937,8 +105937,8 @@
           ]
         },
         {
-          "product_id": 10825106948427,
           "id": 13451008868683,
+          "product_id": 10825106948427,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -116886,8 +116886,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374080770379",
       "variants": [
         {
-          "product_id": 15374080770379,
           "id": 55945735274827,
+          "product_id": 15374080770379,
           "title": "Brown",
           "price": "24.95",
           "position": 1,
@@ -116916,8 +116916,8 @@
       ],
       "options": [
         {
-          "product_id": 15374080770379,
           "id": 17811396755787,
+          "product_id": 15374080770379,
           "name": "Color",
           "position": 1,
           "values": [
@@ -117696,8 +117696,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045967179",
       "variants": [
         {
-          "product_id": 10825045967179,
           "id": 53256583446859,
+          "product_id": 10825045967179,
           "title": "Slim and long",
           "price": "32.29",
           "position": 1,
@@ -117724,8 +117724,8 @@
           "image_id": 64365204078923
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583479627,
+          "product_id": 10825045967179,
           "title": "Slim and short",
           "price": "32.29",
           "position": 2,
@@ -117752,8 +117752,8 @@
           "image_id": 64365204111691
         },
         {
-          "product_id": 10825045967179,
           "id": 53256583512395,
+          "product_id": 10825045967179,
           "title": "Grey outline",
           "price": "32.29",
           "position": 3,
@@ -117782,8 +117782,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045967179,
           "id": 13450921705803,
+          "product_id": 10825045967179,
           "name": "style",
           "position": 1,
           "values": [

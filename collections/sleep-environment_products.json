@@ -8587,8 +8587,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962441547",
       "variants": [
         {
-          "product_id": 10824962441547,
           "id": 53256233582923,
+          "product_id": 10824962441547,
           "title": "Lavender",
           "price": "21.70",
           "position": 1,
@@ -8617,8 +8617,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962441547,
           "id": 13450823205195,
+          "product_id": 10824962441547,
           "name": "style",
           "position": 1,
           "values": [
@@ -16181,8 +16181,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823802323275",
       "variants": [
         {
-          "product_id": 10823802323275,
           "id": 53252699619659,
+          "product_id": 10823802323275,
           "title": "Black",
           "price": "43.99",
           "position": 1,
@@ -16209,8 +16209,8 @@
           "image_id": 64332657754443
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699652427,
+          "product_id": 10823802323275,
           "title": "Champagne Gold",
           "price": "43.99",
           "position": 2,
@@ -16237,8 +16237,8 @@
           "image_id": 64332657787211
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699685195,
+          "product_id": 10823802323275,
           "title": "Green",
           "price": "43.99",
           "position": 3,
@@ -16265,8 +16265,8 @@
           "image_id": 64332657819979
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699717963,
+          "product_id": 10823802323275,
           "title": "Navy Blue",
           "price": "43.99",
           "position": 4,
@@ -16293,8 +16293,8 @@
           "image_id": 64332657852747
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699750731,
+          "product_id": 10823802323275,
           "title": "Pink",
           "price": "43.99",
           "position": 5,
@@ -16321,8 +16321,8 @@
           "image_id": 64332657885515
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699783499,
+          "product_id": 10823802323275,
           "title": "Silver Gray",
           "price": "43.99",
           "position": 6,
@@ -16349,8 +16349,8 @@
           "image_id": 64332657918283
         },
         {
-          "product_id": 10823802323275,
           "id": 53252699816267,
+          "product_id": 10823802323275,
           "title": "White",
           "price": "43.99",
           "position": 7,
@@ -16379,8 +16379,8 @@
       ],
       "options": [
         {
-          "product_id": 10823802323275,
           "id": 13449533686091,
+          "product_id": 10823802323275,
           "name": "Color",
           "position": 1,
           "values": [
