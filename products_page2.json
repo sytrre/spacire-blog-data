@@ -18666,8 +18666,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054716235",
       "variants": [
         {
-          "product_id": 10825054716235,
           "id": 53256621654347,
+          "product_id": 10825054716235,
           "title": "Grey",
           "price": "32.93",
           "position": 1,
@@ -18694,8 +18694,8 @@
           "image_id": 64365307363659
         },
         {
-          "product_id": 10825054716235,
           "id": 53256621687115,
+          "product_id": 10825054716235,
           "title": "Black",
           "price": "32.93",
           "position": 2,
@@ -18724,8 +18724,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054716235,
           "id": 13450931339595,
+          "product_id": 10825054716235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -24642,8 +24642,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823922745675",
       "variants": [
         {
-          "product_id": 10823922745675,
           "id": 53253533860171,
+          "product_id": 10823922745675,
           "title": "Sleep aid / USB",
           "price": "38.49",
           "position": 1,
@@ -24672,8 +24672,8 @@
       ],
       "options": [
         {
-          "product_id": 10823922745675,
           "id": 13449688219979,
+          "product_id": 10823922745675,
           "name": "style",
           "position": 1,
           "values": [
@@ -24681,8 +24681,8 @@
           ]
         },
         {
-          "product_id": 10823922745675,
           "id": 13449688252747,
+          "product_id": 10823922745675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -25371,8 +25371,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823912358219",
       "variants": [
         {
-          "product_id": 10823912358219,
           "id": 53253498896715,
+          "product_id": 10823912358219,
           "title": "Germanium",
           "price": "37.99",
           "position": 1,
@@ -25399,8 +25399,8 @@
           "image_id": 64334872019275
         },
         {
-          "product_id": 10823912358219,
           "id": 53253498929483,
+          "product_id": 10823912358219,
           "title": "Jade",
           "price": "37.99",
           "position": 2,
@@ -25429,8 +25429,8 @@
       ],
       "options": [
         {
-          "product_id": 10823912358219,
           "id": 13449676718411,
+          "product_id": 10823912358219,
           "name": "Color",
           "position": 1,
           "values": [
@@ -50607,8 +50607,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771204849995",
       "variants": [
         {
-          "product_id": 14771204849995,
           "id": 53309802086731,
+          "product_id": 14771204849995,
           "title": "Blue / US 51x92cm",
           "price": "33.74",
           "position": 1,
@@ -50635,8 +50635,8 @@
           "image_id": 64591514272075
         },
         {
-          "product_id": 14771204849995,
           "id": 53309802119499,
+          "product_id": 14771204849995,
           "title": "Blue / US 51x76cm",
           "price": "32.63",
           "position": 2,
@@ -50663,8 +50663,8 @@
           "image_id": 64591514272075
         },
         {
-          "product_id": 14771204849995,
           "id": 53309802152267,
+          "product_id": 14771204849995,
           "title": "Green / US 51x92cm",
           "price": "33.74",
           "position": 3,
@@ -50691,8 +50691,8 @@
           "image_id": 64591514304843
         },
         {
-          "product_id": 14771204849995,
           "id": 53309802185035,
+          "product_id": 14771204849995,
           "title": "Green / US 51x76cm",
           "price": "32.63",
           "position": 4,
@@ -50721,8 +50721,8 @@
       ],
       "options": [
         {
-          "product_id": 14771204849995,
           "id": 17115729985867,
+          "product_id": 14771204849995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -50731,8 +50731,8 @@
           ]
         },
         {
-          "product_id": 14771204849995,
           "id": 17115730018635,
+          "product_id": 14771204849995,
           "name": "Power Specifications",
           "position": 2,
           "values": [
