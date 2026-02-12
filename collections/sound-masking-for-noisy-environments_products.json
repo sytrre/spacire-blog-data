@@ -10504,8 +10504,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103212875",
       "variants": [
         {
-          "id": 53256906735947,
           "product_id": 10825103212875,
+          "id": 53256906735947,
           "title": "SA02",
           "price": "390.44",
           "position": 1,
@@ -10534,8 +10534,8 @@
       ],
       "options": [
         {
-          "id": 13451004739915,
           "product_id": 10825103212875,
+          "id": 13451004739915,
           "name": "Color",
           "position": 1,
           "values": [
