@@ -4680,8 +4680,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383151280459",
       "variants": [
         {
-          "product_id": 15383151280459,
           "id": 55974127436107,
+          "product_id": 15383151280459,
           "title": "No Remote Control",
           "price": "22.15",
           "position": 1,
@@ -4708,8 +4708,8 @@
           "image_id": 79379149324619
         },
         {
-          "product_id": 15383151280459,
           "id": 55974127468875,
+          "product_id": 15383151280459,
           "title": "Remote Control",
           "price": "21.95",
           "position": 2,
@@ -4736,8 +4736,8 @@
           "image_id": 79379149291851
         },
         {
-          "product_id": 15383151280459,
           "id": 55974127501643,
+          "product_id": 15383151280459,
           "title": "5 Massage Patches",
           "price": "22.95",
           "position": 3,
@@ -4766,8 +4766,8 @@
       ],
       "options": [
         {
-          "product_id": 15383151280459,
           "id": 17822064410955,
+          "product_id": 15383151280459,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5734,8 +5734,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383148069195",
       "variants": [
         {
-          "id": 55974120390987,
           "product_id": 15383148069195,
+          "id": 55974120390987,
           "title": "Default Title",
           "price": "22.95",
           "position": 1,
@@ -5764,8 +5764,8 @@
       ],
       "options": [
         {
-          "id": 17822060937547,
           "product_id": 15383148069195,
+          "id": 17822060937547,
           "name": "Default Title",
           "position": 1,
           "values": [
@@ -10147,8 +10147,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092239179",
       "variants": [
         {
-          "id": 55945800941899,
           "product_id": 15374092239179,
+          "id": 55945800941899,
           "title": "30pcs",
           "price": "22.95",
           "position": 1,
@@ -10175,8 +10175,8 @@
           "image_id": 79156425261387
         },
         {
-          "id": 55945800974667,
           "product_id": 15374092239179,
+          "id": 55945800974667,
           "title": "90pcs",
           "price": "24.95",
           "position": 2,
@@ -10203,8 +10203,8 @@
           "image_id": 79156425294155
         },
         {
-          "id": 55945801007435,
           "product_id": 15374092239179,
+          "id": 55945801007435,
           "title": "150pcs",
           "price": "26.95",
           "position": 3,
@@ -10233,8 +10233,8 @@
       ],
       "options": [
         {
-          "id": 17811413860683,
           "product_id": 15374092239179,
+          "id": 17811413860683,
           "name": "Color",
           "position": 1,
           "values": [
