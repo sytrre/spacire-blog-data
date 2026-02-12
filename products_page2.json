@@ -8644,8 +8644,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050653003",
       "variants": [
         {
-          "product_id": 10825050653003,
           "id": 53256604418379,
+          "product_id": 10825050653003,
           "title": "Black",
           "price": "74.44",
           "position": 1,
@@ -8674,8 +8674,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050653003,
           "id": 13450926784843,
+          "product_id": 10825050653003,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14439,8 +14439,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081585995",
       "variants": [
         {
-          "product_id": 10825081585995,
           "id": 53256809709899,
+          "product_id": 10825081585995,
           "title": "Blue Battery Square",
           "price": "128.88",
           "position": 1,
@@ -14467,8 +14467,8 @@
           "image_id": 64365609812299
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809742667,
+          "product_id": 10825081585995,
           "title": "Pink Square Battery",
           "price": "128.88",
           "position": 2,
@@ -14495,8 +14495,8 @@
           "image_id": 64365609845067
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809775435,
+          "product_id": 10825081585995,
           "title": "Blue Square Charging",
           "price": "139.92",
           "position": 3,
@@ -14523,8 +14523,8 @@
           "image_id": 64365609877835
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809808203,
+          "product_id": 10825081585995,
           "title": "Pink Square  Charging",
           "price": "139.92",
           "position": 4,
@@ -14551,8 +14551,8 @@
           "image_id": 64365609910603
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809840971,
+          "product_id": 10825081585995,
           "title": "Blue Battery Star",
           "price": "128.88",
           "position": 5,
@@ -14579,8 +14579,8 @@
           "image_id": 64365609943371
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809873739,
+          "product_id": 10825081585995,
           "title": "Purple Star Battery",
           "price": "128.88",
           "position": 6,
@@ -14607,8 +14607,8 @@
           "image_id": 64365609976139
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809906507,
+          "product_id": 10825081585995,
           "title": "Blue Star Charging",
           "price": "139.92",
           "position": 7,
@@ -14635,8 +14635,8 @@
           "image_id": 64365610008907
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809939275,
+          "product_id": 10825081585995,
           "title": "Purple Star Charging",
           "price": "139.92",
           "position": 8,
@@ -14663,8 +14663,8 @@
           "image_id": 64365610041675
         },
         {
-          "product_id": 10825081585995,
           "id": 53256809972043,
+          "product_id": 10825081585995,
           "title": "White Square Battery",
           "price": "128.88",
           "position": 9,
@@ -14691,8 +14691,8 @@
           "image_id": 64365610074443
         },
         {
-          "product_id": 10825081585995,
           "id": 53256810004811,
+          "product_id": 10825081585995,
           "title": "White Charging Charging",
           "price": "139.92",
           "position": 10,
@@ -14719,8 +14719,8 @@
           "image_id": 64365610107211
         },
         {
-          "product_id": 10825081585995,
           "id": 53256810037579,
+          "product_id": 10825081585995,
           "title": "White  Star Battery",
           "price": "128.88",
           "position": 11,
@@ -14747,8 +14747,8 @@
           "image_id": 64365610139979
         },
         {
-          "product_id": 10825081585995,
           "id": 53256810070347,
+          "product_id": 10825081585995,
           "title": "White  Star Charging",
           "price": "139.92",
           "position": 12,
@@ -14777,8 +14777,8 @@
       ],
       "options": [
         {
-          "product_id": 10825081585995,
           "id": 13450969776459,
+          "product_id": 10825081585995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37629,8 +37629,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108160843",
       "variants": [
         {
-          "id": 53256915812683,
           "product_id": 10825108160843,
+          "id": 53256915812683,
           "title": "White 085 Neutral",
           "price": "503.53",
           "position": 1,
@@ -37659,8 +37659,8 @@
       ],
       "options": [
         {
-          "id": 13451010244939,
           "product_id": 10825108160843,
+          "id": 13451010244939,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38453,8 +38453,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774886334795",
       "variants": [
         {
-          "product_id": 14774886334795,
           "id": 53325485343051,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 91cm × 122cm",
           "price": "86.91",
           "position": 1,
@@ -38481,8 +38481,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485375819,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 122cm × 183cm",
           "price": "92.32",
           "position": 2,
@@ -38509,8 +38509,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485408587,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 122cm × 198cm",
           "price": "93.55",
           "position": 3,
@@ -38537,8 +38537,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485441355,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 152cm × 203cm",
           "price": "95.12",
           "position": 4,
@@ -38565,8 +38565,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485474123,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 203cm × 221cm",
           "price": "99.08",
           "position": 5,
@@ -38593,8 +38593,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485506891,
+          "product_id": 14774886334795,
           "title": "Dark Gray / 229cm × 229cm",
           "price": "103.38",
           "position": 6,
@@ -38621,8 +38621,8 @@
           "image_id": 64643914989899
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485539659,
+          "product_id": 14774886334795,
           "title": "White / 122cm × 183cm",
           "price": "92.08",
           "position": 7,
@@ -38649,8 +38649,8 @@
           "image_id": 64643915022667
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485572427,
+          "product_id": 14774886334795,
           "title": "Blue / 91cm × 122cm",
           "price": "87.89",
           "position": 8,
@@ -38677,8 +38677,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485605195,
+          "product_id": 14774886334795,
           "title": "White / 152cm × 203cm",
           "price": "95.03",
           "position": 9,
@@ -38705,8 +38705,8 @@
           "image_id": 64643915022667
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485637963,
+          "product_id": 14774886334795,
           "title": "Blue / 152cm × 203cm",
           "price": "93.05",
           "position": 10,
@@ -38733,8 +38733,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485670731,
+          "product_id": 14774886334795,
           "title": "Blue / 122cm × 183cm",
           "price": "91.70",
           "position": 11,
@@ -38761,8 +38761,8 @@
           "image_id": 64643915055435
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485703499,
+          "product_id": 14774886334795,
           "title": "Dark gray single core / 152cm × 203cm",
           "price": "93.05",
           "position": 12,
@@ -38789,8 +38789,8 @@
           "image_id": 64643915088203
         },
         {
-          "product_id": 14774886334795,
           "id": 53325485736267,
+          "product_id": 14774886334795,
           "title": "Grey / 104x152cm 3.2kg",
           "price": "96.75",
           "position": 13,
@@ -38819,8 +38819,8 @@
       ],
       "options": [
         {
-          "product_id": 14774886334795,
           "id": 17120123519307,
+          "product_id": 14774886334795,
           "name": "Color",
           "position": 1,
           "values": [
@@ -38832,8 +38832,8 @@
           ]
         },
         {
-          "product_id": 14774886334795,
           "id": 17120123552075,
+          "product_id": 14774886334795,
           "name": "Size Specification",
           "position": 2,
           "values": [
@@ -48187,8 +48187,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "product_id": 10825158754635,
           "id": 53257347727691,
+          "product_id": 10825158754635,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -48217,8 +48217,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158754635,
           "id": 13451085906251,
+          "product_id": 10825158754635,
           "name": "Size",
           "position": 1,
           "values": [
@@ -80755,8 +80755,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -80785,8 +80785,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -80794,8 +80794,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -83575,8 +83575,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374077296971",
       "variants": [
         {
-          "id": 55945704210763,
           "product_id": 15374077296971,
+          "id": 55945704210763,
           "title": "Silver",
           "price": "19.95",
           "position": 1,
@@ -83605,8 +83605,8 @@
       ],
       "options": [
         {
-          "id": 17811390857547,
           "product_id": 15374077296971,
+          "id": 17811390857547,
           "name": "Color",
           "position": 1,
           "values": [

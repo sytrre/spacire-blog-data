@@ -2877,8 +2877,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825088237899",
       "variants": [
         {
-          "id": 53256861319499,
           "product_id": 10825088237899,
+          "id": 53256861319499,
           "title": "Roundshape",
           "price": "422.11",
           "position": 1,
@@ -2905,8 +2905,8 @@
           "image_id": 64365683638603
         },
         {
-          "id": 53256861352267,
           "product_id": 10825088237899,
+          "id": 53256861352267,
           "title": "Square",
           "price": "422.11",
           "position": 2,
@@ -2933,8 +2933,8 @@
           "image_id": 64365683671371
         },
         {
-          "id": 53256861385035,
           "product_id": 10825088237899,
+          "id": 53256861385035,
           "title": "Square 2pcs",
           "price": "836.26",
           "position": 3,
@@ -2963,8 +2963,8 @@
       ],
       "options": [
         {
-          "id": 13450980163915,
           "product_id": 10825088237899,
+          "id": 13450980163915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7366,8 +7366,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961392971",
       "variants": [
         {
-          "id": 53256230568267,
           "product_id": 10824961392971,
+          "id": 53256230568267,
           "title": "60ml",
           "price": "21.93",
           "position": 1,
@@ -7396,8 +7396,8 @@
       ],
       "options": [
         {
-          "id": 13450822091083,
           "product_id": 10824961392971,
+          "id": 13450822091083,
           "name": "Color Classification",
           "position": 1,
           "values": [
@@ -16597,8 +16597,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -16627,8 +16627,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -16636,8 +16636,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [
