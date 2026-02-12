@@ -45851,8 +45851,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825043378507",
       "variants": [
         {
-          "id": 53256570765643,
           "product_id": 10825043378507,
+          "id": 53256570765643,
           "title": "Sky blue",
           "price": "30.58",
           "position": 1,
@@ -45879,8 +45879,8 @@
           "image_id": 64365181763915
         },
         {
-          "id": 53256570798411,
           "product_id": 10825043378507,
+          "id": 53256570798411,
           "title": "Pearl White",
           "price": "30.58",
           "position": 2,
@@ -45907,8 +45907,8 @@
           "image_id": 64365181796683
         },
         {
-          "id": 53256570831179,
           "product_id": 10825043378507,
+          "id": 53256570831179,
           "title": "Red wine",
           "price": "30.58",
           "position": 3,
@@ -45935,8 +45935,8 @@
           "image_id": 64365181829451
         },
         {
-          "id": 53256570863947,
           "product_id": 10825043378507,
+          "id": 53256570863947,
           "title": "Coral Orange",
           "price": "30.61",
           "position": 4,
@@ -45963,8 +45963,8 @@
           "image_id": 64365181862219
         },
         {
-          "id": 53256570896715,
           "product_id": 10825043378507,
+          "id": 53256570896715,
           "title": "Grey",
           "price": "30.61",
           "position": 5,
@@ -45991,8 +45991,8 @@
           "image_id": 64365181894987
         },
         {
-          "id": 53256570929483,
           "product_id": 10825043378507,
+          "id": 53256570929483,
           "title": "Rabbit fur white",
           "price": "30.58",
           "position": 6,
@@ -46019,8 +46019,8 @@
           "image_id": 64365181927755
         },
         {
-          "id": 53256570962251,
           "product_id": 10825043378507,
+          "id": 53256570962251,
           "title": "Fresh pink",
           "price": "30.61",
           "position": 7,
@@ -46047,8 +46047,8 @@
           "image_id": 64365181960523
         },
         {
-          "id": 53256570995019,
           "product_id": 10825043378507,
+          "id": 53256570995019,
           "title": "Lotus color",
           "price": "30.58",
           "position": 8,
@@ -46075,8 +46075,8 @@
           "image_id": 64365181993291
         },
         {
-          "id": 53256571027787,
           "product_id": 10825043378507,
+          "id": 53256571027787,
           "title": "Violet",
           "price": "30.61",
           "position": 9,
@@ -46105,8 +46105,8 @@
       ],
       "options": [
         {
-          "id": 13450918953291,
           "product_id": 10825043378507,
+          "id": 13450918953291,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81761,8 +81761,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089941835",
       "variants": [
         {
-          "id": 53256873607499,
           "product_id": 10825089941835,
+          "id": 53256873607499,
           "title": "White / USB",
           "price": "195.01",
           "position": 1,
@@ -81789,8 +81789,8 @@
           "image_id": 64365696909643
         },
         {
-          "id": 53256873640267,
           "product_id": 10825089941835,
+          "id": 53256873640267,
           "title": "White / USB 2pcs",
           "price": "370.64",
           "position": 2,
@@ -81817,8 +81817,8 @@
           "image_id": 64365696942411
         },
         {
-          "id": 53256873673035,
           "product_id": 10825089941835,
+          "id": 53256873673035,
           "title": "White / USB 3pcs",
           "price": "551.95",
           "position": 3,
@@ -81847,8 +81847,8 @@
       ],
       "options": [
         {
-          "id": 13450982719819,
           "product_id": 10825089941835,
+          "id": 13450982719819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -81856,8 +81856,8 @@
           ]
         },
         {
-          "id": 13450982752587,
           "product_id": 10825089941835,
+          "id": 13450982752587,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
