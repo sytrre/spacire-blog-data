@@ -11647,8 +11647,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374080016715",
       "variants": [
         {
-          "product_id": 15374080016715,
           "id": 55945729769803,
+          "product_id": 15374080016715,
           "title": "white",
           "price": "38.95",
           "position": 1,
@@ -11677,8 +11677,8 @@
       ],
       "options": [
         {
-          "product_id": 15374080016715,
           "id": 17811395477835,
+          "product_id": 15374080016715,
           "name": "Color",
           "position": 1,
           "values": [
@@ -20798,8 +20798,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383153148235",
       "variants": [
         {
-          "product_id": 15383153148235,
           "id": 55974131237195,
+          "product_id": 15383153148235,
           "title": "with remote control",
           "price": "22.15",
           "position": 1,
@@ -20826,8 +20826,8 @@
           "image_id": 79379261587787
         },
         {
-          "product_id": 15383153148235,
           "id": 55974131269963,
+          "product_id": 15383153148235,
           "title": "2 Stickers",
           "price": "22.45",
           "position": 2,
@@ -20854,8 +20854,8 @@
           "image_id": 79379261620555
         },
         {
-          "product_id": 15383153148235,
           "id": 55974131302731,
+          "product_id": 15383153148235,
           "title": "Electric EMS Neck",
           "price": "22.25",
           "position": 3,
@@ -20884,8 +20884,8 @@
       ],
       "options": [
         {
-          "product_id": 15383153148235,
           "id": 17822066573643,
+          "product_id": 15383153148235,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35362,8 +35362,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825103278411",
       "variants": [
         {
-          "product_id": 10825103278411,
           "id": 53256907456843,
+          "product_id": 10825103278411,
           "title": "English Packaging",
           "price": "99.00",
           "position": 1,
@@ -35390,8 +35390,8 @@
           "image_id": 64365801996619
         },
         {
-          "product_id": 10825103278411,
           "id": 53256907489611,
+          "product_id": 10825103278411,
           "title": "Fox",
           "price": "99.67",
           "position": 2,
@@ -35420,8 +35420,8 @@
       ],
       "options": [
         {
-          "product_id": 10825103278411,
           "id": 13451004838219,
+          "product_id": 10825103278411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -80916,8 +80916,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825044918603",
       "variants": [
         {
-          "product_id": 10825044918603,
           "id": 53256580006219,
+          "product_id": 10825044918603,
           "title": "Black / USB",
           "price": "43.06",
           "position": 1,
@@ -80946,8 +80946,8 @@
       ],
       "options": [
         {
-          "product_id": 10825044918603,
           "id": 13450920591691,
+          "product_id": 10825044918603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -80955,8 +80955,8 @@
           ]
         },
         {
-          "product_id": 10825044918603,
           "id": 13450920624459,
+          "product_id": 10825044918603,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
