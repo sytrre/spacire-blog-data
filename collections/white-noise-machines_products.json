@@ -474,8 +474,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099706699",
       "variants": [
         {
-          "product_id": 10825099706699,
           "id": 53256899690827,
+          "product_id": 10825099706699,
           "title": "Set",
           "price": "428.72",
           "position": 1,
@@ -504,8 +504,8 @@
       ],
       "options": [
         {
-          "product_id": 10825099706699,
           "id": 13450999857483,
+          "product_id": 10825099706699,
           "name": "style",
           "position": 1,
           "values": [
@@ -1596,8 +1596,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825096134987",
       "variants": [
         {
-          "product_id": 10825096134987,
           "id": 53256893628747,
+          "product_id": 10825096134987,
           "title": "Photo Color / 220V US",
           "price": "1197.40",
           "position": 1,
@@ -1626,8 +1626,8 @@
       ],
       "options": [
         {
-          "product_id": 10825096134987,
           "id": 13450994155851,
+          "product_id": 10825096134987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1635,8 +1635,8 @@
           ]
         },
         {
-          "product_id": 10825096134987,
           "id": 13450994188619,
+          "product_id": 10825096134987,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -6119,8 +6119,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089941835",
       "variants": [
         {
-          "product_id": 10825089941835,
           "id": 53256873607499,
+          "product_id": 10825089941835,
           "title": "White / USB",
           "price": "195.01",
           "position": 1,
@@ -6147,8 +6147,8 @@
           "image_id": 64365696909643
         },
         {
-          "product_id": 10825089941835,
           "id": 53256873640267,
+          "product_id": 10825089941835,
           "title": "White / USB 2pcs",
           "price": "370.64",
           "position": 2,
@@ -6175,8 +6175,8 @@
           "image_id": 64365696942411
         },
         {
-          "product_id": 10825089941835,
           "id": 53256873673035,
+          "product_id": 10825089941835,
           "title": "White / USB 3pcs",
           "price": "551.95",
           "position": 3,
@@ -6205,8 +6205,8 @@
       ],
       "options": [
         {
-          "product_id": 10825089941835,
           "id": 13450982719819,
+          "product_id": 10825089941835,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6214,8 +6214,8 @@
           ]
         },
         {
-          "product_id": 10825089941835,
           "id": 13450982752587,
+          "product_id": 10825089941835,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -9565,8 +9565,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "id": 53256803025227,
           "product_id": 10825080078667,
+          "id": 53256803025227,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -9595,8 +9595,8 @@
       ],
       "options": [
         {
-          "id": 13450967777611,
           "product_id": 10825080078667,
+          "id": 13450967777611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9604,8 +9604,8 @@
           ]
         },
         {
-          "id": 13450967810379,
           "product_id": 10825080078667,
+          "id": 13450967810379,
           "name": "power",
           "position": 2,
           "values": [
@@ -12454,8 +12454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -12482,8 +12482,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -12510,8 +12510,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -12538,8 +12538,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -12568,8 +12568,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12580,8 +12580,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -18993,8 +18993,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -19023,8 +19023,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -19032,8 +19032,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [

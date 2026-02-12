@@ -390,8 +390,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825096134987",
       "variants": [
         {
-          "product_id": 10825096134987,
           "id": 53256893628747,
+          "product_id": 10825096134987,
           "title": "Photo Color / 220V US",
           "price": "1197.40",
           "position": 1,
@@ -420,8 +420,8 @@
       ],
       "options": [
         {
-          "product_id": 10825096134987,
           "id": 13450994155851,
+          "product_id": 10825096134987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -429,8 +429,8 @@
           ]
         },
         {
-          "product_id": 10825096134987,
           "id": 13450994188619,
+          "product_id": 10825096134987,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
