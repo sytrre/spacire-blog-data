@@ -9609,8 +9609,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823801831755",
       "variants": [
         {
-          "id": 53252698636619,
           "product_id": 10823801831755,
+          "id": 53252698636619,
           "title": "Black",
           "price": "43.49",
           "position": 1,
@@ -9637,8 +9637,8 @@
           "image_id": 64332651757899
         },
         {
-          "id": 53252698669387,
           "product_id": 10823801831755,
+          "id": 53252698669387,
           "title": "Cameo Brown",
           "price": "43.49",
           "position": 2,
@@ -9665,8 +9665,8 @@
           "image_id": 64332651790667
         },
         {
-          "id": 53252698702155,
           "product_id": 10823801831755,
+          "id": 53252698702155,
           "title": "Champagne",
           "price": "43.49",
           "position": 3,
@@ -9693,8 +9693,8 @@
           "image_id": 64332651823435
         },
         {
-          "id": 53252698734923,
           "product_id": 10823801831755,
+          "id": 53252698734923,
           "title": "Dark Gray",
           "price": "43.49",
           "position": 4,
@@ -9721,8 +9721,8 @@
           "image_id": 64332651856203
         },
         {
-          "id": 53252698767691,
           "product_id": 10823801831755,
+          "id": 53252698767691,
           "title": "Navy Blue",
           "price": "43.49",
           "position": 5,
@@ -9751,8 +9751,8 @@
       ],
       "options": [
         {
-          "id": 13449533161803,
           "product_id": 10823801831755,
+          "id": 13449533161803,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34709,8 +34709,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031188811",
       "variants": [
         {
-          "id": 53256535900491,
           "product_id": 10825031188811,
+          "id": 53256535900491,
           "title": "Black / USB",
           "price": "30.96",
           "position": 1,
@@ -34739,8 +34739,8 @@
       ],
       "options": [
         {
-          "id": 13450901717323,
           "product_id": 10825031188811,
+          "id": 13450901717323,
           "name": "Specification",
           "position": 1,
           "values": [
@@ -34748,8 +34748,8 @@
           ]
         },
         {
-          "id": 13450901750091,
           "product_id": 10825031188811,
+          "id": 13450901750091,
           "name": "Power",
           "position": 2,
           "values": [
@@ -40897,8 +40897,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -40925,8 +40925,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -40953,8 +40953,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -40981,8 +40981,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -41011,8 +41011,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41023,8 +41023,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -54156,8 +54156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774900031819",
       "variants": [
         {
-          "id": 53325565460811,
           "product_id": 14774900031819,
+          "id": 53325565460811,
           "title": "152x203CM 15lbs",
           "price": "140.82",
           "position": 1,
@@ -54186,8 +54186,8 @@
       ],
       "options": [
         {
-          "id": 17120137904459,
           "product_id": 14774900031819,
+          "id": 17120137904459,
           "name": "style",
           "position": 1,
           "values": [

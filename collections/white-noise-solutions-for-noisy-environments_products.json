@@ -5750,8 +5750,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080734027",
       "variants": [
         {
-          "id": 53256805089611,
           "product_id": 10825080734027,
+          "id": 53256805089611,
           "title": "American Standard",
           "price": "1115.23",
           "position": 1,
@@ -5778,8 +5778,8 @@
           "image_id": 64365601521995
         },
         {
-          "id": 53256805122379,
           "product_id": 10825080734027,
+          "id": 53256805122379,
           "title": "European Standard",
           "price": "1115.23",
           "position": 2,
@@ -5808,8 +5808,8 @@
       ],
       "options": [
         {
-          "id": 13450968596811,
           "product_id": 10825080734027,
+          "id": 13450968596811,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -9286,8 +9286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "product_id": 10825080078667,
           "id": 53256803025227,
+          "product_id": 10825080078667,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -9316,8 +9316,8 @@
       ],
       "options": [
         {
-          "product_id": 10825080078667,
           "id": 13450967777611,
+          "product_id": 10825080078667,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9325,8 +9325,8 @@
           ]
         },
         {
-          "product_id": 10825080078667,
           "id": 13450967810379,
+          "product_id": 10825080078667,
           "name": "power",
           "position": 2,
           "values": [
@@ -13933,8 +13933,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825083191627",
       "variants": [
         {
-          "id": 53256824586571,
           "product_id": 10825083191627,
+          "id": 53256824586571,
           "title": "White",
           "price": "335.16",
           "position": 1,
@@ -13961,8 +13961,8 @@
           "image_id": 64365631996235
         },
         {
-          "id": 53256824619339,
           "product_id": 10825083191627,
+          "id": 53256824619339,
           "title": "Black",
           "price": "335.16",
           "position": 2,
@@ -13991,8 +13991,8 @@
       ],
       "options": [
         {
-          "id": 13450972234059,
           "product_id": 10825083191627,
+          "id": 13450972234059,
           "name": "Color",
           "position": 1,
           "values": [
