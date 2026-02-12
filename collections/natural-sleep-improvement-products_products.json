@@ -87579,8 +87579,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904357195",
       "variants": [
         {
-          "id": 53325634797899,
           "product_id": 14774904357195,
+          "id": 53325634797899,
           "title": "Gray Capabala / Small Size 60 X45cm",
           "price": "82.32",
           "position": 1,
@@ -87607,8 +87607,8 @@
           "image_id": 64644468441419
         },
         {
-          "id": 53325634830667,
           "product_id": 14774904357195,
+          "id": 53325634830667,
           "title": "Gray Capabala / Large Size 70x50cm",
           "price": "83.52",
           "position": 2,
@@ -87635,8 +87635,8 @@
           "image_id": 64644468441419
         },
         {
-          "id": 53325634863435,
           "product_id": 14774904357195,
+          "id": 53325634863435,
           "title": "Pink Capabala / Small Size 60 X45cm",
           "price": "82.32",
           "position": 3,
@@ -87663,8 +87663,8 @@
           "image_id": 64644468474187
         },
         {
-          "id": 53325634896203,
           "product_id": 14774904357195,
+          "id": 53325634896203,
           "title": "Pink Capabala / Large Size 70x50cm",
           "price": "83.52",
           "position": 4,
@@ -87691,8 +87691,8 @@
           "image_id": 64644468474187
         },
         {
-          "id": 53325634928971,
           "product_id": 14774904357195,
+          "id": 53325634928971,
           "title": "Hamster / Small Size 60 X45cm",
           "price": "82.32",
           "position": 5,
@@ -87719,8 +87719,8 @@
           "image_id": 64644468506955
         },
         {
-          "id": 53325634961739,
           "product_id": 14774904357195,
+          "id": 53325634961739,
           "title": "Hamster / Large Size 70x50cm",
           "price": "83.52",
           "position": 6,
@@ -87747,8 +87747,8 @@
           "image_id": 64644468506955
         },
         {
-          "id": 53325634994507,
           "product_id": 14774904357195,
+          "id": 53325634994507,
           "title": "Dinosaur / Small Size 60 X45cm",
           "price": "82.32",
           "position": 7,
@@ -87775,8 +87775,8 @@
           "image_id": 64644468539723
         },
         {
-          "id": 53325635027275,
           "product_id": 14774904357195,
+          "id": 53325635027275,
           "title": "Dinosaur / Large Size 70x50cm",
           "price": "83.52",
           "position": 8,
@@ -87805,8 +87805,8 @@
       ],
       "options": [
         {
-          "id": 17120143606091,
           "product_id": 14774904357195,
+          "id": 17120143606091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -87817,8 +87817,8 @@
           ]
         },
         {
-          "id": 17120143638859,
           "product_id": 14774904357195,
+          "id": 17120143638859,
           "name": "Size",
           "position": 2,
           "values": [
@@ -119379,7 +119379,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-26T08:52:04+01:00",
       "handle": "musezx-sleep-shading-nebulizer-eye-mask-steam-hydration-light-blocking-sleep-aid-for-travel-and-stress-relief",
-      "updated_at": "2026-01-30T14:34:57+00:00",
+      "updated_at": "2026-02-12T21:26:28+00:00",
       "published_at": "2025-08-26T08:52:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -119399,7 +119399,7 @@
           "option2": "USB",
           "option3": null,
           "created_at": "2025-08-26T08:52:12+01:00",
-          "updated_at": "2025-09-10T07:12:47+01:00",
+          "updated_at": "2026-02-12T21:26:28+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -119410,8 +119410,8 @@
           "weight": 117.0,
           "weight_unit": "g",
           "inventory_item_id": 55213655589195,
-          "inventory_quantity": 12374,
-          "old_inventory_quantity": 12374,
+          "inventory_quantity": 12381,
+          "old_inventory_quantity": 12381,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53251952181579",
           "image_id": 64329959768395
         }

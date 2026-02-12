@@ -160,7 +160,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-26T08:52:04+01:00",
       "handle": "musezx-sleep-shading-nebulizer-eye-mask-steam-hydration-light-blocking-sleep-aid-for-travel-and-stress-relief",
-      "updated_at": "2026-01-30T14:34:57+00:00",
+      "updated_at": "2026-02-12T21:26:28+00:00",
       "published_at": "2025-08-26T08:52:14+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -180,7 +180,7 @@
           "option2": "USB",
           "option3": null,
           "created_at": "2025-08-26T08:52:12+01:00",
-          "updated_at": "2025-09-10T07:12:47+01:00",
+          "updated_at": "2026-02-12T21:26:28+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -191,8 +191,8 @@
           "weight": 117.0,
           "weight_unit": "g",
           "inventory_item_id": 55213655589195,
-          "inventory_quantity": 12374,
-          "old_inventory_quantity": 12374,
+          "inventory_quantity": 12381,
+          "old_inventory_quantity": 12381,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53251952181579",
           "image_id": 64329959768395
         }
@@ -36851,7 +36851,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-26T08:21:25+01:00",
       "handle": "purityzx-3d-light-shading-sleep-eye-mask-contoured-comfort-full-light-blocking-for-relaxation-and-rest",
-      "updated_at": "2026-01-30T14:34:57+00:00",
+      "updated_at": "2026-02-12T21:26:27+00:00",
       "published_at": "2025-08-26T08:21:42+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -36955,7 +36955,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T08:21:39+01:00",
-          "updated_at": "2025-09-15T08:27:35+01:00",
+          "updated_at": "2026-02-12T21:26:28+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -36966,8 +36966,8 @@
           "weight": 100.0,
           "weight_unit": "g",
           "inventory_item_id": 55213467205963,
-          "inventory_quantity": 91,
-          "old_inventory_quantity": 91,
+          "inventory_quantity": 90,
+          "old_inventory_quantity": 90,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53251763798347",
           "image_id": 64329604268363
         }
@@ -40782,8 +40782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092239179",
       "variants": [
         {
-          "id": 55945800941899,
           "product_id": 15374092239179,
+          "id": 55945800941899,
           "title": "30pcs",
           "price": "22.95",
           "position": 1,
@@ -40810,8 +40810,8 @@
           "image_id": 79156425261387
         },
         {
-          "id": 55945800974667,
           "product_id": 15374092239179,
+          "id": 55945800974667,
           "title": "90pcs",
           "price": "24.95",
           "position": 2,
@@ -40838,8 +40838,8 @@
           "image_id": 79156425294155
         },
         {
-          "id": 55945801007435,
           "product_id": 15374092239179,
+          "id": 55945801007435,
           "title": "150pcs",
           "price": "26.95",
           "position": 3,
@@ -40868,8 +40868,8 @@
       ],
       "options": [
         {
-          "id": 17811413860683,
           "product_id": 15374092239179,
+          "id": 17811413860683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -47152,8 +47152,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051832651",
       "variants": [
         {
-          "id": 53256607826251,
           "product_id": 10825051832651,
+          "id": 53256607826251,
           "title": "white",
           "price": "30.64",
           "position": 1,
@@ -47180,8 +47180,8 @@
           "image_id": 64365268697419
         },
         {
-          "id": 53256607859019,
           "product_id": 10825051832651,
+          "id": 53256607859019,
           "title": "gules",
           "price": "30.64",
           "position": 2,
@@ -47208,8 +47208,8 @@
           "image_id": 64365268730187
         },
         {
-          "id": 53256607891787,
           "product_id": 10825051832651,
+          "id": 53256607891787,
           "title": "Light green",
           "price": "30.64",
           "position": 3,
@@ -47236,8 +47236,8 @@
           "image_id": 64365268762955
         },
         {
-          "id": 53256607924555,
           "product_id": 10825051832651,
+          "id": 53256607924555,
           "title": "black",
           "price": "30.64",
           "position": 4,
@@ -47264,8 +47264,8 @@
           "image_id": 64365268795723
         },
         {
-          "id": 53256607957323,
           "product_id": 10825051832651,
+          "id": 53256607957323,
           "title": "Blackish green",
           "price": "30.64",
           "position": 5,
@@ -47292,8 +47292,8 @@
           "image_id": 64365268828491
         },
         {
-          "id": 53256607990091,
           "product_id": 10825051832651,
+          "id": 53256607990091,
           "title": "Blue color",
           "price": "30.64",
           "position": 6,
@@ -47320,8 +47320,8 @@
           "image_id": 64365268861259
         },
         {
-          "id": 53256608022859,
           "product_id": 10825051832651,
+          "id": 53256608022859,
           "title": "Watermelon Red",
           "price": "30.64",
           "position": 7,
@@ -47348,8 +47348,8 @@
           "image_id": 64365268894027
         },
         {
-          "id": 53256608055627,
           "product_id": 10825051832651,
+          "id": 53256608055627,
           "title": "Beige",
           "price": "30.64",
           "position": 8,
@@ -47376,8 +47376,8 @@
           "image_id": 64365268926795
         },
         {
-          "id": 53256608088395,
           "product_id": 10825051832651,
+          "id": 53256608088395,
           "title": "Pink",
           "price": "30.64",
           "position": 9,
@@ -47404,8 +47404,8 @@
           "image_id": 64365268959563
         },
         {
-          "id": 53256608121163,
           "product_id": 10825051832651,
+          "id": 53256608121163,
           "title": "Red",
           "price": "30.64",
           "position": 10,
@@ -47432,8 +47432,8 @@
           "image_id": 64365268992331
         },
         {
-          "id": 53256608153931,
           "product_id": 10825051832651,
+          "id": 53256608153931,
           "title": "Wathet",
           "price": "30.64",
           "position": 11,
@@ -47460,8 +47460,8 @@
           "image_id": 64365269025099
         },
         {
-          "id": 53256608186699,
           "product_id": 10825051832651,
+          "id": 53256608186699,
           "title": "Golden",
           "price": "30.64",
           "position": 12,
@@ -47488,8 +47488,8 @@
           "image_id": 64365269057867
         },
         {
-          "id": 53256608219467,
           "product_id": 10825051832651,
+          "id": 53256608219467,
           "title": "Lilac colour",
           "price": "30.64",
           "position": 13,
@@ -47516,8 +47516,8 @@
           "image_id": 64365269090635
         },
         {
-          "id": 53256608252235,
           "product_id": 10825051832651,
+          "id": 53256608252235,
           "title": "gray",
           "price": "30.64",
           "position": 14,
@@ -47544,8 +47544,8 @@
           "image_id": 64365269123403
         },
         {
-          "id": 53256608285003,
           "product_id": 10825051832651,
+          "id": 53256608285003,
           "title": "Royal Blue",
           "price": "30.64",
           "position": 15,
@@ -47572,8 +47572,8 @@
           "image_id": 64365269156171
         },
         {
-          "id": 53256608317771,
           "product_id": 10825051832651,
+          "id": 53256608317771,
           "title": "Deep purple",
           "price": "30.64",
           "position": 16,
@@ -47602,8 +47602,8 @@
       ],
       "options": [
         {
-          "id": 13450928030027,
           "product_id": 10825051832651,
+          "id": 13450928030027,
           "name": "format",
           "position": 1,
           "values": [
