@@ -2626,8 +2626,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776064639307",
       "variants": [
         {
-          "id": 53331219022155,
           "product_id": 14776064639307,
+          "id": 53331219022155,
           "title": "Marshmallow / One square meter",
           "price": "95.63",
           "position": 1,
@@ -2654,8 +2654,8 @@
           "image_id": 64660613366091
         },
         {
-          "id": 53331219054923,
           "product_id": 14776064639307,
+          "id": 53331219054923,
           "title": "Sweet apricot / One square meter",
           "price": "95.63",
           "position": 2,
@@ -2682,8 +2682,8 @@
           "image_id": 64660613398859
         },
         {
-          "id": 53331219087691,
           "product_id": 14776064639307,
+          "id": 53331219087691,
           "title": "Lemon green / One square meter",
           "price": "95.63",
           "position": 3,
@@ -2710,8 +2710,8 @@
           "image_id": 64660613431627
         },
         {
-          "id": 53331219120459,
           "product_id": 14776064639307,
+          "id": 53331219120459,
           "title": "Champagne Gray / One square meter",
           "price": "95.63",
           "position": 4,
@@ -2738,8 +2738,8 @@
           "image_id": 64660613464395
         },
         {
-          "id": 53331219153227,
           "product_id": 14776064639307,
+          "id": 53331219153227,
           "title": "Glacier gray / One square meter",
           "price": "95.63",
           "position": 5,
@@ -2766,8 +2766,8 @@
           "image_id": 64660613497163
         },
         {
-          "id": 53331219185995,
           "product_id": 14776064639307,
+          "id": 53331219185995,
           "title": "Blue / One square meter",
           "price": "95.63",
           "position": 6,
@@ -2794,8 +2794,8 @@
           "image_id": 64660613529931
         },
         {
-          "id": 53331219218763,
           "product_id": 14776064639307,
+          "id": 53331219218763,
           "title": "Cantaloupe color / One square meter",
           "price": "95.63",
           "position": 7,
@@ -2822,8 +2822,8 @@
           "image_id": 64660613562699
         },
         {
-          "id": 53331219251531,
           "product_id": 14776064639307,
+          "id": 53331219251531,
           "title": "Matcha / One square meter",
           "price": "95.63",
           "position": 8,
@@ -2850,8 +2850,8 @@
           "image_id": 64660613595467
         },
         {
-          "id": 53331219284299,
           "product_id": 14776064639307,
+          "id": 53331219284299,
           "title": "Ice coffee / One square meter",
           "price": "95.63",
           "position": 9,
@@ -2878,8 +2878,8 @@
           "image_id": 64660613628235
         },
         {
-          "id": 53331219317067,
           "product_id": 14776064639307,
+          "id": 53331219317067,
           "title": "Chocolate color / One square meter",
           "price": "95.63",
           "position": 10,
@@ -2906,8 +2906,8 @@
           "image_id": 64660613661003
         },
         {
-          "id": 53331219349835,
           "product_id": 14776064639307,
+          "id": 53331219349835,
           "title": "Black / One square meter",
           "price": "95.63",
           "position": 11,
@@ -2934,8 +2934,8 @@
           "image_id": 64660613693771
         },
         {
-          "id": 53331219382603,
           "product_id": 14776064639307,
+          "id": 53331219382603,
           "title": "White / One square meter",
           "price": "95.63",
           "position": 12,
@@ -2964,8 +2964,8 @@
       ],
       "options": [
         {
-          "id": 17121542013259,
           "product_id": 14776064639307,
+          "id": 17121542013259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2984,8 +2984,8 @@
           ]
         },
         {
-          "id": 17121542046027,
           "product_id": 14776064639307,
+          "id": 17121542046027,
           "name": "Size",
           "position": 2,
           "values": [
@@ -15415,8 +15415,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "id": 53256901624139,
           "product_id": 10825100362059,
+          "id": 53256901624139,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -15443,8 +15443,8 @@
           "image_id": 64365766771019
         },
         {
-          "id": 53256901656907,
           "product_id": 10825100362059,
+          "id": 53256901656907,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -15471,8 +15471,8 @@
           "image_id": 64365766771019
         },
         {
-          "id": 53256901689675,
           "product_id": 10825100362059,
+          "id": 53256901689675,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -15501,8 +15501,8 @@
       ],
       "options": [
         {
-          "id": 13451000676683,
           "product_id": 10825100362059,
+          "id": 13451000676683,
           "name": "Color",
           "position": 1,
           "values": [
@@ -67170,8 +67170,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "product_id": 10825079849291,
           "id": 53256801747275,
+          "product_id": 10825079849291,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -67200,8 +67200,8 @@
       ],
       "options": [
         {
-          "product_id": 10825079849291,
           "id": 13450967384395,
+          "product_id": 10825079849291,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -67209,8 +67209,8 @@
           ]
         },
         {
-          "product_id": 10825079849291,
           "id": 13450967417163,
+          "product_id": 10825079849291,
           "name": "Light Color",
           "position": 2,
           "values": [
@@ -98785,8 +98785,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823935689035",
       "variants": [
         {
-          "product_id": 10823935689035,
           "id": 53253571477835,
+          "product_id": 10823935689035,
           "title": "White",
           "price": "42.49",
           "position": 1,
@@ -98815,8 +98815,8 @@
       ],
       "options": [
         {
-          "product_id": 10823935689035,
           "id": 13449702670667,
+          "product_id": 10823935689035,
           "name": "Color",
           "position": 1,
           "values": [
