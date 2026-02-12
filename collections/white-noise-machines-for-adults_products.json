@@ -303,8 +303,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085059403",
       "variants": [
         {
-          "id": 53256833597771,
           "product_id": 10825085059403,
+          "id": 53256833597771,
           "title": "White / Bluetooth / USB",
           "price": "477.85",
           "position": 1,
@@ -333,8 +333,8 @@
       ],
       "options": [
         {
-          "id": 13450974953803,
           "product_id": 10825085059403,
+          "id": 13450974953803,
           "name": "Color",
           "position": 1,
           "values": [
@@ -342,8 +342,8 @@
           ]
         },
         {
-          "id": 13450974986571,
           "product_id": 10825085059403,
+          "id": 13450974986571,
           "name": "style",
           "position": 2,
           "values": [
@@ -351,8 +351,8 @@
           ]
         },
         {
-          "id": 13450975019339,
           "product_id": 10825085059403,
+          "id": 13450975019339,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -621,8 +621,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825094627659",
       "variants": [
         {
-          "id": 53256888811851,
           "product_id": 10825094627659,
+          "id": 53256888811851,
           "title": "As shown / USB",
           "price": "995.21",
           "position": 1,
@@ -651,8 +651,8 @@
       ],
       "options": [
         {
-          "id": 13450991403339,
           "product_id": 10825094627659,
+          "id": 13450991403339,
           "name": "Color",
           "position": 1,
           "values": [
@@ -660,8 +660,8 @@
           ]
         },
         {
-          "id": 13450991436107,
           "product_id": 10825094627659,
+          "id": 13450991436107,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

@@ -1405,8 +1405,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054191947",
       "variants": [
         {
-          "id": 53256619884875,
           "product_id": 10825054191947,
+          "id": 53256619884875,
           "title": "Black 3D",
           "price": "40.86",
           "position": 1,
@@ -1433,8 +1433,8 @@
           "image_id": 64365299663179
         },
         {
-          "id": 53256619917643,
           "product_id": 10825054191947,
+          "id": 53256619917643,
           "title": "Black",
           "price": "41.60",
           "position": 2,
@@ -1463,8 +1463,8 @@
       ],
       "options": [
         {
-          "id": 13450930684235,
           "product_id": 10825054191947,
+          "id": 13450930684235,
           "name": "Color",
           "position": 1,
           "values": [
