@@ -1415,8 +1415,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108717899",
       "variants": [
         {
-          "product_id": 10825108717899,
           "id": 53256917320011,
+          "product_id": 10825108717899,
           "title": "S162 White English Packaging",
           "price": "138.93",
           "position": 1,
@@ -1445,8 +1445,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108717899,
           "id": 13451010867531,
+          "product_id": 10825108717899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3229,8 +3229,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108586827",
       "variants": [
         {
-          "id": 53256916664651,
           "product_id": 10825108586827,
+          "id": 53256916664651,
           "title": "White / Saturn Projection",
           "price": "482.61",
           "position": 1,
@@ -3257,8 +3257,8 @@
           "image_id": 64365839581515
         },
         {
-          "id": 53256916697419,
           "product_id": 10825108586827,
+          "id": 53256916697419,
           "title": "White / Saturn Earth Color Vortex",
           "price": "537.81",
           "position": 2,
@@ -3285,8 +3285,8 @@
           "image_id": 64365839581515
         },
         {
-          "id": 53256916730187,
           "product_id": 10825108586827,
+          "id": 53256916730187,
           "title": "White / Saturn Moon Earth Color Vortex",
           "price": "593.34",
           "position": 3,
@@ -3315,8 +3315,8 @@
       ],
       "options": [
         {
-          "id": 13451010670923,
           "product_id": 10825108586827,
+          "id": 13451010670923,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3324,8 +3324,8 @@
           ]
         },
         {
-          "id": 13451010703691,
           "product_id": 10825108586827,
+          "id": 13451010703691,
           "name": "Style",
           "position": 2,
           "values": [
@@ -9926,8 +9926,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825094627659",
       "variants": [
         {
-          "product_id": 10825094627659,
           "id": 53256888811851,
+          "product_id": 10825094627659,
           "title": "As shown / USB",
           "price": "995.21",
           "position": 1,
@@ -9956,8 +9956,8 @@
       ],
       "options": [
         {
-          "product_id": 10825094627659,
           "id": 13450991403339,
+          "product_id": 10825094627659,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9965,8 +9965,8 @@
           ]
         },
         {
-          "product_id": 10825094627659,
           "id": 13450991436107,
+          "product_id": 10825094627659,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -11908,8 +11908,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -11936,8 +11936,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -11964,8 +11964,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -11992,8 +11992,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -12022,8 +12022,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12034,8 +12034,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -18946,8 +18946,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -18976,8 +18976,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -18985,8 +18985,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [
