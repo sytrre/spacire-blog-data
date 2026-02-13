@@ -8324,8 +8324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14776189583691",
       "variants": [
         {
-          "product_id": 14776189583691,
           "id": 53331896009035,
+          "product_id": 14776189583691,
           "title": "Curtain / 31",
           "price": "32.43",
           "position": 1,
@@ -8352,8 +8352,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896041803,
+          "product_id": 14776189583691,
           "title": "Curtain / 30",
           "price": "32.43",
           "position": 2,
@@ -8380,8 +8380,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896074571,
+          "product_id": 14776189583691,
           "title": "Curtain / 34",
           "price": "32.43",
           "position": 3,
@@ -8408,8 +8408,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896107339,
+          "product_id": 14776189583691,
           "title": "Curtain / 25",
           "price": "32.43",
           "position": 4,
@@ -8436,8 +8436,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896140107,
+          "product_id": 14776189583691,
           "title": "Curtain / 23",
           "price": "32.43",
           "position": 5,
@@ -8464,8 +8464,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896172875,
+          "product_id": 14776189583691,
           "title": "Curtain / 24",
           "price": "32.43",
           "position": 6,
@@ -8492,8 +8492,8 @@
           "image_id": null
         },
         {
-          "product_id": 14776189583691,
           "id": 53331896205643,
+          "product_id": 14776189583691,
           "title": "Curtain / 26",
           "price": "32.43",
           "position": 7,
@@ -8522,8 +8522,8 @@
       ],
       "options": [
         {
-          "product_id": 14776189583691,
           "id": 17121696710987,
+          "product_id": 14776189583691,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8531,8 +8531,8 @@
           ]
         },
         {
-          "product_id": 14776189583691,
           "id": 17121696743755,
+          "product_id": 14776189583691,
           "name": "Style",
           "position": 2,
           "values": [
@@ -9691,8 +9691,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063792971",
       "variants": [
         {
-          "id": 53256675983691,
           "product_id": 10825063792971,
+          "id": 53256675983691,
           "title": "Cortical eye mask",
           "price": "35.14",
           "position": 1,
@@ -9721,8 +9721,8 @@
       ],
       "options": [
         {
-          "id": 13450944446795,
           "product_id": 10825063792971,
+          "id": 13450944446795,
           "name": "style",
           "position": 1,
           "values": [
@@ -40782,8 +40782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092239179",
       "variants": [
         {
-          "product_id": 15374092239179,
           "id": 55945800941899,
+          "product_id": 15374092239179,
           "title": "30pcs",
           "price": "22.95",
           "position": 1,
@@ -40810,8 +40810,8 @@
           "image_id": 79156425261387
         },
         {
-          "product_id": 15374092239179,
           "id": 55945800974667,
+          "product_id": 15374092239179,
           "title": "90pcs",
           "price": "24.95",
           "position": 2,
@@ -40838,8 +40838,8 @@
           "image_id": 79156425294155
         },
         {
-          "product_id": 15374092239179,
           "id": 55945801007435,
+          "product_id": 15374092239179,
           "title": "150pcs",
           "price": "26.95",
           "position": 3,
@@ -40868,8 +40868,8 @@
       ],
       "options": [
         {
-          "product_id": 15374092239179,
           "id": 17811413860683,
+          "product_id": 15374092239179,
           "name": "Color",
           "position": 1,
           "values": [

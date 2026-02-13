@@ -4367,8 +4367,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743766859",
       "variants": [
         {
-          "product_id": 10823743766859,
           "id": 53252383277387,
+          "product_id": 10823743766859,
           "title": "White",
           "price": "35.49",
           "position": 1,
@@ -4397,8 +4397,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743766859,
           "id": 13449444819275,
+          "product_id": 10823743766859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5445,8 +5445,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085059403",
       "variants": [
         {
-          "product_id": 10825085059403,
           "id": 53256833597771,
+          "product_id": 10825085059403,
           "title": "White / Bluetooth / USB",
           "price": "477.85",
           "position": 1,
@@ -5475,8 +5475,8 @@
       ],
       "options": [
         {
-          "product_id": 10825085059403,
           "id": 13450974953803,
+          "product_id": 10825085059403,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5484,8 +5484,8 @@
           ]
         },
         {
-          "product_id": 10825085059403,
           "id": 13450974986571,
+          "product_id": 10825085059403,
           "name": "style",
           "position": 2,
           "values": [
@@ -5493,8 +5493,8 @@
           ]
         },
         {
-          "product_id": 10825085059403,
           "id": 13450975019339,
+          "product_id": 10825085059403,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -6503,8 +6503,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "id": 53256886354251,
           "product_id": 10825092628811,
+          "id": 53256886354251,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -6533,8 +6533,8 @@
       ],
       "options": [
         {
-          "id": 13450987635019,
           "product_id": 10825092628811,
+          "id": 13450987635019,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6542,8 +6542,8 @@
           ]
         },
         {
-          "id": 13450987667787,
           "product_id": 10825092628811,
+          "id": 13450987667787,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -21380,8 +21380,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108652363",
       "variants": [
         {
-          "id": 53256916926795,
           "product_id": 10825108652363,
+          "id": 53256916926795,
           "title": "SM06 Black",
           "price": "195.99",
           "position": 1,
@@ -21408,8 +21408,8 @@
           "image_id": 64365840630091
         },
         {
-          "id": 53256916959563,
           "product_id": 10825108652363,
+          "id": 53256916959563,
           "title": "SM06 White",
           "price": "195.99",
           "position": 2,
@@ -21438,8 +21438,8 @@
       ],
       "options": [
         {
-          "id": 13451010769227,
           "product_id": 10825108652363,
+          "id": 13451010769227,
           "name": "Color",
           "position": 1,
           "values": [
