@@ -680,8 +680,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961851723",
       "variants": [
         {
-          "id": 53256232403275,
           "product_id": 10824961851723,
+          "id": 53256232403275,
           "title": "60ML",
           "price": "23.66",
           "position": 1,
@@ -708,8 +708,8 @@
           "image_id": 64364296470859
         },
         {
-          "id": 53256232436043,
           "product_id": 10824961851723,
+          "id": 53256232436043,
           "title": "2pcs",
           "price": "24.82",
           "position": 2,
@@ -738,8 +738,8 @@
       ],
       "options": [
         {
-          "id": 13450822615371,
           "product_id": 10824961851723,
+          "id": 13450822615371,
           "name": "Net Content",
           "position": 1,
           "values": [
