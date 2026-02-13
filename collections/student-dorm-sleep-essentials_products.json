@@ -6968,8 +6968,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825026765131",
       "variants": [
         {
-          "id": 53256522957131,
           "product_id": 10825026765131,
+          "id": 53256522957131,
           "title": "USB Pink",
           "price": "33.72",
           "position": 1,
@@ -6996,8 +6996,8 @@
           "image_id": 64364958122315
         },
         {
-          "id": 53256522989899,
           "product_id": 10825026765131,
+          "id": 53256522989899,
           "title": "Usb Black",
           "price": "33.72",
           "position": 2,
@@ -7024,8 +7024,8 @@
           "image_id": 64364958155083
         },
         {
-          "id": 53256523022667,
           "product_id": 10825026765131,
+          "id": 53256523022667,
           "title": "USB Navy Blue",
           "price": "33.72",
           "position": 3,
@@ -7052,8 +7052,8 @@
           "image_id": 64364958187851
         },
         {
-          "id": 53256523055435,
           "product_id": 10825026765131,
+          "id": 53256523055435,
           "title": "USB Gray",
           "price": "33.72",
           "position": 4,
@@ -7080,8 +7080,8 @@
           "image_id": 64364958220619
         },
         {
-          "id": 53256523088203,
           "product_id": 10825026765131,
+          "id": 53256523088203,
           "title": "USB Peacock Blue",
           "price": "33.72",
           "position": 5,
@@ -7108,8 +7108,8 @@
           "image_id": 64364958253387
         },
         {
-          "id": 53256523120971,
           "product_id": 10825026765131,
+          "id": 53256523120971,
           "title": "Lithium Battery Pink",
           "price": "40.78",
           "position": 6,
@@ -7136,8 +7136,8 @@
           "image_id": 64364958286155
         },
         {
-          "id": 53256523153739,
           "product_id": 10825026765131,
+          "id": 53256523153739,
           "title": "Lithium Battery Navy Blue",
           "price": "40.78",
           "position": 7,
@@ -7164,8 +7164,8 @@
           "image_id": 64364958318923
         },
         {
-          "id": 53256523186507,
           "product_id": 10825026765131,
+          "id": 53256523186507,
           "title": "Lithium Battery Black",
           "price": "40.78",
           "position": 8,
@@ -7192,8 +7192,8 @@
           "image_id": 64364958351691
         },
         {
-          "id": 53256523219275,
           "product_id": 10825026765131,
+          "id": 53256523219275,
           "title": "Lithium Gray",
           "price": "40.78",
           "position": 9,
@@ -7222,8 +7222,8 @@
       ],
       "options": [
         {
-          "id": 13450896998731,
           "product_id": 10825026765131,
+          "id": 13450896998731,
           "name": "format",
           "position": 1,
           "values": [
@@ -23816,8 +23816,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825054191947",
       "variants": [
         {
-          "product_id": 10825054191947,
           "id": 53256619884875,
+          "product_id": 10825054191947,
           "title": "Black 3D",
           "price": "40.86",
           "position": 1,
@@ -23844,8 +23844,8 @@
           "image_id": 64365299663179
         },
         {
-          "product_id": 10825054191947,
           "id": 53256619917643,
+          "product_id": 10825054191947,
           "title": "Black",
           "price": "41.60",
           "position": 2,
@@ -23874,8 +23874,8 @@
       ],
       "options": [
         {
-          "product_id": 10825054191947,
           "id": 13450930684235,
+          "product_id": 10825054191947,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63661,7 +63661,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-02-12T09:30:20+00:00",
+      "updated_at": "2026-02-13T10:29:03+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -63681,7 +63681,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-02-12T09:30:20+00:00",
+          "updated_at": "2026-02-13T10:29:04+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -63692,8 +63692,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40627,
-          "old_inventory_quantity": 40627,
+          "inventory_quantity": 40625,
+          "old_inventory_quantity": 40625,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
