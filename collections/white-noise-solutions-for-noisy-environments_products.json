@@ -12982,8 +12982,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100624203",
       "variants": [
         {
-          "product_id": 10825100624203,
           "id": 53256902050123,
+          "product_id": 10825100624203,
           "title": "White",
           "price": "440.38",
           "position": 1,
@@ -13012,8 +13012,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100624203,
           "id": 13451000938827,
+          "product_id": 10825100624203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16133,8 +16133,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825081225547",
       "variants": [
         {
-          "product_id": 10825081225547,
           "id": 53256806072651,
+          "product_id": 10825081225547,
           "title": "White 311 Intelligent Style",
           "price": "579.32",
           "position": 1,
@@ -16161,8 +16161,8 @@
           "image_id": 64365605192011
         },
         {
-          "product_id": 10825081225547,
           "id": 53256806105419,
+          "product_id": 10825081225547,
           "title": "White 081 Colorful Light",
           "price": "257.50",
           "position": 2,
@@ -16191,8 +16191,8 @@
       ],
       "options": [
         {
-          "product_id": 10825081225547,
           "id": 13450969317707,
+          "product_id": 10825081225547,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16316,8 +16316,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823679672651",
       "variants": [
         {
-          "product_id": 10823679672651,
           "id": 53252013261131,
+          "product_id": 10823679672651,
           "title": "default",
           "price": "35.99",
           "position": 1,
@@ -16346,8 +16346,8 @@
       ],
       "options": [
         {
-          "product_id": 10823679672651,
           "id": 13449325085003,
+          "product_id": 10823679672651,
           "name": "default",
           "position": 1,
           "values": [
@@ -17782,8 +17782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823718011211",
       "variants": [
         {
-          "product_id": 10823718011211,
           "id": 53252200071499,
+          "product_id": 10823718011211,
           "title": "White / USB",
           "price": "109.49",
           "position": 1,
@@ -17812,8 +17812,8 @@
       ],
       "options": [
         {
-          "product_id": 10823718011211,
           "id": 13449389080907,
+          "product_id": 10823718011211,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17821,8 +17821,8 @@
           ]
         },
         {
-          "product_id": 10823718011211,
           "id": 13449389113675,
+          "product_id": 10823718011211,
           "name": "Power source",
           "position": 2,
           "values": [
@@ -19272,8 +19272,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898857803",
       "variants": [
         {
-          "product_id": 10823898857803,
           "id": 53253435359563,
+          "product_id": 10823898857803,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -19302,8 +19302,8 @@
       ],
       "options": [
         {
-          "product_id": 10823898857803,
           "id": 13449660137803,
+          "product_id": 10823898857803,
           "name": "Color",
           "position": 1,
           "values": [
