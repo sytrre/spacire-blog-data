@@ -17654,8 +17654,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047998795",
       "variants": [
         {
-          "id": 53256594129227,
           "product_id": 10825047998795,
+          "id": 53256594129227,
           "title": "Black and white panda",
           "price": "30.99",
           "position": 1,
@@ -17682,8 +17682,8 @@
           "image_id": 64365228917067
         },
         {
-          "id": 53256594161995,
           "product_id": 10825047998795,
+          "id": 53256594161995,
           "title": "Grey crown bear",
           "price": "30.99",
           "position": 2,
@@ -17710,8 +17710,8 @@
           "image_id": 64365228949835
         },
         {
-          "id": 53256594194763,
           "product_id": 10825047998795,
+          "id": 53256594194763,
           "title": "Pink mouse",
           "price": "30.99",
           "position": 3,
@@ -17740,8 +17740,8 @@
       ],
       "options": [
         {
-          "id": 13450923868491,
           "product_id": 10825047998795,
+          "id": 13450923868491,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60487,8 +60487,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056977227",
       "variants": [
         {
-          "id": 53256634663243,
           "product_id": 10825056977227,
+          "id": 53256634663243,
           "title": "Black / USB",
           "price": "34.60",
           "position": 1,
@@ -60515,8 +60515,8 @@
           "image_id": 64365339377995
         },
         {
-          "id": 53256634696011,
           "product_id": 10825056977227,
+          "id": 53256634696011,
           "title": "Business gray / USB",
           "price": "34.60",
           "position": 2,
@@ -60543,8 +60543,8 @@
           "image_id": 64365339410763
         },
         {
-          "id": 53256634728779,
           "product_id": 10825056977227,
+          "id": 53256634728779,
           "title": "Champagne / USB",
           "price": "34.60",
           "position": 3,
@@ -60571,8 +60571,8 @@
           "image_id": 64365339443531
         },
         {
-          "id": 53256634761547,
           "product_id": 10825056977227,
+          "id": 53256634761547,
           "title": "Dark green / USB",
           "price": "34.60",
           "position": 4,
@@ -60599,8 +60599,8 @@
           "image_id": 64365339476299
         },
         {
-          "id": 53256634794315,
           "product_id": 10825056977227,
+          "id": 53256634794315,
           "title": "Fresh green / USB",
           "price": "34.60",
           "position": 5,
@@ -60627,8 +60627,8 @@
           "image_id": 64365339509067
         },
         {
-          "id": 53256634827083,
           "product_id": 10825056977227,
+          "id": 53256634827083,
           "title": "Gold / USB",
           "price": "34.60",
           "position": 6,
@@ -60655,8 +60655,8 @@
           "image_id": 64365339541835
         },
         {
-          "id": 53256634859851,
           "product_id": 10825056977227,
+          "id": 53256634859851,
           "title": "Navy Blue / USB",
           "price": "34.60",
           "position": 7,
@@ -60683,8 +60683,8 @@
           "image_id": 64365339574603
         },
         {
-          "id": 53256634892619,
           "product_id": 10825056977227,
+          "id": 53256634892619,
           "title": "Net red and green / USB",
           "price": "34.60",
           "position": 8,
@@ -60711,8 +60711,8 @@
           "image_id": 64365339607371
         },
         {
-          "id": 53256634925387,
           "product_id": 10825056977227,
+          "id": 53256634925387,
           "title": "Silver / USB",
           "price": "34.60",
           "position": 9,
@@ -60741,8 +60741,8 @@
       ],
       "options": [
         {
-          "id": 13450933961035,
           "product_id": 10825056977227,
+          "id": 13450933961035,
           "name": "Color",
           "position": 1,
           "values": [
@@ -60758,8 +60758,8 @@
           ]
         },
         {
-          "id": 13450933993803,
           "product_id": 10825056977227,
+          "id": 13450933993803,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -65329,8 +65329,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "id": 53256673198411,
           "product_id": 10825063203147,
+          "id": 53256673198411,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -65357,8 +65357,8 @@
           "image_id": 64365414646091
         },
         {
-          "id": 53256673231179,
           "product_id": 10825063203147,
+          "id": 53256673231179,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -65387,8 +65387,8 @@
       ],
       "options": [
         {
-          "id": 13450943430987,
           "product_id": 10825063203147,
+          "id": 13450943430987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65397,8 +65397,8 @@
           ]
         },
         {
-          "id": 13450943463755,
           "product_id": 10825063203147,
+          "id": 13450943463755,
           "name": "Specifications",
           "position": 2,
           "values": [
