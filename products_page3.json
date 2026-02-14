@@ -6150,8 +6150,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "id": 53256673198411,
           "product_id": 10825063203147,
+          "id": 53256673198411,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -6178,8 +6178,8 @@
           "image_id": 64365414646091
         },
         {
-          "id": 53256673231179,
           "product_id": 10825063203147,
+          "id": 53256673231179,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -6208,8 +6208,8 @@
       ],
       "options": [
         {
-          "id": 13450943430987,
           "product_id": 10825063203147,
+          "id": 13450943430987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6218,8 +6218,8 @@
           ]
         },
         {
-          "id": 13450943463755,
           "product_id": 10825063203147,
+          "id": 13450943463755,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -8900,8 +8900,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14815189860683",
       "variants": [
         {
-          "id": 53483076878667,
           "product_id": 14815189860683,
+          "id": 53483076878667,
           "title": "Sleep oil",
           "price": "20.95",
           "position": 1,
@@ -8930,8 +8930,8 @@
       ],
       "options": [
         {
-          "id": 17167687975243,
           "product_id": 14815189860683,
+          "id": 17167687975243,
           "name": "style",
           "position": 1,
           "values": [
