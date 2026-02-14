@@ -2523,8 +2523,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825056125259",
       "variants": [
         {
-          "product_id": 10825056125259,
           "id": 53256626012491,
+          "product_id": 10825056125259,
           "title": "Blue / Ordinary",
           "price": "47.76",
           "position": 1,
@@ -2551,8 +2551,8 @@
           "image_id": 64365328204107
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626045259,
+          "product_id": 10825056125259,
           "title": "Blue / Rechargeable",
           "price": "52.25",
           "position": 2,
@@ -2579,8 +2579,8 @@
           "image_id": 64365328236875
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626078027,
+          "product_id": 10825056125259,
           "title": "Navy Blue / Ordinary",
           "price": "47.76",
           "position": 3,
@@ -2607,8 +2607,8 @@
           "image_id": 64365328269643
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626110795,
+          "product_id": 10825056125259,
           "title": "Navy Blue / Rechargeable",
           "price": "52.25",
           "position": 4,
@@ -2635,8 +2635,8 @@
           "image_id": 64365328302411
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626143563,
+          "product_id": 10825056125259,
           "title": "Pink / Ordinary",
           "price": "47.76",
           "position": 5,
@@ -2663,8 +2663,8 @@
           "image_id": 64365328335179
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626176331,
+          "product_id": 10825056125259,
           "title": "Pink / Rechargeable",
           "price": "52.25",
           "position": 6,
@@ -2691,8 +2691,8 @@
           "image_id": 64365328367947
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626209099,
+          "product_id": 10825056125259,
           "title": "Light Green / Ordinary",
           "price": "47.76",
           "position": 7,
@@ -2719,8 +2719,8 @@
           "image_id": 64365328400715
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626241867,
+          "product_id": 10825056125259,
           "title": "Light Green / Rechargeable",
           "price": "52.25",
           "position": 8,
@@ -2747,8 +2747,8 @@
           "image_id": 64365328433483
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626274635,
+          "product_id": 10825056125259,
           "title": "Green / Ordinary",
           "price": "47.76",
           "position": 9,
@@ -2775,8 +2775,8 @@
           "image_id": 64365328466251
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626307403,
+          "product_id": 10825056125259,
           "title": "Green / Rechargeable",
           "price": "52.25",
           "position": 10,
@@ -2803,8 +2803,8 @@
           "image_id": 64365328499019
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626340171,
+          "product_id": 10825056125259,
           "title": "White / Ordinary",
           "price": "47.76",
           "position": 11,
@@ -2831,8 +2831,8 @@
           "image_id": 64365328531787
         },
         {
-          "product_id": 10825056125259,
           "id": 53256626372939,
+          "product_id": 10825056125259,
           "title": "White / Rechargeable",
           "price": "52.25",
           "position": 12,
@@ -2861,8 +2861,8 @@
       ],
       "options": [
         {
-          "product_id": 10825056125259,
           "id": 13450932977995,
+          "product_id": 10825056125259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2875,8 +2875,8 @@
           ]
         },
         {
-          "product_id": 10825056125259,
           "id": 13450933010763,
+          "product_id": 10825056125259,
           "name": "style",
           "position": 2,
           "values": [
@@ -3547,8 +3547,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823908688203",
       "variants": [
         {
-          "id": 53253479989579,
           "product_id": 10823908688203,
+          "id": 53253479989579,
           "title": "Beige grey",
           "price": "29.49",
           "position": 1,
@@ -3575,8 +3575,8 @@
           "image_id": 64334783775051
         },
         {
-          "id": 53253480022347,
           "product_id": 10823908688203,
+          "id": 53253480022347,
           "title": "Black",
           "price": "29.49",
           "position": 2,
@@ -3603,8 +3603,8 @@
           "image_id": 64334783807819
         },
         {
-          "id": 53253480055115,
           "product_id": 10823908688203,
+          "id": 53253480055115,
           "title": "Brown",
           "price": "29.49",
           "position": 3,
@@ -3631,8 +3631,8 @@
           "image_id": 64334783840587
         },
         {
-          "id": 53253480087883,
           "product_id": 10823908688203,
+          "id": 53253480087883,
           "title": "Champagne gold",
           "price": "29.49",
           "position": 4,
@@ -3659,8 +3659,8 @@
           "image_id": 64334783873355
         },
         {
-          "id": 53253480120651,
           "product_id": 10823908688203,
+          "id": 53253480120651,
           "title": "Dark blue",
           "price": "29.49",
           "position": 5,
@@ -3687,8 +3687,8 @@
           "image_id": 64334783906123
         },
         {
-          "id": 53253480153419,
           "product_id": 10823908688203,
+          "id": 53253480153419,
           "title": "Khaki",
           "price": "29.49",
           "position": 6,
@@ -3715,8 +3715,8 @@
           "image_id": 64334783938891
         },
         {
-          "id": 53253480186187,
           "product_id": 10823908688203,
+          "id": 53253480186187,
           "title": "Leather Pink",
           "price": "29.49",
           "position": 7,
@@ -3743,8 +3743,8 @@
           "image_id": 64334783971659
         },
         {
-          "id": 53253480218955,
           "product_id": 10823908688203,
+          "id": 53253480218955,
           "title": "Light pink",
           "price": "29.49",
           "position": 8,
@@ -3771,8 +3771,8 @@
           "image_id": 64334784004427
         },
         {
-          "id": 53253480251723,
           "product_id": 10823908688203,
+          "id": 53253480251723,
           "title": "Navy Blue",
           "price": "29.49",
           "position": 9,
@@ -3799,8 +3799,8 @@
           "image_id": 64334784037195
         },
         {
-          "id": 53253480284491,
           "product_id": 10823908688203,
+          "id": 53253480284491,
           "title": "Rose Red",
           "price": "29.49",
           "position": 10,
@@ -3827,8 +3827,8 @@
           "image_id": 64334784069963
         },
         {
-          "id": 53253480317259,
           "product_id": 10823908688203,
+          "id": 53253480317259,
           "title": "Royal blue",
           "price": "29.49",
           "position": 11,
@@ -3855,8 +3855,8 @@
           "image_id": 64334784102731
         },
         {
-          "id": 53253480350027,
           "product_id": 10823908688203,
+          "id": 53253480350027,
           "title": "Set",
           "price": "29.49",
           "position": 12,
@@ -3883,8 +3883,8 @@
           "image_id": 64334784135499
         },
         {
-          "id": 53253480382795,
           "product_id": 10823908688203,
+          "id": 53253480382795,
           "title": "Silver grey",
           "price": "29.49",
           "position": 13,
@@ -3911,8 +3911,8 @@
           "image_id": 64334784168267
         },
         {
-          "id": 53253480415563,
           "product_id": 10823908688203,
+          "id": 53253480415563,
           "title": "Sky blue",
           "price": "29.49",
           "position": 14,
@@ -3939,8 +3939,8 @@
           "image_id": 64334784201035
         },
         {
-          "id": 53253480448331,
           "product_id": 10823908688203,
+          "id": 53253480448331,
           "title": "Violet",
           "price": "29.49",
           "position": 15,
@@ -3969,8 +3969,8 @@
       ],
       "options": [
         {
-          "id": 13449672327499,
           "product_id": 10823908688203,
+          "id": 13449672327499,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21507,8 +21507,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825031287115",
       "variants": [
         {
-          "id": 53256536719691,
           "product_id": 10825031287115,
+          "id": 53256536719691,
           "title": "Elegant Black",
           "price": "27.47",
           "position": 1,
@@ -21535,8 +21535,8 @@
           "image_id": 64365031424331
         },
         {
-          "id": 53256536752459,
           "product_id": 10825031287115,
+          "id": 53256536752459,
           "title": "Emerald",
           "price": "27.47",
           "position": 2,
@@ -21563,8 +21563,8 @@
           "image_id": 64365031457099
         },
         {
-          "id": 53256536785227,
           "product_id": 10825031287115,
+          "id": 53256536785227,
           "title": "Navy Blue",
           "price": "27.47",
           "position": 3,
@@ -21591,8 +21591,8 @@
           "image_id": 64365031489867
         },
         {
-          "id": 53256536817995,
           "product_id": 10825031287115,
+          "id": 53256536817995,
           "title": "Space Gray",
           "price": "27.47",
           "position": 4,
@@ -21619,8 +21619,8 @@
           "image_id": 64365031522635
         },
         {
-          "id": 53256536850763,
           "product_id": 10825031287115,
+          "id": 53256536850763,
           "title": "Aurora Silver",
           "price": "27.47",
           "position": 5,
@@ -21647,8 +21647,8 @@
           "image_id": 64365031555403
         },
         {
-          "id": 53256536883531,
           "product_id": 10825031287115,
+          "id": 53256536883531,
           "title": "Girl Pink",
           "price": "27.47",
           "position": 6,
@@ -21675,8 +21675,8 @@
           "image_id": 64365031588171
         },
         {
-          "id": 53256536916299,
           "product_id": 10825031287115,
+          "id": 53256536916299,
           "title": "Navy Blue Ice Pack",
           "price": "27.62",
           "position": 7,
@@ -21703,8 +21703,8 @@
           "image_id": 64365031620939
         },
         {
-          "id": 53256536949067,
           "product_id": 10825031287115,
+          "id": 53256536949067,
           "title": "Emerald Ice Pack",
           "price": "27.62",
           "position": 8,
@@ -21731,8 +21731,8 @@
           "image_id": 64365031653707
         },
         {
-          "id": 53256536981835,
           "product_id": 10825031287115,
+          "id": 53256536981835,
           "title": "Space Gray Ice Pack",
           "price": "27.62",
           "position": 9,
@@ -21759,8 +21759,8 @@
           "image_id": 64365031686475
         },
         {
-          "id": 53256537014603,
           "product_id": 10825031287115,
+          "id": 53256537014603,
           "title": "Girl Pink Ice Pack",
           "price": "27.62",
           "position": 10,
@@ -21787,8 +21787,8 @@
           "image_id": 64365031719243
         },
         {
-          "id": 53256537047371,
           "product_id": 10825031287115,
+          "id": 53256537047371,
           "title": "Aurora Silver Ice Pack",
           "price": "27.62",
           "position": 11,
@@ -21817,8 +21817,8 @@
       ],
       "options": [
         {
-          "id": 13450901848395,
           "product_id": 10825031287115,
+          "id": 13450901848395,
           "name": "Specifications",
           "position": 1,
           "values": [
