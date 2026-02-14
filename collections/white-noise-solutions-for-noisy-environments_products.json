@@ -14977,8 +14977,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "product_id": 10825104621899,
           "id": 53256909848907,
+          "product_id": 10825104621899,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -15007,8 +15007,8 @@
       ],
       "options": [
         {
-          "product_id": 10825104621899,
           "id": 13451006443851,
+          "product_id": 10825104621899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16708,8 +16708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "product_id": 10825102721355,
           "id": 53256906441035,
+          "product_id": 10825102721355,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -16736,8 +16736,8 @@
           "image_id": 64365797114187
         },
         {
-          "product_id": 10825102721355,
           "id": 53256906473803,
+          "product_id": 10825102721355,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -16766,8 +16766,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102721355,
           "id": 13451004117323,
+          "product_id": 10825102721355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16776,8 +16776,8 @@
           ]
         },
         {
-          "product_id": 10825102721355,
           "id": 13451004150091,
+          "product_id": 10825102721355,
           "name": "Power Type",
           "position": 2,
           "values": [
@@ -19107,8 +19107,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "product_id": 10823793475915,
           "id": 53252653875531,
+          "product_id": 10823793475915,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19135,8 +19135,8 @@
           "image_id": 64332469698891
         },
         {
-          "product_id": 10823793475915,
           "id": 53252653908299,
+          "product_id": 10823793475915,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19165,8 +19165,8 @@
       ],
       "options": [
         {
-          "product_id": 10823793475915,
           "id": 13449523069259,
+          "product_id": 10823793475915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19174,8 +19174,8 @@
           ]
         },
         {
-          "product_id": 10823793475915,
           "id": 13449523102027,
+          "product_id": 10823793475915,
           "name": "Specifications",
           "position": 2,
           "values": [
