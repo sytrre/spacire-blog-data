@@ -272,8 +272,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824962277707",
       "variants": [
         {
-          "product_id": 10824962277707,
           "id": 53256233255243,
+          "product_id": 10824962277707,
           "title": "20ml",
           "price": "20.81",
           "position": 1,
@@ -302,8 +302,8 @@
       ],
       "options": [
         {
-          "product_id": 10824962277707,
           "id": 13450823041355,
+          "product_id": 10824962277707,
           "name": "Product Specifications",
           "position": 1,
           "values": [
