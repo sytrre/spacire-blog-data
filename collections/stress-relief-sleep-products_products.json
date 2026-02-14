@@ -39567,8 +39567,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063792971",
       "variants": [
         {
-          "product_id": 10825063792971,
           "id": 53256675983691,
+          "product_id": 10825063792971,
           "title": "Cortical eye mask",
           "price": "35.14",
           "position": 1,
@@ -39597,8 +39597,8 @@
       ],
       "options": [
         {
-          "product_id": 10825063792971,
           "id": 13450944446795,
+          "product_id": 10825063792971,
           "name": "style",
           "position": 1,
           "values": [
@@ -66675,8 +66675,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158984011",
       "variants": [
         {
-          "product_id": 10825158984011,
           "id": 53257349661003,
+          "product_id": 10825158984011,
           "title": "30 PATCHES",
           "price": "33.57",
           "position": 1,
@@ -66705,8 +66705,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158984011,
           "id": 13451086233931,
+          "product_id": 10825158984011,
           "name": "quantity",
           "position": 1,
           "values": [
