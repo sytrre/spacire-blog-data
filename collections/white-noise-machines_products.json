@@ -19641,8 +19641,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100722507",
       "variants": [
         {
-          "product_id": 10825100722507,
           "id": 53256902541643,
+          "product_id": 10825100722507,
           "title": "K1 Orange / usb",
           "price": "458.89",
           "position": 1,
@@ -19671,8 +19671,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100722507,
           "id": 13451001069899,
+          "product_id": 10825100722507,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19680,8 +19680,8 @@
           ]
         },
         {
-          "product_id": 10825100722507,
           "id": 13451001102667,
+          "product_id": 10825100722507,
           "name": "default",
           "position": 2,
           "values": [
