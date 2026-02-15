@@ -43868,8 +43868,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045475659",
       "variants": [
         {
-          "id": 53256581611851,
           "product_id": 10825045475659,
+          "id": 53256581611851,
           "title": "Long without elastic",
           "price": "32.58",
           "position": 1,
@@ -43898,8 +43898,8 @@
       ],
       "options": [
         {
-          "id": 13450921214283,
           "product_id": 10825045475659,
+          "id": 13450921214283,
           "name": "style",
           "position": 1,
           "values": [
@@ -59621,8 +59621,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "product_id": 10825063203147,
           "id": 53256673198411,
+          "product_id": 10825063203147,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -59649,8 +59649,8 @@
           "image_id": 64365414646091
         },
         {
-          "product_id": 10825063203147,
           "id": 53256673231179,
+          "product_id": 10825063203147,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -59679,8 +59679,8 @@
       ],
       "options": [
         {
-          "product_id": 10825063203147,
           "id": 13450943430987,
+          "product_id": 10825063203147,
           "name": "Color",
           "position": 1,
           "values": [
@@ -59689,8 +59689,8 @@
           ]
         },
         {
-          "product_id": 10825063203147,
           "id": 13450943463755,
+          "product_id": 10825063203147,
           "name": "Specifications",
           "position": 2,
           "values": [
