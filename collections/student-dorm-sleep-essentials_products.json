@@ -47810,8 +47810,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045475659",
       "variants": [
         {
-          "product_id": 10825045475659,
           "id": 53256581611851,
+          "product_id": 10825045475659,
           "title": "Long without elastic",
           "price": "32.58",
           "position": 1,
@@ -47840,8 +47840,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045475659,
           "id": 13450921214283,
+          "product_id": 10825045475659,
           "name": "style",
           "position": 1,
           "values": [
@@ -55722,8 +55722,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825066250571",
       "variants": [
         {
-          "id": 53256709407051,
           "product_id": 10825066250571,
+          "id": 53256709407051,
           "title": "Peacock blue",
           "price": "33.79",
           "position": 1,
@@ -55750,8 +55750,8 @@
           "image_id": 64365450264907
         },
         {
-          "id": 53256709439819,
           "product_id": 10825066250571,
+          "id": 53256709439819,
           "title": "Zhangqing",
           "price": "33.79",
           "position": 2,
@@ -55778,8 +55778,8 @@
           "image_id": 64365450297675
         },
         {
-          "id": 53256709472587,
           "product_id": 10825066250571,
+          "id": 53256709472587,
           "title": "Black",
           "price": "33.79",
           "position": 3,
@@ -55806,8 +55806,8 @@
           "image_id": 64365450330443
         },
         {
-          "id": 53256709505355,
           "product_id": 10825066250571,
+          "id": 53256709505355,
           "title": "Grey",
           "price": "33.79",
           "position": 4,
@@ -55836,8 +55836,8 @@
       ],
       "options": [
         {
-          "id": 13450948477259,
           "product_id": 10825066250571,
+          "id": 13450948477259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -63853,8 +63853,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825053569355",
       "variants": [
         {
-          "product_id": 10825053569355,
           "id": 53256615231819,
+          "product_id": 10825053569355,
           "title": "Short with elastic",
           "price": "34.02",
           "position": 1,
@@ -63881,8 +63881,8 @@
           "image_id": 64365292454219
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615264587,
+          "product_id": 10825053569355,
           "title": "Grey outline",
           "price": "34.11",
           "position": 2,
@@ -63909,8 +63909,8 @@
           "image_id": 64365292486987
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615297355,
+          "product_id": 10825053569355,
           "title": "Grey outline 2PC",
           "price": "36.70",
           "position": 3,
@@ -63937,8 +63937,8 @@
           "image_id": 64365292519755
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615330123,
+          "product_id": 10825053569355,
           "title": "Grey outline 3PC",
           "price": "39.11",
           "position": 4,
@@ -63965,8 +63965,8 @@
           "image_id": 64365292552523
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615362891,
+          "product_id": 10825053569355,
           "title": "Grey outline set",
           "price": "34.47",
           "position": 5,
@@ -63993,8 +63993,8 @@
           "image_id": 64365292585291
         },
         {
-          "product_id": 10825053569355,
           "id": 53256615395659,
+          "product_id": 10825053569355,
           "title": "Dark gray",
           "price": "34.28",
           "position": 6,
@@ -64023,8 +64023,8 @@
       ],
       "options": [
         {
-          "product_id": 10825053569355,
           "id": 13450929930571,
+          "product_id": 10825053569355,
           "name": "Color",
           "position": 1,
           "values": [
@@ -66198,8 +66198,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "id": 53257350447435,
           "product_id": 10825159246155,
+          "id": 53257350447435,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -66228,8 +66228,8 @@
       ],
       "options": [
         {
-          "id": 13451086496075,
           "product_id": 10825159246155,
+          "id": 13451086496075,
           "name": "style",
           "position": 1,
           "values": [
