@@ -36874,8 +36874,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743406411",
       "variants": [
         {
-          "id": 53252374888779,
           "product_id": 10823743406411,
+          "id": 53252374888779,
           "title": "Golden",
           "price": "56.99",
           "position": 1,
@@ -36904,8 +36904,8 @@
       ],
       "options": [
         {
-          "id": 13449443967307,
           "product_id": 10823743406411,
+          "id": 13449443967307,
           "name": "Color",
           "position": 1,
           "values": [
@@ -61221,8 +61221,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823723516235",
       "variants": [
         {
-          "id": 53252224778571,
           "product_id": 10823723516235,
+          "id": 53252224778571,
           "title": "Black Basic Style / AU",
           "price": "61.49",
           "position": 1,
@@ -61249,8 +61249,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224811339,
           "product_id": 10823723516235,
+          "id": 53252224811339,
           "title": "Black Basic Style / EU",
           "price": "61.49",
           "position": 2,
@@ -61277,8 +61277,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224844107,
           "product_id": 10823723516235,
+          "id": 53252224844107,
           "title": "Black Basic Style / UK",
           "price": "61.49",
           "position": 3,
@@ -61305,8 +61305,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224876875,
           "product_id": 10823723516235,
+          "id": 53252224876875,
           "title": "Black Basic Style / US",
           "price": "61.49",
           "position": 4,
@@ -61333,8 +61333,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224909643,
           "product_id": 10823723516235,
+          "id": 53252224909643,
           "title": "Black Bluetooth White Noise / AU",
           "price": "61.49",
           "position": 5,
@@ -61361,8 +61361,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224942411,
           "product_id": 10823723516235,
+          "id": 53252224942411,
           "title": "Black Bluetooth White Noise / EU",
           "price": "61.49",
           "position": 6,
@@ -61389,8 +61389,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224975179,
           "product_id": 10823723516235,
+          "id": 53252224975179,
           "title": "Black Bluetooth White Noise / UK",
           "price": "61.49",
           "position": 7,
@@ -61417,8 +61417,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252225007947,
           "product_id": 10823723516235,
+          "id": 53252225007947,
           "title": "Black Bluetooth White Noise / US",
           "price": "61.49",
           "position": 8,
@@ -61447,8 +61447,8 @@
       ],
       "options": [
         {
-          "id": 13449402646859,
           "product_id": 10823723516235,
+          "id": 13449402646859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -61457,8 +61457,8 @@
           ]
         },
         {
-          "id": 13449402679627,
           "product_id": 10823723516235,
+          "id": 13449402679627,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
