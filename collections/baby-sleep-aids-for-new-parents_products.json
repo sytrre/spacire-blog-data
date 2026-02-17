@@ -1737,8 +1737,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773847883",
       "variants": [
         {
-          "id": 53252561437003,
           "product_id": 10823773847883,
+          "id": 53252561437003,
           "title": "White / 115x115x66mm",
           "price": "44.49",
           "position": 1,
@@ -1767,8 +1767,8 @@
       ],
       "options": [
         {
-          "id": 13449497936203,
           "product_id": 10823773847883,
+          "id": 13449497936203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1776,8 +1776,8 @@
           ]
         },
         {
-          "id": 13449497968971,
           "product_id": 10823773847883,
+          "id": 13449497968971,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -5602,8 +5602,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825087811915",
       "variants": [
         {
-          "product_id": 10825087811915,
           "id": 53256852963659,
+          "product_id": 10825087811915,
           "title": "White / USB",
           "price": "410.41",
           "position": 1,
@@ -5632,8 +5632,8 @@
       ],
       "options": [
         {
-          "product_id": 10825087811915,
           "id": 13450979475787,
+          "product_id": 10825087811915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5641,8 +5641,8 @@
           ]
         },
         {
-          "product_id": 10825087811915,
           "id": 13450979508555,
+          "product_id": 10825087811915,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
