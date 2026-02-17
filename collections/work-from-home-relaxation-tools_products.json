@@ -6410,8 +6410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825159246155",
       "variants": [
         {
-          "product_id": 10825159246155,
           "id": 53257350447435,
+          "product_id": 10825159246155,
           "title": "Patch",
           "price": "30.83",
           "position": 1,
@@ -6440,8 +6440,8 @@
       ],
       "options": [
         {
-          "product_id": 10825159246155,
           "id": 13451086496075,
+          "product_id": 10825159246155,
           "name": "style",
           "position": 1,
           "values": [
