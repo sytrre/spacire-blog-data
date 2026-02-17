@@ -1448,8 +1448,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773847883",
       "variants": [
         {
-          "id": 53252561437003,
           "product_id": 10823773847883,
+          "id": 53252561437003,
           "title": "White / 115x115x66mm",
           "price": "44.49",
           "position": 1,
@@ -1478,8 +1478,8 @@
       ],
       "options": [
         {
-          "id": 13449497936203,
           "product_id": 10823773847883,
+          "id": 13449497936203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1487,8 +1487,8 @@
           ]
         },
         {
-          "id": 13449497968971,
           "product_id": 10823773847883,
+          "id": 13449497968971,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -8094,8 +8094,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823694680395",
       "variants": [
         {
-          "product_id": 10823694680395,
           "id": 53252091707723,
+          "product_id": 10823694680395,
           "title": "Black 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 1,
@@ -8122,8 +8122,8 @@
           "image_id": 64330986291531
         },
         {
-          "product_id": 10823694680395,
           "id": 53252091740491,
+          "product_id": 10823694680395,
           "title": "Grey 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 2,
@@ -8152,8 +8152,8 @@
       ],
       "options": [
         {
-          "product_id": 10823694680395,
           "id": 13449347825995,
+          "product_id": 10823694680395,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8162,8 +8162,8 @@
           ]
         },
         {
-          "product_id": 10823694680395,
           "id": 13449347858763,
+          "product_id": 10823694680395,
           "name": "style",
           "position": 2,
           "values": [
@@ -8171,8 +8171,8 @@
           ]
         },
         {
-          "product_id": 10823694680395,
           "id": 13449347891531,
+          "product_id": 10823694680395,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -16524,8 +16524,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823679672651",
       "variants": [
         {
-          "id": 53252013261131,
           "product_id": 10823679672651,
+          "id": 53252013261131,
           "title": "default",
           "price": "35.99",
           "position": 1,
@@ -16554,8 +16554,8 @@
       ],
       "options": [
         {
-          "id": 13449325085003,
           "product_id": 10823679672651,
+          "id": 13449325085003,
           "name": "default",
           "position": 1,
           "values": [
@@ -19154,8 +19154,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823793475915",
       "variants": [
         {
-          "id": 53252653875531,
           "product_id": 10823793475915,
+          "id": 53252653875531,
           "title": "White / Chinese packaging",
           "price": "54.99",
           "position": 1,
@@ -19182,8 +19182,8 @@
           "image_id": 64332469698891
         },
         {
-          "id": 53252653908299,
           "product_id": 10823793475915,
+          "id": 53252653908299,
           "title": "White / English Packaging",
           "price": "54.99",
           "position": 2,
@@ -19212,8 +19212,8 @@
       ],
       "options": [
         {
-          "id": 13449523069259,
           "product_id": 10823793475915,
+          "id": 13449523069259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19221,8 +19221,8 @@
           ]
         },
         {
-          "id": 13449523102027,
           "product_id": 10823793475915,
+          "id": 13449523102027,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -21771,8 +21771,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825090564427",
       "variants": [
         {
-          "product_id": 10825090564427,
           "id": 53256881340747,
+          "product_id": 10825090564427,
           "title": "White / USB",
           "price": "215.42",
           "position": 1,
@@ -21799,8 +21799,8 @@
           "image_id": 64365705953611
         },
         {
-          "product_id": 10825090564427,
           "id": 53256881373515,
+          "product_id": 10825090564427,
           "title": "White / USB 2pcs",
           "price": "348.90",
           "position": 2,
@@ -21827,8 +21827,8 @@
           "image_id": 64365705986379
         },
         {
-          "product_id": 10825090564427,
           "id": 53256881406283,
+          "product_id": 10825090564427,
           "title": "White / USB 3pcs",
           "price": "518.17",
           "position": 3,
@@ -21857,8 +21857,8 @@
       ],
       "options": [
         {
-          "product_id": 10825090564427,
           "id": 13450983637323,
+          "product_id": 10825090564427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21866,8 +21866,8 @@
           ]
         },
         {
-          "product_id": 10825090564427,
           "id": 13450983670091,
+          "product_id": 10825090564427,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

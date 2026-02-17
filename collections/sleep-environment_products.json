@@ -3156,8 +3156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825032499531",
       "variants": [
         {
-          "product_id": 10825032499531,
           "id": 53256539832651,
+          "product_id": 10825032499531,
           "title": "Black / 22*9cm",
           "price": "31.29",
           "position": 1,
@@ -3184,8 +3184,8 @@
           "image_id": 64365048168779
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539865419,
+          "product_id": 10825032499531,
           "title": "Pink / 22*9cm",
           "price": "31.29",
           "position": 2,
@@ -3212,8 +3212,8 @@
           "image_id": 64365048201547
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539898187,
+          "product_id": 10825032499531,
           "title": "Champagne / 22*9cm",
           "price": "31.29",
           "position": 3,
@@ -3240,8 +3240,8 @@
           "image_id": 64365048234315
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539930955,
+          "product_id": 10825032499531,
           "title": "Silver Gray / 22*9cm",
           "price": "31.29",
           "position": 4,
@@ -3268,8 +3268,8 @@
           "image_id": 64365048267083
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539963723,
+          "product_id": 10825032499531,
           "title": "Night Blue / 22*9cm",
           "price": "34.81",
           "position": 5,
@@ -3298,8 +3298,8 @@
       ],
       "options": [
         {
-          "product_id": 10825032499531,
           "id": 13450903126347,
+          "product_id": 10825032499531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3311,8 +3311,8 @@
           ]
         },
         {
-          "product_id": 10825032499531,
           "id": 13450903159115,
+          "product_id": 10825032499531,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -21010,8 +21010,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825090564427",
       "variants": [
         {
-          "product_id": 10825090564427,
           "id": 53256881340747,
+          "product_id": 10825090564427,
           "title": "White / USB",
           "price": "215.42",
           "position": 1,
@@ -21038,8 +21038,8 @@
           "image_id": 64365705953611
         },
         {
-          "product_id": 10825090564427,
           "id": 53256881373515,
+          "product_id": 10825090564427,
           "title": "White / USB 2pcs",
           "price": "348.90",
           "position": 2,
@@ -21066,8 +21066,8 @@
           "image_id": 64365705986379
         },
         {
-          "product_id": 10825090564427,
           "id": 53256881406283,
+          "product_id": 10825090564427,
           "title": "White / USB 3pcs",
           "price": "518.17",
           "position": 3,
@@ -21096,8 +21096,8 @@
       ],
       "options": [
         {
-          "product_id": 10825090564427,
           "id": 13450983637323,
+          "product_id": 10825090564427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21105,8 +21105,8 @@
           ]
         },
         {
-          "product_id": 10825090564427,
           "id": 13450983670091,
+          "product_id": 10825090564427,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
