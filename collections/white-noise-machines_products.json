@@ -1448,8 +1448,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773847883",
       "variants": [
         {
-          "product_id": 10823773847883,
           "id": 53252561437003,
+          "product_id": 10823773847883,
           "title": "White / 115x115x66mm",
           "price": "44.49",
           "position": 1,
@@ -1478,8 +1478,8 @@
       ],
       "options": [
         {
-          "product_id": 10823773847883,
           "id": 13449497936203,
+          "product_id": 10823773847883,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1487,8 +1487,8 @@
           ]
         },
         {
-          "product_id": 10823773847883,
           "id": 13449497968971,
+          "product_id": 10823773847883,
           "name": "Specifications",
           "position": 2,
           "values": [
@@ -2649,8 +2649,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825107833163",
       "variants": [
         {
-          "id": 53256915386699,
           "product_id": 10825107833163,
+          "id": 53256915386699,
           "title": "Black",
           "price": "785.80",
           "position": 1,
@@ -2679,8 +2679,8 @@
       ],
       "options": [
         {
-          "id": 13451009917259,
           "product_id": 10825107833163,
+          "id": 13451009917259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8896,8 +8896,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794229579",
       "variants": [
         {
-          "product_id": 10823794229579,
           "id": 53252658856267,
+          "product_id": 10823794229579,
           "title": "White",
           "price": "40.49",
           "position": 1,
@@ -8926,8 +8926,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794229579,
           "id": 13449524019531,
+          "product_id": 10823794229579,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14572,8 +14572,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "product_id": 10823924449611,
           "id": 53253540938059,
+          "product_id": 10823924449611,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14602,8 +14602,8 @@
       ],
       "options": [
         {
-          "product_id": 10823924449611,
           "id": 13449690186059,
+          "product_id": 10823924449611,
           "name": "Color",
           "position": 1,
           "values": [
