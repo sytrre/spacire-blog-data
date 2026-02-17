@@ -32270,8 +32270,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775316119883",
       "variants": [
         {
-          "id": 53327871148363,
           "product_id": 14775316119883,
+          "id": 53327871148363,
           "title": "Apricot gray",
           "price": "30.95",
           "position": 1,
@@ -32298,8 +32298,8 @@
           "image_id": 64651461689675
         },
         {
-          "id": 53327871181131,
           "product_id": 14775316119883,
+          "id": 53327871181131,
           "title": "Apricot black",
           "price": "30.95",
           "position": 2,
@@ -32326,8 +32326,8 @@
           "image_id": 64651461722443
         },
         {
-          "id": 53327871213899,
           "product_id": 14775316119883,
+          "id": 53327871213899,
           "title": "Dark grey",
           "price": "30.95",
           "position": 3,
@@ -32354,8 +32354,8 @@
           "image_id": 64651461755211
         },
         {
-          "id": 53327871246667,
           "product_id": 14775316119883,
+          "id": 53327871246667,
           "title": "Pure black",
           "price": "30.95",
           "position": 4,
@@ -32384,8 +32384,8 @@
       ],
       "options": [
         {
-          "id": 17120625066315,
           "product_id": 14775316119883,
+          "id": 17120625066315,
           "name": "Color",
           "position": 1,
           "values": [
