@@ -7366,8 +7366,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961392971",
       "variants": [
         {
-          "id": 53256230568267,
           "product_id": 10824961392971,
+          "id": 53256230568267,
           "title": "60ml",
           "price": "21.93",
           "position": 1,
@@ -7396,8 +7396,8 @@
       ],
       "options": [
         {
-          "id": 13450822091083,
           "product_id": 10824961392971,
+          "id": 13450822091083,
           "name": "Color Classification",
           "position": 1,
           "values": [
@@ -7505,8 +7505,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961229131",
       "variants": [
         {
-          "id": 53256230404427,
           "product_id": 10824961229131,
+          "id": 53256230404427,
           "title": "Lavender",
           "price": "24.33",
           "position": 1,
@@ -7535,8 +7535,8 @@
       ],
       "options": [
         {
-          "id": 13450821927243,
           "product_id": 10824961229131,
+          "id": 13450821927243,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7644,8 +7644,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085059403",
       "variants": [
         {
-          "id": 53256833597771,
           "product_id": 10825085059403,
+          "id": 53256833597771,
           "title": "White / Bluetooth / USB",
           "price": "477.85",
           "position": 1,
@@ -7674,8 +7674,8 @@
       ],
       "options": [
         {
-          "id": 13450974953803,
           "product_id": 10825085059403,
+          "id": 13450974953803,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7683,8 +7683,8 @@
           ]
         },
         {
-          "id": 13450974986571,
           "product_id": 10825085059403,
+          "id": 13450974986571,
           "name": "style",
           "position": 2,
           "values": [
@@ -7692,8 +7692,8 @@
           ]
         },
         {
-          "id": 13450975019339,
           "product_id": 10825085059403,
+          "id": 13450975019339,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
