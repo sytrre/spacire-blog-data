@@ -3111,8 +3111,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791673675",
       "variants": [
         {
-          "product_id": 10823791673675,
           "id": 53252641423691,
+          "product_id": 10823791673675,
           "title": "Black",
           "price": "29.99",
           "position": 1,
@@ -3141,8 +3141,8 @@
       ],
       "options": [
         {
-          "product_id": 10823791673675,
           "id": 13449520447819,
+          "product_id": 10823791673675,
           "name": "Color",
           "position": 1,
           "values": [
@@ -57727,8 +57727,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823804879179",
       "variants": [
         {
-          "id": 53252705747275,
           "product_id": 10823804879179,
+          "id": 53252705747275,
           "title": "Maroon",
           "price": "43.49",
           "position": 1,
@@ -57757,8 +57757,8 @@
       ],
       "options": [
         {
-          "id": 13449536373067,
           "product_id": 10823804879179,
+          "id": 13449536373067,
           "name": "Color",
           "position": 1,
           "values": [
@@ -62745,8 +62745,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825028108619",
       "variants": [
         {
-          "id": 53256527053131,
           "product_id": 10825028108619,
+          "id": 53256527053131,
           "title": "Dark Blue",
           "price": "28.94",
           "position": 1,
@@ -62773,8 +62773,8 @@
           "image_id": 64364980732235
         },
         {
-          "id": 53256527085899,
           "product_id": 10825028108619,
+          "id": 53256527085899,
           "title": "Light Gray",
           "price": "28.94",
           "position": 2,
@@ -62801,8 +62801,8 @@
           "image_id": 64364980765003
         },
         {
-          "id": 53256527118667,
           "product_id": 10825028108619,
+          "id": 53256527118667,
           "title": "Elegant Black",
           "price": "28.94",
           "position": 3,
@@ -62829,8 +62829,8 @@
           "image_id": 64364980797771
         },
         {
-          "id": 53256527151435,
           "product_id": 10825028108619,
+          "id": 53256527151435,
           "title": "Chinese Red",
           "price": "28.94",
           "position": 4,
@@ -62857,8 +62857,8 @@
           "image_id": 64364980830539
         },
         {
-          "id": 53256527184203,
           "product_id": 10825028108619,
+          "id": 53256527184203,
           "title": "Emerald",
           "price": "28.94",
           "position": 5,
@@ -62887,8 +62887,8 @@
       ],
       "options": [
         {
-          "id": 13450898473291,
           "product_id": 10825028108619,
+          "id": 13450898473291,
           "name": "Color",
           "position": 1,
           "values": [
