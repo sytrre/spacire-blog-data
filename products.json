@@ -85674,8 +85674,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825092628811",
       "variants": [
         {
-          "product_id": 10825092628811,
           "id": 53256886354251,
+          "product_id": 10825092628811,
           "title": "Photo Color / 220V US",
           "price": "1021.07",
           "position": 1,
@@ -85704,8 +85704,8 @@
       ],
       "options": [
         {
-          "product_id": 10825092628811,
           "id": 13450987635019,
+          "product_id": 10825092628811,
           "name": "Color",
           "position": 1,
           "values": [
@@ -85713,8 +85713,8 @@
           ]
         },
         {
-          "product_id": 10825092628811,
           "id": 13450987667787,
+          "product_id": 10825092628811,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -99982,8 +99982,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823694680395",
       "variants": [
         {
-          "id": 53252091707723,
           "product_id": 10823694680395,
+          "id": 53252091707723,
           "title": "Black 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 1,
@@ -100010,8 +100010,8 @@
           "image_id": 64330986291531
         },
         {
-          "id": 53252091740491,
           "product_id": 10823694680395,
+          "id": 53252091740491,
           "title": "Grey 2pcs / White Noise Versions / USB",
           "price": "41.49",
           "position": 2,
@@ -100040,8 +100040,8 @@
       ],
       "options": [
         {
-          "id": 13449347825995,
           "product_id": 10823694680395,
+          "id": 13449347825995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -100050,8 +100050,8 @@
           ]
         },
         {
-          "id": 13449347858763,
           "product_id": 10823694680395,
+          "id": 13449347858763,
           "name": "style",
           "position": 2,
           "values": [
@@ -100059,8 +100059,8 @@
           ]
         },
         {
-          "id": 13449347891531,
           "product_id": 10823694680395,
+          "id": 13449347891531,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
