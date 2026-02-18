@@ -4673,8 +4673,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047048523",
       "variants": [
         {
-          "product_id": 10825047048523,
           "id": 53256591442251,
+          "product_id": 10825047048523,
           "title": "Black eye mask",
           "price": "30.90",
           "position": 1,
@@ -4701,8 +4701,8 @@
           "image_id": 64365221380427
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591475019,
+          "product_id": 10825047048523,
           "title": "Blue eye mask",
           "price": "31.05",
           "position": 2,
@@ -4729,8 +4729,8 @@
           "image_id": 64365221413195
         },
         {
-          "product_id": 10825047048523,
           "id": 53256591507787,
+          "product_id": 10825047048523,
           "title": "Buy one get one black eye mask",
           "price": "31.62",
           "position": 3,
@@ -4759,8 +4759,8 @@
       ],
       "options": [
         {
-          "product_id": 10825047048523,
           "id": 13450922852683,
+          "product_id": 10825047048523,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49584,8 +49584,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743045963",
       "variants": [
         {
-          "product_id": 10823743045963,
           "id": 53252370202955,
+          "product_id": 10823743045963,
           "title": "Late Night Black",
           "price": "69.99",
           "position": 1,
@@ -49612,8 +49612,8 @@
           "image_id": 64331629232459
         },
         {
-          "product_id": 10823743045963,
           "id": 53252370235723,
+          "product_id": 10823743045963,
           "title": "Midnight Gray",
           "price": "69.99",
           "position": 2,
@@ -49642,8 +49642,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743045963,
           "id": 13449443279179,
+          "product_id": 10823743045963,
           "name": "Color",
           "position": 1,
           "values": [

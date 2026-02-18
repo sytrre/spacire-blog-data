@@ -7589,8 +7589,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -7617,8 +7617,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -7645,8 +7645,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -7673,8 +7673,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -7703,8 +7703,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7715,8 +7715,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -64099,8 +64099,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823743045963",
       "variants": [
         {
-          "product_id": 10823743045963,
           "id": 53252370202955,
+          "product_id": 10823743045963,
           "title": "Late Night Black",
           "price": "69.99",
           "position": 1,
@@ -64127,8 +64127,8 @@
           "image_id": 64331629232459
         },
         {
-          "product_id": 10823743045963,
           "id": 53252370235723,
+          "product_id": 10823743045963,
           "title": "Midnight Gray",
           "price": "69.99",
           "position": 2,
@@ -64157,8 +64157,8 @@
       ],
       "options": [
         {
-          "product_id": 10823743045963,
           "id": 13449443279179,
+          "product_id": 10823743045963,
           "name": "Color",
           "position": 1,
           "values": [
@@ -95254,8 +95254,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823925825867",
       "variants": [
         {
-          "product_id": 10823925825867,
           "id": 53253545001291,
+          "product_id": 10823925825867,
           "title": "White",
           "price": "56.49",
           "position": 1,
@@ -95284,8 +95284,8 @@
       ],
       "options": [
         {
-          "product_id": 10823925825867,
           "id": 13449691758923,
+          "product_id": 10823925825867,
           "name": "Color",
           "position": 1,
           "values": [
@@ -99264,8 +99264,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772306673995",
       "variants": [
         {
-          "product_id": 14772306673995,
           "id": 53313755316555,
+          "product_id": 14772306673995,
           "title": "White",
           "price": "46.46",
           "position": 1,
@@ -99294,8 +99294,8 @@
       ],
       "options": [
         {
-          "product_id": 14772306673995,
           "id": 17116948562251,
+          "product_id": 14772306673995,
           "name": "Color",
           "position": 1,
           "values": [

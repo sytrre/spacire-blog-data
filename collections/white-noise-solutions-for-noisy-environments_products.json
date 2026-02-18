@@ -2659,8 +2659,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825088237899",
       "variants": [
         {
-          "id": 53256861319499,
           "product_id": 10825088237899,
+          "id": 53256861319499,
           "title": "Roundshape",
           "price": "422.11",
           "position": 1,
@@ -2687,8 +2687,8 @@
           "image_id": 64365683638603
         },
         {
-          "id": 53256861352267,
           "product_id": 10825088237899,
+          "id": 53256861352267,
           "title": "Square",
           "price": "422.11",
           "position": 2,
@@ -2715,8 +2715,8 @@
           "image_id": 64365683671371
         },
         {
-          "id": 53256861385035,
           "product_id": 10825088237899,
+          "id": 53256861385035,
           "title": "Square 2pcs",
           "price": "836.26",
           "position": 3,
@@ -2745,8 +2745,8 @@
       ],
       "options": [
         {
-          "id": 13450980163915,
           "product_id": 10825088237899,
+          "id": 13450980163915,
           "name": "Color",
           "position": 1,
           "values": [
@@ -11908,8 +11908,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085354315",
       "variants": [
         {
-          "id": 53256840741195,
           "product_id": 10825085354315,
+          "id": 53256840741195,
           "title": "Grey / USB",
           "price": "550.67",
           "position": 1,
@@ -11936,8 +11936,8 @@
           "image_id": 64365652377931
         },
         {
-          "id": 53256840773963,
           "product_id": 10825085354315,
+          "id": 53256840773963,
           "title": "Black / USB",
           "price": "550.67",
           "position": 2,
@@ -11964,8 +11964,8 @@
           "image_id": 64365652410699
         },
         {
-          "id": 53256840806731,
           "product_id": 10825085354315,
+          "id": 53256840806731,
           "title": "Grey with bluetooth / USB",
           "price": "550.67",
           "position": 3,
@@ -11992,8 +11992,8 @@
           "image_id": 64365652443467
         },
         {
-          "id": 53256840839499,
           "product_id": 10825085354315,
+          "id": 53256840839499,
           "title": "Black with bluetooth / USB",
           "price": "550.67",
           "position": 4,
@@ -12022,8 +12022,8 @@
       ],
       "options": [
         {
-          "id": 13450975478091,
           "product_id": 10825085354315,
+          "id": 13450975478091,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12034,8 +12034,8 @@
           ]
         },
         {
-          "id": 13450975510859,
           "product_id": 10825085354315,
+          "id": 13450975510859,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
