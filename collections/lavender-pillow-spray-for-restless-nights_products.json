@@ -2528,8 +2528,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825004908875",
       "variants": [
         {
-          "product_id": 10825004908875,
           "id": 53256408170827,
+          "product_id": 10825004908875,
           "title": "Sleep Improvement Spray",
           "price": "21.31",
           "position": 1,
@@ -2558,8 +2558,8 @@
       ],
       "options": [
         {
-          "product_id": 10825004908875,
           "id": 13450870489419,
+          "product_id": 10825004908875,
           "name": "format",
           "position": 1,
           "values": [
