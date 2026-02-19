@@ -4263,8 +4263,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051078987",
       "variants": [
         {
-          "product_id": 10825051078987,
           "id": 53256605434187,
+          "product_id": 10825051078987,
           "title": "Black",
           "price": "37.67",
           "position": 1,
@@ -4291,8 +4291,8 @@
           "image_id": 64365259981131
         },
         {
-          "product_id": 10825051078987,
           "id": 53256605466955,
+          "product_id": 10825051078987,
           "title": "Navy Blue",
           "price": "37.67",
           "position": 2,
@@ -4321,8 +4321,8 @@
       ],
       "options": [
         {
-          "product_id": 10825051078987,
           "id": 13450927276363,
+          "product_id": 10825051078987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -22875,8 +22875,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961229131",
       "variants": [
         {
-          "product_id": 10824961229131,
           "id": 53256230404427,
+          "product_id": 10824961229131,
           "title": "Lavender",
           "price": "24.33",
           "position": 1,
@@ -22905,8 +22905,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961229131,
           "id": 13450821927243,
+          "product_id": 10824961229131,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37234,8 +37234,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825052750155",
       "variants": [
         {
-          "id": 53256612151627,
           "product_id": 10825052750155,
+          "id": 53256612151627,
           "title": "Black / 1PCS",
           "price": "32.17",
           "position": 1,
@@ -37262,8 +37262,8 @@
           "image_id": 64365280231755
         },
         {
-          "id": 53256612184395,
           "product_id": 10825052750155,
+          "id": 53256612184395,
           "title": "Black / 2PCS",
           "price": "33.79",
           "position": 2,
@@ -37290,8 +37290,8 @@
           "image_id": 64365280231755
         },
         {
-          "id": 53256612217163,
           "product_id": 10825052750155,
+          "id": 53256612217163,
           "title": "Black set / 1PCS",
           "price": "34.79",
           "position": 3,
@@ -37320,8 +37320,8 @@
       ],
       "options": [
         {
-          "id": 13450928980299,
           "product_id": 10825052750155,
+          "id": 13450928980299,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37330,8 +37330,8 @@
           ]
         },
         {
-          "id": 13450929013067,
           "product_id": 10825052750155,
+          "id": 13450929013067,
           "name": "quantity",
           "position": 2,
           "values": [

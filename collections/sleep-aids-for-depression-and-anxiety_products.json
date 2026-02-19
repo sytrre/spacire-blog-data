@@ -7242,8 +7242,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825051078987",
       "variants": [
         {
-          "product_id": 10825051078987,
           "id": 53256605434187,
+          "product_id": 10825051078987,
           "title": "Black",
           "price": "37.67",
           "position": 1,
@@ -7270,8 +7270,8 @@
           "image_id": 64365259981131
         },
         {
-          "product_id": 10825051078987,
           "id": 53256605466955,
+          "product_id": 10825051078987,
           "title": "Navy Blue",
           "price": "37.67",
           "position": 2,
@@ -7300,8 +7300,8 @@
       ],
       "options": [
         {
-          "product_id": 10825051078987,
           "id": 13450927276363,
+          "product_id": 10825051078987,
           "name": "Color",
           "position": 1,
           "values": [
@@ -18325,8 +18325,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885876043",
       "variants": [
         {
-          "id": 53325483671883,
           "product_id": 14774885876043,
+          "id": 53325483671883,
           "title": "Twin / Blue",
           "price": "53.75",
           "position": 1,
@@ -18353,8 +18353,8 @@
           "image_id": 64643911024971
         },
         {
-          "id": 53325483704651,
           "product_id": 14774885876043,
+          "id": 53325483704651,
           "title": "Queen / Blue",
           "price": "59.32",
           "position": 2,
@@ -18381,8 +18381,8 @@
           "image_id": 64643911024971
         },
         {
-          "id": 53325483737419,
           "product_id": 14774885876043,
+          "id": 53325483737419,
           "title": "King / Blue",
           "price": "62.18",
           "position": 3,
@@ -18411,8 +18411,8 @@
       ],
       "options": [
         {
-          "id": 17120122995019,
           "product_id": 14774885876043,
+          "id": 17120122995019,
           "name": "SIZE",
           "position": 1,
           "values": [
@@ -18422,8 +18422,8 @@
           ]
         },
         {
-          "id": 17120123027787,
           "product_id": 14774885876043,
+          "id": 17120123027787,
           "name": "Color",
           "position": 2,
           "values": [
@@ -55432,8 +55432,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157837131",
       "variants": [
         {
-          "id": 53257335046475,
           "product_id": 10825157837131,
+          "id": 53257335046475,
           "title": "White / USB",
           "price": "41.06",
           "position": 1,
@@ -55462,8 +55462,8 @@
       ],
       "options": [
         {
-          "id": 13451084267851,
           "product_id": 10825157837131,
+          "id": 13451084267851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55471,8 +55471,8 @@
           ]
         },
         {
-          "id": 13451084300619,
           "product_id": 10825157837131,
+          "id": 13451084300619,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -58713,8 +58713,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961229131",
       "variants": [
         {
-          "product_id": 10824961229131,
           "id": 53256230404427,
+          "product_id": 10824961229131,
           "title": "Lavender",
           "price": "24.33",
           "position": 1,
@@ -58743,8 +58743,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961229131,
           "id": 13450821927243,
+          "product_id": 10824961229131,
           "name": "Color",
           "position": 1,
           "values": [
@@ -115048,8 +115048,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825052750155",
       "variants": [
         {
-          "id": 53256612151627,
           "product_id": 10825052750155,
+          "id": 53256612151627,
           "title": "Black / 1PCS",
           "price": "32.17",
           "position": 1,
@@ -115076,8 +115076,8 @@
           "image_id": 64365280231755
         },
         {
-          "id": 53256612184395,
           "product_id": 10825052750155,
+          "id": 53256612184395,
           "title": "Black / 2PCS",
           "price": "33.79",
           "position": 2,
@@ -115104,8 +115104,8 @@
           "image_id": 64365280231755
         },
         {
-          "id": 53256612217163,
           "product_id": 10825052750155,
+          "id": 53256612217163,
           "title": "Black set / 1PCS",
           "price": "34.79",
           "position": 3,
@@ -115134,8 +115134,8 @@
       ],
       "options": [
         {
-          "id": 13450928980299,
           "product_id": 10825052750155,
+          "id": 13450928980299,
           "name": "Color",
           "position": 1,
           "values": [
@@ -115144,8 +115144,8 @@
           ]
         },
         {
-          "id": 13450929013067,
           "product_id": 10825052750155,
+          "id": 13450929013067,
           "name": "quantity",
           "position": 2,
           "values": [
