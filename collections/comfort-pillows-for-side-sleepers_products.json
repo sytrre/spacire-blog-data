@@ -29884,8 +29884,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775333814603",
       "variants": [
         {
-          "product_id": 14775333814603,
           "id": 53327907553611,
+          "product_id": 14775333814603,
           "title": "USB Thermal Therapy / Gray",
           "price": "49.11",
           "position": 1,
@@ -29912,8 +29912,8 @@
           "image_id": 64651514609995
         },
         {
-          "product_id": 14775333814603,
           "id": 53327907586379,
+          "product_id": 14775333814603,
           "title": "No Thermotherapy / Gray",
           "price": "45.12",
           "position": 2,
@@ -29942,8 +29942,8 @@
       ],
       "options": [
         {
-          "product_id": 14775333814603,
           "id": 17120644006219,
+          "product_id": 14775333814603,
           "name": "Color",
           "position": 1,
           "values": [
@@ -29952,8 +29952,8 @@
           ]
         },
         {
-          "product_id": 14775333814603,
           "id": 17120644038987,
+          "product_id": 14775333814603,
           "name": "Dimensions",
           "position": 2,
           "values": [
