@@ -4762,8 +4762,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098985803",
       "variants": [
         {
-          "id": 53256897888587,
           "product_id": 10825098985803,
+          "id": 53256897888587,
           "title": "White / USB",
           "price": "670.30",
           "position": 1,
@@ -4792,8 +4792,8 @@
       ],
       "options": [
         {
-          "id": 13450998808907,
           "product_id": 10825098985803,
+          "id": 13450998808907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4801,8 +4801,8 @@
           ]
         },
         {
-          "id": 13450998841675,
           "product_id": 10825098985803,
+          "id": 13450998841675,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -14141,8 +14141,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825083191627",
       "variants": [
         {
-          "id": 53256824586571,
           "product_id": 10825083191627,
+          "id": 53256824586571,
           "title": "White",
           "price": "335.16",
           "position": 1,
@@ -14169,8 +14169,8 @@
           "image_id": 64365631996235
         },
         {
-          "id": 53256824619339,
           "product_id": 10825083191627,
+          "id": 53256824619339,
           "title": "Black",
           "price": "335.16",
           "position": 2,
@@ -14199,8 +14199,8 @@
       ],
       "options": [
         {
-          "id": 13450972234059,
           "product_id": 10825083191627,
+          "id": 13450972234059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16916,8 +16916,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "id": 53256906441035,
           "product_id": 10825102721355,
+          "id": 53256906441035,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -16944,8 +16944,8 @@
           "image_id": 64365797114187
         },
         {
-          "id": 53256906473803,
           "product_id": 10825102721355,
+          "id": 53256906473803,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -16974,8 +16974,8 @@
       ],
       "options": [
         {
-          "id": 13451004117323,
           "product_id": 10825102721355,
+          "id": 13451004117323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16984,8 +16984,8 @@
           ]
         },
         {
-          "id": 13451004150091,
           "product_id": 10825102721355,
+          "id": 13451004150091,
           "name": "Power Type",
           "position": 2,
           "values": [
@@ -17160,8 +17160,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823723516235",
       "variants": [
         {
-          "id": 53252224778571,
           "product_id": 10823723516235,
+          "id": 53252224778571,
           "title": "Black Basic Style / AU",
           "price": "61.49",
           "position": 1,
@@ -17188,8 +17188,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224811339,
           "product_id": 10823723516235,
+          "id": 53252224811339,
           "title": "Black Basic Style / EU",
           "price": "61.49",
           "position": 2,
@@ -17216,8 +17216,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224844107,
           "product_id": 10823723516235,
+          "id": 53252224844107,
           "title": "Black Basic Style / UK",
           "price": "61.49",
           "position": 3,
@@ -17244,8 +17244,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224876875,
           "product_id": 10823723516235,
+          "id": 53252224876875,
           "title": "Black Basic Style / US",
           "price": "61.49",
           "position": 4,
@@ -17272,8 +17272,8 @@
           "image_id": 64331410473291
         },
         {
-          "id": 53252224909643,
           "product_id": 10823723516235,
+          "id": 53252224909643,
           "title": "Black Bluetooth White Noise / AU",
           "price": "61.49",
           "position": 5,
@@ -17300,8 +17300,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224942411,
           "product_id": 10823723516235,
+          "id": 53252224942411,
           "title": "Black Bluetooth White Noise / EU",
           "price": "61.49",
           "position": 6,
@@ -17328,8 +17328,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252224975179,
           "product_id": 10823723516235,
+          "id": 53252224975179,
           "title": "Black Bluetooth White Noise / UK",
           "price": "61.49",
           "position": 7,
@@ -17356,8 +17356,8 @@
           "image_id": 64331410506059
         },
         {
-          "id": 53252225007947,
           "product_id": 10823723516235,
+          "id": 53252225007947,
           "title": "Black Bluetooth White Noise / US",
           "price": "61.49",
           "position": 8,
@@ -17386,8 +17386,8 @@
       ],
       "options": [
         {
-          "id": 13449402646859,
           "product_id": 10823723516235,
+          "id": 13449402646859,
           "name": "Color",
           "position": 1,
           "values": [
@@ -17396,8 +17396,8 @@
           ]
         },
         {
-          "id": 13449402679627,
           "product_id": 10823723516235,
+          "id": 13449402679627,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
