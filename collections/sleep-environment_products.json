@@ -20575,8 +20575,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961425739",
       "variants": [
         {
-          "product_id": 10824961425739,
           "id": 53256230732107,
+          "product_id": 10824961425739,
           "title": "30ml",
           "price": "21.50",
           "position": 1,
@@ -20605,8 +20605,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961425739,
           "id": 13450822123851,
+          "product_id": 10824961425739,
           "name": "Net content",
           "position": 1,
           "values": [

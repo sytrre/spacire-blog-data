@@ -9760,8 +9760,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825042657611",
       "variants": [
         {
-          "product_id": 10825042657611,
           "id": 53256563065163,
+          "product_id": 10825042657611,
           "title": "Beige",
           "price": "30.66",
           "position": 1,
@@ -9788,8 +9788,8 @@
           "image_id": 64365172359499
         },
         {
-          "product_id": 10825042657611,
           "id": 53256563097931,
+          "product_id": 10825042657611,
           "title": "Black",
           "price": "30.66",
           "position": 2,
@@ -9816,8 +9816,8 @@
           "image_id": 64365172392267
         },
         {
-          "product_id": 10825042657611,
           "id": 53256563130699,
+          "product_id": 10825042657611,
           "title": "Purple",
           "price": "30.66",
           "position": 3,
@@ -9844,8 +9844,8 @@
           "image_id": 64365172425035
         },
         {
-          "product_id": 10825042657611,
           "id": 53256563163467,
+          "product_id": 10825042657611,
           "title": "Green",
           "price": "30.66",
           "position": 4,
@@ -9872,8 +9872,8 @@
           "image_id": 64365172457803
         },
         {
-          "product_id": 10825042657611,
           "id": 53256563196235,
+          "product_id": 10825042657611,
           "title": "Blue",
           "price": "30.66",
           "position": 5,
@@ -9900,8 +9900,8 @@
           "image_id": 64365172490571
         },
         {
-          "product_id": 10825042657611,
           "id": 53256563229003,
+          "product_id": 10825042657611,
           "title": "Pink",
           "price": "30.68",
           "position": 6,
@@ -9930,8 +9930,8 @@
       ],
       "options": [
         {
-          "product_id": 10825042657611,
           "id": 13450918166859,
+          "product_id": 10825042657611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -56250,7 +56250,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-02-21T04:26:26+00:00",
+      "updated_at": "2026-02-21T12:26:15+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -56270,7 +56270,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-02-21T04:26:26+00:00",
+          "updated_at": "2026-02-21T12:26:16+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -56281,8 +56281,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40604,
-          "old_inventory_quantity": 40604,
+          "inventory_quantity": 40602,
+          "old_inventory_quantity": 40602,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
