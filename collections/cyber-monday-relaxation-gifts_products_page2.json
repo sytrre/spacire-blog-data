@@ -13881,8 +13881,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825043673419",
       "variants": [
         {
-          "id": 53256573026635,
           "product_id": 10825043673419,
+          "id": 53256573026635,
           "title": "Big eyed monster",
           "price": "32.01",
           "position": 1,
@@ -13909,8 +13909,8 @@
           "image_id": 64365184450891
         },
         {
-          "id": 53256573059403,
           "product_id": 10825043673419,
+          "id": 53256573059403,
           "title": "Little devil",
           "price": "32.01",
           "position": 2,
@@ -13937,8 +13937,8 @@
           "image_id": 64365184483659
         },
         {
-          "id": 53256573092171,
           "product_id": 10825043673419,
+          "id": 53256573092171,
           "title": "Star moon blue",
           "price": "32.01",
           "position": 3,
@@ -13965,8 +13965,8 @@
           "image_id": 64365184516427
         },
         {
-          "id": 53256573124939,
           "product_id": 10825043673419,
+          "id": 53256573124939,
           "title": "Mysterious Black",
           "price": "32.01",
           "position": 4,
@@ -13993,8 +13993,8 @@
           "image_id": 64365184549195
         },
         {
-          "id": 53256573157707,
           "product_id": 10825043673419,
+          "id": 53256573157707,
           "title": "Mystic Purple",
           "price": "32.01",
           "position": 5,
@@ -14021,8 +14021,8 @@
           "image_id": 64365184581963
         },
         {
-          "id": 53256573190475,
           "product_id": 10825043673419,
+          "id": 53256573190475,
           "title": "Noble blue",
           "price": "32.01",
           "position": 6,
@@ -14051,8 +14051,8 @@
       ],
       "options": [
         {
-          "id": 13450919248203,
           "product_id": 10825043673419,
+          "id": 13450919248203,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37802,8 +37802,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823797440843",
       "variants": [
         {
-          "product_id": 10823797440843,
           "id": 53252672782667,
+          "product_id": 10823797440843,
           "title": "High version black / USB",
           "price": "91.99",
           "position": 1,
@@ -37830,8 +37830,8 @@
           "image_id": 64332537299275
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672815435,
+          "product_id": 10823797440843,
           "title": "High version white / USB",
           "price": "76.49",
           "position": 2,
@@ -37858,8 +37858,8 @@
           "image_id": 64332537332043
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672848203,
+          "product_id": 10823797440843,
           "title": "Standard black / USB",
           "price": "84.99",
           "position": 3,
@@ -37886,8 +37886,8 @@
           "image_id": 64332537364811
         },
         {
-          "product_id": 10823797440843,
           "id": 53252672880971,
+          "product_id": 10823797440843,
           "title": "Standard white / USB",
           "price": "84.99",
           "position": 4,
@@ -37916,8 +37916,8 @@
       ],
       "options": [
         {
-          "product_id": 10823797440843,
           "id": 13449527624011,
+          "product_id": 10823797440843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -37928,8 +37928,8 @@
           ]
         },
         {
-          "product_id": 10823797440843,
           "id": 13449527656779,
+          "product_id": 10823797440843,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -44671,8 +44671,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775048241483",
       "variants": [
         {
-          "product_id": 14775048241483,
           "id": 53327248851275,
+          "product_id": 14775048241483,
           "title": "Pink",
           "price": "17.06",
           "position": 1,
@@ -44699,8 +44699,8 @@
           "image_id": 64648669397323
         },
         {
-          "product_id": 14775048241483,
           "id": 53327248884043,
+          "product_id": 14775048241483,
           "title": "Blue",
           "price": "17.06",
           "position": 2,
@@ -44729,8 +44729,8 @@
       ],
       "options": [
         {
-          "product_id": 14775048241483,
           "id": 17120339067211,
+          "product_id": 14775048241483,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55194,8 +55194,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823679672651",
       "variants": [
         {
-          "product_id": 10823679672651,
           "id": 53252013261131,
+          "product_id": 10823679672651,
           "title": "default",
           "price": "35.99",
           "position": 1,
@@ -55224,8 +55224,8 @@
       ],
       "options": [
         {
-          "product_id": 10823679672651,
           "id": 13449325085003,
+          "product_id": 10823679672651,
           "name": "default",
           "position": 1,
           "values": [
