@@ -3156,8 +3156,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825032499531",
       "variants": [
         {
-          "product_id": 10825032499531,
           "id": 53256539832651,
+          "product_id": 10825032499531,
           "title": "Black / 22*9cm",
           "price": "31.29",
           "position": 1,
@@ -3184,8 +3184,8 @@
           "image_id": 64365048168779
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539865419,
+          "product_id": 10825032499531,
           "title": "Pink / 22*9cm",
           "price": "31.29",
           "position": 2,
@@ -3212,8 +3212,8 @@
           "image_id": 64365048201547
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539898187,
+          "product_id": 10825032499531,
           "title": "Champagne / 22*9cm",
           "price": "31.29",
           "position": 3,
@@ -3240,8 +3240,8 @@
           "image_id": 64365048234315
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539930955,
+          "product_id": 10825032499531,
           "title": "Silver Gray / 22*9cm",
           "price": "31.29",
           "position": 4,
@@ -3268,8 +3268,8 @@
           "image_id": 64365048267083
         },
         {
-          "product_id": 10825032499531,
           "id": 53256539963723,
+          "product_id": 10825032499531,
           "title": "Night Blue / 22*9cm",
           "price": "34.81",
           "position": 5,
@@ -3298,8 +3298,8 @@
       ],
       "options": [
         {
-          "product_id": 10825032499531,
           "id": 13450903126347,
+          "product_id": 10825032499531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3311,8 +3311,8 @@
           ]
         },
         {
-          "product_id": 10825032499531,
           "id": 13450903159115,
+          "product_id": 10825032499531,
           "name": "Specifications",
           "position": 2,
           "values": [
