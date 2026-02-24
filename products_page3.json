@@ -3324,8 +3324,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045573963",
       "variants": [
         {
-          "id": 53256583020875,
           "product_id": 10825045573963,
+          "id": 53256583020875,
           "title": "2PC Black",
           "price": "35.56",
           "position": 1,
@@ -3352,8 +3352,8 @@
           "image_id": 64365202997579
         },
         {
-          "id": 53256583053643,
           "product_id": 10825045573963,
+          "id": 53256583053643,
           "title": "3PC Black",
           "price": "37.23",
           "position": 2,
@@ -3380,8 +3380,8 @@
           "image_id": 64365203030347
         },
         {
-          "id": 53256583086411,
           "product_id": 10825045573963,
+          "id": 53256583086411,
           "title": "4PC Black",
           "price": "38.93",
           "position": 3,
@@ -3408,8 +3408,8 @@
           "image_id": 64365203063115
         },
         {
-          "id": 53256583119179,
           "product_id": 10825045573963,
+          "id": 53256583119179,
           "title": "5PC Black",
           "price": "40.63",
           "position": 4,
@@ -3436,8 +3436,8 @@
           "image_id": 64365203095883
         },
         {
-          "id": 53256583151947,
           "product_id": 10825045573963,
+          "id": 53256583151947,
           "title": "Black Without nasal wings",
           "price": "33.54",
           "position": 5,
@@ -3464,8 +3464,8 @@
           "image_id": 64365203128651
         },
         {
-          "id": 53256583184715,
           "product_id": 10825045573963,
+          "id": 53256583184715,
           "title": "Black",
           "price": "33.85",
           "position": 6,
@@ -3494,8 +3494,8 @@
       ],
       "options": [
         {
-          "id": 13450921312587,
           "product_id": 10825045573963,
+          "id": 13450921312587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -3967,8 +3967,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823898988875",
       "variants": [
         {
-          "id": 53253436145995,
           "product_id": 10823898988875,
+          "id": 53253436145995,
           "title": "Black",
           "price": "39.49",
           "position": 1,
@@ -3995,8 +3995,8 @@
           "image_id": 64334530380107
         },
         {
-          "id": 53253436178763,
           "product_id": 10823898988875,
+          "id": 53253436178763,
           "title": "White",
           "price": "39.49",
           "position": 2,
@@ -4025,8 +4025,8 @@
       ],
       "options": [
         {
-          "id": 13449660268875,
           "product_id": 10823898988875,
+          "id": 13449660268875,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5410,8 +5410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383152918859",
       "variants": [
         {
-          "id": 55974130614603,
           "product_id": 15383152918859,
+          "id": 55974130614603,
           "title": "white",
           "price": "44.95",
           "position": 1,
@@ -5440,8 +5440,8 @@
       ],
       "options": [
         {
-          "id": 17822066311499,
           "product_id": 15383152918859,
+          "id": 17822066311499,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15921,8 +15921,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825090564427",
       "variants": [
         {
-          "id": 53256881340747,
           "product_id": 10825090564427,
+          "id": 53256881340747,
           "title": "White / USB",
           "price": "215.42",
           "position": 1,
@@ -15949,8 +15949,8 @@
           "image_id": 64365705953611
         },
         {
-          "id": 53256881373515,
           "product_id": 10825090564427,
+          "id": 53256881373515,
           "title": "White / USB 2pcs",
           "price": "348.90",
           "position": 2,
@@ -15977,8 +15977,8 @@
           "image_id": 64365705986379
         },
         {
-          "id": 53256881406283,
           "product_id": 10825090564427,
+          "id": 53256881406283,
           "title": "White / USB 3pcs",
           "price": "518.17",
           "position": 3,
@@ -16007,8 +16007,8 @@
       ],
       "options": [
         {
-          "id": 13450983637323,
           "product_id": 10825090564427,
+          "id": 13450983637323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16016,8 +16016,8 @@
           ]
         },
         {
-          "id": 13450983670091,
           "product_id": 10825090564427,
+          "id": 13450983670091,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
