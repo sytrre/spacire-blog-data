@@ -3250,8 +3250,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823660273995",
       "variants": [
         {
-          "id": 53251956539723,
           "product_id": 10823660273995,
+          "id": 53251956539723,
           "title": "Blue",
           "price": "43.49",
           "position": 1,
@@ -3278,8 +3278,8 @@
           "image_id": 64329988866379
         },
         {
-          "id": 53251956572491,
           "product_id": 10823660273995,
+          "id": 53251956572491,
           "title": "Pink",
           "price": "43.49",
           "position": 2,
@@ -3306,8 +3306,8 @@
           "image_id": 64329988899147
         },
         {
-          "id": 53251956605259,
           "product_id": 10823660273995,
+          "id": 53251956605259,
           "title": "Purple",
           "price": "43.49",
           "position": 3,
@@ -3334,8 +3334,8 @@
           "image_id": 64329988931915
         },
         {
-          "id": 53251956638027,
           "product_id": 10823660273995,
+          "id": 53251956638027,
           "title": "Red",
           "price": "43.49",
           "position": 4,
@@ -3364,8 +3364,8 @@
       ],
       "options": [
         {
-          "id": 13449302933835,
           "product_id": 10823660273995,
+          "id": 13449302933835,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5958,8 +5958,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825046819147",
       "variants": [
         {
-          "product_id": 10825046819147,
           "id": 53256590754123,
+          "product_id": 10825046819147,
           "title": "Black single eye mask",
           "price": "33.22",
           "position": 1,
@@ -5986,8 +5986,8 @@
           "image_id": 64365218103627
         },
         {
-          "product_id": 10825046819147,
           "id": 53256590786891,
+          "product_id": 10825046819147,
           "title": "4pcs set",
           "price": "33.68",
           "position": 2,
@@ -6016,8 +6016,8 @@
       ],
       "options": [
         {
-          "product_id": 10825046819147,
           "id": 13450922623307,
+          "product_id": 10825046819147,
           "name": "style",
           "position": 1,
           "values": [
@@ -58517,8 +58517,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045573963",
       "variants": [
         {
-          "product_id": 10825045573963,
           "id": 53256583020875,
+          "product_id": 10825045573963,
           "title": "2PC Black",
           "price": "35.56",
           "position": 1,
@@ -58545,8 +58545,8 @@
           "image_id": 64365202997579
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583053643,
+          "product_id": 10825045573963,
           "title": "3PC Black",
           "price": "37.23",
           "position": 2,
@@ -58573,8 +58573,8 @@
           "image_id": 64365203030347
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583086411,
+          "product_id": 10825045573963,
           "title": "4PC Black",
           "price": "38.93",
           "position": 3,
@@ -58601,8 +58601,8 @@
           "image_id": 64365203063115
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583119179,
+          "product_id": 10825045573963,
           "title": "5PC Black",
           "price": "40.63",
           "position": 4,
@@ -58629,8 +58629,8 @@
           "image_id": 64365203095883
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583151947,
+          "product_id": 10825045573963,
           "title": "Black Without nasal wings",
           "price": "33.54",
           "position": 5,
@@ -58657,8 +58657,8 @@
           "image_id": 64365203128651
         },
         {
-          "product_id": 10825045573963,
           "id": 53256583184715,
+          "product_id": 10825045573963,
           "title": "Black",
           "price": "33.85",
           "position": 6,
@@ -58687,8 +58687,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045573963,
           "id": 13450921312587,
+          "product_id": 10825045573963,
           "name": "Color",
           "position": 1,
           "values": [
