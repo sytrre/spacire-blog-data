@@ -2688,8 +2688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15356850831691",
       "variants": [
         {
-          "product_id": 15356850831691,
           "id": 55875399188811,
+          "product_id": 15356850831691,
           "title": "15Pairs-white",
           "price": "29.95",
           "position": 1,
@@ -2716,8 +2716,8 @@
           "image_id": null
         },
         {
-          "product_id": 15356850831691,
           "id": 55875399221579,
+          "product_id": 15356850831691,
           "title": "15Pairs-black",
           "price": "29.95",
           "position": 2,
@@ -2744,8 +2744,8 @@
           "image_id": null
         },
         {
-          "product_id": 15356850831691,
           "id": 55875399254347,
+          "product_id": 15356850831691,
           "title": "5Pairs",
           "price": "27.95",
           "position": 3,
@@ -2774,8 +2774,8 @@
       ],
       "options": [
         {
-          "product_id": 15356850831691,
           "id": 17790860329291,
+          "product_id": 15356850831691,
           "name": "Color",
           "position": 1,
           "values": [
