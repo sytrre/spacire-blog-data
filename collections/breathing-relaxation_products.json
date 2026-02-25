@@ -4922,8 +4922,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374080016715",
       "variants": [
         {
-          "product_id": 15374080016715,
           "id": 55945729769803,
+          "product_id": 15374080016715,
           "title": "white",
           "price": "38.95",
           "position": 1,
@@ -4952,8 +4952,8 @@
       ],
       "options": [
         {
-          "product_id": 15374080016715,
           "id": 17811395477835,
+          "product_id": 15374080016715,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9839,8 +9839,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374084669771",
       "variants": [
         {
-          "id": 55945763488075,
           "product_id": 15374084669771,
+          "id": 55945763488075,
           "title": "1pc Random color",
           "price": "16.95",
           "position": 1,
@@ -9869,8 +9869,8 @@
       ],
       "options": [
         {
-          "id": 17811403112779,
           "product_id": 15374084669771,
+          "id": 17811403112779,
           "name": "Color",
           "position": 1,
           "values": [
