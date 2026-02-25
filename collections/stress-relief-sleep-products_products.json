@@ -31367,8 +31367,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825033515339",
       "variants": [
         {
-          "product_id": 10825033515339,
           "id": 53256542814539,
+          "product_id": 10825033515339,
           "title": "Pink",
           "price": "29.55",
           "position": 1,
@@ -31395,8 +31395,8 @@
           "image_id": 64365064323403
         },
         {
-          "product_id": 10825033515339,
           "id": 53256542847307,
+          "product_id": 10825033515339,
           "title": "Light Gray",
           "price": "29.55",
           "position": 2,
@@ -31423,8 +31423,8 @@
           "image_id": 64365064356171
         },
         {
-          "product_id": 10825033515339,
           "id": 53256542880075,
+          "product_id": 10825033515339,
           "title": "Cyan",
           "price": "29.55",
           "position": 3,
@@ -31451,8 +31451,8 @@
           "image_id": 64365064388939
         },
         {
-          "product_id": 10825033515339,
           "id": 53256542912843,
+          "product_id": 10825033515339,
           "title": "Blue",
           "price": "29.55",
           "position": 4,
@@ -31479,8 +31479,8 @@
           "image_id": 64365064421707
         },
         {
-          "product_id": 10825033515339,
           "id": 53256542945611,
+          "product_id": 10825033515339,
           "title": "Black",
           "price": "29.55",
           "position": 5,
@@ -31507,8 +31507,8 @@
           "image_id": 64365064454475
         },
         {
-          "product_id": 10825033515339,
           "id": 53256542978379,
+          "product_id": 10825033515339,
           "title": "Navy Blue",
           "price": "29.55",
           "position": 6,
@@ -31537,8 +31537,8 @@
       ],
       "options": [
         {
-          "product_id": 10825033515339,
           "id": 13450904174923,
+          "product_id": 10825033515339,
           "name": "Color",
           "position": 1,
           "values": [
@@ -34609,8 +34609,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "id": 53256408367435,
           "product_id": 10825005203787,
+          "id": 53256408367435,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -34639,8 +34639,8 @@
       ],
       "options": [
         {
-          "id": 13450870784331,
           "product_id": 10825005203787,
+          "id": 13450870784331,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -37740,8 +37740,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045967179",
       "variants": [
         {
-          "id": 53256583446859,
           "product_id": 10825045967179,
+          "id": 53256583446859,
           "title": "Slim and long",
           "price": "32.29",
           "position": 1,
@@ -37768,8 +37768,8 @@
           "image_id": 64365204078923
         },
         {
-          "id": 53256583479627,
           "product_id": 10825045967179,
+          "id": 53256583479627,
           "title": "Slim and short",
           "price": "32.29",
           "position": 2,
@@ -37796,8 +37796,8 @@
           "image_id": 64365204111691
         },
         {
-          "id": 53256583512395,
           "product_id": 10825045967179,
+          "id": 53256583512395,
           "title": "Grey outline",
           "price": "32.29",
           "position": 3,
@@ -37826,8 +37826,8 @@
       ],
       "options": [
         {
-          "id": 13450921705803,
           "product_id": 10825045967179,
+          "id": 13450921705803,
           "name": "style",
           "position": 1,
           "values": [
