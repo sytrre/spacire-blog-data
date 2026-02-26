@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -52,8 +52,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -80,8 +80,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -108,8 +108,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -138,8 +138,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -150,8 +150,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -4805,8 +4805,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "product_id": 10825068970315,
           "id": 53256744730955,
+          "product_id": 10825068970315,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -4833,8 +4833,8 @@
           "image_id": 64365481132363
         },
         {
-          "product_id": 10825068970315,
           "id": 53256744763723,
+          "product_id": 10825068970315,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -4863,8 +4863,8 @@
       ],
       "options": [
         {
-          "product_id": 10825068970315,
           "id": 13450952737099,
+          "product_id": 10825068970315,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4872,8 +4872,8 @@
           ]
         },
         {
-          "product_id": 10825068970315,
           "id": 13450952769867,
+          "product_id": 10825068970315,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -4882,8 +4882,8 @@
           ]
         },
         {
-          "product_id": 10825068970315,
           "id": 13450952802635,
+          "product_id": 10825068970315,
           "name": "Please Input",
           "position": 3,
           "values": [
