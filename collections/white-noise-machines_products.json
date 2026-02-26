@@ -9874,8 +9874,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108226379",
       "variants": [
         {
-          "product_id": 10825108226379,
           "id": 53256916009291,
+          "product_id": 10825108226379,
           "title": "Sound Tube",
           "price": "105.64",
           "position": 1,
@@ -9904,8 +9904,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108226379,
           "id": 13451010310475,
+          "product_id": 10825108226379,
           "name": "Color",
           "position": 1,
           "values": [
@@ -19458,8 +19458,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773159755",
       "variants": [
         {
-          "id": 53252550230347,
           "product_id": 10823773159755,
+          "id": 53252550230347,
           "title": "Aurora Green",
           "price": "93.49",
           "position": 1,
@@ -19486,8 +19486,8 @@
           "image_id": 64332177211723
         },
         {
-          "id": 53252550263115,
           "product_id": 10823773159755,
+          "id": 53252550263115,
           "title": "Milk Coffee Color",
           "price": "93.49",
           "position": 2,
@@ -19516,8 +19516,8 @@
       ],
       "options": [
         {
-          "id": 13449496756555,
           "product_id": 10823773159755,
+          "id": 13449496756555,
           "name": "Color",
           "position": 1,
           "values": [
