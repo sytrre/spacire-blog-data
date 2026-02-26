@@ -37039,8 +37039,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825104621899",
       "variants": [
         {
-          "product_id": 10825104621899,
           "id": 53256909848907,
+          "product_id": 10825104621899,
           "title": "White",
           "price": "334.27",
           "position": 1,
@@ -37069,8 +37069,8 @@
       ],
       "options": [
         {
-          "product_id": 10825104621899,
           "id": 13451006443851,
+          "product_id": 10825104621899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -97088,8 +97088,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774899867979",
       "variants": [
         {
-          "id": 53325563658571,
           "product_id": 14774899867979,
+          "id": 53325563658571,
           "title": "Yellow",
           "price": "45.86",
           "position": 1,
@@ -97118,8 +97118,8 @@
       ],
       "options": [
         {
-          "id": 17120137740619,
           "product_id": 14774899867979,
+          "id": 17120137740619,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98624,8 +98624,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775048208715",
       "variants": [
         {
-          "id": 53327248589131,
           "product_id": 14775048208715,
+          "id": 53327248589131,
           "title": "White / 40cm",
           "price": "18.15",
           "position": 1,
@@ -98654,8 +98654,8 @@
       ],
       "options": [
         {
-          "id": 17120338968907,
           "product_id": 14775048208715,
+          "id": 17120338968907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98663,8 +98663,8 @@
           ]
         },
         {
-          "id": 17120339001675,
           "product_id": 14775048208715,
+          "id": 17120339001675,
           "name": "Size",
           "position": 2,
           "values": [
