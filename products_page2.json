@@ -22347,7 +22347,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-26T11:22:53+01:00",
       "handle": "orbited-3d-silk-travel-eye-mask-comfortable-light-blocking-office-naps-restful-sleep",
-      "updated_at": "2026-01-30T14:35:04+00:00",
+      "updated_at": "2026-02-26T03:26:31+00:00",
       "published_at": "2025-08-26T11:23:08+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -22367,7 +22367,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T11:23:06+01:00",
-          "updated_at": "2025-09-10T07:11:55+01:00",
+          "updated_at": "2026-02-26T03:26:31+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -22378,8 +22378,8 @@
           "weight": 150.0,
           "weight_unit": "g",
           "inventory_item_id": 55214464794955,
-          "inventory_quantity": 2041,
-          "old_inventory_quantity": 2041,
+          "inventory_quantity": 1146,
+          "old_inventory_quantity": 1146,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53252755915083",
           "image_id": 64333140558155
         }
@@ -40782,8 +40782,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374092239179",
       "variants": [
         {
-          "product_id": 15374092239179,
           "id": 55945800941899,
+          "product_id": 15374092239179,
           "title": "30pcs",
           "price": "22.95",
           "position": 1,
@@ -40810,8 +40810,8 @@
           "image_id": 79156425261387
         },
         {
-          "product_id": 15374092239179,
           "id": 55945800974667,
+          "product_id": 15374092239179,
           "title": "90pcs",
           "price": "24.95",
           "position": 2,
@@ -40838,8 +40838,8 @@
           "image_id": 79156425294155
         },
         {
-          "product_id": 15374092239179,
           "id": 55945801007435,
+          "product_id": 15374092239179,
           "title": "150pcs",
           "price": "26.95",
           "position": 3,
@@ -40868,8 +40868,8 @@
       ],
       "options": [
         {
-          "product_id": 15374092239179,
           "id": 17811413860683,
+          "product_id": 15374092239179,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65830,8 +65830,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774287499595",
       "variants": [
         {
-          "product_id": 14774287499595,
           "id": 53322183213387,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 14",
           "price": "82.05",
           "position": 1,
@@ -65858,8 +65858,8 @@
           "image_id": 64635388166475
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183246155,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 2",
           "price": "82.05",
           "position": 2,
@@ -65886,8 +65886,8 @@
           "image_id": 64635388199243
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183278923,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 19",
           "price": "82.05",
           "position": 3,
@@ -65914,8 +65914,8 @@
           "image_id": 64635388232011
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183311691,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 1",
           "price": "82.05",
           "position": 4,
@@ -65942,8 +65942,8 @@
           "image_id": 64635388264779
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183344459,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 9",
           "price": "82.05",
           "position": 5,
@@ -65970,8 +65970,8 @@
           "image_id": 64635388297547
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183377227,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 2",
           "price": "82.05",
           "position": 6,
@@ -65998,8 +65998,8 @@
           "image_id": 64635388199243
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183409995,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 11",
           "price": "82.05",
           "position": 7,
@@ -66026,8 +66026,8 @@
           "image_id": 64635388330315
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183442763,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 18",
           "price": "82.05",
           "position": 8,
@@ -66054,8 +66054,8 @@
           "image_id": 64635388363083
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183475531,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 9",
           "price": "82.05",
           "position": 9,
@@ -66082,8 +66082,8 @@
           "image_id": 64635388297547
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183508299,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 22",
           "price": "82.05",
           "position": 10,
@@ -66110,8 +66110,8 @@
           "image_id": 64635388395851
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183541067,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 14",
           "price": "82.05",
           "position": 11,
@@ -66138,8 +66138,8 @@
           "image_id": 64635388166475
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183573835,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 13",
           "price": "82.05",
           "position": 12,
@@ -66166,8 +66166,8 @@
           "image_id": 64635388428619
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183606603,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 16",
           "price": "82.05",
           "position": 13,
@@ -66194,8 +66194,8 @@
           "image_id": 64635388461387
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183639371,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 13",
           "price": "82.05",
           "position": 14,
@@ -66222,8 +66222,8 @@
           "image_id": 64635388428619
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183672139,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 21",
           "price": "82.05",
           "position": 15,
@@ -66250,8 +66250,8 @@
           "image_id": 64635388494155
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183704907,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 4",
           "price": "82.05",
           "position": 16,
@@ -66278,8 +66278,8 @@
           "image_id": 64635388526923
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183737675,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 8",
           "price": "82.05",
           "position": 17,
@@ -66306,8 +66306,8 @@
           "image_id": 64635388559691
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183770443,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 10",
           "price": "82.05",
           "position": 18,
@@ -66334,8 +66334,8 @@
           "image_id": 64635388592459
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183803211,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 6",
           "price": "82.05",
           "position": 19,
@@ -66362,8 +66362,8 @@
           "image_id": 64635388625227
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183835979,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 15",
           "price": "82.05",
           "position": 20,
@@ -66390,8 +66390,8 @@
           "image_id": 64635388657995
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183868747,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 14",
           "price": "82.05",
           "position": 21,
@@ -66418,8 +66418,8 @@
           "image_id": 64635388166475
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183901515,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 3",
           "price": "82.05",
           "position": 22,
@@ -66446,8 +66446,8 @@
           "image_id": 64635388690763
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183934283,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 3",
           "price": "82.05",
           "position": 23,
@@ -66474,8 +66474,8 @@
           "image_id": 64635388690763
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183967051,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 11",
           "price": "82.05",
           "position": 24,
@@ -66502,8 +66502,8 @@
           "image_id": 64635388330315
         },
         {
-          "product_id": 14774287499595,
           "id": 53322183999819,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 1",
           "price": "82.05",
           "position": 25,
@@ -66530,8 +66530,8 @@
           "image_id": 64635388264779
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184032587,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 16",
           "price": "82.05",
           "position": 26,
@@ -66558,8 +66558,8 @@
           "image_id": 64635388461387
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184065355,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 15",
           "price": "82.05",
           "position": 27,
@@ -66586,8 +66586,8 @@
           "image_id": 64635388657995
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184098123,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 5",
           "price": "82.05",
           "position": 28,
@@ -66614,8 +66614,8 @@
           "image_id": 64635388723531
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184130891,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 17",
           "price": "82.05",
           "position": 29,
@@ -66642,8 +66642,8 @@
           "image_id": 64635388756299
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184163659,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 12",
           "price": "82.05",
           "position": 30,
@@ -66670,8 +66670,8 @@
           "image_id": 64635388789067
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184196427,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 15",
           "price": "82.05",
           "position": 31,
@@ -66698,8 +66698,8 @@
           "image_id": 64635388657995
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184229195,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 5",
           "price": "82.05",
           "position": 32,
@@ -66726,8 +66726,8 @@
           "image_id": 64635388723531
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184261963,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 19",
           "price": "82.05",
           "position": 33,
@@ -66754,8 +66754,8 @@
           "image_id": 64635388232011
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184294731,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 20",
           "price": "82.05",
           "position": 34,
@@ -66782,8 +66782,8 @@
           "image_id": 64635388821835
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184327499,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 21",
           "price": "82.05",
           "position": 35,
@@ -66810,8 +66810,8 @@
           "image_id": 64635388494155
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184360267,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 10",
           "price": "82.05",
           "position": 36,
@@ -66838,8 +66838,8 @@
           "image_id": 64635388592459
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184393035,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 4",
           "price": "82.05",
           "position": 37,
@@ -66866,8 +66866,8 @@
           "image_id": 64635388526923
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184425803,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 7",
           "price": "82.05",
           "position": 38,
@@ -66894,8 +66894,8 @@
           "image_id": 64635388854603
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184458571,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 12",
           "price": "82.05",
           "position": 39,
@@ -66922,8 +66922,8 @@
           "image_id": 64635388789067
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184491339,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 9",
           "price": "82.05",
           "position": 40,
@@ -66950,8 +66950,8 @@
           "image_id": 64635388297547
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184524107,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 5",
           "price": "82.05",
           "position": 41,
@@ -66978,8 +66978,8 @@
           "image_id": 64635388723531
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184556875,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 7",
           "price": "82.05",
           "position": 42,
@@ -67006,8 +67006,8 @@
           "image_id": 64635388854603
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184589643,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 6",
           "price": "82.05",
           "position": 43,
@@ -67034,8 +67034,8 @@
           "image_id": 64635388625227
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184622411,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 6",
           "price": "82.05",
           "position": 44,
@@ -67062,8 +67062,8 @@
           "image_id": 64635388625227
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184655179,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 17",
           "price": "82.05",
           "position": 45,
@@ -67090,8 +67090,8 @@
           "image_id": 64635388756299
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184687947,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 8",
           "price": "82.05",
           "position": 46,
@@ -67118,8 +67118,8 @@
           "image_id": 64635388559691
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184720715,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 21",
           "price": "82.05",
           "position": 47,
@@ -67146,8 +67146,8 @@
           "image_id": 64635388494155
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184753483,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 16",
           "price": "82.05",
           "position": 48,
@@ -67174,8 +67174,8 @@
           "image_id": 64635388461387
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184786251,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 11",
           "price": "82.05",
           "position": 49,
@@ -67202,8 +67202,8 @@
           "image_id": 64635388330315
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184819019,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 1",
           "price": "82.05",
           "position": 50,
@@ -67230,8 +67230,8 @@
           "image_id": 64635388264779
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184851787,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 3",
           "price": "82.05",
           "position": 51,
@@ -67258,8 +67258,8 @@
           "image_id": 64635388690763
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184884555,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 2",
           "price": "82.05",
           "position": 52,
@@ -67286,8 +67286,8 @@
           "image_id": 64635388199243
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184917323,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 17",
           "price": "82.05",
           "position": 53,
@@ -67314,8 +67314,8 @@
           "image_id": 64635388756299
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184950091,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 7",
           "price": "82.05",
           "position": 54,
@@ -67342,8 +67342,8 @@
           "image_id": 64635388854603
         },
         {
-          "product_id": 14774287499595,
           "id": 53322184982859,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 20",
           "price": "82.05",
           "position": 55,
@@ -67370,8 +67370,8 @@
           "image_id": 64635388821835
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185015627,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 22",
           "price": "82.05",
           "position": 56,
@@ -67398,8 +67398,8 @@
           "image_id": 64635388395851
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185048395,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 18",
           "price": "82.05",
           "position": 57,
@@ -67426,8 +67426,8 @@
           "image_id": 64635388363083
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185081163,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 19",
           "price": "82.05",
           "position": 58,
@@ -67454,8 +67454,8 @@
           "image_id": 64635388232011
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185113931,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 22",
           "price": "82.05",
           "position": 59,
@@ -67482,8 +67482,8 @@
           "image_id": 64635388395851
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185146699,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 10",
           "price": "82.05",
           "position": 60,
@@ -67510,8 +67510,8 @@
           "image_id": 64635388592459
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185179467,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 12",
           "price": "82.05",
           "position": 61,
@@ -67538,8 +67538,8 @@
           "image_id": 64635388789067
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185212235,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 4",
           "price": "82.05",
           "position": 62,
@@ -67566,8 +67566,8 @@
           "image_id": 64635388526923
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185245003,
+          "product_id": 14774287499595,
           "title": "150x200cm5 Jin / 13",
           "price": "82.05",
           "position": 63,
@@ -67594,8 +67594,8 @@
           "image_id": 64635388428619
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185277771,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 8",
           "price": "82.05",
           "position": 64,
@@ -67622,8 +67622,8 @@
           "image_id": 64635388559691
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185310539,
+          "product_id": 14774287499595,
           "title": "200x230cm7 Jin / 18",
           "price": "82.05",
           "position": 65,
@@ -67650,8 +67650,8 @@
           "image_id": 64635388363083
         },
         {
-          "product_id": 14774287499595,
           "id": 53322185343307,
+          "product_id": 14774287499595,
           "title": "180x220cm6 Jin / 20",
           "price": "82.05",
           "position": 66,
@@ -67680,8 +67680,8 @@
       ],
       "options": [
         {
-          "product_id": 14774287499595,
           "id": 17119400624459,
+          "product_id": 14774287499595,
           "name": "Size specification",
           "position": 1,
           "values": [
@@ -67691,8 +67691,8 @@
           ]
         },
         {
-          "product_id": 14774287499595,
           "id": 17119400657227,
+          "product_id": 14774287499595,
           "name": "style",
           "position": 2,
           "values": [
@@ -69137,8 +69137,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14773502116171",
       "variants": [
         {
-          "product_id": 14773502116171,
           "id": 53317304680779,
+          "product_id": 14773502116171,
           "title": "Grey / 150cmX230cm",
           "price": "71.13",
           "position": 1,
@@ -69165,8 +69165,8 @@
           "image_id": 64622371471691
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304713547,
+          "product_id": 14773502116171,
           "title": "Grey / 200cmX230cm",
           "price": "72.34",
           "position": 2,
@@ -69193,8 +69193,8 @@
           "image_id": 64622371471691
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304746315,
+          "product_id": 14773502116171,
           "title": "Grey / 230cmX260cm",
           "price": "73.54",
           "position": 3,
@@ -69221,8 +69221,8 @@
           "image_id": 64622371471691
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304779083,
+          "product_id": 14773502116171,
           "title": "Red / 150cmX230cm",
           "price": "71.13",
           "position": 4,
@@ -69249,8 +69249,8 @@
           "image_id": 64622371504459
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304811851,
+          "product_id": 14773502116171,
           "title": "Red / 200cmX230cm",
           "price": "72.34",
           "position": 5,
@@ -69277,8 +69277,8 @@
           "image_id": 64622371504459
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304844619,
+          "product_id": 14773502116171,
           "title": "Red / 230cmX260cm",
           "price": "73.54",
           "position": 6,
@@ -69305,8 +69305,8 @@
           "image_id": 64622371504459
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304877387,
+          "product_id": 14773502116171,
           "title": "Pink / 150cmX230cm",
           "price": "71.13",
           "position": 7,
@@ -69333,8 +69333,8 @@
           "image_id": 64622371537227
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304910155,
+          "product_id": 14773502116171,
           "title": "Pink / 200cmX230cm",
           "price": "72.34",
           "position": 8,
@@ -69361,8 +69361,8 @@
           "image_id": 64622371537227
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304942923,
+          "product_id": 14773502116171,
           "title": "Pink / 230cmX260cm",
           "price": "73.54",
           "position": 9,
@@ -69389,8 +69389,8 @@
           "image_id": 64622371537227
         },
         {
-          "product_id": 14773502116171,
           "id": 53317304975691,
+          "product_id": 14773502116171,
           "title": "Camel / 150cmX230cm",
           "price": "71.13",
           "position": 10,
@@ -69417,8 +69417,8 @@
           "image_id": 64622371569995
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305008459,
+          "product_id": 14773502116171,
           "title": "Camel / 200cmX230cm",
           "price": "72.34",
           "position": 11,
@@ -69445,8 +69445,8 @@
           "image_id": 64622371569995
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305041227,
+          "product_id": 14773502116171,
           "title": "Camel / 230cmX260cm",
           "price": "73.54",
           "position": 12,
@@ -69473,8 +69473,8 @@
           "image_id": 64622371569995
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305073995,
+          "product_id": 14773502116171,
           "title": "Silver / 150cmX230cm",
           "price": "71.13",
           "position": 13,
@@ -69501,8 +69501,8 @@
           "image_id": 64622371602763
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305106763,
+          "product_id": 14773502116171,
           "title": "Silver / 200cmX230cm",
           "price": "72.34",
           "position": 14,
@@ -69529,8 +69529,8 @@
           "image_id": 64622371602763
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305139531,
+          "product_id": 14773502116171,
           "title": "Silver / 230cmX260cm",
           "price": "73.54",
           "position": 15,
@@ -69557,8 +69557,8 @@
           "image_id": 64622371602763
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305172299,
+          "product_id": 14773502116171,
           "title": "Purple / 150cmX230cm",
           "price": "71.13",
           "position": 16,
@@ -69585,8 +69585,8 @@
           "image_id": 64622371635531
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305205067,
+          "product_id": 14773502116171,
           "title": "Purple / 200cmX230cm",
           "price": "72.34",
           "position": 17,
@@ -69613,8 +69613,8 @@
           "image_id": 64622371635531
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305237835,
+          "product_id": 14773502116171,
           "title": "Purple / 230cmX260cm",
           "price": "73.54",
           "position": 18,
@@ -69641,8 +69641,8 @@
           "image_id": 64622371635531
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305270603,
+          "product_id": 14773502116171,
           "title": "Blue / 150cmX230cm",
           "price": "71.13",
           "position": 19,
@@ -69669,8 +69669,8 @@
           "image_id": 64622371668299
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305303371,
+          "product_id": 14773502116171,
           "title": "Blue / 200cmX230cm",
           "price": "72.34",
           "position": 20,
@@ -69697,8 +69697,8 @@
           "image_id": 64622371668299
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305336139,
+          "product_id": 14773502116171,
           "title": "Blue / 230cmX260cm",
           "price": "73.54",
           "position": 21,
@@ -69725,8 +69725,8 @@
           "image_id": 64622371668299
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305368907,
+          "product_id": 14773502116171,
           "title": "Coffee / 150cmX230cm",
           "price": "71.13",
           "position": 22,
@@ -69753,8 +69753,8 @@
           "image_id": 64622371701067
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305401675,
+          "product_id": 14773502116171,
           "title": "Coffee / 200cmX230cm",
           "price": "72.34",
           "position": 23,
@@ -69781,8 +69781,8 @@
           "image_id": 64622371701067
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305434443,
+          "product_id": 14773502116171,
           "title": "Coffee / 230cmX260cm",
           "price": "73.54",
           "position": 24,
@@ -69809,8 +69809,8 @@
           "image_id": 64622371701067
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305467211,
+          "product_id": 14773502116171,
           "title": "Brown / 150cmX230cm",
           "price": "71.13",
           "position": 25,
@@ -69837,8 +69837,8 @@
           "image_id": 64622371733835
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305499979,
+          "product_id": 14773502116171,
           "title": "Brown / 200cmX230cm",
           "price": "72.34",
           "position": 26,
@@ -69865,8 +69865,8 @@
           "image_id": 64622371733835
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305532747,
+          "product_id": 14773502116171,
           "title": "Brown / 230cmX260cm",
           "price": "73.54",
           "position": 27,
@@ -69893,8 +69893,8 @@
           "image_id": 64622371733835
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305565515,
+          "product_id": 14773502116171,
           "title": "Green / 150cmX230cm",
           "price": "71.13",
           "position": 28,
@@ -69921,8 +69921,8 @@
           "image_id": 64622371766603
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305598283,
+          "product_id": 14773502116171,
           "title": "Green / 200cmX230cm",
           "price": "72.34",
           "position": 29,
@@ -69949,8 +69949,8 @@
           "image_id": 64622371766603
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305631051,
+          "product_id": 14773502116171,
           "title": "Green / 230cmX260cm",
           "price": "73.54",
           "position": 30,
@@ -69977,8 +69977,8 @@
           "image_id": 64622371766603
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305663819,
+          "product_id": 14773502116171,
           "title": "White / 150cmX230cm",
           "price": "71.13",
           "position": 31,
@@ -70005,8 +70005,8 @@
           "image_id": 64622371799371
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305696587,
+          "product_id": 14773502116171,
           "title": "White / 200cmX230cm",
           "price": "72.34",
           "position": 32,
@@ -70033,8 +70033,8 @@
           "image_id": 64622371799371
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305729355,
+          "product_id": 14773502116171,
           "title": "White / 230cmX260cm",
           "price": "73.54",
           "position": 33,
@@ -70061,8 +70061,8 @@
           "image_id": 64622371799371
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305762123,
+          "product_id": 14773502116171,
           "title": "Coloured glaze green / 150cmX230cm",
           "price": "71.13",
           "position": 34,
@@ -70089,8 +70089,8 @@
           "image_id": 64622371832139
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305794891,
+          "product_id": 14773502116171,
           "title": "Coloured glaze green / 200cmX230cm",
           "price": "72.34",
           "position": 35,
@@ -70117,8 +70117,8 @@
           "image_id": 64622371832139
         },
         {
-          "product_id": 14773502116171,
           "id": 53317305827659,
+          "product_id": 14773502116171,
           "title": "Coloured glaze green / 230cmX260cm",
           "price": "73.54",
           "position": 36,
@@ -70147,8 +70147,8 @@
       ],
       "options": [
         {
-          "product_id": 14773502116171,
           "id": 17118309876043,
+          "product_id": 14773502116171,
           "name": "Color",
           "position": 1,
           "values": [
@@ -70167,8 +70167,8 @@
           ]
         },
         {
-          "product_id": 14773502116171,
           "id": 17118309908811,
+          "product_id": 14773502116171,
           "name": "style",
           "position": 2,
           "values": [
@@ -81220,7 +81220,7 @@
       "product_type": "Eye Mask",
       "created_at": "2025-08-26T08:21:08+01:00",
       "handle": "synchrozx-ice-silk-korean-style-sleeping-eye-mask-cooling-warming-light-blocking-for-relaxation-and-deep-sleep",
-      "updated_at": "2026-02-24T08:37:16+00:00",
+      "updated_at": "2026-02-26T03:26:30+00:00",
       "published_at": "2025-08-26T08:21:16+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -81240,7 +81240,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-26T08:21:14+01:00",
-          "updated_at": "2026-02-24T08:37:16+00:00",
+          "updated_at": "2026-02-26T03:26:31+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -97538,8 +97538,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825143583051",
       "variants": [
         {
-          "product_id": 10825143583051,
           "id": 53257003663691,
+          "product_id": 10825143583051,
           "title": "1style / 150x270cm",
           "price": "46.77",
           "position": 1,
@@ -97566,8 +97566,8 @@
           "image_id": 64366619001163
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003696459,
+          "product_id": 10825143583051,
           "title": "1style / 200x270cm",
           "price": "48.61",
           "position": 2,
@@ -97594,8 +97594,8 @@
           "image_id": 64366619001163
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003729227,
+          "product_id": 10825143583051,
           "title": "1style / 300x270cm",
           "price": "52.31",
           "position": 3,
@@ -97622,8 +97622,8 @@
           "image_id": 64366619001163
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003761995,
+          "product_id": 10825143583051,
           "title": "1style / 400x270cm",
           "price": "56.00",
           "position": 4,
@@ -97650,8 +97650,8 @@
           "image_id": 64366619001163
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003794763,
+          "product_id": 10825143583051,
           "title": "2style / 150x270cm",
           "price": "46.77",
           "position": 5,
@@ -97678,8 +97678,8 @@
           "image_id": 64366619033931
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003827531,
+          "product_id": 10825143583051,
           "title": "2style / 200x270cm",
           "price": "48.61",
           "position": 6,
@@ -97706,8 +97706,8 @@
           "image_id": 64366619033931
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003860299,
+          "product_id": 10825143583051,
           "title": "2style / 300x270cm",
           "price": "52.31",
           "position": 7,
@@ -97734,8 +97734,8 @@
           "image_id": 64366619033931
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003893067,
+          "product_id": 10825143583051,
           "title": "2style / 400x270cm",
           "price": "56.00",
           "position": 8,
@@ -97762,8 +97762,8 @@
           "image_id": 64366619033931
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003925835,
+          "product_id": 10825143583051,
           "title": "3style / 150x270cm",
           "price": "44.91",
           "position": 9,
@@ -97790,8 +97790,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003958603,
+          "product_id": 10825143583051,
           "title": "3style / 200x270cm",
           "price": "46.15",
           "position": 10,
@@ -97818,8 +97818,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257003991371,
+          "product_id": 10825143583051,
           "title": "3style / 300x270cm",
           "price": "48.61",
           "position": 11,
@@ -97846,8 +97846,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004024139,
+          "product_id": 10825143583051,
           "title": "3style / 400x270cm",
           "price": "51.08",
           "position": 12,
@@ -97874,8 +97874,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004056907,
+          "product_id": 10825143583051,
           "title": "4style / 150x270cm",
           "price": "44.91",
           "position": 13,
@@ -97902,8 +97902,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004089675,
+          "product_id": 10825143583051,
           "title": "4style / 200x270cm",
           "price": "46.15",
           "position": 14,
@@ -97930,8 +97930,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004122443,
+          "product_id": 10825143583051,
           "title": "4style / 300x270cm",
           "price": "48.61",
           "position": 15,
@@ -97958,8 +97958,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004155211,
+          "product_id": 10825143583051,
           "title": "4style / 400x270cm",
           "price": "51.08",
           "position": 16,
@@ -97986,8 +97986,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004187979,
+          "product_id": 10825143583051,
           "title": "5style / 150x270cm",
           "price": "47.38",
           "position": 17,
@@ -98014,8 +98014,8 @@
           "image_id": 64366619132235
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004220747,
+          "product_id": 10825143583051,
           "title": "5style / 200x270cm",
           "price": "49.36",
           "position": 18,
@@ -98042,8 +98042,8 @@
           "image_id": 64366619132235
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004253515,
+          "product_id": 10825143583051,
           "title": "5style / 300x270cm",
           "price": "53.54",
           "position": 19,
@@ -98070,8 +98070,8 @@
           "image_id": 64366619132235
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004286283,
+          "product_id": 10825143583051,
           "title": "5style / 400x270cm",
           "price": "57.48",
           "position": 20,
@@ -98098,8 +98098,8 @@
           "image_id": 64366619132235
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004319051,
+          "product_id": 10825143583051,
           "title": "6style / 150x270cm",
           "price": "47.38",
           "position": 21,
@@ -98126,8 +98126,8 @@
           "image_id": 64366619165003
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004351819,
+          "product_id": 10825143583051,
           "title": "6style / 200x270cm",
           "price": "49.36",
           "position": 22,
@@ -98154,8 +98154,8 @@
           "image_id": 64366619165003
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004384587,
+          "product_id": 10825143583051,
           "title": "6style / 300x270cm",
           "price": "53.54",
           "position": 23,
@@ -98182,8 +98182,8 @@
           "image_id": 64366619165003
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004417355,
+          "product_id": 10825143583051,
           "title": "6style / 400x270cm",
           "price": "57.48",
           "position": 24,
@@ -98210,8 +98210,8 @@
           "image_id": 64366619165003
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004450123,
+          "product_id": 10825143583051,
           "title": "7style / 150x270cm",
           "price": "45.90",
           "position": 25,
@@ -98238,8 +98238,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004482891,
+          "product_id": 10825143583051,
           "title": "7style / 200x270cm",
           "price": "47.38",
           "position": 26,
@@ -98266,8 +98266,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004515659,
+          "product_id": 10825143583051,
           "title": "7style / 300x270cm",
           "price": "50.46",
           "position": 27,
@@ -98294,8 +98294,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004548427,
+          "product_id": 10825143583051,
           "title": "7style / 400x270cm",
           "price": "53.54",
           "position": 28,
@@ -98322,8 +98322,8 @@
           "image_id": 64366619066699
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004581195,
+          "product_id": 10825143583051,
           "title": "8style / 150x270cm",
           "price": "45.90",
           "position": 29,
@@ -98350,8 +98350,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004613963,
+          "product_id": 10825143583051,
           "title": "8style / 200x270cm",
           "price": "47.38",
           "position": 30,
@@ -98378,8 +98378,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004646731,
+          "product_id": 10825143583051,
           "title": "8style / 300x270cm",
           "price": "50.46",
           "position": 31,
@@ -98406,8 +98406,8 @@
           "image_id": 64366619099467
         },
         {
-          "product_id": 10825143583051,
           "id": 53257004679499,
+          "product_id": 10825143583051,
           "title": "8style / 400x270cm",
           "price": "53.54",
           "position": 32,
@@ -98436,8 +98436,8 @@
       ],
       "options": [
         {
-          "product_id": 10825143583051,
           "id": 13451057660235,
+          "product_id": 10825143583051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -98452,8 +98452,8 @@
           ]
         },
         {
-          "product_id": 10825143583051,
           "id": 13451057693003,
+          "product_id": 10825143583051,
           "name": "Size",
           "position": 2,
           "values": [
