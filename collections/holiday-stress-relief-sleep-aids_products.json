@@ -1272,8 +1272,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825005203787",
       "variants": [
         {
-          "product_id": 10825005203787,
           "id": 53256408367435,
+          "product_id": 10825005203787,
           "title": "100ml",
           "price": "22.50",
           "position": 1,
@@ -1302,8 +1302,8 @@
       ],
       "options": [
         {
-          "product_id": 10825005203787,
           "id": 13450870784331,
+          "product_id": 10825005203787,
           "name": "capacity",
           "position": 1,
           "values": [
@@ -1472,8 +1472,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823909867851",
       "variants": [
         {
-          "id": 53253481988427,
           "product_id": 10823909867851,
+          "id": 53253481988427,
           "title": "default",
           "price": "24.49",
           "position": 1,
@@ -1502,8 +1502,8 @@
       ],
       "options": [
         {
-          "id": 13449673572683,
           "product_id": 10823909867851,
+          "id": 13449673572683,
           "name": "default",
           "position": 1,
           "values": [
@@ -1685,8 +1685,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "id": 53257347727691,
           "product_id": 10825158754635,
+          "id": 53257347727691,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -1715,8 +1715,8 @@
       ],
       "options": [
         {
-          "id": 13451085906251,
           "product_id": 10825158754635,
+          "id": 13451085906251,
           "name": "Size",
           "position": 1,
           "values": [

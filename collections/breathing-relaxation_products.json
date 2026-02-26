@@ -2893,8 +2893,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374081261899",
       "variants": [
         {
-          "product_id": 15374081261899,
           "id": 55945740910923,
+          "product_id": 15374081261899,
           "title": "Blue / EU Plug",
           "price": "49.95",
           "position": 1,
@@ -2921,8 +2921,8 @@
           "image_id": 79156382957899
         },
         {
-          "product_id": 15374081261899,
           "id": 55945740943691,
+          "product_id": 15374081261899,
           "title": "Pink / EU Plug",
           "price": "51.55",
           "position": 2,
@@ -2951,8 +2951,8 @@
       ],
       "options": [
         {
-          "product_id": 15374081261899,
           "id": 17811397509451,
+          "product_id": 15374081261899,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2961,8 +2961,8 @@
           ]
         },
         {
-          "product_id": 15374081261899,
           "id": 17811397542219,
+          "product_id": 15374081261899,
           "name": "Plug Type",
           "position": 2,
           "values": [
