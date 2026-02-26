@@ -4180,8 +4180,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102360907",
       "variants": [
         {
-          "product_id": 10825102360907,
           "id": 53256905490763,
+          "product_id": 10825102360907,
           "title": "Black / Full Set Standard",
           "price": "226.66",
           "position": 1,
@@ -4208,8 +4208,8 @@
           "image_id": 64365789675851
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905523531,
+          "product_id": 10825102360907,
           "title": "White / Full Set Standard",
           "price": "226.66",
           "position": 2,
@@ -4236,8 +4236,8 @@
           "image_id": 64365789708619
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905556299,
+          "product_id": 10825102360907,
           "title": "Sky Blue / Full Set Standard",
           "price": "226.66",
           "position": 3,
@@ -4264,8 +4264,8 @@
           "image_id": 64365789741387
         },
         {
-          "product_id": 10825102360907,
           "id": 53256905589067,
+          "product_id": 10825102360907,
           "title": "Pink / Full Set Standard",
           "price": "226.66",
           "position": 4,
@@ -4294,8 +4294,8 @@
       ],
       "options": [
         {
-          "product_id": 10825102360907,
           "id": 13451003461963,
+          "product_id": 10825102360907,
           "name": "Color",
           "position": 1,
           "values": [
@@ -4306,8 +4306,8 @@
           ]
         },
         {
-          "product_id": 10825102360907,
           "id": 13451003494731,
+          "product_id": 10825102360907,
           "name": "format",
           "position": 2,
           "values": [
@@ -4447,8 +4447,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825099706699",
       "variants": [
         {
-          "id": 53256899690827,
           "product_id": 10825099706699,
+          "id": 53256899690827,
           "title": "Set",
           "price": "428.72",
           "position": 1,
@@ -4477,8 +4477,8 @@
       ],
       "options": [
         {
-          "id": 13450999857483,
           "product_id": 10825099706699,
+          "id": 13450999857483,
           "name": "style",
           "position": 1,
           "values": [
@@ -7438,8 +7438,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825049735499",
       "variants": [
         {
-          "product_id": 10825049735499,
           "id": 53256600355147,
+          "product_id": 10825049735499,
           "title": "Pink",
           "price": "33.81",
           "position": 1,
@@ -7466,8 +7466,8 @@
           "image_id": 64365246153035
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600387915,
+          "product_id": 10825049735499,
           "title": "Green",
           "price": "33.81",
           "position": 2,
@@ -7494,8 +7494,8 @@
           "image_id": 64365246185803
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600420683,
+          "product_id": 10825049735499,
           "title": "Black",
           "price": "33.81",
           "position": 3,
@@ -7522,8 +7522,8 @@
           "image_id": 64365246218571
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600453451,
+          "product_id": 10825049735499,
           "title": "Gray",
           "price": "33.81",
           "position": 4,
@@ -7552,8 +7552,8 @@
       ],
       "options": [
         {
-          "product_id": 10825049735499,
           "id": 13450925769035,
+          "product_id": 10825049735499,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -55432,8 +55432,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157837131",
       "variants": [
         {
-          "id": 53257335046475,
           "product_id": 10825157837131,
+          "id": 53257335046475,
           "title": "White / USB",
           "price": "41.06",
           "position": 1,
@@ -55462,8 +55462,8 @@
       ],
       "options": [
         {
-          "id": 13451084267851,
           "product_id": 10825157837131,
+          "id": 13451084267851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -55471,8 +55471,8 @@
           ]
         },
         {
-          "id": 13451084300619,
           "product_id": 10825157837131,
+          "id": 13451084300619,
           "name": "Electrical outlet",
           "position": 2,
           "values": [

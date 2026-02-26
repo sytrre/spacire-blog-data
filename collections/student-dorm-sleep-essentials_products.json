@@ -4459,8 +4459,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825049735499",
       "variants": [
         {
-          "product_id": 10825049735499,
           "id": 53256600355147,
+          "product_id": 10825049735499,
           "title": "Pink",
           "price": "33.81",
           "position": 1,
@@ -4487,8 +4487,8 @@
           "image_id": 64365246153035
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600387915,
+          "product_id": 10825049735499,
           "title": "Green",
           "price": "33.81",
           "position": 2,
@@ -4515,8 +4515,8 @@
           "image_id": 64365246185803
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600420683,
+          "product_id": 10825049735499,
           "title": "Black",
           "price": "33.81",
           "position": 3,
@@ -4543,8 +4543,8 @@
           "image_id": 64365246218571
         },
         {
-          "product_id": 10825049735499,
           "id": 53256600453451,
+          "product_id": 10825049735499,
           "title": "Gray",
           "price": "33.81",
           "position": 4,
@@ -4573,8 +4573,8 @@
       ],
       "options": [
         {
-          "product_id": 10825049735499,
           "id": 13450925769035,
+          "product_id": 10825049735499,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -43082,8 +43082,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "id": 53256602091851,
           "product_id": 10825050194251,
+          "id": 53256602091851,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -43112,8 +43112,8 @@
       ],
       "options": [
         {
-          "id": 13450926260555,
           "product_id": 10825050194251,
+          "id": 13450926260555,
           "name": "Color",
           "position": 1,
           "values": [
@@ -61932,8 +61932,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047671115",
       "variants": [
         {
-          "id": 53256593113419,
           "product_id": 10825047671115,
+          "id": 53256593113419,
           "title": "Hollow model black",
           "price": "31.94",
           "position": 1,
@@ -61960,8 +61960,8 @@
           "image_id": 64365227770187
         },
         {
-          "id": 53256593146187,
           "product_id": 10825047671115,
+          "id": 53256593146187,
           "title": "Hollow model grey",
           "price": "31.94",
           "position": 2,
@@ -61988,8 +61988,8 @@
           "image_id": 64365227802955
         },
         {
-          "id": 53256593178955,
           "product_id": 10825047671115,
+          "id": 53256593178955,
           "title": "Hollow model champagne",
           "price": "31.94",
           "position": 3,
@@ -62016,8 +62016,8 @@
           "image_id": 64365227835723
         },
         {
-          "id": 53256593211723,
           "product_id": 10825047671115,
+          "id": 53256593211723,
           "title": "Hollow model color matching",
           "price": "32.10",
           "position": 4,
@@ -62046,8 +62046,8 @@
       ],
       "options": [
         {
-          "id": 13450923475275,
           "product_id": 10825047671115,
+          "id": 13450923475275,
           "name": "Color",
           "position": 1,
           "values": [
