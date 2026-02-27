@@ -19411,8 +19411,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823773159755",
       "variants": [
         {
-          "product_id": 10823773159755,
           "id": 53252550230347,
+          "product_id": 10823773159755,
           "title": "Aurora Green",
           "price": "93.49",
           "position": 1,
@@ -19439,8 +19439,8 @@
           "image_id": 64332177211723
         },
         {
-          "product_id": 10823773159755,
           "id": 53252550263115,
+          "product_id": 10823773159755,
           "title": "Milk Coffee Color",
           "price": "93.49",
           "position": 2,
@@ -19469,8 +19469,8 @@
       ],
       "options": [
         {
-          "product_id": 10823773159755,
           "id": 13449496756555,
+          "product_id": 10823773159755,
           "name": "Color",
           "position": 1,
           "values": [
