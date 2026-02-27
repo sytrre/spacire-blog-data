@@ -9595,8 +9595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108226379",
       "variants": [
         {
-          "product_id": 10825108226379,
           "id": 53256916009291,
+          "product_id": 10825108226379,
           "title": "Sound Tube",
           "price": "105.64",
           "position": 1,
@@ -9625,8 +9625,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108226379,
           "id": 13451010310475,
+          "product_id": 10825108226379,
           "name": "Color",
           "position": 1,
           "values": [

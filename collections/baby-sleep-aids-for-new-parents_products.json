@@ -9082,8 +9082,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825101705547",
       "variants": [
         {
-          "id": 53256904769867,
           "product_id": 10825101705547,
+          "id": 53256904769867,
           "title": "White",
           "price": "629.79",
           "position": 1,
@@ -9112,8 +9112,8 @@
       ],
       "options": [
         {
-          "id": 13451002249547,
           "product_id": 10825101705547,
+          "id": 13451002249547,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9595,8 +9595,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108226379",
       "variants": [
         {
-          "product_id": 10825108226379,
           "id": 53256916009291,
+          "product_id": 10825108226379,
           "title": "Sound Tube",
           "price": "105.64",
           "position": 1,
@@ -9625,8 +9625,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108226379,
           "id": 13451010310475,
+          "product_id": 10825108226379,
           "name": "Color",
           "position": 1,
           "values": [
