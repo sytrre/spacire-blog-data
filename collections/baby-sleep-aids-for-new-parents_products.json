@@ -3437,8 +3437,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823794557259",
       "variants": [
         {
-          "product_id": 10823794557259,
           "id": 53252659937611,
+          "product_id": 10823794557259,
           "title": "Classic White",
           "price": "32.99",
           "position": 1,
@@ -3467,8 +3467,8 @@
       ],
       "options": [
         {
-          "product_id": 10823794557259,
           "id": 13449524347211,
+          "product_id": 10823794557259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -8917,8 +8917,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108259147",
       "variants": [
         {
-          "id": 53256916336971,
           "product_id": 10825108259147,
+          "id": 53256916336971,
           "title": "White",
           "price": "204.55",
           "position": 1,
@@ -8947,8 +8947,8 @@
       ],
       "options": [
         {
-          "id": 13451010343243,
           "product_id": 10825108259147,
+          "id": 13451010343243,
           "name": "Color",
           "position": 1,
           "values": [
