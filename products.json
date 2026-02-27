@@ -69153,8 +69153,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825045508427",
       "variants": [
         {
-          "product_id": 10825045508427,
           "id": 53256581742923,
+          "product_id": 10825045508427,
           "title": "Sky Blue",
           "price": "33.13",
           "position": 1,
@@ -69183,8 +69183,8 @@
       ],
       "options": [
         {
-          "product_id": 10825045508427,
           "id": 13450921247051,
+          "product_id": 10825045508427,
           "name": "Color",
           "position": 1,
           "values": [
@@ -121168,7 +121168,7 @@
       "product_type": "Sleep Patch",
       "created_at": "2025-08-27T06:12:22+01:00",
       "handle": "mq-fast-deep-calming-sleep-patch-sleep-aid-stickers-1-3-5-box-for-restful-nights-and-relaxation",
-      "updated_at": "2026-02-26T22:25:29+00:00",
+      "updated_at": "2026-02-27T14:26:36+00:00",
       "published_at": "2025-08-27T06:12:30+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -121188,7 +121188,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T06:12:28+01:00",
-          "updated_at": "2026-02-26T22:25:29+00:00",
+          "updated_at": "2026-02-27T14:26:37+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -121199,8 +121199,8 @@
           "weight": 120.0,
           "weight_unit": "g",
           "inventory_item_id": 55219087966539,
-          "inventory_quantity": 10275,
-          "old_inventory_quantity": 10275,
+          "inventory_quantity": 10276,
+          "old_inventory_quantity": 10276,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53257347400011",
           "image_id": 64367013757259
         },
