@@ -65329,8 +65329,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825063203147",
       "variants": [
         {
-          "product_id": 10825063203147,
           "id": 53256673198411,
+          "product_id": 10825063203147,
           "title": "Dark Gray / EM041",
           "price": "32.63",
           "position": 1,
@@ -65357,8 +65357,8 @@
           "image_id": 64365414646091
         },
         {
-          "product_id": 10825063203147,
           "id": 53256673231179,
+          "product_id": 10825063203147,
           "title": "Light Gray / EM041",
           "price": "32.63",
           "position": 2,
@@ -65387,8 +65387,8 @@
       ],
       "options": [
         {
-          "product_id": 10825063203147,
           "id": 13450943430987,
+          "product_id": 10825063203147,
           "name": "Color",
           "position": 1,
           "values": [
@@ -65397,8 +65397,8 @@
           ]
         },
         {
-          "product_id": 10825063203147,
           "id": 13450943463755,
+          "product_id": 10825063203147,
           "name": "Specifications",
           "position": 2,
           "values": [
