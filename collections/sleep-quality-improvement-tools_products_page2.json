@@ -10155,8 +10155,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825050194251",
       "variants": [
         {
-          "product_id": 10825050194251,
           "id": 53256602091851,
+          "product_id": 10825050194251,
           "title": "Grey",
           "price": "36.24",
           "position": 1,
@@ -10185,8 +10185,8 @@
       ],
       "options": [
         {
-          "product_id": 10825050194251,
           "id": 13450926260555,
+          "product_id": 10825050194251,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14214,8 +14214,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825021030731",
       "variants": [
         {
-          "product_id": 10825021030731,
           "id": 53256503918923,
+          "product_id": 10825021030731,
           "title": "Dark Purple",
           "price": "35.97",
           "position": 1,
@@ -14242,8 +14242,8 @@
           "image_id": 64364894257483
         },
         {
-          "product_id": 10825021030731,
           "id": 53256503951691,
+          "product_id": 10825021030731,
           "title": "Gray",
           "price": "35.97",
           "position": 2,
@@ -14272,8 +14272,8 @@
       ],
       "options": [
         {
-          "product_id": 10825021030731,
           "id": 13450890740043,
+          "product_id": 10825021030731,
           "name": "format",
           "position": 1,
           "values": [
@@ -92544,7 +92544,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-02-26T09:31:39+00:00",
+      "updated_at": "2026-02-27T02:26:26+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -92592,7 +92592,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-02-13T16:26:37+00:00",
+          "updated_at": "2026-02-27T02:26:27+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -92603,8 +92603,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318180683,
-          "inventory_quantity": 13536,
-          "old_inventory_quantity": 13536,
+          "inventory_quantity": 13535,
+          "old_inventory_quantity": 13535,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581939531",
           "image_id": 64365200179531
         }
@@ -97088,8 +97088,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774899867979",
       "variants": [
         {
-          "product_id": 14774899867979,
           "id": 53325563658571,
+          "product_id": 14774899867979,
           "title": "Yellow",
           "price": "45.86",
           "position": 1,
@@ -97118,8 +97118,8 @@
       ],
       "options": [
         {
-          "product_id": 14774899867979,
           "id": 17120137740619,
+          "product_id": 14774899867979,
           "name": "Color",
           "position": 1,
           "values": [
