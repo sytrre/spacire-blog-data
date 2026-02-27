@@ -10491,8 +10491,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825055338827",
       "variants": [
         {
-          "id": 53256623063371,
           "product_id": 10825055338827,
+          "id": 53256623063371,
           "title": "Navy Blue / 140x160cm",
           "price": "43.84",
           "position": 1,
@@ -10519,8 +10519,8 @@
           "image_id": 64365317161291
         },
         {
-          "id": 53256623096139,
           "product_id": 10825055338827,
+          "id": 53256623096139,
           "title": "Navy Blue / 140x220cm",
           "price": "44.95",
           "position": 2,
@@ -10547,8 +10547,8 @@
           "image_id": 64365317161291
         },
         {
-          "id": 53256623128907,
           "product_id": 10825055338827,
+          "id": 53256623128907,
           "title": "Navy Blue / 140x240cm",
           "price": "45.38",
           "position": 3,
@@ -10575,8 +10575,8 @@
           "image_id": 64365317161291
         },
         {
-          "id": 53256623161675,
           "product_id": 10825055338827,
+          "id": 53256623161675,
           "title": "Navy Blue / 140x260cm",
           "price": "45.65",
           "position": 4,
@@ -10605,8 +10605,8 @@
       ],
       "options": [
         {
-          "id": 13450931962187,
           "product_id": 10825055338827,
+          "id": 13450931962187,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10614,8 +10614,8 @@
           ]
         },
         {
-          "id": 13450931994955,
           "product_id": 10825055338827,
+          "id": 13450931994955,
           "name": "Size",
           "position": 2,
           "values": [
