@@ -21228,8 +21228,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825101181259",
       "variants": [
         {
-          "id": 53256903491915,
           "product_id": 10825101181259,
+          "id": 53256903491915,
           "title": "White",
           "price": "341.53",
           "position": 1,
@@ -21258,8 +21258,8 @@
       ],
       "options": [
         {
-          "id": 13451001659723,
           "product_id": 10825101181259,
+          "id": 13451001659723,
           "name": "Color",
           "position": 1,
           "values": [

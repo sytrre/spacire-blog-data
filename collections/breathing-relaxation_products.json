@@ -1056,8 +1056,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374080278859",
       "variants": [
         {
-          "product_id": 15374080278859,
           "id": 55945732456779,
+          "product_id": 15374080278859,
           "title": "Default Title",
           "price": "44.95",
           "position": 1,
@@ -1086,8 +1086,8 @@
       ],
       "options": [
         {
-          "product_id": 15374080278859,
           "id": 17811395969355,
+          "product_id": 15374080278859,
           "name": "Default Title",
           "position": 1,
           "values": [
@@ -12841,8 +12841,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823791575371",
       "variants": [
         {
-          "product_id": 10823791575371,
           "id": 53252640997707,
+          "product_id": 10823791575371,
           "title": "Black / USB",
           "price": "89.99",
           "position": 1,
@@ -12869,8 +12869,8 @@
           "image_id": 64332417139019
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641030475,
+          "product_id": 10823791575371,
           "title": "Kneading eye massager / USB",
           "price": "89.99",
           "position": 2,
@@ -12897,8 +12897,8 @@
           "image_id": 64332417171787
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641063243,
+          "product_id": 10823791575371,
           "title": "Pink / USB",
           "price": "89.99",
           "position": 3,
@@ -12925,8 +12925,8 @@
           "image_id": 64332417204555
         },
         {
-          "product_id": 10823791575371,
           "id": 53252641096011,
+          "product_id": 10823791575371,
           "title": "White / USB",
           "price": "89.99",
           "position": 4,
@@ -12955,8 +12955,8 @@
       ],
       "options": [
         {
-          "product_id": 10823791575371,
           "id": 13449520283979,
+          "product_id": 10823791575371,
           "name": "style",
           "position": 1,
           "values": [
@@ -12967,8 +12967,8 @@
           ]
         },
         {
-          "product_id": 10823791575371,
           "id": 13449520316747,
+          "product_id": 10823791575371,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
