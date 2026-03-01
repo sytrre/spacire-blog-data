@@ -28189,8 +28189,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772567048523",
       "variants": [
         {
-          "id": 53314618130763,
           "product_id": 14772567048523,
+          "id": 53314618130763,
           "title": "Memory cotton pillow",
           "price": "49.19",
           "position": 1,
@@ -28219,8 +28219,8 @@
       ],
       "options": [
         {
-          "id": 17117263397195,
           "product_id": 14772567048523,
+          "id": 17117263397195,
           "name": "style",
           "position": 1,
           "values": [
