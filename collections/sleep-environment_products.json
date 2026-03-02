@@ -7505,8 +7505,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824961229131",
       "variants": [
         {
-          "product_id": 10824961229131,
           "id": 53256230404427,
+          "product_id": 10824961229131,
           "title": "Lavender",
           "price": "24.33",
           "position": 1,
@@ -7535,8 +7535,8 @@
       ],
       "options": [
         {
-          "product_id": 10824961229131,
           "id": 13450821927243,
+          "product_id": 10824961229131,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14288,8 +14288,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823680229707",
       "variants": [
         {
-          "id": 53252015653195,
           "product_id": 10823680229707,
+          "id": 53252015653195,
           "title": "default",
           "price": "60.49",
           "position": 1,
@@ -14318,8 +14318,8 @@
       ],
       "options": [
         {
-          "id": 13449325707595,
           "product_id": 10823680229707,
+          "id": 13449325707595,
           "name": "default",
           "position": 1,
           "values": [
