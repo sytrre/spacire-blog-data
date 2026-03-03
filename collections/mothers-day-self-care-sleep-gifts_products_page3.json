@@ -224,8 +224,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960508235",
       "variants": [
         {
-          "id": 53256225620299,
           "product_id": 10824960508235,
+          "id": 53256225620299,
           "title": "60ml",
           "price": "21.84",
           "position": 1,
@@ -254,8 +254,8 @@
       ],
       "options": [
         {
-          "id": 13450821108043,
           "product_id": 10824960508235,
+          "id": 13450821108043,
           "name": "Color Classification",
           "position": 1,
           "values": [
@@ -2714,8 +2714,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825101181259",
       "variants": [
         {
-          "id": 53256903491915,
           "product_id": 10825101181259,
+          "id": 53256903491915,
           "title": "White",
           "price": "341.53",
           "position": 1,
@@ -2744,8 +2744,8 @@
       ],
       "options": [
         {
-          "id": 13451001659723,
           "product_id": 10825101181259,
+          "id": 13451001659723,
           "name": "Color",
           "position": 1,
           "values": [

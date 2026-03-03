@@ -1754,8 +1754,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10824960508235",
       "variants": [
         {
-          "id": 53256225620299,
           "product_id": 10824960508235,
+          "id": 53256225620299,
           "title": "60ml",
           "price": "21.84",
           "position": 1,
@@ -1784,8 +1784,8 @@
       ],
       "options": [
         {
-          "id": 13450821108043,
           "product_id": 10824960508235,
+          "id": 13450821108043,
           "name": "Color Classification",
           "position": 1,
           "values": [
