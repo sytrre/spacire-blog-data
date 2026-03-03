@@ -613,8 +613,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098527051",
       "variants": [
         {
-          "product_id": 10825098527051,
           "id": 53256897036619,
+          "product_id": 10825098527051,
           "title": "White / USB",
           "price": "425.19",
           "position": 1,
@@ -643,8 +643,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098527051,
           "id": 13450998186315,
+          "product_id": 10825098527051,
           "name": "Color",
           "position": 1,
           "values": [
@@ -652,8 +652,8 @@
           ]
         },
         {
-          "product_id": 10825098527051,
           "id": 13450998219083,
+          "product_id": 10825098527051,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -6703,8 +6703,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823745110347",
       "variants": [
         {
-          "id": 53252393304395,
           "product_id": 10823745110347,
+          "id": 53252393304395,
           "title": "Black / USB",
           "price": "66.49",
           "position": 1,
@@ -6733,8 +6733,8 @@
       ],
       "options": [
         {
-          "id": 13449447899467,
           "product_id": 10823745110347,
+          "id": 13449447899467,
           "name": "Color",
           "position": 1,
           "values": [
@@ -6742,8 +6742,8 @@
           ]
         },
         {
-          "id": 13449447932235,
           "product_id": 10823745110347,
+          "id": 13449447932235,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -21610,8 +21610,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079554379",
       "variants": [
         {
-          "id": 53256799191371,
           "product_id": 10825079554379,
+          "id": 53256799191371,
           "title": "White / USB",
           "price": "286.23",
           "position": 1,
@@ -21640,8 +21640,8 @@
       ],
       "options": [
         {
-          "id": 13450966958411,
           "product_id": 10825079554379,
+          "id": 13450966958411,
           "name": "Color",
           "position": 1,
           "values": [
@@ -21649,8 +21649,8 @@
           ]
         },
         {
-          "id": 13450966991179,
           "product_id": 10825079554379,
+          "id": 13450966991179,
           "name": "power",
           "position": 2,
           "values": [
