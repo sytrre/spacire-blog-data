@@ -5538,8 +5538,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383147807051",
       "variants": [
         {
-          "id": 55974119276875,
           "product_id": 15383147807051,
+          "id": 55974119276875,
           "title": "Black",
           "price": "29.95",
           "position": 1,
@@ -5566,8 +5566,8 @@
           "image_id": 79378906546507
         },
         {
-          "id": 55974119309643,
           "product_id": 15383147807051,
+          "id": 55974119309643,
           "title": "White",
           "price": "29.95",
           "position": 2,
@@ -5596,8 +5596,8 @@
       ],
       "options": [
         {
-          "id": 17822060609867,
           "product_id": 15383147807051,
+          "id": 17822060609867,
           "name": "Color",
           "position": 1,
           "values": [
