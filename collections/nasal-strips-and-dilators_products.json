@@ -2327,8 +2327,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383146889547",
       "variants": [
         {
-          "product_id": 15383146889547,
           "id": 55974117867851,
+          "product_id": 15383146889547,
           "title": "1 box (2Pcs)",
           "price": "22.95",
           "position": 1,
@@ -2355,8 +2355,8 @@
           "image_id": 79378855493963
         },
         {
-          "product_id": 15383146889547,
           "id": 55974117900619,
+          "product_id": 15383146889547,
           "title": "2 box (4Pcs)",
           "price": "24.95",
           "position": 2,
@@ -2385,8 +2385,8 @@
       ],
       "options": [
         {
-          "product_id": 15383146889547,
           "id": 17822059626827,
+          "product_id": 15383146889547,
           "name": "Color",
           "position": 1,
           "values": [
