@@ -7856,8 +7856,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "id": 53252584931659,
           "product_id": 10823774994763,
+          "id": 53252584931659,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -7884,8 +7884,8 @@
           "image_id": 64332198543691
         },
         {
-          "id": 53252584964427,
           "product_id": 10823774994763,
+          "id": 53252584964427,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -7912,8 +7912,8 @@
           "image_id": 64332198576459
         },
         {
-          "id": 53252584997195,
           "product_id": 10823774994763,
+          "id": 53252584997195,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -7940,8 +7940,8 @@
           "image_id": 64332198609227
         },
         {
-          "id": 53252585029963,
           "product_id": 10823774994763,
+          "id": 53252585029963,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -7970,8 +7970,8 @@
       ],
       "options": [
         {
-          "id": 13449499967819,
           "product_id": 10823774994763,
+          "id": 13449499967819,
           "name": "Color",
           "position": 1,
           "values": [
@@ -7982,8 +7982,8 @@
           ]
         },
         {
-          "id": 13449500000587,
           "product_id": 10823774994763,
+          "id": 13449500000587,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -24688,8 +24688,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774904160587",
       "variants": [
         {
-          "product_id": 14774904160587,
           "id": 53325630603595,
+          "product_id": 14774904160587,
           "title": "L",
           "price": "27.83",
           "position": 1,
@@ -24716,8 +24716,8 @@
           "image_id": 64644462772555
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630636363,
+          "product_id": 14774904160587,
           "title": "M",
           "price": "26.72",
           "position": 2,
@@ -24744,8 +24744,8 @@
           "image_id": 64644462805323
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630669131,
+          "product_id": 14774904160587,
           "title": "Upgrade",
           "price": "31.17",
           "position": 3,
@@ -24772,8 +24772,8 @@
           "image_id": 64644462838091
         },
         {
-          "product_id": 14774904160587,
           "id": 53325630701899,
+          "product_id": 14774904160587,
           "title": "S",
           "price": "25.61",
           "position": 4,
@@ -24802,8 +24802,8 @@
       ],
       "options": [
         {
-          "product_id": 14774904160587,
           "id": 17120143212875,
+          "product_id": 14774904160587,
           "name": "Size",
           "position": 1,
           "values": [
@@ -63002,8 +63002,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158918475",
       "variants": [
         {
-          "product_id": 10825158918475,
           "id": 53257349398859,
+          "product_id": 10825158918475,
           "title": "Jasmine",
           "price": "31.41",
           "position": 1,
@@ -63032,8 +63032,8 @@
       ],
       "options": [
         {
-          "product_id": 10825158918475,
           "id": 13451086135627,
+          "product_id": 10825158918475,
           "name": "style",
           "position": 1,
           "values": [
