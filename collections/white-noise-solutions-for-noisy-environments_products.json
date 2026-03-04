@@ -2059,8 +2059,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823693795659",
       "variants": [
         {
-          "id": 53252086497611,
           "product_id": 10823693795659,
+          "id": 53252086497611,
           "title": "White / USB",
           "price": "32.49",
           "position": 1,
@@ -2089,8 +2089,8 @@
       ],
       "options": [
         {
-          "id": 13449346679115,
           "product_id": 10823693795659,
+          "id": 13449346679115,
           "name": "Color",
           "position": 1,
           "values": [
@@ -2098,8 +2098,8 @@
           ]
         },
         {
-          "id": 13449346711883,
           "product_id": 10823693795659,
+          "id": 13449346711883,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
@@ -18946,8 +18946,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825079849291",
       "variants": [
         {
-          "id": 53256801747275,
           "product_id": 10825079849291,
+          "id": 53256801747275,
           "title": "3w / White With USB",
           "price": "677.65",
           "position": 1,
@@ -18976,8 +18976,8 @@
       ],
       "options": [
         {
-          "id": 13450967384395,
           "product_id": 10825079849291,
+          "id": 13450967384395,
           "name": "Light Source Power",
           "position": 1,
           "values": [
@@ -18985,8 +18985,8 @@
           ]
         },
         {
-          "id": 13450967417163,
           "product_id": 10825079849291,
+          "id": 13450967417163,
           "name": "Light Color",
           "position": 2,
           "values": [
