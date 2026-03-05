@@ -24542,8 +24542,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825055404363",
       "variants": [
         {
-          "id": 53256623882571,
           "product_id": 10825055404363,
+          "id": 53256623882571,
           "title": "Black B set",
           "price": "46.05",
           "position": 1,
@@ -24570,8 +24570,8 @@
           "image_id": 64365319749963
         },
         {
-          "id": 53256623915339,
           "product_id": 10825055404363,
+          "id": 53256623915339,
           "title": "Black2PCS",
           "price": "42.74",
           "position": 2,
@@ -24598,8 +24598,8 @@
           "image_id": 64365319782731
         },
         {
-          "id": 53256623948107,
           "product_id": 10825055404363,
+          "id": 53256623948107,
           "title": "Black3PCS",
           "price": "45.87",
           "position": 3,
@@ -24626,8 +24626,8 @@
           "image_id": 64365319815499
         },
         {
-          "id": 53256623980875,
           "product_id": 10825055404363,
+          "id": 53256623980875,
           "title": "Gray2PCS",
           "price": "42.74",
           "position": 4,
@@ -24654,8 +24654,8 @@
           "image_id": 64365319848267
         },
         {
-          "id": 53256624013643,
           "product_id": 10825055404363,
+          "id": 53256624013643,
           "title": "Gray3PCS",
           "price": "45.87",
           "position": 5,
@@ -24682,8 +24682,8 @@
           "image_id": 64365319881035
         },
         {
-          "id": 53256624046411,
           "product_id": 10825055404363,
+          "id": 53256624046411,
           "title": "gray",
           "price": "39.61",
           "position": 6,
@@ -24710,8 +24710,8 @@
           "image_id": 64365319913803
         },
         {
-          "id": 53256624079179,
           "product_id": 10825055404363,
+          "id": 53256624079179,
           "title": "Black",
           "price": "39.70",
           "position": 7,
@@ -24738,8 +24738,8 @@
           "image_id": 64365319946571
         },
         {
-          "id": 53256624111947,
           "product_id": 10825055404363,
+          "id": 53256624111947,
           "title": "Black B",
           "price": "39.61",
           "position": 8,
@@ -24768,8 +24768,8 @@
       ],
       "options": [
         {
-          "id": 13450932093259,
           "product_id": 10825055404363,
+          "id": 13450932093259,
           "name": "Color",
           "position": 1,
           "values": [
@@ -40897,8 +40897,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -40925,8 +40925,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -40953,8 +40953,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -40981,8 +40981,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -41011,8 +41011,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -41023,8 +41023,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -63064,7 +63064,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-03-05T03:26:15+00:00",
+      "updated_at": "2026-03-05T10:26:25+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -63084,7 +63084,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-03-05T03:26:16+00:00",
+          "updated_at": "2026-03-05T10:26:26+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -63095,8 +63095,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40584,
-          "old_inventory_quantity": 40584,
+          "inventory_quantity": 40582,
+          "old_inventory_quantity": 40582,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },

@@ -5919,8 +5919,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823612924235",
       "variants": [
         {
-          "id": 53251663659339,
           "product_id": 10823612924235,
+          "id": 53251663659339,
           "title": "Photo color / USB",
           "price": "49.99",
           "position": 1,
@@ -5949,8 +5949,8 @@
       ],
       "options": [
         {
-          "id": 13449245163851,
           "product_id": 10823612924235,
+          "id": 13449245163851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5958,8 +5958,8 @@
           ]
         },
         {
-          "id": 13449245196619,
           "product_id": 10823612924235,
+          "id": 13449245196619,
           "name": "style",
           "position": 2,
           "values": [
@@ -8068,8 +8068,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "id": 53256832352587,
           "product_id": 10825084240203,
+          "id": 53256832352587,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -8096,8 +8096,8 @@
           "image_id": 64365644644683
         },
         {
-          "id": 53256832385355,
           "product_id": 10825084240203,
+          "id": 53256832385355,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -8124,8 +8124,8 @@
           "image_id": 64365644677451
         },
         {
-          "id": 53256832418123,
           "product_id": 10825084240203,
+          "id": 53256832418123,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -8154,8 +8154,8 @@
       ],
       "options": [
         {
-          "id": 13450974003531,
           "product_id": 10825084240203,
+          "id": 13450974003531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10074,8 +10074,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "id": 53253541167435,
           "product_id": 10823924613451,
+          "id": 53253541167435,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -10104,8 +10104,8 @@
       ],
       "options": [
         {
-          "id": 13449690349899,
           "product_id": 10823924613451,
+          "id": 13449690349899,
           "name": "default",
           "position": 1,
           "values": [

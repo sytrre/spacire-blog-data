@@ -5945,8 +5945,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823612924235",
       "variants": [
         {
-          "id": 53251663659339,
           "product_id": 10823612924235,
+          "id": 53251663659339,
           "title": "Photo color / USB",
           "price": "49.99",
           "position": 1,
@@ -5975,8 +5975,8 @@
       ],
       "options": [
         {
-          "id": 13449245163851,
           "product_id": 10823612924235,
+          "id": 13449245163851,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5984,8 +5984,8 @@
           ]
         },
         {
-          "id": 13449245196619,
           "product_id": 10823612924235,
+          "id": 13449245196619,
           "name": "style",
           "position": 2,
           "values": [
@@ -8347,8 +8347,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "id": 53256832352587,
           "product_id": 10825084240203,
+          "id": 53256832352587,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -8375,8 +8375,8 @@
           "image_id": 64365644644683
         },
         {
-          "id": 53256832385355,
           "product_id": 10825084240203,
+          "id": 53256832385355,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -8403,8 +8403,8 @@
           "image_id": 64365644677451
         },
         {
-          "id": 53256832418123,
           "product_id": 10825084240203,
+          "id": 53256832418123,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -8433,8 +8433,8 @@
       ],
       "options": [
         {
-          "id": 13450974003531,
           "product_id": 10825084240203,
+          "id": 13450974003531,
           "name": "Color",
           "position": 1,
           "values": [
@@ -10353,8 +10353,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924613451",
       "variants": [
         {
-          "id": 53253541167435,
           "product_id": 10823924613451,
+          "id": 53253541167435,
           "title": "default",
           "price": "29.99",
           "position": 1,
@@ -10383,8 +10383,8 @@
       ],
       "options": [
         {
-          "id": 13449690349899,
           "product_id": 10823924613451,
+          "id": 13449690349899,
           "name": "default",
           "position": 1,
           "values": [
@@ -12454,8 +12454,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823774994763",
       "variants": [
         {
-          "product_id": 10823774994763,
           "id": 53252584931659,
+          "product_id": 10823774994763,
           "title": "Black 2pcs / USB",
           "price": "50.49",
           "position": 1,
@@ -12482,8 +12482,8 @@
           "image_id": 64332198543691
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584964427,
+          "product_id": 10823774994763,
           "title": "Black / USB",
           "price": "50.49",
           "position": 2,
@@ -12510,8 +12510,8 @@
           "image_id": 64332198576459
         },
         {
-          "product_id": 10823774994763,
           "id": 53252584997195,
+          "product_id": 10823774994763,
           "title": "Blue / USB",
           "price": "50.49",
           "position": 3,
@@ -12538,8 +12538,8 @@
           "image_id": 64332198609227
         },
         {
-          "product_id": 10823774994763,
           "id": 53252585029963,
+          "product_id": 10823774994763,
           "title": "Gray / USB",
           "price": "50.49",
           "position": 4,
@@ -12568,8 +12568,8 @@
       ],
       "options": [
         {
-          "product_id": 10823774994763,
           "id": 13449499967819,
+          "product_id": 10823774994763,
           "name": "Color",
           "position": 1,
           "values": [
@@ -12580,8 +12580,8 @@
           ]
         },
         {
-          "product_id": 10823774994763,
           "id": 13449500000587,
+          "product_id": 10823774994763,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -21427,8 +21427,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108652363",
       "variants": [
         {
-          "id": 53256916926795,
           "product_id": 10825108652363,
+          "id": 53256916926795,
           "title": "SM06 Black",
           "price": "195.99",
           "position": 1,
@@ -21455,8 +21455,8 @@
           "image_id": 64365840630091
         },
         {
-          "id": 53256916959563,
           "product_id": 10825108652363,
+          "id": 53256916959563,
           "title": "SM06 White",
           "price": "195.99",
           "position": 2,
@@ -21485,8 +21485,8 @@
       ],
       "options": [
         {
-          "id": 13451010769227,
           "product_id": 10825108652363,
+          "id": 13451010769227,
           "name": "Color",
           "position": 1,
           "values": [
