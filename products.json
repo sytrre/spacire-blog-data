@@ -102772,8 +102772,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825084240203",
       "variants": [
         {
-          "product_id": 10825084240203,
           "id": 53256832352587,
+          "product_id": 10825084240203,
           "title": "Litchi",
           "price": "335.91",
           "position": 1,
@@ -102800,8 +102800,8 @@
           "image_id": 64365644644683
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832385355,
+          "product_id": 10825084240203,
           "title": "Peach",
           "price": "335.91",
           "position": 2,
@@ -102828,8 +102828,8 @@
           "image_id": 64365644677451
         },
         {
-          "product_id": 10825084240203,
           "id": 53256832418123,
+          "product_id": 10825084240203,
           "title": "Orange",
           "price": "335.91",
           "position": 3,
@@ -102858,8 +102858,8 @@
       ],
       "options": [
         {
-          "product_id": 10825084240203,
           "id": 13450974003531,
+          "product_id": 10825084240203,
           "name": "Color",
           "position": 1,
           "values": [
