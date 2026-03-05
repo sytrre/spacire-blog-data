@@ -15337,8 +15337,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825098592587",
       "variants": [
         {
-          "product_id": 10825098592587,
           "id": 53256897200459,
+          "product_id": 10825098592587,
           "title": "Dark Grey / USB",
           "price": "871.50",
           "position": 1,
@@ -15365,8 +15365,8 @@
           "image_id": 64365733380427
         },
         {
-          "product_id": 10825098592587,
           "id": 53256897233227,
+          "product_id": 10825098592587,
           "title": "White / USB",
           "price": "1075.56",
           "position": 2,
@@ -15393,8 +15393,8 @@
           "image_id": 64365733413195
         },
         {
-          "product_id": 10825098592587,
           "id": 53256897265995,
+          "product_id": 10825098592587,
           "title": "Color / USB",
           "price": "1380.98",
           "position": 3,
@@ -15423,8 +15423,8 @@
       ],
       "options": [
         {
-          "product_id": 10825098592587,
           "id": 13450998317387,
+          "product_id": 10825098592587,
           "name": "Color",
           "position": 1,
           "values": [
@@ -15434,8 +15434,8 @@
           ]
         },
         {
-          "product_id": 10825098592587,
           "id": 13450998350155,
+          "product_id": 10825098592587,
           "name": "Electrical outlet",
           "position": 2,
           "values": [
