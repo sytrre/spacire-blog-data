@@ -16708,8 +16708,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825102721355",
       "variants": [
         {
-          "id": 53256906441035,
           "product_id": 10825102721355,
+          "id": 53256906441035,
           "title": "Blue UFO / Rechargeable",
           "price": "256.44",
           "position": 1,
@@ -16736,8 +16736,8 @@
           "image_id": 64365797114187
         },
         {
-          "id": 53256906473803,
           "product_id": 10825102721355,
+          "id": 53256906473803,
           "title": "Green UFO / Rechargeable",
           "price": "256.44",
           "position": 2,
@@ -16766,8 +16766,8 @@
       ],
       "options": [
         {
-          "id": 13451004117323,
           "product_id": 10825102721355,
+          "id": 13451004117323,
           "name": "Color",
           "position": 1,
           "values": [
@@ -16776,8 +16776,8 @@
           ]
         },
         {
-          "id": 13451004150091,
           "product_id": 10825102721355,
+          "id": 13451004150091,
           "name": "Power Type",
           "position": 2,
           "values": [
