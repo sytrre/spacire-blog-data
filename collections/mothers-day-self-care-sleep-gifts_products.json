@@ -74368,8 +74368,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774885351755",
       "variants": [
         {
-          "product_id": 14774885351755,
           "id": 53325482295627,
+          "product_id": 14774885351755,
           "title": "Khaki",
           "price": "16.49",
           "position": 1,
@@ -74396,8 +74396,8 @@
           "image_id": 64643907584331
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482328395,
+          "product_id": 14774885351755,
           "title": "Dark grey",
           "price": "16.73",
           "position": 2,
@@ -74424,8 +74424,8 @@
           "image_id": 64643907617099
         },
         {
-          "product_id": 14774885351755,
           "id": 53325482361163,
+          "product_id": 14774885351755,
           "title": "Light grey",
           "price": "16.49",
           "position": 3,
@@ -74454,8 +74454,8 @@
       ],
       "options": [
         {
-          "product_id": 14774885351755,
           "id": 17120122405195,
+          "product_id": 14774885351755,
           "name": "Color",
           "position": 1,
           "values": [
@@ -103763,8 +103763,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825108259147",
       "variants": [
         {
-          "product_id": 10825108259147,
           "id": 53256916336971,
+          "product_id": 10825108259147,
           "title": "White",
           "price": "204.55",
           "position": 1,
@@ -103793,8 +103793,8 @@
       ],
       "options": [
         {
-          "product_id": 10825108259147,
           "id": 13451010343243,
+          "product_id": 10825108259147,
           "name": "Color",
           "position": 1,
           "values": [
@@ -125286,8 +125286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14774749888843",
       "variants": [
         {
-          "product_id": 14774749888843,
           "id": 53325041959243,
+          "product_id": 14774749888843,
           "title": "Blue / 130160cm",
           "price": "65.39",
           "position": 1,
@@ -125314,8 +125314,8 @@
           "image_id": 64641962836299
         },
         {
-          "product_id": 14774749888843,
           "id": 53325041992011,
+          "product_id": 14774749888843,
           "title": "Yellow / 130160cm",
           "price": "65.39",
           "position": 2,
@@ -125344,8 +125344,8 @@
       ],
       "options": [
         {
-          "product_id": 14774749888843,
           "id": 17119981076811,
+          "product_id": 14774749888843,
           "name": "Color",
           "position": 1,
           "values": [
@@ -125354,8 +125354,8 @@
           ]
         },
         {
-          "product_id": 14774749888843,
           "id": 17119981109579,
+          "product_id": 14774749888843,
           "name": "Size",
           "position": 2,
           "values": [
