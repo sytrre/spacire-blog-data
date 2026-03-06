@@ -24,8 +24,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825157509451",
       "variants": [
         {
-          "id": 53257323741515,
           "product_id": 10825157509451,
+          "id": 53257323741515,
           "title": "30 PATCHES",
           "price": "32.06",
           "position": 1,
@@ -54,8 +54,8 @@
       ],
       "options": [
         {
-          "id": 13451083678027,
           "product_id": 10825157509451,
+          "id": 13451083678027,
           "name": "quantity",
           "position": 1,
           "values": [

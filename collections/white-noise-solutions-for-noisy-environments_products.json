@@ -5445,8 +5445,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825085059403",
       "variants": [
         {
-          "id": 53256833597771,
           "product_id": 10825085059403,
+          "id": 53256833597771,
           "title": "White / Bluetooth / USB",
           "price": "477.85",
           "position": 1,
@@ -5475,8 +5475,8 @@
       ],
       "options": [
         {
-          "id": 13450974953803,
           "product_id": 10825085059403,
+          "id": 13450974953803,
           "name": "Color",
           "position": 1,
           "values": [
@@ -5484,8 +5484,8 @@
           ]
         },
         {
-          "id": 13450974986571,
           "product_id": 10825085059403,
+          "id": 13450974986571,
           "name": "style",
           "position": 2,
           "values": [
@@ -5493,8 +5493,8 @@
           ]
         },
         {
-          "id": 13450975019339,
           "product_id": 10825085059403,
+          "id": 13450975019339,
           "name": "Electrical outlet",
           "position": 3,
           "values": [
@@ -13334,8 +13334,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "product_id": 10825100362059,
           "id": 53256901624139,
+          "product_id": 10825100362059,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -13362,8 +13362,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901656907,
+          "product_id": 10825100362059,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -13390,8 +13390,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901689675,
+          "product_id": 10825100362059,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -13420,8 +13420,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100362059,
           "id": 13451000676683,
+          "product_id": 10825100362059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -14364,8 +14364,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "id": 53253540938059,
           "product_id": 10823924449611,
+          "id": 53253540938059,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14394,8 +14394,8 @@
       ],
       "options": [
         {
-          "id": 13449690186059,
           "product_id": 10823924449611,
+          "id": 13449690186059,
           "name": "Color",
           "position": 1,
           "values": [
