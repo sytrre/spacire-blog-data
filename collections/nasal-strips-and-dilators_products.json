@@ -1017,8 +1017,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15374088274251",
       "variants": [
         {
-          "product_id": 15374088274251,
           "id": 55945788391755,
+          "product_id": 15374088274251,
           "title": "1 Pcs",
           "price": "16.95",
           "position": 1,
@@ -1045,8 +1045,8 @@
           "image_id": 79156413071691
         },
         {
-          "product_id": 15374088274251,
           "id": 55945788424523,
+          "product_id": 15374088274251,
           "title": "2Pcs",
           "price": "17.25",
           "position": 2,
@@ -1073,8 +1073,8 @@
           "image_id": 79156413104459
         },
         {
-          "product_id": 15374088274251,
           "id": 55945788457291,
+          "product_id": 15374088274251,
           "title": "4 Pcs",
           "price": "17.55",
           "position": 3,
@@ -1101,8 +1101,8 @@
           "image_id": 79156413137227
         },
         {
-          "product_id": 15374088274251,
           "id": 55945788490059,
+          "product_id": 15374088274251,
           "title": "4 Pcs with case",
           "price": "17.95",
           "position": 4,
@@ -1131,8 +1131,8 @@
       ],
       "options": [
         {
-          "product_id": 15374088274251,
           "id": 17811408257355,
+          "product_id": 15374088274251,
           "name": "Color",
           "position": 1,
           "values": [
