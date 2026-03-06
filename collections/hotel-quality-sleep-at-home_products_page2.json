@@ -15415,8 +15415,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825100362059",
       "variants": [
         {
-          "product_id": 10825100362059,
           "id": 53256901624139,
+          "product_id": 10825100362059,
           "title": "Strategy",
           "price": "714.21",
           "position": 1,
@@ -15443,8 +15443,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901656907,
+          "product_id": 10825100362059,
           "title": "High dividend",
           "price": "565.68",
           "position": 2,
@@ -15471,8 +15471,8 @@
           "image_id": 64365766771019
         },
         {
-          "product_id": 10825100362059,
           "id": 53256901689675,
+          "product_id": 10825100362059,
           "title": "Low profile",
           "price": "491.08",
           "position": 3,
@@ -15501,8 +15501,8 @@
       ],
       "options": [
         {
-          "product_id": 10825100362059,
           "id": 13451000676683,
+          "product_id": 10825100362059,
           "name": "Color",
           "position": 1,
           "values": [
@@ -35636,8 +35636,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825158754635",
       "variants": [
         {
-          "id": 53257347727691,
           "product_id": 10825158754635,
+          "id": 53257347727691,
           "title": "13.5x18.8x1.5cm",
           "price": "34.04",
           "position": 1,
@@ -35666,8 +35666,8 @@
       ],
       "options": [
         {
-          "id": 13451085906251,
           "product_id": 10825158754635,
+          "id": 13451085906251,
           "name": "Size",
           "position": 1,
           "values": [
