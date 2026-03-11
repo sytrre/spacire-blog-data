@@ -1842,8 +1842,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14775297474891",
       "variants": [
         {
-          "product_id": 14775297474891,
           "id": 53327831204171,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / Without core",
           "price": "68.52",
           "position": 1,
@@ -1870,8 +1870,8 @@
           "image_id": 64651402576203
         },
         {
-          "product_id": 14775297474891,
           "id": 53327831236939,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / With down core",
           "price": "70.79",
           "position": 2,
@@ -1898,8 +1898,8 @@
           "image_id": 64651402576203
         },
         {
-          "product_id": 14775297474891,
           "id": 53327831269707,
+          "product_id": 14775297474891,
           "title": "BZ22922 30x50cm / With goose feather core",
           "price": "76.90",
           "position": 3,
@@ -1928,8 +1928,8 @@
       ],
       "options": [
         {
-          "product_id": 14775297474891,
           "id": 17120605569355,
+          "product_id": 14775297474891,
           "name": "Color",
           "position": 1,
           "values": [
@@ -1937,8 +1937,8 @@
           ]
         },
         {
-          "product_id": 14775297474891,
           "id": 17120605602123,
+          "product_id": 14775297474891,
           "name": "Pillowcase size",
           "position": 2,
           "values": [
@@ -16250,8 +16250,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14772554465611",
       "variants": [
         {
-          "id": 53314589786443,
           "product_id": 14772554465611,
+          "id": 53314589786443,
           "title": "Black",
           "price": "28.27",
           "position": 1,
@@ -16278,8 +16278,8 @@
           "image_id": 64611718824267
         },
         {
-          "id": 53314589819211,
           "product_id": 14772554465611,
+          "id": 53314589819211,
           "title": "Gery",
           "price": "28.27",
           "position": 2,
@@ -16306,8 +16306,8 @@
           "image_id": 64611718857035
         },
         {
-          "id": 53314589851979,
           "product_id": 14772554465611,
+          "id": 53314589851979,
           "title": "Navy",
           "price": "28.27",
           "position": 3,
@@ -16334,8 +16334,8 @@
           "image_id": 64611718889803
         },
         {
-          "id": 53314589884747,
           "product_id": 14772554465611,
+          "id": 53314589884747,
           "title": "Pink",
           "price": "28.27",
           "position": 4,
@@ -16362,8 +16362,8 @@
           "image_id": 64611718922571
         },
         {
-          "id": 53314589917515,
           "product_id": 14772554465611,
+          "id": 53314589917515,
           "title": "Green",
           "price": "28.41",
           "position": 5,
@@ -16392,8 +16392,8 @@
       ],
       "options": [
         {
-          "id": 17117250060619,
           "product_id": 14772554465611,
+          "id": 17117250060619,
           "name": "Color",
           "position": 1,
           "values": [
