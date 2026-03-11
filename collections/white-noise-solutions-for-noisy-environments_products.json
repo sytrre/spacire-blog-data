@@ -9286,8 +9286,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825080078667",
       "variants": [
         {
-          "id": 53256803025227,
           "product_id": 10825080078667,
+          "id": 53256803025227,
           "title": "Green / USB",
           "price": "1796.46",
           "position": 1,
@@ -9316,8 +9316,8 @@
       ],
       "options": [
         {
-          "id": 13450967777611,
           "product_id": 10825080078667,
+          "id": 13450967777611,
           "name": "Color",
           "position": 1,
           "values": [
@@ -9325,8 +9325,8 @@
           ]
         },
         {
-          "id": 13450967810379,
           "product_id": 10825080078667,
+          "id": 13450967810379,
           "name": "power",
           "position": 2,
           "values": [
@@ -14364,8 +14364,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10823924449611",
       "variants": [
         {
-          "id": 53253540938059,
           "product_id": 10823924449611,
+          "id": 53253540938059,
           "title": "White",
           "price": "50.99",
           "position": 1,
@@ -14394,8 +14394,8 @@
       ],
       "options": [
         {
-          "id": 13449690186059,
           "product_id": 10823924449611,
+          "id": 13449690186059,
           "name": "Color",
           "position": 1,
           "values": [
