@@ -4796,7 +4796,7 @@
       "product_type": "Eye Massager",
       "created_at": "2025-08-27T04:28:14+01:00",
       "handle": "somna-smart-eye-massager-sleep-blackout-mask-microcurrent-therapy-stress-relief",
-      "updated_at": "2026-01-30T14:35:26+00:00",
+      "updated_at": "2026-03-12T07:26:27+00:00",
       "published_at": "2025-08-27T04:28:21+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -4844,7 +4844,7 @@
           "option2": "Sponge",
           "option3": "USB",
           "created_at": "2025-08-27T04:28:19+01:00",
-          "updated_at": "2025-09-10T07:08:51+01:00",
+          "updated_at": "2026-03-12T07:26:27+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -4855,8 +4855,8 @@
           "weight": 80.0,
           "weight_unit": "g",
           "inventory_item_id": 55218481037643,
-          "inventory_quantity": 11144,
-          "old_inventory_quantity": 11144,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256744763723",
           "image_id": 64365481132363
         }
