@@ -49827,8 +49827,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "id": 53256744730955,
           "product_id": 10825068970315,
+          "id": 53256744730955,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -49855,8 +49855,8 @@
           "image_id": 64365481132363
         },
         {
-          "id": 53256744763723,
           "product_id": 10825068970315,
+          "id": 53256744763723,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -49885,8 +49885,8 @@
       ],
       "options": [
         {
-          "id": 13450952737099,
           "product_id": 10825068970315,
+          "id": 13450952737099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -49894,8 +49894,8 @@
           ]
         },
         {
-          "id": 13450952769867,
           "product_id": 10825068970315,
+          "id": 13450952769867,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -49904,8 +49904,8 @@
           ]
         },
         {
-          "id": 13450952802635,
           "product_id": 10825068970315,
+          "id": 13450952802635,
           "name": "Please Input",
           "position": 3,
           "values": [

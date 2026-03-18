@@ -41126,8 +41126,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825089614155",
       "variants": [
         {
-          "id": 53256870297931,
           "product_id": 10825089614155,
+          "id": 53256870297931,
           "title": "White battery A",
           "price": "91.19",
           "position": 1,
@@ -41154,8 +41154,8 @@
           "image_id": 64365692289355
         },
         {
-          "id": 53256870330699,
           "product_id": 10825089614155,
+          "id": 53256870330699,
           "title": "White charging A",
           "price": "118.62",
           "position": 2,
@@ -41184,8 +41184,8 @@
       ],
       "options": [
         {
-          "id": 13450982129995,
           "product_id": 10825089614155,
+          "id": 13450982129995,
           "name": "Color",
           "position": 1,
           "values": [
@@ -46598,8 +46598,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/14771300991307",
       "variants": [
         {
-          "id": 53309973365067,
           "product_id": 14771300991307,
+          "id": 53309973365067,
           "title": "Luxury",
           "price": "55.77",
           "position": 1,
@@ -46628,8 +46628,8 @@
       ],
       "options": [
         {
-          "id": 17115828060491,
           "product_id": 14771300991307,
+          "id": 17115828060491,
           "name": "Specifications",
           "position": 1,
           "values": [
@@ -72932,8 +72932,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825068970315",
       "variants": [
         {
-          "id": 53256744730955,
           "product_id": 10825068970315,
+          "id": 53256744730955,
           "title": "Black / Latex / USB",
           "price": "35.45",
           "position": 1,
@@ -72960,8 +72960,8 @@
           "image_id": 64365481132363
         },
         {
-          "id": 53256744763723,
           "product_id": 10825068970315,
+          "id": 53256744763723,
           "title": "Black / Sponge / USB",
           "price": "36.00",
           "position": 2,
@@ -72990,8 +72990,8 @@
       ],
       "options": [
         {
-          "id": 13450952737099,
           "product_id": 10825068970315,
+          "id": 13450952737099,
           "name": "Color",
           "position": 1,
           "values": [
@@ -72999,8 +72999,8 @@
           ]
         },
         {
-          "id": 13450952769867,
           "product_id": 10825068970315,
+          "id": 13450952769867,
           "name": "Power supply",
           "position": 2,
           "values": [
@@ -73009,8 +73009,8 @@
           ]
         },
         {
-          "id": 13450952802635,
           "product_id": 10825068970315,
+          "id": 13450952802635,
           "name": "Please Input",
           "position": 3,
           "values": [
