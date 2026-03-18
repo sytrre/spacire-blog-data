@@ -54521,8 +54521,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/10825047671115",
       "variants": [
         {
-          "id": 53256593113419,
           "product_id": 10825047671115,
+          "id": 53256593113419,
           "title": "Hollow model black",
           "price": "31.94",
           "position": 1,
@@ -54549,8 +54549,8 @@
           "image_id": 64365227770187
         },
         {
-          "id": 53256593146187,
           "product_id": 10825047671115,
+          "id": 53256593146187,
           "title": "Hollow model grey",
           "price": "31.94",
           "position": 2,
@@ -54577,8 +54577,8 @@
           "image_id": 64365227802955
         },
         {
-          "id": 53256593178955,
           "product_id": 10825047671115,
+          "id": 53256593178955,
           "title": "Hollow model champagne",
           "price": "31.94",
           "position": 3,
@@ -54605,8 +54605,8 @@
           "image_id": 64365227835723
         },
         {
-          "id": 53256593211723,
           "product_id": 10825047671115,
+          "id": 53256593211723,
           "title": "Hollow model color matching",
           "price": "32.10",
           "position": 4,
@@ -54635,8 +54635,8 @@
       ],
       "options": [
         {
-          "id": 13450923475275,
           "product_id": 10825047671115,
+          "id": 13450923475275,
           "name": "Color",
           "position": 1,
           "values": [
@@ -56250,7 +56250,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-03-16T11:30:12+00:00",
+      "updated_at": "2026-03-18T10:26:36+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -56270,7 +56270,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-03-16T11:30:13+00:00",
+          "updated_at": "2026-03-18T10:26:37+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -56281,8 +56281,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40562,
-          "old_inventory_quantity": 40562,
+          "inventory_quantity": 40559,
+          "old_inventory_quantity": 40559,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },

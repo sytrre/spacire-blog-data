@@ -1876,7 +1876,7 @@
       "product_type": "Bluetooth Eye Mask",
       "created_at": "2025-08-27T03:58:46+01:00",
       "handle": "ventuszx-wireless-bluetooth-sleep-eye-mask-stereo-music-call-blackout-for-comfort-and-relaxation",
-      "updated_at": "2026-03-16T11:30:12+00:00",
+      "updated_at": "2026-03-18T10:26:36+00:00",
       "published_at": "2025-08-27T03:58:58+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1896,7 +1896,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T03:58:57+01:00",
-          "updated_at": "2026-03-16T11:30:13+00:00",
+          "updated_at": "2026-03-18T10:26:37+00:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -1907,8 +1907,8 @@
           "weight": 145.0,
           "weight_unit": "g",
           "inventory_item_id": 55218318147915,
-          "inventory_quantity": 40562,
-          "old_inventory_quantity": 40562,
+          "inventory_quantity": 40559,
+          "old_inventory_quantity": 40559,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256581906763",
           "image_id": 64365200146763
         },
@@ -5410,8 +5410,8 @@
       "admin_graphql_api_id": "gid://shopify/Product/15383152918859",
       "variants": [
         {
-          "product_id": 15383152918859,
           "id": 55974130614603,
+          "product_id": 15383152918859,
           "title": "white",
           "price": "44.95",
           "position": 1,
@@ -5440,8 +5440,8 @@
       ],
       "options": [
         {
-          "product_id": 15383152918859,
           "id": 17822066311499,
+          "product_id": 15383152918859,
           "name": "Color",
           "position": 1,
           "values": [
