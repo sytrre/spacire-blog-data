@@ -4,7 +4,7 @@
     "handle": "sleep-quality-improvement-tools",
     "title": "Sleep quality improvement tools",
     "body_html": "<p>Discover our curated collection of sleep quality improvement tools. Transform your sleep experience with science-backed products designed for deep, restorative rest.</p>",
-    "products_count": 250
+    "products_count": 523
   },
   "products": [
     {
@@ -125590,11 +125590,12 @@
   ],
   "pagination": {
     "current_page": 1,
-    "total_pages": 1,
+    "total_pages": 3,
     "products_per_page": 250,
-    "total_products": 250,
+    "total_products": 523,
     "products_in_page": 250,
-    "has_next_page": false,
-    "has_previous_page": false
+    "has_next_page": true,
+    "has_previous_page": false,
+    "next_page_file": "sleep-quality-improvement-tools_products_page2.json"
   }
 }
