@@ -4,7 +4,7 @@
     "handle": "sleep-aids-for-better-rest",
     "title": "Sleep aids for better rest",
     "body_html": "<p>Discover our curated collection of sleep aids for better rest. Transform your sleep experience with science-backed products designed for deep, restorative rest.</p>",
-    "products_count": 523
+    "products_count": 250
   },
   "products": [
     {
@@ -125590,12 +125590,11 @@
   ],
   "pagination": {
     "current_page": 1,
-    "total_pages": 3,
+    "total_pages": 1,
     "products_per_page": 250,
-    "total_products": 523,
+    "total_products": 250,
     "products_in_page": 250,
-    "has_next_page": true,
-    "has_previous_page": false,
-    "next_page_file": "sleep-aids-for-better-rest_products_page2.json"
+    "has_next_page": false,
+    "has_previous_page": false
   }
 }
