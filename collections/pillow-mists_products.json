@@ -393,7 +393,7 @@
       "product_type": "Sleep spray",
       "created_at": "2025-08-27T01:52:53+01:00",
       "handle": "ouhoe-lavender-herbal-body-sleep-spray-relaxing-mist-for-relaxation-peaceful-sleep",
-      "updated_at": "2026-04-20T21:16:52+01:00",
+      "updated_at": "2026-06-30T09:31:27+01:00",
       "published_at": "2025-08-27T01:52:56+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -413,7 +413,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T01:52:54+01:00",
-          "updated_at": "2025-09-10T07:11:15+01:00",
+          "updated_at": "2026-06-30T09:31:27+01:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -424,8 +424,8 @@
           "weight": 72.0,
           "weight_unit": "g",
           "inventory_item_id": 55217967857995,
-          "inventory_quantity": 12609,
-          "old_inventory_quantity": 12609,
+          "inventory_quantity": 14401,
+          "old_inventory_quantity": 14401,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53256231453003",
           "image_id": 64364290048331
         }
