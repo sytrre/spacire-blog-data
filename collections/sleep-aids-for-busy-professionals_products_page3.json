@@ -1189,7 +1189,7 @@
       "product_type": "Sleep Patch",
       "created_at": "2025-08-27T06:14:32+01:00",
       "handle": "ximonth-sleep-patch-essential-oils-overnight-natural-sleep-aid-for-relaxation-and-sleep",
-      "updated_at": "2026-04-20T21:18:50+01:00",
+      "updated_at": "2026-07-12T08:27:16+01:00",
       "published_at": "2025-08-27T06:14:36+01:00",
       "template_suffix": null,
       "published_scope": "global",
@@ -1209,7 +1209,7 @@
           "option2": null,
           "option3": null,
           "created_at": "2025-08-27T06:14:35+01:00",
-          "updated_at": "2025-09-10T07:07:08+01:00",
+          "updated_at": "2026-07-12T08:27:17+01:00",
           "taxable": true,
           "barcode": null,
           "fulfillment_service": "manual",
@@ -1220,8 +1220,8 @@
           "weight": 75.0,
           "weight_unit": "g",
           "inventory_item_id": 55219090555211,
-          "inventory_quantity": 13809,
-          "old_inventory_quantity": 13809,
+          "inventory_quantity": 13808,
+          "old_inventory_quantity": 13808,
           "admin_graphql_api_id": "gid://shopify/ProductVariant/53257349988683",
           "image_id": 64367039381835
         }
